@@ -2,7 +2,10 @@
 # 1. Variables at the top of the Makefile.
 # 2. Targets are listed alphabetically. No, really.
 
-WHOAMI = $(shell basename `pwd`)
+WHEREAMI = $(shell pwd)
+WHOAMI = $(shell basename $(WHEREAMI))
+WHATAMI = $(shell echo $(WHOAMI) | awk -F '-' '{print $3}')
+
 YMD = $(shell date "+%Y%m%d")
 
 # https://github.com/whosonfirst/go-whosonfirst-utils/blob/master/cmd/wof-expand.go
@@ -11,14 +14,13 @@ WOF_EXPAND = $(shell which wof-expand)
 archive:
 	tar --exclude='.git*' --exclude='Makefile*' -cvjf $(dest)/$(WHOAMI)-$(YMD).tar.bz2 ./data ./meta ./LICENSE.md ./CONTRIBUTING.md ./README.md
 
-bundles:
-	echo "please write me"
-
 # https://github.com/whosonfirst/go-whosonfirst-concordances
 # Note: this does not bother to check whether the newly minted
 # `wof-concordances-tmp.csv` file is the same as any existing
 # `wof-concordances-latest.csv` file. It should but it doesn't.
 # (20160420/thisisaaronland)
+
+# https://github.com/whosonfirst/whosonfirst-data-utils/issues/2
 
 concordances:
 	wof-concordances-write -processes 100 -source ./data > meta/wof-concordances-tmp.csv
@@ -36,6 +38,17 @@ gitignore:
 	mv .gitignore .gitignore.$(YMD)
 	curl -s -o .gitignore https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/git/.gitignore
 
+gitlf:
+	if ! test -f .gitattributes; then touch .gitattributes; fi
+ifeq ($(shell grep '*.geojson text eol=lf' .gitattributes | wc -l), 0)
+	cp .gitattributes .gitattributes.tmp
+	perl -pe 'chomp if eof' .gitattributes.tmp
+	echo "*.geojson text eol=lf" >> .gitattributes.tmp
+	mv .gitattributes.tmp .gitattributes
+else
+	@echo "Git linefeed hoohah already set"
+endif
+
 # https://internetarchive.readthedocs.org/en/latest/cli.html#upload
 # https://internetarchive.readthedocs.org/en/latest/quickstart.html#configuring
 
@@ -51,8 +64,12 @@ list-empty:
 	find data -type d -empty -print
 
 makefile:
-	mv Makefile Makefile.$(YMD)
 	curl -s -o Makefile https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/make/Makefile
+ifeq ($(shell echo $(WHATAMI) | wc -l), 1)
+	if test -f $(WHEREAMI)/Makefile.$(WHATAMI);then  echo "\n# appending Makefile.$(WHATAMI)\n\n" >> Makefile; cat $(WHEREAMI)/Makefile.$(WHATAMI) >> Makefile; fi
+	if test -f $(WHEREAMI)/Makefile.$(WHATAMI).local;then  echo "\n# appending Makefile.$(WHATAMI).local\n\n" >> Makefile; cat $(WHEREAMI)/Makefile.$(WHATAMI).local >> Makefile; fi
+endif
+	if test -f $(WHEREAMI)/Makefile.local; then echo "\n# appending Makefile.local\n\n" >> Makefile; cat $(WHEREAMI)/Makefile.local >> Makefile; fi
 
 postbuffer:
 	git config http.postBuffer 104857600
@@ -62,7 +79,7 @@ postbuffer:
 post-pull:
 	./.git/hooks/pre-commit --start-commit $(commit)
 	./.git/hooks/post-commit --start-commit $(commit)
-	./.git/hooks/post-push-async --start-commit $(commit)
+	./.git/hooks/post-push --start-commit $(commit)
 
 prune:
 	git gc --aggressive --prune
@@ -88,13 +105,23 @@ setup:
 sync-es:
 	wof-es-index --source data --bulk --host $(host)
 
+# https://github.com/whosonfirst/py-mapzen-whosonfirst-spatial
+
+sync-pg:
+	wof-spatial-index --source data --config $(config)
+
 # https://github.com/whosonfirst/go-whosonfirst-s3
 # Note that this does not try to be especially intelligent. It is a 
 # straight clone with only minimal HEAD/lastmodified checks
 # (20160421/thisisaaronland)
 
+# Also see the way we're passing data as a prefix? That's because we're
+# using the data directory as the root so we need to make sure we prepend
+# it to stuff before sending it to S3 because... well, let's just forget
+# that ever happened okay (20160517/thisisaaronland)
+
 sync-s3:
-	wof-sync-dirs -root data -bucket whosonfirst.mapzen.com -prefix data -processes 64
+	wof-sync-dirs -root data -bucket whosonfirst.mapzen.com -prefix "data" -processes 64
 
 wof-less:
 	less `$(WOF_EXPAND) -prefix data $(id)`
