@@ -4,15 +4,29 @@
 
 WHEREAMI = $(shell pwd)
 WHOAMI = $(shell basename $(WHEREAMI))
-WHATAMI = $(shell echo $(WHOAMI) | awk -F '-' '{print $3}')
+WHATAMI = $(shell echo $(WHOAMI) | awk -F '-' '{print $$3}')
+WHATAMI_REALLY = $(shell basename `pwd` | sed 's/whosonfirst-data-//')
 
 YMD = $(shell date "+%Y%m%d")
 
 # https://github.com/whosonfirst/go-whosonfirst-utils/blob/master/cmd/wof-expand.go
 WOF_EXPAND = $(shell which wof-expand)
 
-archive:
+WOF_BUNDLE_PLACETYPES = $(shell which wof-bundle-placetypes)
+WOF_CLONE_METAFILES = $(shell which wof-clone-metafiles)
+WOF_PLACETYPE_TO_CSV = $(shell which wof-placetype-to-csv)
+
+archive: meta-scrub
 	tar --exclude='.git*' --exclude='Makefile*' -cvjf $(dest)/$(WHOAMI)-$(YMD).tar.bz2 ./data ./meta ./LICENSE.md ./CONTRIBUTING.md ./README.md
+
+bundles:
+	if test -z "$$BUNDLES"; then echo "missing BUNDLES arg"; exit 1; fi
+	if test -z "$$BUCKET"; then echo "missing BUCKET arg"; exit 1; fi
+ifeq ($(WHATAMI),)
+	$(WOF_BUNDLE_PLACETYPES) -R $(WHEREAMI) -d $(BUNDLES) -i address,building,metroarea,postalcode,venue -S latest --aws-bucket $(BUCKET) --wof-clone $(WOF_CLONE_METAFILES)
+else
+	$(WOF_BUNDLE_PLACETYPES) -R $(WHEREAMI) -d $(BUNDLES) -p $(WHATAMI) -S latest --aws-bucket $(BUCKET) --wof-clone $(WOF_CLONE_METAFILES)
+endif
 
 # https://github.com/whosonfirst/go-whosonfirst-concordances
 # Note: this does not bother to check whether the newly minted
@@ -24,8 +38,13 @@ archive:
 
 concordances:
 	wof-concordances-write -processes 100 -source ./data > meta/wof-concordances-tmp.csv
+ifeq ($(WHATAMI),)
 	mv meta/wof-concordances-tmp.csv meta/wof-concordances-$(YMD).csv
 	cp meta/wof-concordances-$(YMD).csv meta/wof-concordances-latest.csv
+else
+	mv meta/wof-concordances-tmp.csv meta/wof-$(WHATAMI_REALLY)-concordances-$(YMD).csv
+	cp meta/wof-$(WHATAMI_REALLY)-concordances-$(YMD).csv meta/wof-$(WHATAMI_REALLY)-concordances-latest.csv
+endif
 
 count:
 	find ./data -name '*.geojson' -print | wc -l
@@ -35,8 +54,8 @@ docs:
 	curl -s -o CONTRIBUTING.md https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/docs/CONTRIBUTING.md
 
 gitignore:
-	mv .gitignore .gitignore.$(YMD)
-	curl -s -o .gitignore https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/git/.gitignore
+	curl -s -o .gitignore https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/git/dot-gitignore
+	curl -s -o meta/.gitignore https://raw.githubusercontent.com/whosonfirst/whosonfirst-data-utils/master/git/dot-gitignore-meta
 
 gitlf:
 	if ! test -f .gitattributes; then touch .gitattributes; fi
@@ -48,6 +67,9 @@ ifeq ($(shell grep '*.geojson text eol=lf' .gitattributes | wc -l), 0)
 else
 	@echo "Git linefeed hoohah already set"
 endif
+
+gitlfs-track-meta:
+	git-lfs track meta/*-latest.csv
 
 # https://internetarchive.readthedocs.org/en/latest/cli.html#upload
 # https://internetarchive.readthedocs.org/en/latest/quickstart.html#configuring
@@ -70,6 +92,16 @@ ifeq ($(shell echo $(WHATAMI) | wc -l), 1)
 	if test -f $(WHEREAMI)/Makefile.$(WHATAMI).local;then  echo "\n# appending Makefile.$(WHATAMI).local\n\n" >> Makefile; cat $(WHEREAMI)/Makefile.$(WHATAMI).local >> Makefile; fi
 endif
 	if test -f $(WHEREAMI)/Makefile.local; then echo "\n# appending Makefile.local\n\n" >> Makefile; cat $(WHEREAMI)/Makefile.local >> Makefile; fi
+
+metafiles:
+ifeq ($(WHATAMI),)
+	$(WOF_PLACETYPE_TO_CSV) -R $(WHEREAMI) -l -i address,building,metroarea,postalcode,venue
+else
+	$(WOF_PLACETYPE_TO_CSV) -R $(WHEREAMI) -l -p $(WHATAMI)
+endif
+
+meta-scrub:
+	ls -a meta/*.csv | grep -v latest | xargs rm
 
 postbuffer:
 	git config http.postBuffer 104857600
@@ -104,6 +136,10 @@ setup:
 
 sync-es:
 	wof-es-index --source data --bulk --host $(host)
+
+sync-fs:
+	if test ! -d $(dest); then echo "$(dest) does not exist!"; exit 1; fi
+	rsync -az data/ $(dest)
 
 # https://github.com/whosonfirst/py-mapzen-whosonfirst-spatial
 
