@@ -5,12 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.0322051810942,51.3093298896,0.0322051810942,51.3093298896",
     "geom:latitude":51.30933,
     "geom:longitude":0.032205,
     "gp:parent_id":"12695824",
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "os:admin_county_code":"",
     "os:admin_distict_code":"E09000006",
     "os:admin_ward_code":"E05000107",
@@ -20,11 +22,12 @@
     "os:positional_quality_indicator":"10",
     "src:geom":"os",
     "wof:belongsto":[
-        85684235,
-        "102191581",
-        404440075,
-        "85633159",
+        102191581,
+        85633159,
         404227469,
+        101750367,
+        85684235,
+        404440075,
         101854619
     ],
     "wof:breaches":[],
@@ -32,11 +35,19 @@
         "gp:id":"56182782"
     },
     "wof:country":"GB",
-    "wof:geomhash":"432fda062be22604ca383d397c184b02",
+    "wof:geomhash":"cfebd3820cb6a2da0848654dd21bf8c9",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
+            "continent_id":102191581,
+            "country_id":85633159,
+            "locality_id":101750367,
+            "macroregion_id":404227469,
+            "postalcode_id":488370569,
+            "region_id":-1
+        },
+        {
+            "continent_id":102191581,
+            "country_id":85633159,
             "localadmin_id":404440075,
             "locality_id":101854619,
             "macroregion_id":404227469,
@@ -45,9 +56,9 @@
         }
     ],
     "wof:id":488370569,
-    "wof:lastmodified":1468902398,
+    "wof:lastmodified":1513911496,
     "wof:name":"TN16 3EP",
-    "wof:parent_id":101854619,
+    "wof:parent_id":-1,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-gb",
     "wof:superseded_by":[],
@@ -55,10 +66,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.03220518109417539,
-    51.309329889551634,
-    0.03220518109417539,
-    51.309329889551634
+    0.03220518109418,
+    51.30932988955163,
+    0.03220518109418,
+    51.30932988955163
 ],
   "geometry": {"coordinates":[0.03220518109418,51.30932988955163],"type":"Point"}
 }

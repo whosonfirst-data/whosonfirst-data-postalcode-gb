@@ -5,11 +5,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"0.257564646394,51.5763074574,0.257564646394,51.5763074574",
     "geom:latitude":51.576307,
     "geom:longitude":0.257565,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "os:admin_county_code":"",
     "os:admin_distict_code":"E09000016",
     "os:admin_ward_code":"E05000307",
@@ -19,32 +21,31 @@
     "os:positional_quality_indicator":"10",
     "src:geom":"os",
     "wof:belongsto":[
-        85683841,
-        "102191581",
-        404455367,
-        "85633159",
-        404227469
+        102191581,
+        85633159,
+        404227469,
+        101750367
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"27838004"
     },
     "wof:country":"GB",
-    "wof:geomhash":"6b4faa9ec7904df99813533d397c1658",
+    "wof:geomhash":"31dd2958591108d2ea3622aaaffc5873",
     "wof:hierarchy":[
         {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404455367,
+            "continent_id":102191581,
+            "country_id":85633159,
+            "locality_id":101750367,
             "macroregion_id":404227469,
             "postalcode_id":471609355,
-            "region_id":85683841
+            "region_id":-1
         }
     ],
     "wof:id":471609355,
-    "wof:lastmodified":1468898456,
+    "wof:lastmodified":1513892845,
     "wof:name":"RM14 1UA",
-    "wof:parent_id":404455367,
+    "wof:parent_id":101750367,
     "wof:placetype":"postalcode",
     "wof:repo":"whosonfirst-data-postalcode-gb",
     "wof:superseded_by":[],
@@ -52,9 +53,9 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.25756464639397403,
+    0.25756464639397,
     51.57630745739157,
-    0.25756464639397403,
+    0.25756464639397,
     51.57630745739157
 ],
   "geometry": {"coordinates":[0.25756464639397,51.57630745739157],"type":"Point"}
