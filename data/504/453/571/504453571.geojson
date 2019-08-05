@@ -2,14 +2,17 @@
   "id": 504453571,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"1980-01-01",
+    "date:inception_upper":"1980-01-31",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:inception":"1980-01-uu",
     "geom:area":0.0,
-    "geom:bbox":"-4.87900539905,55.7181608925,-4.87900539905,55.7181608925",
+    "geom:bbox":"-4.879005,55.718161,-4.879005,55.718161",
     "geom:latitude":55.718161,
     "geom:longitude":-4.879005,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "os:admin_county_code":"",
     "os:admin_distict_code":"S12000021",
     "os:admin_ward_code":"S13002709",
@@ -18,16 +21,18 @@
     "os:nhs_regional_ha_code":"",
     "os:positional_quality_indicator":"10",
     "src:geom":"os",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        404441385
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"27418139"
     },
     "wof:country":"GB",
-    "wof:geomhash":"3f4b97894809b2b4cdfa211adcc741d0",
+    "wof:geomhash":"a10f2bfb1030429c44e9e43fefdfa1a9",
     "wof:hierarchy":[],
     "wof:id":504453571,
-    "wof:lastmodified":1468884898,
+    "wof:lastmodified":1564976261,
     "wof:name":"KA23 9QG",
     "wof:parent_id":404441385,
     "wof:placetype":"postalcode",
@@ -37,10 +42,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -4.879005399049043,
-    55.71816089248146,
-    -4.879005399049043,
-    55.71816089248146
+    -4.879005,
+    55.718161,
+    -4.879005,
+    55.718161
 ],
-  "geometry": {"coordinates":[-4.87900539904904,55.71816089248146],"type":"Point"}
+  "geometry": {"coordinates":[-4.879005,55.718161],"type":"Point"}
 }

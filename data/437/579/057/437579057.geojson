@@ -2,26 +2,32 @@
   "id": 437579057,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2001-09-01",
+    "date:cessation_upper":"2001-09-30",
+    "date:inception_lower":"1984-10-01",
+    "date:inception_upper":"1984-10-31",
+    "edtf:cessation":"2001-09-uu",
+    "edtf:inception":"1984-10-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-1.604212,54.969374,-1.604212,54.969374",
+    "geom:latitude":54.969374,
+    "geom:longitude":-1.604212,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85684583,
         85633159,
-        85788421
+        85684583,
+        85788421,
+        "85788421"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26709324"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"f9f7eb1ab69d2b9d869ad24508ffd4ef",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -31,7 +37,7 @@
         }
     ],
     "wof:id":437579057,
-    "wof:lastmodified":1474570465,
+    "wof:lastmodified":1564972336,
     "wof:name":"NE1 3DS",
     "wof:parent_id":"85788421",
     "wof:placetype":"postalcode",
@@ -41,10 +47,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -1.604212,
+    54.969374,
+    -1.604212,
+    54.969374
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-1.604212,54.969374],"type":"Point"}
 }

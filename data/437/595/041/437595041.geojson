@@ -2,26 +2,32 @@
   "id": 437595041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2006-07-01",
+    "date:cessation_upper":"2006-07-31",
+    "date:inception_lower":"1980-01-01",
+    "date:inception_upper":"1980-01-31",
+    "edtf:cessation":"2006-07-uu",
+    "edtf:inception":"1980-01-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-3.547566,54.642843,-3.547566,54.642843",
+    "geom:latitude":54.642843,
+    "geom:longitude":-3.547566,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85684423,
         85633159,
-        85785495
+        85684423,
+        85785495,
+        "85785495"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"27015800"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"0cb2b4dbbd5fe4a9a2fc2bf37586ce00",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -31,7 +37,7 @@
         }
     ],
     "wof:id":437595041,
-    "wof:lastmodified":1474570488,
+    "wof:lastmodified":1564998556,
     "wof:name":"CA14 2LS",
     "wof:parent_id":"85785495",
     "wof:placetype":"postalcode",
@@ -41,10 +47,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -3.547566,
+    54.642843,
+    -3.547566,
+    54.642843
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-3.547566,54.642843],"type":"Point"}
 }

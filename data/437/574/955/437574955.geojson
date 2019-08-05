@@ -2,26 +2,32 @@
   "id": 437574955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2001-02-01",
+    "date:cessation_upper":"2001-02-28",
+    "date:inception_lower":"1999-12-01",
+    "date:inception_upper":"1999-12-31",
+    "edtf:cessation":"2001-02-uu",
+    "edtf:inception":"1999-12-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-0.15661,51.412885,-0.15661,51.412885",
+    "geom:latitude":51.412885,
+    "geom:longitude":-0.15661,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85683689,
         85633159,
-        85790567
+        85683689,
+        85790567,
+        "85790567"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26632018"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"e55599b99801c80f98e797362cd5cf14",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -31,7 +37,7 @@
         }
     ],
     "wof:id":437574955,
-    "wof:lastmodified":1474570459,
+    "wof:lastmodified":1564964134,
     "wof:name":"CR4 2LE",
     "wof:parent_id":"85790567",
     "wof:placetype":"postalcode",
@@ -41,10 +47,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.15661,
+    51.412885,
+    -0.15661,
+    51.412885
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-0.15661,51.412885],"type":"Point"}
 }

@@ -2,14 +2,19 @@
   "id": 437448691,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2007-01-01",
+    "date:cessation_upper":"2007-01-31",
+    "date:inception_lower":"1980-01-01",
+    "date:inception_upper":"1980-01-31",
+    "edtf:cessation":"2007-01-uu",
+    "edtf:inception":"1980-01-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-2.880153,53.565027,-2.880153,53.565027",
+    "geom:latitude":53.565027,
+    "geom:longitude":-2.880153,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
         85787881,
@@ -18,14 +23,15 @@
         "85633159",
         404227469,
         101750367,
-        85684061
+        85684061,
+        "85787881"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"27453798"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"5c20c21dd956bb41b338d9d0ff76b4f5",
     "wof:hierarchy":[
         {
             "continent_id":"102191581",
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":437448691,
-    "wof:lastmodified":1474570097,
+    "wof:lastmodified":1565005766,
     "wof:name":"L39 4QY",
     "wof:parent_id":"85787881",
     "wof:placetype":"postalcode",
@@ -49,10 +55,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -2.880153,
+    53.565027,
+    -2.880153,
+    53.565027
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-2.880153,53.565027],"type":"Point"}
 }

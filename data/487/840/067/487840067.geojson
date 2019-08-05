@@ -2,14 +2,19 @@
   "id": 487840067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2012-12-01",
+    "date:cessation_upper":"2012-12-31",
+    "date:inception_lower":"2001-12-01",
+    "date:inception_upper":"2001-12-31",
+    "edtf:cessation":"2012-12-uu",
+    "edtf:inception":"2001-12-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"0.496703,51.173579,0.496703,51.173579",
+    "geom:latitude":51.173579,
+    "geom:longitude":0.496703,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
         85788871,
@@ -18,14 +23,15 @@
         "85633159",
         404227469,
         101750495,
-        85684359
+        85684359,
+        "85788871"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"28048317"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"2845d2392eb989ff0dd6205c1e9df08f",
     "wof:hierarchy":[
         {
             "continent_id":"102191581",
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":487840067,
-    "wof:lastmodified":1474573609,
+    "wof:lastmodified":1564985772,
     "wof:name":"TN12 9WA",
     "wof:parent_id":"85788871",
     "wof:placetype":"postalcode",
@@ -49,10 +55,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    0.496703,
+    51.173579,
+    0.496703,
+    51.173579
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[0.496703,51.173579],"type":"Point"}
 }

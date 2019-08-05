@@ -2,26 +2,32 @@
   "id": 437573485,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"1998-12-01",
+    "date:cessation_upper":"1998-12-31",
+    "date:inception_lower":"1995-07-01",
+    "date:inception_upper":"1995-07-31",
+    "edtf:cessation":"1998-12-uu",
+    "edtf:inception":"1995-07-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-3.526881,50.721521,-3.526881,50.721521",
+    "geom:latitude":50.721521,
+    "geom:longitude":-3.526881,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85684035,
         85633159,
-        85791821
+        85684035,
+        85791821,
+        "85791821"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26588299"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"255128bf0804b2bf8ad0da7f76642187",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -31,7 +37,7 @@
         }
     ],
     "wof:id":437573485,
-    "wof:lastmodified":1474570456,
+    "wof:lastmodified":1564967298,
     "wof:name":"EX1 1RE",
     "wof:parent_id":"85791821",
     "wof:placetype":"postalcode",
@@ -41,10 +47,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -3.526881,
+    50.721521,
+    -3.526881,
+    50.721521
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-3.526881,50.721521],"type":"Point"}
 }

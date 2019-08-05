@@ -2,26 +2,32 @@
   "id": 437575927,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2001-04-01",
+    "date:cessation_upper":"2001-04-30",
+    "date:inception_lower":"1983-07-01",
+    "date:inception_upper":"1983-07-31",
+    "edtf:cessation":"2001-04-uu",
+    "edtf:inception":"1983-07-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-0.108431,51.493096,-0.108431,51.493096",
+    "geom:latitude":51.493096,
+    "geom:longitude":-0.108431,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85683867,
         85633159,
-        85787285
+        85683867,
+        85787285,
+        "85787285"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26649646"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"e5f8e33e9b1e72222af08f61746ca75f",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -31,7 +37,7 @@
         }
     ],
     "wof:id":437575927,
-    "wof:lastmodified":1474570460,
+    "wof:lastmodified":1564997584,
     "wof:name":"SE11 4TP",
     "wof:parent_id":"85787285",
     "wof:placetype":"postalcode",
@@ -41,10 +47,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.108431,
+    51.493096,
+    -0.108431,
+    51.493096
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-0.108431,51.493096],"type":"Point"}
 }

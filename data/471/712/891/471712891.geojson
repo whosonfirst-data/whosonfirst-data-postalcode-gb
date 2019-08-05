@@ -2,26 +2,32 @@
   "id": 471712891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2016-01-01",
+    "date:cessation_upper":"2016-01-31",
+    "date:inception_lower":"1994-12-01",
+    "date:inception_upper":"1994-12-31",
+    "edtf:cessation":"2016-01-uu",
+    "edtf:inception":"1994-12-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"0.070923,51.482296,0.070923,51.482296",
+    "geom:latitude":51.482296,
+    "geom:longitude":0.070923,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85683873,
         85633159,
-        85791139
+        85683873,
+        85791139,
+        "85791139"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26425704"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"ead0c13150671e9ed3aeda8807ca7b76",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -31,7 +37,7 @@
         }
     ],
     "wof:id":471712891,
-    "wof:lastmodified":1474573209,
+    "wof:lastmodified":1564966601,
     "wof:name":"SE18 3AX",
     "wof:parent_id":"85791139",
     "wof:placetype":"postalcode",
@@ -41,10 +47,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    0.070923,
+    51.482296,
+    0.070923,
+    51.482296
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[0.070923,51.482296],"type":"Point"}
 }

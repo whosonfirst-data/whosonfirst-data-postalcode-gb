@@ -2,26 +2,32 @@
   "id": 437631915,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2007-01-01",
+    "date:cessation_upper":"2007-01-31",
+    "date:inception_lower":"2007-01-01",
+    "date:inception_upper":"2007-01-31",
+    "edtf:cessation":"2007-01-uu",
+    "edtf:inception":"2007-01-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-3.946982,51.620504,-3.946982,51.620504",
+    "geom:latitude":51.620504,
+    "geom:longitude":-3.946982,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85684075,
         85633159,
-        85789355
+        85684075,
+        85789355,
+        "85789355"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"27868780"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"e0acd33a5cea06b8c14c44349287abb8",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -31,7 +37,7 @@
         }
     ],
     "wof:id":437631915,
-    "wof:lastmodified":1474570543,
+    "wof:lastmodified":1564975550,
     "wof:name":"SA1 5JZ",
     "wof:parent_id":"85789355",
     "wof:placetype":"postalcode",
@@ -41,10 +47,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -3.946982,
+    51.620504,
+    -3.946982,
+    51.620504
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-3.946982,51.620504],"type":"Point"}
 }

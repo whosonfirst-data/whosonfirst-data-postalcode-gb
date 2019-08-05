@@ -2,26 +2,32 @@
   "id": 437585479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2006-08-01",
+    "date:cessation_upper":"2006-08-31",
+    "date:inception_lower":"1981-06-01",
+    "date:inception_upper":"1981-06-30",
+    "edtf:cessation":"2006-08-uu",
+    "edtf:inception":"1981-06-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-1.570683,54.620564,-1.570683,54.620564",
+    "geom:latitude":54.620564,
+    "geom:longitude":-1.570683,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85683867,
         85633159,
-        85788043
+        85683867,
+        85788043,
+        "85788043"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26725933"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"92287dca3c3dce202708392c66c8e202",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -31,7 +37,7 @@
         }
     ],
     "wof:id":437585479,
-    "wof:lastmodified":1474570474,
+    "wof:lastmodified":1565003596,
     "wof:name":"DL5 4PS",
     "wof:parent_id":"85788043",
     "wof:placetype":"postalcode",
@@ -41,10 +47,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -1.570683,
+    54.620564,
+    -1.570683,
+    54.620564
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-1.570683,54.620564],"type":"Point"}
 }

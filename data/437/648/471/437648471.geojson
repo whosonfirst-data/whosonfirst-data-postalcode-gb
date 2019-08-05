@@ -2,14 +2,19 @@
   "id": 437648471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2006-09-01",
+    "date:cessation_upper":"2006-09-30",
+    "date:inception_lower":"2002-10-01",
+    "date:inception_upper":"2002-10-31",
+    "edtf:cessation":"2006-09-uu",
+    "edtf:inception":"2002-10-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-1.925393,52.750459,-1.925393,52.750459",
+    "geom:latitude":52.750459,
+    "geom:longitude":-1.925393,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
         85788105,
@@ -18,14 +23,15 @@
         "85633159",
         404227469,
         101750599,
-        85684133
+        85684133,
+        "85788105"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"28175811"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"9be34f1ef0af8505ca909a6ed8c2688c",
     "wof:hierarchy":[
         {
             "continent_id":"102191581",
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":437648471,
-    "wof:lastmodified":1474570568,
+    "wof:lastmodified":1565014706,
     "wof:name":"WS15 1DR",
     "wof:parent_id":"85788105",
     "wof:placetype":"postalcode",
@@ -49,10 +55,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -1.925393,
+    52.750459,
+    -1.925393,
+    52.750459
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-1.925393,52.750459],"type":"Point"}
 }

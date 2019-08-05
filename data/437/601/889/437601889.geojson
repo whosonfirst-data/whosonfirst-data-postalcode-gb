@@ -2,26 +2,32 @@
   "id": 437601889,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2006-09-01",
+    "date:cessation_upper":"2006-09-30",
+    "date:inception_lower":"1980-01-01",
+    "date:inception_upper":"1980-01-31",
+    "edtf:cessation":"2006-09-uu",
+    "edtf:inception":"1980-01-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-0.105665,51.389816,-0.105665,51.389816",
+    "geom:latitude":51.389816,
+    "geom:longitude":-0.105665,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85684009,
         85633159,
-        85789283
+        85684009,
+        85789283,
+        "85789283"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"27093971"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"b1611a6497ce7591782a0fbbb673e897",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -31,7 +37,7 @@
         }
     ],
     "wof:id":437601889,
-    "wof:lastmodified":1474570498,
+    "wof:lastmodified":1564966022,
     "wof:name":"CR9 2PR",
     "wof:parent_id":"85789283",
     "wof:placetype":"postalcode",
@@ -41,10 +47,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.105665,
+    51.389816,
+    -0.105665,
+    51.389816
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-0.105665,51.389816],"type":"Point"}
 }

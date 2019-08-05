@@ -2,26 +2,32 @@
   "id": 437580599,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2001-01-01",
+    "date:cessation_upper":"2001-01-31",
+    "date:inception_lower":"1996-06-01",
+    "date:inception_upper":"1996-06-30",
+    "edtf:cessation":"2001-01-uu",
+    "edtf:inception":"1996-06-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-0.113397,51.52108,-0.113397,51.52108",
+    "geom:latitude":51.52108,
+    "geom:longitude":-0.113397,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85684417,
         85633159,
-        85790701
+        85684417,
+        85790701,
+        "85790701"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26708040"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"857dc5cc6fd841c6ae4bb2747c2403b8",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -31,7 +37,7 @@
         }
     ],
     "wof:id":437580599,
-    "wof:lastmodified":1474570467,
+    "wof:lastmodified":1565017050,
     "wof:name":"WC1R 5LY",
     "wof:parent_id":"85790701",
     "wof:placetype":"postalcode",
@@ -41,10 +47,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.113397,
+    51.52108,
+    -0.113397,
+    51.52108
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-0.113397,51.52108],"type":"Point"}
 }

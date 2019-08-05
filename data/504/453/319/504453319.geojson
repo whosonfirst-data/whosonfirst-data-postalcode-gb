@@ -2,14 +2,17 @@
   "id": 504453319,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"1987-05-01",
+    "date:inception_upper":"1987-05-31",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:inception":"1987-05-uu",
     "geom:area":0.0,
-    "geom:bbox":"-4.81886848226,55.6524621493,-4.81886848226,55.6524621493",
+    "geom:bbox":"-4.818868,55.652462,-4.818868,55.652462",
     "geom:latitude":55.652462,
     "geom:longitude":-4.818868,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "os:admin_county_code":"",
     "os:admin_distict_code":"S12000021",
     "os:admin_ward_code":"S13002708",
@@ -18,16 +21,18 @@
     "os:nhs_regional_ha_code":"",
     "os:positional_quality_indicator":"10",
     "src:geom":"os",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        404441385
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"27418011"
     },
     "wof:country":"GB",
-    "wof:geomhash":"671dcc121c307bc161e7d30d0b19653d",
+    "wof:geomhash":"6ac8bd158d82ca67a231143643a75789",
     "wof:hierarchy":[],
     "wof:id":504453319,
-    "wof:lastmodified":1468884889,
+    "wof:lastmodified":1564986212,
     "wof:name":"KA22 8PF",
     "wof:parent_id":404441385,
     "wof:placetype":"postalcode",
@@ -37,10 +42,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -4.818868482261263,
-    55.65246214925692,
-    -4.818868482261263,
-    55.65246214925692
+    -4.818868,
+    55.652462,
+    -4.818868,
+    55.652462
 ],
-  "geometry": {"coordinates":[-4.81886848226126,55.65246214925692],"type":"Point"}
+  "geometry": {"coordinates":[-4.818868,55.652462],"type":"Point"}
 }

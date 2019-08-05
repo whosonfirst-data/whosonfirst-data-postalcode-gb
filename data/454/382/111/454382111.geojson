@@ -2,14 +2,19 @@
   "id": 454382111,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2015-01-01",
+    "date:cessation_upper":"2015-01-31",
+    "date:inception_lower":"1980-01-01",
+    "date:inception_upper":"1980-01-31",
+    "edtf:cessation":"2015-01-uu",
+    "edtf:inception":"1980-01-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-1.744875,54.867881,-1.744875,54.867881",
+    "geom:latitude":54.867881,
+    "geom:longitude":-1.744875,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
         85684523,
@@ -17,14 +22,15 @@
         404442231,
         "85633159",
         404227469,
-        101873355
+        101873355,
+        "101873355"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"27166296"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"15d46b29a5af9e09f33b7031fe3528fd",
     "wof:hierarchy":[
         {
             "continent_id":"102191581",
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":454382111,
-    "wof:lastmodified":1474571735,
+    "wof:lastmodified":1564987343,
     "wof:name":"DH9 8DS",
     "wof:parent_id":"101873355",
     "wof:placetype":"postalcode",
@@ -47,10 +53,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -1.744875,
+    54.867881,
+    -1.744875,
+    54.867881
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-1.744875,54.867881],"type":"Point"}
 }

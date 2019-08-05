@@ -2,14 +2,17 @@
   "id": 454988497,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"1980-01-01",
+    "date:inception_upper":"1980-01-31",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:inception":"1980-01-uu",
     "geom:area":0.0,
-    "geom:bbox":"-3.18748603909,54.1980761306,-3.18748603909,54.1980761306",
+    "geom:bbox":"-3.187486,54.198076,-3.187486,54.198076",
     "geom:latitude":54.198076,
     "geom:longitude":-3.187486,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "os:admin_county_code":"E10000006",
     "os:admin_distict_code":"E07000027",
     "os:admin_ward_code":"E05003147",
@@ -18,16 +21,18 @@
     "os:nhs_regional_ha_code":"E19000001",
     "os:positional_quality_indicator":"10",
     "src:geom":"os",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        404445115
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"27461395"
     },
     "wof:country":"GB",
-    "wof:geomhash":"c44ef2564c4dd1b1075f2d49480e978d",
+    "wof:geomhash":"74bd91caac5885aba1cc0137637e7ed4",
     "wof:hierarchy":[],
     "wof:id":454988497,
-    "wof:lastmodified":1468886528,
+    "wof:lastmodified":1564983747,
     "wof:name":"LA16 7HA",
     "wof:parent_id":404445115,
     "wof:placetype":"postalcode",
@@ -37,10 +42,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -3.187486039092854,
-    54.198076130630184,
-    -3.187486039092854,
-    54.198076130630184
+    -3.187486,
+    54.198076,
+    -3.187486,
+    54.198076
 ],
-  "geometry": {"coordinates":[-3.18748603909285,54.19807613063018],"type":"Point"}
+  "geometry": {"coordinates":[-3.187486,54.198076],"type":"Point"}
 }

@@ -2,26 +2,32 @@
   "id": 438267269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2010-05-01",
+    "date:cessation_upper":"2010-05-31",
+    "date:inception_lower":"1991-01-01",
+    "date:inception_upper":"1991-01-31",
+    "edtf:cessation":"2010-05-uu",
+    "edtf:inception":"1991-01-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-2.591135,51.408334,-2.591135,51.408334",
+    "geom:latitude":51.408334,
+    "geom:longitude":-2.591135,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85684235,
         85633159,
-        85787065
+        85684235,
+        85787065,
+        "85787065"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26949903"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"b16154fbe340f7b4fc3998086677cecf",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -31,7 +37,7 @@
         }
     ],
     "wof:id":438267269,
-    "wof:lastmodified":1474571369,
+    "wof:lastmodified":1564971423,
     "wof:name":"BS13 0RH",
     "wof:parent_id":"85787065",
     "wof:placetype":"postalcode",
@@ -41,10 +47,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -2.591135,
+    51.408334,
+    -2.591135,
+    51.408334
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-2.591135,51.408334],"type":"Point"}
 }

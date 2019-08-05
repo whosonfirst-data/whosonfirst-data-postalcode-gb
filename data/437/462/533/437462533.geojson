@@ -2,14 +2,19 @@
   "id": 437462533,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2008-12-01",
+    "date:cessation_upper":"2008-12-31",
+    "date:inception_lower":"1984-10-01",
+    "date:inception_upper":"1984-10-31",
+    "edtf:cessation":"2008-12-uu",
+    "edtf:inception":"1984-10-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-1.179579,50.861083,-1.179579,50.861083",
+    "geom:latitude":50.861083,
+    "geom:longitude":-1.179579,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
         85683773,
@@ -17,14 +22,15 @@
         404450785,
         "85633159",
         404227469,
-        101852561
+        101852561,
+        "101852561"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"27781934"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"e5ea677a03f4cc0aefce770cff646980",
     "wof:hierarchy":[
         {
             "continent_id":"102191581",
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":437462533,
-    "wof:lastmodified":1474570116,
+    "wof:lastmodified":1564970227,
     "wof:name":"PO16 7JB",
     "wof:parent_id":"101852561",
     "wof:placetype":"postalcode",
@@ -47,10 +53,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -1.179579,
+    50.861083,
+    -1.179579,
+    50.861083
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-1.179579,50.861083],"type":"Point"}
 }

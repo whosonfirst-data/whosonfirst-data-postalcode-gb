@@ -2,26 +2,32 @@
   "id": 437622287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2006-09-01",
+    "date:cessation_upper":"2006-09-30",
+    "date:inception_lower":"1980-01-01",
+    "date:inception_upper":"1980-01-31",
+    "edtf:cessation":"2006-09-uu",
+    "edtf:inception":"1980-01-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-1.570308,54.978847,-1.570308,54.978847",
+    "geom:latitude":54.978847,
+    "geom:longitude":-1.570308,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85683821,
         85633159,
-        85786205
+        85683821,
+        85786205,
+        "85786205"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"27622214"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"a63b01746dbb5bec3c70cdbf3521ba44",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -31,7 +37,7 @@
         }
     ],
     "wof:id":437622287,
-    "wof:lastmodified":1474570528,
+    "wof:lastmodified":1564971889,
     "wof:name":"NE6 2XL",
     "wof:parent_id":"85786205",
     "wof:placetype":"postalcode",
@@ -41,10 +47,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -1.570308,
+    54.978847,
+    -1.570308,
+    54.978847
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-1.570308,54.978847],"type":"Point"}
 }

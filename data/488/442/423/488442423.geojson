@@ -2,14 +2,17 @@
   "id": 488442423,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"1980-01-01",
+    "date:inception_upper":"1980-01-31",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:inception":"1980-01-uu",
     "geom:area":0.0,
-    "geom:bbox":"-4.74975739245,55.6336084411,-4.74975739245,55.6336084411",
+    "geom:bbox":"-4.749757,55.633608,-4.749757,55.633608",
     "geom:latitude":55.633608,
     "geom:longitude":-4.749757,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "os:admin_county_code":"",
     "os:admin_distict_code":"S12000021",
     "os:admin_ward_code":"S13002707",
@@ -18,16 +21,18 @@
     "os:nhs_regional_ha_code":"",
     "os:positional_quality_indicator":"10",
     "src:geom":"os",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        404441385
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26449442"
     },
     "wof:country":"GB",
-    "wof:geomhash":"45d42dc1c8e1e298db8f6a2580f9337b",
+    "wof:geomhash":"2d5a3e88f7464d0b906da5bca61c7f7e",
     "wof:hierarchy":[],
     "wof:id":488442423,
-    "wof:lastmodified":1468884861,
+    "wof:lastmodified":1564992663,
     "wof:name":"KA20 3LD",
     "wof:parent_id":404441385,
     "wof:placetype":"postalcode",
@@ -37,10 +42,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -4.749757392450613,
-    55.63360844113127,
-    -4.749757392450613,
-    55.63360844113127
+    -4.749757,
+    55.633608,
+    -4.749757,
+    55.633608
 ],
-  "geometry": {"coordinates":[-4.74975739245061,55.63360844113127],"type":"Point"}
+  "geometry": {"coordinates":[-4.749757,55.633608],"type":"Point"}
 }

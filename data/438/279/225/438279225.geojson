@@ -2,26 +2,32 @@
   "id": 438279225,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2015-10-01",
+    "date:cessation_upper":"2015-10-31",
+    "date:inception_lower":"2005-09-01",
+    "date:inception_upper":"2005-09-30",
+    "edtf:cessation":"2015-10-uu",
+    "edtf:inception":"2005-09-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-2.769183,51.482606,-2.769183,51.482606",
+    "geom:latitude":51.482606,
+    "geom:longitude":-2.769183,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85684235,
         85633159,
-        85787065
+        85684235,
+        85787065,
+        "85787065"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"28279503"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"0b4d908362d9afd9cd86dd2961ce3934",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -31,7 +37,7 @@
         }
     ],
     "wof:id":438279225,
-    "wof:lastmodified":1474571375,
+    "wof:lastmodified":1564991920,
     "wof:name":"BS20 7WT",
     "wof:parent_id":"85787065",
     "wof:placetype":"postalcode",
@@ -41,10 +47,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -2.769183,
+    51.482606,
+    -2.769183,
+    51.482606
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-2.769183,51.482606],"type":"Point"}
 }

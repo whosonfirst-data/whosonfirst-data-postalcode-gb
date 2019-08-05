@@ -2,26 +2,32 @@
   "id": 437944961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2015-07-01",
+    "date:cessation_upper":"2015-07-31",
+    "date:inception_lower":"1980-01-01",
+    "date:inception_upper":"1980-01-31",
+    "edtf:cessation":"2015-07-uu",
+    "edtf:inception":"1980-01-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-0.345688,51.762445,-0.345688,51.762445",
+    "geom:latitude":51.762445,
+    "geom:longitude":-0.345688,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85684331,
         85633159,
-        85787539
+        85684331,
+        85787539,
+        "85787539"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26839256"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"76373e54c38a9a8e581c8a97d7944ddd",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -31,7 +37,7 @@
         }
     ],
     "wof:id":437944961,
-    "wof:lastmodified":1474571010,
+    "wof:lastmodified":1565015868,
     "wof:name":"AL3 5ST",
     "wof:parent_id":"85787539",
     "wof:placetype":"postalcode",
@@ -41,10 +47,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.345688,
+    51.762445,
+    -0.345688,
+    51.762445
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-0.345688,51.762445],"type":"Point"}
 }

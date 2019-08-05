@@ -2,26 +2,32 @@
   "id": 488085391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2012-10-01",
+    "date:cessation_upper":"2012-10-31",
+    "date:inception_lower":"1997-12-01",
+    "date:inception_upper":"1997-12-31",
+    "edtf:cessation":"2012-10-uu",
+    "edtf:inception":"1997-12-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-2.696808,53.329456,-2.696808,53.329456",
+    "geom:latitude":53.329456,
+    "geom:longitude":-2.696808,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85683693,
         85633159,
-        85788345
+        85683693,
+        85788345,
+        "85788345"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"28138012"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"c839963c59fb1c7ef648c93e14d574f8",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -31,7 +37,7 @@
         }
     ],
     "wof:id":488085391,
-    "wof:lastmodified":1474573827,
+    "wof:lastmodified":1564996877,
     "wof:name":"WA7 2WD",
     "wof:parent_id":"85788345",
     "wof:placetype":"postalcode",
@@ -41,10 +47,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -2.696808,
+    53.329456,
+    -2.696808,
+    53.329456
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-2.696808,53.329456],"type":"Point"}
 }

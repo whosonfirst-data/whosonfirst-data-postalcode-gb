@@ -2,26 +2,32 @@
   "id": 471748623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2016-01-01",
+    "date:cessation_upper":"2016-01-31",
+    "date:inception_lower":"2006-01-01",
+    "date:inception_upper":"2006-01-31",
+    "edtf:cessation":"2016-01-uu",
+    "edtf:inception":"2006-01-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-0.322736,52.089706,-0.322736,52.089706",
+    "geom:latitude":52.089706,
+    "geom:longitude":-0.322736,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85683873,
         85633159,
-        85791139
+        85683873,
+        85791139,
+        "85791139"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"28931096"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"7988c7eb2e2765db392a49edbc7ba560",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -31,7 +37,7 @@
         }
     ],
     "wof:id":471748623,
-    "wof:lastmodified":1474573238,
+    "wof:lastmodified":1564968696,
     "wof:name":"SG18 9EX",
     "wof:parent_id":"85791139",
     "wof:placetype":"postalcode",
@@ -41,10 +47,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.322736,
+    52.089706,
+    -0.322736,
+    52.089706
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-0.322736,52.089706],"type":"Point"}
 }

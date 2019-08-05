@@ -2,26 +2,32 @@
   "id": 437583863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2006-05-01",
+    "date:cessation_upper":"2006-05-31",
+    "date:inception_lower":"1980-10-01",
+    "date:inception_upper":"1980-10-31",
+    "edtf:cessation":"2006-05-uu",
+    "edtf:inception":"1980-10-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-4.719881,55.645484,-4.719881,55.645484",
+    "geom:latitude":55.645484,
+    "geom:longitude":-4.719881,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85684159,
         85633159,
-        85790891
+        85684159,
+        85790891,
+        "85790891"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"27415542"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"e73605aee4ebd2a129c8afdf5c8fc33a",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -31,7 +37,7 @@
         }
     ],
     "wof:id":437583863,
-    "wof:lastmodified":1474570472,
+    "wof:lastmodified":1565002445,
     "wof:name":"KA13 6HL",
     "wof:parent_id":"85790891",
     "wof:placetype":"postalcode",
@@ -41,10 +47,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -4.719881,
+    55.645484,
+    -4.719881,
+    55.645484
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-4.719881,55.645484],"type":"Point"}
 }

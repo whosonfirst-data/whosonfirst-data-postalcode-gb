@@ -2,26 +2,32 @@
   "id": 437574979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2001-06-01",
+    "date:cessation_upper":"2001-06-30",
+    "date:inception_lower":"1992-01-01",
+    "date:inception_upper":"1992-01-31",
+    "edtf:cessation":"2001-06-uu",
+    "edtf:inception":"1992-01-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-2.962535,54.429869,-2.962535,54.429869",
+    "geom:latitude":54.429869,
+    "geom:longitude":-2.962535,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85683689,
         85633159,
-        85790567
+        85683689,
+        85790567,
+        "85790567"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26632418"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"60c5443dfafac4b563622737fb3c7756",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -31,7 +37,7 @@
         }
     ],
     "wof:id":437574979,
-    "wof:lastmodified":1474570459,
+    "wof:lastmodified":1565013101,
     "wof:name":"LA22 0DE",
     "wof:parent_id":"85790567",
     "wof:placetype":"postalcode",
@@ -41,10 +47,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -2.962535,
+    54.429869,
+    -2.962535,
+    54.429869
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-2.962535,54.429869],"type":"Point"}
 }

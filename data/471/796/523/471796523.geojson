@@ -2,26 +2,32 @@
   "id": 471796523,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2015-09-01",
+    "date:cessation_upper":"2015-09-30",
+    "date:inception_lower":"1980-01-01",
+    "date:inception_upper":"1980-01-31",
+    "edtf:cessation":"2015-09-uu",
+    "edtf:inception":"1980-01-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-2.23085,53.327601,-2.23085,53.327601",
+    "geom:latitude":53.327601,
+    "geom:longitude":-2.23085,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85683873,
         85633159,
-        85791139
+        85683873,
+        85791139,
+        "85791139"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"27926080"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"0c8eb71c059777375ed174aa007a2b34",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -31,7 +37,7 @@
         }
     ],
     "wof:id":471796523,
-    "wof:lastmodified":1474573288,
+    "wof:lastmodified":1565017040,
     "wof:name":"SK9 1EF",
     "wof:parent_id":"85791139",
     "wof:placetype":"postalcode",
@@ -41,10 +47,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -2.23085,
+    53.327601,
+    -2.23085,
+    53.327601
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-2.23085,53.327601],"type":"Point"}
 }

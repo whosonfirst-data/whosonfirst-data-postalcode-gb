@@ -2,14 +2,19 @@
   "id": 437569257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"1990-12-01",
+    "date:cessation_upper":"1990-12-31",
+    "date:inception_lower":"1983-01-01",
+    "date:inception_upper":"1983-01-31",
+    "edtf:cessation":"1990-12-uu",
+    "edtf:inception":"1983-01-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-1.84423,54.849205,-1.84423,54.849205",
+    "geom:latitude":54.849205,
+    "geom:longitude":-1.84423,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
         85789813,
@@ -18,14 +23,15 @@
         "85633159",
         404227469,
         101750367,
-        85684061
+        85684061,
+        "85789813"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26439742"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"9c9eb5c3f6cf52bb0feabf0074c50347",
     "wof:hierarchy":[
         {
             "continent_id":"102191581",
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":437569257,
-    "wof:lastmodified":1474570449,
+    "wof:lastmodified":1564964164,
     "wof:name":"DH8 5PU",
     "wof:parent_id":"85789813",
     "wof:placetype":"postalcode",
@@ -49,10 +55,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -1.84423,
+    54.849205,
+    -1.84423,
+    54.849205
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-1.84423,54.849205],"type":"Point"}
 }

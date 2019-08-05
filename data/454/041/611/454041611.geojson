@@ -2,26 +2,32 @@
   "id": 454041611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2010-10-01",
+    "date:cessation_upper":"2010-10-31",
+    "date:inception_lower":"1999-06-01",
+    "date:inception_upper":"1999-06-30",
+    "edtf:cessation":"2010-10-uu",
+    "edtf:inception":"1999-06-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-2.59272,51.465261,-2.59272,51.465261",
+    "geom:latitude":51.465261,
+    "geom:longitude":-2.59272,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85684423,
         85633159,
-        85785999
+        85684423,
+        85785999,
+        "85785999"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26389078"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"dfadd425fe82b060a9eecf0bf8b521e8",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -31,7 +37,7 @@
         }
     ],
     "wof:id":454041611,
-    "wof:lastmodified":1474571398,
+    "wof:lastmodified":1564987143,
     "wof:name":"BS6 5SP",
     "wof:parent_id":"85785999",
     "wof:placetype":"postalcode",
@@ -41,10 +47,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -2.59272,
+    51.465261,
+    -2.59272,
+    51.465261
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-2.59272,51.465261],"type":"Point"}
 }

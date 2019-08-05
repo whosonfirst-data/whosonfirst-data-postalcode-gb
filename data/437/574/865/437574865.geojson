@@ -2,26 +2,32 @@
   "id": 437574865,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"1999-12-01",
+    "date:cessation_upper":"1999-12-31",
+    "date:inception_lower":"1980-01-01",
+    "date:inception_upper":"1980-01-31",
+    "edtf:cessation":"1999-12-uu",
+    "edtf:inception":"1980-01-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-0.066709,51.412075,-0.066709,51.412075",
+    "geom:latitude":51.412075,
+    "geom:longitude":-0.066709,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85683689,
         85633159,
-        85790567
+        85683689,
+        85790567,
+        "85790567"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26629074"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"31b5d22e9e62c82f3577df5fdb8a1ef9",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -31,7 +37,7 @@
         }
     ],
     "wof:id":437574865,
-    "wof:lastmodified":1474570458,
+    "wof:lastmodified":1565005256,
     "wof:name":"SE20 8BN",
     "wof:parent_id":"85790567",
     "wof:placetype":"postalcode",
@@ -41,10 +47,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.066709,
+    51.412075,
+    -0.066709,
+    51.412075
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-0.066709,51.412075],"type":"Point"}
 }

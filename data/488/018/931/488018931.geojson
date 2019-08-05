@@ -2,14 +2,19 @@
   "id": 488018931,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2012-09-01",
+    "date:cessation_upper":"2012-09-30",
+    "date:inception_lower":"2000-12-01",
+    "date:inception_upper":"2000-12-31",
+    "edtf:cessation":"2012-09-uu",
+    "edtf:inception":"2000-12-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-0.135461,51.510264,-0.135461,51.510264",
+    "geom:latitude":51.510264,
+    "geom:longitude":-0.135461,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
         85787949,
@@ -18,14 +23,15 @@
         "85633159",
         404227469,
         101750367,
-        85684061
+        85684061,
+        "85787949"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"28115242"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"44fdb1bdb122a7fc98987a13e54deffa",
     "wof:hierarchy":[
         {
             "continent_id":"102191581",
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":488018931,
-    "wof:lastmodified":1474573761,
+    "wof:lastmodified":1565005503,
     "wof:name":"W1B 5RD",
     "wof:parent_id":"85787949",
     "wof:placetype":"postalcode",
@@ -49,10 +55,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.135461,
+    51.510264,
+    -0.135461,
+    51.510264
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-0.135461,51.510264],"type":"Point"}
 }

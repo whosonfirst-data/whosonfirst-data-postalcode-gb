@@ -2,26 +2,32 @@
   "id": 437631905,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2006-01-01",
+    "date:cessation_upper":"2006-01-31",
+    "date:inception_lower":"1985-04-01",
+    "date:inception_upper":"1985-04-30",
+    "edtf:cessation":"2006-01-uu",
+    "edtf:inception":"1985-04-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-3.9434,51.619502,-3.9434,51.619502",
+    "geom:latitude":51.619502,
+    "geom:longitude":-3.9434,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85684075,
         85633159,
-        85789355
+        85684075,
+        85789355,
+        "85789355"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"27868311"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"598890e8de75bd292f75cc3e31f2236b",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -31,7 +37,7 @@
         }
     ],
     "wof:id":437631905,
-    "wof:lastmodified":1474570543,
+    "wof:lastmodified":1564991808,
     "wof:name":"SA1 1LH",
     "wof:parent_id":"85789355",
     "wof:placetype":"postalcode",
@@ -41,10 +47,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -3.9434,
+    51.619502,
+    -3.9434,
+    51.619502
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-3.9434,51.619502],"type":"Point"}
 }

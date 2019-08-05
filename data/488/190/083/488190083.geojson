@@ -2,14 +2,19 @@
   "id": 488190083,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2015-12-01",
+    "date:cessation_upper":"2015-12-31",
+    "date:inception_lower":"2005-02-01",
+    "date:inception_upper":"2005-02-28",
+    "edtf:cessation":"2015-12-uu",
+    "edtf:inception":"2005-02-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-1.827577,52.680822,-1.827577,52.680822",
+    "geom:latitude":52.680822,
+    "geom:longitude":-1.827577,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
         85789229,
@@ -18,14 +23,15 @@
         "85633159",
         404227469,
         101914035,
-        85684155
+        85684155,
+        "85789229"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"28175520"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"8fdf9389a774da6cf0b2fd8bae163034",
     "wof:hierarchy":[
         {
             "continent_id":"102191581",
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":488190083,
-    "wof:lastmodified":1474573935,
+    "wof:lastmodified":1565006906,
     "wof:name":"WS14 4SN",
     "wof:parent_id":"85789229",
     "wof:placetype":"postalcode",
@@ -49,10 +55,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -1.827577,
+    52.680822,
+    -1.827577,
+    52.680822
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-1.827577,52.680822],"type":"Point"}
 }

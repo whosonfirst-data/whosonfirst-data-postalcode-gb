@@ -2,26 +2,32 @@
   "id": 437586007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2006-07-01",
+    "date:cessation_upper":"2006-07-31",
+    "date:inception_lower":"2003-07-01",
+    "date:inception_upper":"2003-07-31",
+    "edtf:cessation":"2006-07-uu",
+    "edtf:inception":"2003-07-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-2.025887,53.957715,-2.025887,53.957715",
+    "geom:latitude":53.957715,
+    "geom:longitude":-2.025887,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85684463,
         85633159,
-        85790053
+        85684463,
+        85790053,
+        "85790053"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26902834"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"7b164430e284839070f81ff4a46732f2",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -31,7 +37,7 @@
         }
     ],
     "wof:id":437586007,
-    "wof:lastmodified":1474570475,
+    "wof:lastmodified":1564976475,
     "wof:name":"BD23 1WY",
     "wof:parent_id":"85790053",
     "wof:placetype":"postalcode",
@@ -41,10 +47,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -2.025887,
+    53.957715,
+    -2.025887,
+    53.957715
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-2.025887,53.957715],"type":"Point"}
 }

@@ -2,14 +2,17 @@
   "id": 504452201,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"1980-01-01",
+    "date:inception_upper":"1980-01-31",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:inception":"1980-01-uu",
     "geom:area":0.0,
-    "geom:bbox":"-4.74539014362,55.6309197404,-4.74539014362,55.6309197404",
+    "geom:bbox":"-4.74539,55.63092,-4.74539,55.63092",
     "geom:latitude":55.63092,
     "geom:longitude":-4.74539,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "os:admin_county_code":"",
     "os:admin_distict_code":"S12000021",
     "os:admin_ward_code":"S13002707",
@@ -18,16 +21,18 @@
     "os:nhs_regional_ha_code":"",
     "os:positional_quality_indicator":"10",
     "src:geom":"os",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        404441385
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"27417433"
     },
     "wof:country":"GB",
-    "wof:geomhash":"b8c8f966ae9237a22be3a7316c55e60e",
+    "wof:geomhash":"450eecf0c25049d03598b8f85e4d6307",
     "wof:hierarchy":[],
     "wof:id":504452201,
-    "wof:lastmodified":1468884862,
+    "wof:lastmodified":1564962636,
     "wof:name":"KA20 3NT",
     "wof:parent_id":404441385,
     "wof:placetype":"postalcode",
@@ -37,10 +42,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -4.74539014362055,
-    55.63091974036419,
-    -4.74539014362055,
-    55.63091974036419
+    -4.74539,
+    55.63092,
+    -4.74539,
+    55.63092
 ],
-  "geometry": {"coordinates":[-4.74539014362055,55.63091974036419],"type":"Point"}
+  "geometry": {"coordinates":[-4.74539,55.63092],"type":"Point"}
 }

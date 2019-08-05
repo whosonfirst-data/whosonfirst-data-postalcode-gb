@@ -2,14 +2,19 @@
   "id": 437577011,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"1999-12-01",
+    "date:cessation_upper":"1999-12-31",
+    "date:inception_lower":"1981-06-01",
+    "date:inception_upper":"1981-06-30",
+    "edtf:cessation":"1999-12-uu",
+    "edtf:inception":"1981-06-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-1.258504,51.749204,-1.258504,51.749204",
+    "geom:latitude":51.749204,
+    "geom:longitude":-1.258504,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
         85684349,
@@ -17,14 +22,15 @@
         404436513,
         "85633159",
         404227471,
-        101872437
+        101872437,
+        "101872437"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26671572"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"83ffa0fa1ab4d741bf2699ddc7ecd1be",
     "wof:hierarchy":[
         {
             "continent_id":"102191581",
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":437577011,
-    "wof:lastmodified":1474570462,
+    "wof:lastmodified":1564968437,
     "wof:name":"OX1 1TJ",
     "wof:parent_id":"101872437",
     "wof:placetype":"postalcode",
@@ -47,10 +53,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -1.258504,
+    51.749204,
+    -1.258504,
+    51.749204
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-1.258504,51.749204],"type":"Point"}
 }

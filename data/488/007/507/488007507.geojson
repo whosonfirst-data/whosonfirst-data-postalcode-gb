@@ -2,14 +2,19 @@
   "id": 488007507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2016-01-01",
+    "date:cessation_upper":"2016-01-31",
+    "date:inception_lower":"2001-12-01",
+    "date:inception_upper":"2001-12-31",
+    "edtf:cessation":"2016-01-uu",
+    "edtf:inception":"2001-12-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-0.491395,51.537242,-0.491395,51.537242",
+    "geom:latitude":51.537242,
+    "geom:longitude":-0.491395,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
         85787949,
@@ -18,14 +23,15 @@
         "85633159",
         404227469,
         101750367,
-        85684061
+        85684061,
+        "85787949"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"28111292"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"d04c3e747c158cbee678af936667f10f",
     "wof:hierarchy":[
         {
             "continent_id":"102191581",
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":488007507,
-    "wof:lastmodified":1474573744,
+    "wof:lastmodified":1564979777,
     "wof:name":"UB8 2QA",
     "wof:parent_id":"85787949",
     "wof:placetype":"postalcode",
@@ -49,10 +55,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.491395,
+    51.537242,
+    -0.491395,
+    51.537242
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-0.491395,51.537242],"type":"Point"}
 }

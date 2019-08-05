@@ -2,26 +2,32 @@
   "id": 437820667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2005-05-01",
+    "date:cessation_upper":"2005-05-31",
+    "date:inception_lower":"1980-01-01",
+    "date:inception_upper":"1980-01-31",
+    "edtf:cessation":"2005-05-uu",
+    "edtf:inception":"1980-01-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-3.39179,51.948746,-3.39179,51.948746",
+    "geom:latitude":51.948746,
+    "geom:longitude":-3.39179,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85684335,
         85633159,
-        85791019
+        85684335,
+        85791019,
+        "85791019"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"28892128"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"86d065a92377b0585887c55102c70257",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -31,7 +37,7 @@
         }
     ],
     "wof:id":437820667,
-    "wof:lastmodified":1474570829,
+    "wof:lastmodified":1565010307,
     "wof:name":"LD3 9BY",
     "wof:parent_id":"85791019",
     "wof:placetype":"postalcode",
@@ -41,10 +47,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -3.39179,
+    51.948746,
+    -3.39179,
+    51.948746
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-3.39179,51.948746],"type":"Point"}
 }

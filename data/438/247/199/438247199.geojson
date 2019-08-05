@@ -2,26 +2,32 @@
   "id": 438247199,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2011-05-01",
+    "date:cessation_upper":"2011-05-31",
+    "date:inception_lower":"2006-05-01",
+    "date:inception_upper":"2006-05-31",
+    "edtf:cessation":"2011-05-uu",
+    "edtf:inception":"2006-05-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-0.410951,50.818562,-0.410951,50.818562",
+    "geom:latitude":50.818562,
+    "geom:longitude":-0.410951,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85683811,
         85633159,
-        85787507
+        85683811,
+        85787507,
+        "85787507"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"28961292"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"9d30a52d6449d5a16925706159935fe1",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -31,7 +37,7 @@
         }
     ],
     "wof:id":438247199,
-    "wof:lastmodified":1474571343,
+    "wof:lastmodified":1565013053,
     "wof:name":"BN99 6JR",
     "wof:parent_id":"85787507",
     "wof:placetype":"postalcode",
@@ -41,10 +47,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.410951,
+    50.818562,
+    -0.410951,
+    50.818562
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-0.410951,50.818562],"type":"Point"}
 }

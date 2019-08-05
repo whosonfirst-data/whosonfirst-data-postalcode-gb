@@ -2,26 +2,32 @@
   "id": 437445271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2008-01-01",
+    "date:cessation_upper":"2008-01-31",
+    "date:inception_lower":"1995-12-01",
+    "date:inception_upper":"1995-12-31",
+    "edtf:cessation":"2008-01-uu",
+    "edtf:inception":"1995-12-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-0.809467,51.81501,-0.809467,51.81501",
+    "geom:latitude":51.81501,
+    "geom:longitude":-0.809467,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85683943,
         85633159,
-        85786693
+        85683943,
+        85786693,
+        "85786693"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"27359310"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"5d3256dd54a0de7d912d5b507425b33e",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -31,7 +37,7 @@
         }
     ],
     "wof:id":437445271,
-    "wof:lastmodified":1474570093,
+    "wof:lastmodified":1564989973,
     "wof:name":"HP20 1UH",
     "wof:parent_id":"85786693",
     "wof:placetype":"postalcode",
@@ -41,10 +47,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.809467,
+    51.81501,
+    -0.809467,
+    51.81501
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-0.809467,51.81501],"type":"Point"}
 }

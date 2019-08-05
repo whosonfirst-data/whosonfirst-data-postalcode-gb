@@ -2,14 +2,19 @@
   "id": 437575323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2000-10-01",
+    "date:cessation_upper":"2000-10-31",
+    "date:inception_lower":"2000-10-01",
+    "date:inception_upper":"2000-10-31",
+    "edtf:cessation":"2000-10-uu",
+    "edtf:inception":"2000-10-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-0.13314,51.514157,-0.13314,51.514157",
+    "geom:latitude":51.514157,
+    "geom:longitude":-0.13314,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
         85793317,
@@ -18,14 +23,15 @@
         "85633159",
         404227469,
         101750367,
-        85684061
+        85684061,
+        "85793317"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26640141"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"c3dc76ba67121664050c3d9d7d60219c",
     "wof:hierarchy":[
         {
             "continent_id":"102191581",
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":437575323,
-    "wof:lastmodified":1474570459,
+    "wof:lastmodified":1565006628,
     "wof:name":"W1D 3HY",
     "wof:parent_id":"85793317",
     "wof:placetype":"postalcode",
@@ -49,10 +55,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.13314,
+    51.514157,
+    -0.13314,
+    51.514157
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-0.13314,51.514157],"type":"Point"}
 }

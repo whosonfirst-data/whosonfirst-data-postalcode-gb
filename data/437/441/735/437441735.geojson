@@ -2,14 +2,19 @@
   "id": 437441735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2009-01-01",
+    "date:cessation_upper":"2009-01-31",
+    "date:inception_lower":"2003-06-01",
+    "date:inception_upper":"2003-06-30",
+    "edtf:cessation":"2009-01-uu",
+    "edtf:inception":"2003-06-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-3.238641,50.683428,-3.238641,50.683428",
+    "geom:latitude":50.683428,
+    "geom:longitude":-3.238641,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
         85860209,
@@ -18,14 +23,15 @@
         "85633159",
         404227469,
         101750367,
-        85684061
+        85684061,
+        "85860209"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"27250952"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"4f0530dc931f1b1d860a37c01fc5822a",
     "wof:hierarchy":[
         {
             "continent_id":"102191581",
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":437441735,
-    "wof:lastmodified":1474570085,
+    "wof:lastmodified":1564960003,
     "wof:name":"EX10 9ZY",
     "wof:parent_id":"85860209",
     "wof:placetype":"postalcode",
@@ -49,10 +55,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -3.238641,
+    50.683428,
+    -3.238641,
+    50.683428
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-3.238641,50.683428],"type":"Point"}
 }

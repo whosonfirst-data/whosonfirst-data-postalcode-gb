@@ -2,26 +2,32 @@
   "id": 437796671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2004-01-01",
+    "date:cessation_upper":"2004-01-31",
+    "date:inception_lower":"2004-01-01",
+    "date:inception_upper":"2004-01-31",
+    "edtf:cessation":"2004-01-uu",
+    "edtf:inception":"2004-01-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-4.579841,55.988933,-4.579841,55.988933",
+    "geom:latitude":55.988933,
+    "geom:longitude":-4.579841,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85683955,
         85633159,
-        85786279
+        85683955,
+        85786279,
+        "85786279"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"28878134"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"4d4e9d61db3c98f31e1386d674b38a14",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -31,7 +37,7 @@
         }
     ],
     "wof:id":437796671,
-    "wof:lastmodified":1474570793,
+    "wof:lastmodified":1565006905,
     "wof:name":"G83 0PH",
     "wof:parent_id":"85786279",
     "wof:placetype":"postalcode",
@@ -41,10 +47,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -4.579841,
+    55.988933,
+    -4.579841,
+    55.988933
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-4.579841,55.988933],"type":"Point"}
 }

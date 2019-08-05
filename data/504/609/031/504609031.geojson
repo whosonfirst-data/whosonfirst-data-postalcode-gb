@@ -2,15 +2,18 @@
   "id": 504609031,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"1980-01-01",
+    "date:inception_upper":"1980-01-31",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:inception":"1980-01-uu",
     "geom:area":0.0,
-    "geom:bbox":"-4.70080611996,51.6726561109,-4.70080611996,51.6726561109",
-    "geom:latitude":51.672656,
-    "geom:longitude":-4.700806,
+    "geom:bbox":"-4.700813,51.672495,-4.700813,51.672495",
+    "geom:latitude":51.672495,
+    "geom:longitude":-4.700813,
     "gp:parent_id":"12696129",
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "os:admin_county_code":"",
     "os:admin_distict_code":"W06000009",
     "os:admin_ward_code":"W05000454",
@@ -19,16 +22,18 @@
     "os:nhs_regional_ha_code":"",
     "os:positional_quality_indicator":"10",
     "src:geom":"os",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        404435111
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26585563"
     },
     "wof:country":"GB",
-    "wof:geomhash":"3078442d50fd2ea21f294bc100ca53dd",
+    "wof:geomhash":"bfb1bf05b6f7e638504e181ed3b6922b",
     "wof:hierarchy":[],
     "wof:id":504609031,
-    "wof:lastmodified":1468899004,
+    "wof:lastmodified":1564959390,
     "wof:name":"SA70 7EU",
     "wof:parent_id":404435111,
     "wof:placetype":"postalcode",
@@ -38,10 +43,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -4.7008061199554145,
-    51.672656110944224,
-    -4.7008061199554145,
-    51.672656110944224
+    -4.700813,
+    51.672495,
+    -4.700813,
+    51.672495
 ],
-  "geometry": {"coordinates":[-4.70080611995541,51.67265611094422],"type":"Point"}
+  "geometry": {"coordinates":[-4.700813,51.672495],"type":"Point"}
 }

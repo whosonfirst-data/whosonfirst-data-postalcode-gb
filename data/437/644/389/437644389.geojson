@@ -2,14 +2,19 @@
   "id": 437644389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2006-09-01",
+    "date:cessation_upper":"2006-09-30",
+    "date:inception_lower":"2000-10-01",
+    "date:inception_upper":"2000-10-31",
+    "edtf:cessation":"2006-09-uu",
+    "edtf:inception":"2000-10-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-0.143045,51.509809,-0.143045,51.509809",
+    "geom:latitude":51.509809,
+    "geom:longitude":-0.143045,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
         85788105,
@@ -18,14 +23,15 @@
         "85633159",
         404227469,
         101750599,
-        85684133
+        85684133,
+        "85788105"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"28119003"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"52b2540a8eab074b0bec179decf74b0f",
     "wof:hierarchy":[
         {
             "continent_id":"102191581",
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":437644389,
-    "wof:lastmodified":1474570562,
+    "wof:lastmodified":1565002152,
     "wof:name":"W1S 4AD",
     "wof:parent_id":"85788105",
     "wof:placetype":"postalcode",
@@ -49,10 +55,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.143045,
+    51.509809,
+    -0.143045,
+    51.509809
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-0.143045,51.509809],"type":"Point"}
 }

@@ -2,15 +2,20 @@
   "id": 504463561,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2017-05-01",
+    "date:cessation_upper":"2017-05-31",
+    "date:inception_lower":"2002-07-01",
+    "date:inception_upper":"2002-07-31",
+    "edtf:cessation":"2017-05-uu",
+    "edtf:inception":"2002-07-uu",
     "geom:area":0.0,
-    "geom:bbox":"-2.97582894788,58.9915500988,-2.97582894788,58.9915500988",
+    "geom:bbox":"-2.975829,58.99155,-2.975829,58.99155",
     "geom:latitude":58.99155,
     "geom:longitude":-2.975829,
     "gp:parent_id":"12696205",
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "os:admin_county_code":"",
     "os:admin_distict_code":"S12000023",
     "os:admin_ward_code":"S13002733",
@@ -19,16 +24,18 @@
     "os:nhs_regional_ha_code":"",
     "os:positional_quality_indicator":"10",
     "src:geom":"os",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        404432629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"27433685"
     },
     "wof:country":"GB",
-    "wof:geomhash":"71a10c873d7a5f37690a19fc37fb1cf9",
+    "wof:geomhash":"fe9ab8a134dabe779cba9edc5309ece5",
     "wof:hierarchy":[],
     "wof:id":504463561,
-    "wof:lastmodified":1468885848,
+    "wof:lastmodified":1564968787,
     "wof:name":"KW15 1GF",
     "wof:parent_id":404432629,
     "wof:placetype":"postalcode",
@@ -38,10 +45,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.975828947880858,
-    58.991550098833756,
-    -2.975828947880858,
-    58.991550098833756
+    -2.975829,
+    58.99155,
+    -2.975829,
+    58.99155
 ],
-  "geometry": {"coordinates":[-2.97582894788086,58.99155009883376],"type":"Point"}
+  "geometry": {"coordinates":[-2.975829,58.99155],"type":"Point"}
 }

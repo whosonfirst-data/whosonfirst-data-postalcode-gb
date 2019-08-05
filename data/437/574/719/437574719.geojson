@@ -2,14 +2,19 @@
   "id": 437574719,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"1990-12-01",
+    "date:cessation_upper":"1990-12-31",
+    "date:inception_lower":"1980-01-01",
+    "date:inception_upper":"1980-01-31",
+    "edtf:cessation":"1990-12-uu",
+    "edtf:inception":"1980-01-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-0.166301,51.456031,-0.166301,51.456031",
+    "geom:latitude":51.456031,
+    "geom:longitude":-0.166301,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
         85684039,
@@ -17,14 +22,15 @@
         404432463,
         "85633159",
         404227471,
-        101872501
+        101872501,
+        "101872501"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26625768"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"b856079c2c18a0d92a5cd540e19fcfdf",
     "wof:hierarchy":[
         {
             "continent_id":"102191581",
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":437574719,
-    "wof:lastmodified":1474570458,
+    "wof:lastmodified":1565008226,
     "wof:name":"SW11 6QR",
     "wof:parent_id":"101872501",
     "wof:placetype":"postalcode",
@@ -47,10 +53,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.166301,
+    51.456031,
+    -0.166301,
+    51.456031
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-0.166301,51.456031],"type":"Point"}
 }

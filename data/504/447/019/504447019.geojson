@@ -2,15 +2,18 @@
   "id": 504447019,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"1980-01-01",
+    "date:inception_upper":"1980-01-31",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:inception":"1980-01-uu",
     "geom:area":0.0,
-    "geom:bbox":"-4.63010730842,55.6172585469,-4.63010730842,55.6172585469",
+    "geom:bbox":"-4.630107,55.617259,-4.630107,55.617259",
     "geom:latitude":55.617259,
     "geom:longitude":-4.630107,
     "gp:parent_id":"12696203",
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "os:admin_county_code":"",
     "os:admin_distict_code":"S12000021",
     "os:admin_ward_code":"S13002705",
@@ -19,16 +22,18 @@
     "os:nhs_regional_ha_code":"",
     "os:positional_quality_indicator":"10",
     "src:geom":"os",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        404441385
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"27414707"
     },
     "wof:country":"GB",
-    "wof:geomhash":"a0e33fdeb99043ef3e47e7ebe63a6b20",
+    "wof:geomhash":"871cb26f433207cac6d3d4f2d953e941",
     "wof:hierarchy":[],
     "wof:id":504447019,
-    "wof:lastmodified":1468884700,
+    "wof:lastmodified":1564979816,
     "wof:name":"KA11 1JL",
     "wof:parent_id":404441385,
     "wof:placetype":"postalcode",
@@ -38,10 +43,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -4.630107308415702,
-    55.617258546892735,
-    -4.630107308415702,
-    55.617258546892735
+    -4.630107,
+    55.617259,
+    -4.630107,
+    55.617259
 ],
-  "geometry": {"coordinates":[-4.6301073084157,55.61725854689274],"type":"Point"}
+  "geometry": {"coordinates":[-4.630107,55.617259],"type":"Point"}
 }

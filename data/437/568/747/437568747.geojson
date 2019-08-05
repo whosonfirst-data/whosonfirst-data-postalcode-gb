@@ -2,14 +2,19 @@
   "id": 437568747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"1990-12-01",
+    "date:cessation_upper":"1990-12-31",
+    "date:inception_lower":"1981-06-01",
+    "date:inception_upper":"1981-06-30",
+    "edtf:cessation":"1990-12-uu",
+    "edtf:inception":"1981-06-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-0.132858,51.499566,-0.132858,51.499566",
+    "geom:latitude":51.499566,
+    "geom:longitude":-0.132858,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
         85860137,
@@ -18,14 +23,15 @@
         "85633159",
         404227469,
         101750367,
-        85684061
+        85684061,
+        "85860137"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26361486"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"d0e7f4fefd8789e99924e2da60b20a27",
     "wof:hierarchy":[
         {
             "continent_id":"102191581",
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":437568747,
-    "wof:lastmodified":1474570449,
+    "wof:lastmodified":1565017536,
     "wof:name":"SW1H 9BH",
     "wof:parent_id":"85860137",
     "wof:placetype":"postalcode",
@@ -49,10 +55,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.132858,
+    51.499566,
+    -0.132858,
+    51.499566
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-0.132858,51.499566],"type":"Point"}
 }

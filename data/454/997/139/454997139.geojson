@@ -2,15 +2,18 @@
   "id": 454997139,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"1980-01-01",
+    "date:inception_upper":"1980-01-31",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:inception":"1980-01-uu",
     "geom:area":0.0,
-    "geom:bbox":"-2.82909702113,54.070044107,-2.82909702113,54.070044107",
+    "geom:bbox":"-2.829097,54.070044,-2.829097,54.070044",
     "geom:latitude":54.070044,
     "geom:longitude":-2.829097,
     "gp:parent_id":"29313",
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "os:admin_county_code":"E10000017",
     "os:admin_distict_code":"E07000121",
     "os:admin_ward_code":"E05009614",
@@ -19,16 +22,18 @@
     "os:nhs_regional_ha_code":"E19000001",
     "os:positional_quality_indicator":"10",
     "src:geom":"os",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        404430699
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"27464608"
     },
     "wof:country":"GB",
-    "wof:geomhash":"046557b4e7f4c49b8b43be56b1ff708d",
+    "wof:geomhash":"a35d82cb2c3813062f0f7c6717e93c65",
     "wof:hierarchy":[],
     "wof:id":454997139,
-    "wof:lastmodified":1474572335,
+    "wof:lastmodified":1565011929,
     "wof:name":"LA4 6QB",
     "wof:parent_id":404430699,
     "wof:placetype":"postalcode",
@@ -38,10 +43,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.82909702112664,
-    54.07004410700409,
-    -2.82909702112664,
-    54.07004410700409
+    -2.829097,
+    54.070044,
+    -2.829097,
+    54.070044
 ],
-  "geometry": {"coordinates":[-2.82909702112664,54.07004410700409],"type":"Point"}
+  "geometry": {"coordinates":[-2.829097,54.070044],"type":"Point"}
 }

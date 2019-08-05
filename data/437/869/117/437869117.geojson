@@ -2,14 +2,19 @@
   "id": 437869117,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2003-03-01",
+    "date:cessation_upper":"2003-03-31",
+    "date:inception_lower":"1995-01-01",
+    "date:inception_upper":"1995-01-31",
+    "edtf:cessation":"2003-03-uu",
+    "edtf:inception":"1995-01-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-0.965338,50.871413,-0.965338,50.871413",
+    "geom:latitude":50.871413,
+    "geom:longitude":-0.965338,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
         85789861,
@@ -18,14 +23,15 @@
         "85633159",
         404227469,
         101750297,
-        85684127
+        85684127,
+        "85789861"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"28920402"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"81648f8502fc519dcd0f4a73346c636b",
     "wof:hierarchy":[
         {
             "continent_id":"102191581",
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":437869117,
-    "wof:lastmodified":1474570900,
+    "wof:lastmodified":1564963978,
     "wof:name":"PO9 5LX",
     "wof:parent_id":"85789861",
     "wof:placetype":"postalcode",
@@ -49,10 +55,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.965338,
+    50.871413,
+    -0.965338,
+    50.871413
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-0.965338,50.871413],"type":"Point"}
 }

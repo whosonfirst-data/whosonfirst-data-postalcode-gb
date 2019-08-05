@@ -2,26 +2,32 @@
   "id": 488174447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2010-10-01",
+    "date:cessation_upper":"2010-10-31",
+    "date:inception_lower":"2004-09-01",
+    "date:inception_upper":"2004-09-30",
+    "edtf:cessation":"2010-10-uu",
+    "edtf:inception":"2004-09-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-2.179546,52.215892,-2.179546,52.215892",
+    "geom:latitude":52.215892,
+    "geom:longitude":-2.179546,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85684259,
         85633159,
-        85786901
+        85684259,
+        85786901,
+        "85786901"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"28169281"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"cfcc94d8f41d68310f2a915ed9670ab8",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -31,7 +37,7 @@
         }
     ],
     "wof:id":488174447,
-    "wof:lastmodified":1474573921,
+    "wof:lastmodified":1564999363,
     "wof:name":"WR4 0WX",
     "wof:parent_id":"85786901",
     "wof:placetype":"postalcode",
@@ -41,10 +47,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -2.179546,
+    52.215892,
+    -2.179546,
+    52.215892
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-2.179546,52.215892],"type":"Point"}
 }

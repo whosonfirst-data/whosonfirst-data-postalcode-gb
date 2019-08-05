@@ -2,26 +2,32 @@
   "id": 437574903,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2000-06-01",
+    "date:cessation_upper":"2000-06-30",
+    "date:inception_lower":"1998-06-01",
+    "date:inception_upper":"1998-06-30",
+    "edtf:cessation":"2000-06-uu",
+    "edtf:inception":"1998-06-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-1.070124,53.783749,-1.070124,53.783749",
+    "geom:latitude":53.783749,
+    "geom:longitude":-1.070124,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85683689,
         85633159,
-        85790567
+        85683689,
+        85790567,
+        "85790567"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26630097"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"f32d9fb09a2f194fcab9dc59f492421d",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -31,7 +37,7 @@
         }
     ],
     "wof:id":437574903,
-    "wof:lastmodified":1474570459,
+    "wof:lastmodified":1564963393,
     "wof:name":"YO8 4HR",
     "wof:parent_id":"85790567",
     "wof:placetype":"postalcode",
@@ -41,10 +47,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -1.070124,
+    53.783749,
+    -1.070124,
+    53.783749
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-1.070124,53.783749],"type":"Point"}
 }

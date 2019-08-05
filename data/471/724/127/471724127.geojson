@@ -2,26 +2,32 @@
   "id": 471724127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2011-06-01",
+    "date:cessation_upper":"2011-06-30",
+    "date:inception_lower":"1980-01-01",
+    "date:inception_upper":"1980-01-31",
+    "edtf:cessation":"2011-06-uu",
+    "edtf:inception":"1980-01-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-0.048843,51.426716,-0.048843,51.426716",
+    "geom:latitude":51.426716,
+    "geom:longitude":-0.048843,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85683873,
         85633159,
-        85791139
+        85683873,
+        85791139,
+        "85791139"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"27899797"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"1e007a7eb5244dbc8ec7fa8cad30e65d",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -31,7 +37,7 @@
         }
     ],
     "wof:id":471724127,
-    "wof:lastmodified":1474573214,
+    "wof:lastmodified":1564961028,
     "wof:name":"SE26 4PE",
     "wof:parent_id":"85791139",
     "wof:placetype":"postalcode",
@@ -41,10 +47,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.048843,
+    51.426716,
+    -0.048843,
+    51.426716
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-0.048843,51.426716],"type":"Point"}
 }

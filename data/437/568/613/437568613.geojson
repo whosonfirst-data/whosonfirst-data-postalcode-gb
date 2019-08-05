@@ -2,14 +2,19 @@
   "id": 437568613,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2000-09-01",
+    "date:cessation_upper":"2000-09-30",
+    "date:inception_lower":"1986-04-01",
+    "date:inception_upper":"1986-04-30",
+    "edtf:cessation":"2000-09-uu",
+    "edtf:inception":"1986-04-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-0.123808,51.485564,-0.123808,51.485564",
+    "geom:latitude":51.485564,
+    "geom:longitude":-0.123808,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
         85861721,
@@ -18,14 +23,15 @@
         "85633159",
         404227469,
         101750367,
-        85684061
+        85684061,
+        "85861721"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26358625"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"e3935b302ff3b6ed40f292ad4bee59c7",
     "wof:hierarchy":[
         {
             "continent_id":"102191581",
@@ -39,7 +45,7 @@
         }
     ],
     "wof:id":437568613,
-    "wof:lastmodified":1474570449,
+    "wof:lastmodified":1564995334,
     "wof:name":"SW8 2XX",
     "wof:parent_id":"85861721",
     "wof:placetype":"postalcode",
@@ -49,10 +55,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.123808,
+    51.485564,
+    -0.123808,
+    51.485564
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-0.123808,51.485564],"type":"Point"}
 }

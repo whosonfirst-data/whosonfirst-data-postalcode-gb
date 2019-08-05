@@ -2,26 +2,32 @@
   "id": 471093203,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2013-05-01",
+    "date:cessation_upper":"2013-05-31",
+    "date:inception_lower":"1980-01-01",
+    "date:inception_upper":"1980-01-31",
+    "edtf:cessation":"2013-05-uu",
+    "edtf:inception":"1980-01-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-1.700655,55.409321,-1.700655,55.409321",
+    "geom:latitude":55.409321,
+    "geom:longitude":-1.700655,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85683999,
         85633159,
-        85788287
+        85683999,
+        85788287,
+        "85788287"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"27626044"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"6adb61c0536138a134aec5d2a9fe95cc",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -31,7 +37,7 @@
         }
     ],
     "wof:id":471093203,
-    "wof:lastmodified":1474572670,
+    "wof:lastmodified":1565021245,
     "wof:name":"NE66 1QL",
     "wof:parent_id":"85788287",
     "wof:placetype":"postalcode",
@@ -41,10 +47,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -1.700655,
+    55.409321,
+    -1.700655,
+    55.409321
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-1.700655,55.409321],"type":"Point"}
 }

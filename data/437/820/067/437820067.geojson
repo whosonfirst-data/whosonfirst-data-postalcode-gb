@@ -2,26 +2,32 @@
   "id": 437820067,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2004-09-01",
+    "date:cessation_upper":"2004-09-30",
+    "date:inception_lower":"2003-03-01",
+    "date:inception_upper":"2003-03-31",
+    "edtf:cessation":"2004-09-uu",
+    "edtf:inception":"2003-03-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-3.120876,54.174097,-3.120876,54.174097",
+    "geom:latitude":54.174097,
+    "geom:longitude":-3.120876,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85684335,
         85633159,
-        85791019
+        85684335,
+        85791019,
+        "85791019"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"28891763"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"ba1edbda288868602723cd350ea04e45",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -31,7 +37,7 @@
         }
     ],
     "wof:id":437820067,
-    "wof:lastmodified":1474570828,
+    "wof:lastmodified":1564987074,
     "wof:name":"LA12 0WX",
     "wof:parent_id":"85791019",
     "wof:placetype":"postalcode",
@@ -41,10 +47,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -3.120876,
+    54.174097,
+    -3.120876,
+    54.174097
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-3.120876,54.174097],"type":"Point"}
 }

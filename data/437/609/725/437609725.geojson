@@ -2,26 +2,32 @@
   "id": 437609725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2007-01-01",
+    "date:cessation_upper":"2007-01-31",
+    "date:inception_lower":"2007-01-01",
+    "date:inception_upper":"2007-01-31",
+    "edtf:cessation":"2007-01-uu",
+    "edtf:inception":"2007-01-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-0.761173,51.248742,-0.761173,51.248742",
+    "geom:latitude":51.248742,
+    "geom:longitude":-0.761173,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85683931,
         85633159,
-        85785195
+        85683931,
+        85785195,
+        "85785195"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"27322769"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"de263aae7a41d508175590edde66ce8a",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -31,7 +37,7 @@
         }
     ],
     "wof:id":437609725,
-    "wof:lastmodified":1474570510,
+    "wof:lastmodified":1564978176,
     "wof:name":"GU11 2EP",
     "wof:parent_id":"85785195",
     "wof:placetype":"postalcode",
@@ -41,10 +47,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.761173,
+    51.248742,
+    -0.761173,
+    51.248742
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-0.761173,51.248742],"type":"Point"}
 }

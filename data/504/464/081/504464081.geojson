@@ -2,15 +2,18 @@
   "id": 504464081,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"1980-01-01",
+    "date:inception_upper":"1980-01-31",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:inception":"1980-01-uu",
     "geom:area":0.0,
-    "geom:bbox":"-3.17355248114,59.0027252808,-3.17355248114,59.0027252808",
+    "geom:bbox":"-3.173552,59.002725,-3.173552,59.002725",
     "geom:latitude":59.002725,
     "geom:longitude":-3.173552,
     "gp:parent_id":"36079",
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "os:admin_county_code":"",
     "os:admin_distict_code":"S12000023",
     "os:admin_ward_code":"S13002735",
@@ -19,16 +22,18 @@
     "os:nhs_regional_ha_code":"",
     "os:positional_quality_indicator":"10",
     "src:geom":"os",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        404432629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"27433959"
     },
     "wof:country":"GB",
-    "wof:geomhash":"3ba48cb654d595f1130d2eb97523e391",
+    "wof:geomhash":"8737348856269e03fd55b282a82f1b3c",
     "wof:hierarchy":[],
     "wof:id":504464081,
-    "wof:lastmodified":1468885949,
+    "wof:lastmodified":1565001942,
     "wof:name":"KW16 3HG",
     "wof:parent_id":404432629,
     "wof:placetype":"postalcode",
@@ -38,10 +43,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -3.173552481143988,
-    59.002725280800824,
-    -3.173552481143988,
-    59.002725280800824
+    -3.173552,
+    59.002725,
+    -3.173552,
+    59.002725
 ],
-  "geometry": {"coordinates":[-3.17355248114399,59.00272528080082],"type":"Point"}
+  "geometry": {"coordinates":[-3.173552,59.002725],"type":"Point"}
 }

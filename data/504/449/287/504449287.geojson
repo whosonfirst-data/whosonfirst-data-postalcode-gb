@@ -2,14 +2,17 @@
   "id": 504449287,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"1980-01-01",
+    "date:inception_upper":"1980-01-31",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:inception":"1980-01-uu",
     "geom:area":0.0,
-    "geom:bbox":"-4.58820015318,55.7413557586,-4.58820015318,55.7413557586",
+    "geom:bbox":"-4.5882,55.741356,-4.5882,55.741356",
     "geom:latitude":55.741356,
     "geom:longitude":-4.5882,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "os:admin_county_code":"",
     "os:admin_distict_code":"S12000021",
     "os:admin_ward_code":"S13002709",
@@ -18,16 +21,18 @@
     "os:nhs_regional_ha_code":"",
     "os:positional_quality_indicator":"10",
     "src:geom":"os",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        404441385
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"27415935"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fb1488cd923f810547fbec7d97fbe098",
+    "wof:geomhash":"4d41e99403b027ebd48c31a46739d2b3",
     "wof:hierarchy":[],
     "wof:id":504449287,
-    "wof:lastmodified":1468884783,
+    "wof:lastmodified":1564995158,
     "wof:name":"KA15 1HT",
     "wof:parent_id":404441385,
     "wof:placetype":"postalcode",
@@ -37,10 +42,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -4.588200153183554,
-    55.74135575860275,
-    -4.588200153183554,
-    55.74135575860275
+    -4.5882,
+    55.741356,
+    -4.5882,
+    55.741356
 ],
-  "geometry": {"coordinates":[-4.58820015318355,55.74135575860275],"type":"Point"}
+  "geometry": {"coordinates":[-4.5882,55.741356],"type":"Point"}
 }

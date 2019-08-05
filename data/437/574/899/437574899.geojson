@@ -2,26 +2,32 @@
   "id": 437574899,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"1999-06-01",
+    "date:cessation_upper":"1999-06-30",
+    "date:inception_lower":"1998-06-01",
+    "date:inception_upper":"1998-06-30",
+    "edtf:cessation":"1999-06-uu",
+    "edtf:inception":"1998-06-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-1.06963,53.783413,-1.06963,53.783413",
+    "geom:latitude":53.783413,
+    "geom:longitude":-1.06963,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85683689,
         85633159,
-        85790567
+        85683689,
+        85790567,
+        "85790567"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26629991"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"95d16dffbdf91e72b2794616e0ad7719",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -31,7 +37,7 @@
         }
     ],
     "wof:id":437574899,
-    "wof:lastmodified":1474570459,
+    "wof:lastmodified":1564966189,
     "wof:name":"YO8 4DU",
     "wof:parent_id":"85790567",
     "wof:placetype":"postalcode",
@@ -41,10 +47,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -1.06963,
+    53.783413,
+    -1.06963,
+    53.783413
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-1.06963,53.783413],"type":"Point"}
 }

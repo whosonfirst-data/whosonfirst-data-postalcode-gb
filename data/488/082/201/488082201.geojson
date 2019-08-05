@@ -2,26 +2,32 @@
   "id": 488082201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2010-02-01",
+    "date:cessation_upper":"2010-02-28",
+    "date:inception_lower":"1990-07-01",
+    "date:inception_upper":"1990-07-31",
+    "edtf:cessation":"2010-02-uu",
+    "edtf:inception":"1990-07-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-2.77344,53.266025,-2.77344,53.266025",
+    "geom:latitude":53.266025,
+    "geom:longitude":-2.77344,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85683693,
         85633159,
-        85788345
+        85683693,
+        85788345,
+        "85788345"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"28136757"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"40cef0dfed833a930f6fa1cf1558f236",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -31,7 +37,7 @@
         }
     ],
     "wof:id":488082201,
-    "wof:lastmodified":1474573822,
+    "wof:lastmodified":1564967133,
     "wof:name":"WA6 0DG",
     "wof:parent_id":"85788345",
     "wof:placetype":"postalcode",
@@ -41,10 +47,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -2.77344,
+    53.266025,
+    -2.77344,
+    53.266025
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-2.77344,53.266025],"type":"Point"}
 }

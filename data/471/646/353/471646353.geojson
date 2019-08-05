@@ -2,26 +2,32 @@
   "id": 471646353,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2015-05-01",
+    "date:cessation_upper":"2015-05-31",
+    "date:inception_lower":"1980-01-01",
+    "date:inception_upper":"1980-01-31",
+    "edtf:cessation":"2015-05-uu",
+    "edtf:inception":"1980-01-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-1.429766,53.235874,-1.429766,53.235874",
+    "geom:latitude":53.235874,
+    "geom:longitude":-1.429766,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85684441,
         85633159,
-        85869847
+        85684441,
+        85869847,
+        "85869847"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"27851420"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"8a4a5991a6bbdeacb0e4edd29369237e",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -31,7 +37,7 @@
         }
     ],
     "wof:id":471646353,
-    "wof:lastmodified":1474573132,
+    "wof:lastmodified":1564985184,
     "wof:name":"S40 1TL",
     "wof:parent_id":"85869847",
     "wof:placetype":"postalcode",
@@ -41,10 +47,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -1.429766,
+    53.235874,
+    -1.429766,
+    53.235874
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-1.429766,53.235874],"type":"Point"}
 }

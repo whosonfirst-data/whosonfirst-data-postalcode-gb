@@ -2,26 +2,32 @@
   "id": 437580371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"1999-12-01",
+    "date:cessation_upper":"1999-12-31",
+    "date:inception_lower":"1980-01-01",
+    "date:inception_upper":"1980-01-31",
+    "edtf:cessation":"1999-12-uu",
+    "edtf:inception":"1980-01-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-0.511255,51.434508,-0.511255,51.434508",
+    "geom:latitude":51.434508,
+    "geom:longitude":-0.511255,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85684417,
         85633159,
-        85790701
+        85684417,
+        85790701,
+        "85790701"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26738904"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"e02da0bd1cd96559c5468bc041ca3d42",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -31,7 +37,7 @@
         }
     ],
     "wof:id":437580371,
-    "wof:lastmodified":1474570467,
+    "wof:lastmodified":1564964790,
     "wof:name":"TW18 4EB",
     "wof:parent_id":"85790701",
     "wof:placetype":"postalcode",
@@ -41,10 +47,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.511255,
+    51.434508,
+    -0.511255,
+    51.434508
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-0.511255,51.434508],"type":"Point"}
 }

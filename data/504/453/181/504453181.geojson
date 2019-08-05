@@ -2,14 +2,19 @@
   "id": 504453181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2018-06-01",
+    "date:cessation_upper":"2018-06-30",
+    "date:inception_lower":"1982-07-01",
+    "date:inception_upper":"1982-07-31",
+    "edtf:cessation":"2018-06-uu",
+    "edtf:inception":"1982-07-uu",
     "geom:area":0.0,
-    "geom:bbox":"-4.81557709969,55.6405013116,-4.81557709969,55.6405013116",
+    "geom:bbox":"-4.815577,55.640501,-4.815577,55.640501",
     "geom:latitude":55.640501,
     "geom:longitude":-4.815577,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "os:admin_county_code":"",
     "os:admin_distict_code":"S12000021",
     "os:admin_ward_code":"S13002708",
@@ -18,16 +23,18 @@
     "os:nhs_regional_ha_code":"",
     "os:positional_quality_indicator":"10",
     "src:geom":"os",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        404441385
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26610422"
     },
     "wof:country":"GB",
-    "wof:geomhash":"c30905c8c30ba0cbdafc1f007e1aa600",
+    "wof:geomhash":"2df821cdf9efbb4d3144e806094e9ff2",
     "wof:hierarchy":[],
     "wof:id":504453181,
-    "wof:lastmodified":1468884885,
+    "wof:lastmodified":1565004711,
     "wof:name":"KA22 8BT",
     "wof:parent_id":404441385,
     "wof:placetype":"postalcode",
@@ -37,10 +44,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -4.815577099686783,
-    55.64050131164365,
-    -4.815577099686783,
-    55.64050131164365
+    -4.815577,
+    55.640501,
+    -4.815577,
+    55.640501
 ],
-  "geometry": {"coordinates":[-4.81557709968678,55.64050131164365],"type":"Point"}
+  "geometry": {"coordinates":[-4.815577,55.640501],"type":"Point"}
 }

@@ -2,26 +2,32 @@
   "id": 437575711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2000-09-01",
+    "date:cessation_upper":"2000-09-30",
+    "date:inception_lower":"1997-06-01",
+    "date:inception_upper":"1997-06-30",
+    "edtf:cessation":"2000-09-uu",
+    "edtf:inception":"1997-06-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-0.961407,51.452731,-0.961407,51.452731",
+    "geom:latitude":51.452731,
+    "geom:longitude":-0.961407,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85683867,
         85633159,
-        85787285
+        85683867,
+        85787285,
+        "85787285"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26645729"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"0f2b0c1b4157a4ce8b90a22476da6a02",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -31,7 +37,7 @@
         }
     ],
     "wof:id":437575711,
-    "wof:lastmodified":1474570460,
+    "wof:lastmodified":1565015361,
     "wof:name":"RG1 4XX",
     "wof:parent_id":"85787285",
     "wof:placetype":"postalcode",
@@ -41,10 +47,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.961407,
+    51.452731,
+    -0.961407,
+    51.452731
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-0.961407,51.452731],"type":"Point"}
 }

@@ -2,14 +2,17 @@
   "id": 504455663,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"1980-01-01",
+    "date:inception_upper":"1980-01-31",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:inception":"1980-01-uu",
     "geom:area":0.0,
-    "geom:bbox":"-4.82987762128,55.7705321744,-4.82987762128,55.7705321744",
+    "geom:bbox":"-4.829878,55.770532,-4.829878,55.770532",
     "geom:latitude":55.770532,
     "geom:longitude":-4.829878,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "os:admin_county_code":"",
     "os:admin_distict_code":"S12000021",
     "os:admin_ward_code":"S13002711",
@@ -18,16 +21,18 @@
     "os:nhs_regional_ha_code":"",
     "os:positional_quality_indicator":"10",
     "src:geom":"os",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        404441385
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"27419139"
     },
     "wof:country":"GB",
-    "wof:geomhash":"99b1de6ca827e0436025610b021358af",
+    "wof:geomhash":"319727daf1cb4160f6160b172139626c",
     "wof:hierarchy":[],
     "wof:id":504455663,
-    "wof:lastmodified":1468884968,
+    "wof:lastmodified":1565020499,
     "wof:name":"KA29 0BH",
     "wof:parent_id":404441385,
     "wof:placetype":"postalcode",
@@ -37,10 +42,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -4.829877621282275,
-    55.7705321744084,
-    -4.829877621282275,
-    55.7705321744084
+    -4.829878,
+    55.770532,
+    -4.829878,
+    55.770532
 ],
-  "geometry": {"coordinates":[-4.82987762128228,55.7705321744084],"type":"Point"}
+  "geometry": {"coordinates":[-4.829878,55.770532],"type":"Point"}
 }

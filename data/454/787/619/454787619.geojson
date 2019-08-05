@@ -2,26 +2,32 @@
   "id": 454787619,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2016-01-01",
+    "date:cessation_upper":"2016-01-31",
+    "date:inception_lower":"1994-05-01",
+    "date:inception_upper":"1994-05-31",
+    "edtf:cessation":"2016-01-uu",
+    "edtf:inception":"1994-05-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-0.465557,51.736322,-0.465557,51.736322",
+    "geom:latitude":51.736322,
+    "geom:longitude":-0.465557,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85684331,
         85633159,
-        85787383
+        85684331,
+        85787383,
+        "85787383"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"27361954"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"984122b296eda751a2cd315477476591",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -31,7 +37,7 @@
         }
     ],
     "wof:id":454787619,
-    "wof:lastmodified":1474572123,
+    "wof:lastmodified":1564996628,
     "wof:name":"HP3 9QW",
     "wof:parent_id":"85787383",
     "wof:placetype":"postalcode",
@@ -41,10 +47,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.465557,
+    51.736322,
+    -0.465557,
+    51.736322
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-0.465557,51.736322],"type":"Point"}
 }

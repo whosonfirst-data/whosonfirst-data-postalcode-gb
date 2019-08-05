@@ -2,26 +2,32 @@
   "id": 437775249,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2004-01-01",
+    "date:cessation_upper":"2004-01-31",
+    "date:inception_lower":"1982-12-01",
+    "date:inception_upper":"1982-12-31",
+    "edtf:cessation":"2004-01-uu",
+    "edtf:inception":"1982-12-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-3.548037,55.081309,-3.548037,55.081309",
+    "geom:latitude":55.081309,
+    "geom:longitude":-3.548037,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85684075,
         85633159,
-        85789983
+        85684075,
+        85789983,
+        "85789983"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"28865761"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"bbb71c30ece9cf333077c7eb8e553f6c",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -31,7 +37,7 @@
         }
     ],
     "wof:id":437775249,
-    "wof:lastmodified":1474570760,
+    "wof:lastmodified":1564984992,
     "wof:name":"DG1 3PZ",
     "wof:parent_id":"85789983",
     "wof:placetype":"postalcode",
@@ -41,10 +47,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -3.548037,
+    55.081309,
+    -3.548037,
+    55.081309
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-3.548037,55.081309],"type":"Point"}
 }

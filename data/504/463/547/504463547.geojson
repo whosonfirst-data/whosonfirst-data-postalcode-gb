@@ -2,15 +2,18 @@
   "id": 504463547,
   "type": "Feature",
   "properties": {
+    "date:inception_lower":"1996-12-01",
+    "date:inception_upper":"1996-12-31",
     "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "edtf:inception":"1996-12-uu",
     "geom:area":0.0,
-    "geom:bbox":"-2.99976221213,58.986329157,-2.99976221213,58.986329157",
+    "geom:bbox":"-2.999762,58.986329,-2.999762,58.986329",
     "geom:latitude":58.986329,
     "geom:longitude":-2.999762,
     "gp:parent_id":"12696205",
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "os:admin_county_code":"",
     "os:admin_distict_code":"S12000023",
     "os:admin_ward_code":"S13002733",
@@ -19,16 +22,18 @@
     "os:nhs_regional_ha_code":"",
     "os:positional_quality_indicator":"10",
     "src:geom":"os",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        404432629
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"27433677"
     },
     "wof:country":"GB",
-    "wof:geomhash":"08969a5cdd17bf317c9c3b4914a4d061",
+    "wof:geomhash":"506a1a4a31a2fe52833eba6949790ba6",
     "wof:hierarchy":[],
     "wof:id":504463547,
-    "wof:lastmodified":1468885842,
+    "wof:lastmodified":1564992790,
     "wof:name":"KW15 1FP",
     "wof:parent_id":404432629,
     "wof:placetype":"postalcode",
@@ -38,10 +43,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -2.9997622121336556,
-    58.986329156984276,
-    -2.9997622121336556,
-    58.986329156984276
+    -2.999762,
+    58.986329,
+    -2.999762,
+    58.986329
 ],
-  "geometry": {"coordinates":[-2.99976221213366,58.98632915698428],"type":"Point"}
+  "geometry": {"coordinates":[-2.999762,58.986329],"type":"Point"}
 }

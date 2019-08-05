@@ -2,26 +2,32 @@
   "id": 438277123,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2014-06-01",
+    "date:cessation_upper":"2014-06-30",
+    "date:inception_lower":"1998-06-01",
+    "date:inception_upper":"1998-06-30",
+    "edtf:cessation":"2014-06-uu",
+    "edtf:inception":"1998-06-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-2.585773,51.462365,-2.585773,51.462365",
+    "geom:latitude":51.462365,
+    "geom:longitude":-2.585773,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85684235,
         85633159,
-        85787065
+        85684235,
+        85787065,
+        "85787065"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26953803"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"d63a42943ff06cec7261ab65469db8ec",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -31,7 +37,7 @@
         }
     ],
     "wof:id":438277123,
-    "wof:lastmodified":1474571373,
+    "wof:lastmodified":1565010325,
     "wof:name":"BS2 8FR",
     "wof:parent_id":"85787065",
     "wof:placetype":"postalcode",
@@ -41,10 +47,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -2.585773,
+    51.462365,
+    -2.585773,
+    51.462365
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-2.585773,51.462365],"type":"Point"}
 }

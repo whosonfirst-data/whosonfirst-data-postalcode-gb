@@ -2,14 +2,19 @@
   "id": 488339393,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2011-01-01",
+    "date:cessation_upper":"2011-01-31",
+    "date:inception_lower":"2008-11-01",
+    "date:inception_upper":"2008-11-30",
+    "edtf:cessation":"2011-01-uu",
+    "edtf:inception":"2008-11-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-1.485061,51.776831,-1.485061,51.776831",
+    "geom:latitude":51.776831,
+    "geom:longitude":-1.485061,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
         85683811,
@@ -17,14 +22,15 @@
         404433911,
         "85633159",
         404227469,
-        101874189
+        101874189,
+        "101874189"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"56167820"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"54ecc70d2f28ab8ad0a81c3ca850bc92",
     "wof:hierarchy":[
         {
             "continent_id":"102191581",
@@ -37,7 +43,7 @@
         }
     ],
     "wof:id":488339393,
-    "wof:lastmodified":1474574084,
+    "wof:lastmodified":1565008567,
     "wof:name":"OX28 9FR",
     "wof:parent_id":"101874189",
     "wof:placetype":"postalcode",
@@ -47,10 +53,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -1.485061,
+    51.776831,
+    -1.485061,
+    51.776831
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-1.485061,51.776831],"type":"Point"}
 }

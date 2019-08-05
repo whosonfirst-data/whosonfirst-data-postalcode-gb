@@ -2,26 +2,32 @@
   "id": 471829553,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2015-01-01",
+    "date:cessation_upper":"2015-01-31",
+    "date:inception_lower":"1995-07-01",
+    "date:inception_upper":"1995-07-31",
+    "edtf:cessation":"2015-01-uu",
+    "edtf:inception":"1995-07-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-0.168995,51.346534,-0.168995,51.346534",
+    "geom:latitude":51.346534,
+    "geom:longitude":-0.168995,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85683873,
         85633159,
-        85791139
+        85683873,
+        85791139,
+        "85791139"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"27936968"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"713edc5b0992f30ddef2fbb2fb1cc0f4",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -31,7 +37,7 @@
         }
     ],
     "wof:id":471829553,
-    "wof:lastmodified":1474573339,
+    "wof:lastmodified":1564984416,
     "wof:name":"SM5 4NN",
     "wof:parent_id":"85791139",
     "wof:placetype":"postalcode",
@@ -41,10 +47,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -0.168995,
+    51.346534,
+    -0.168995,
+    51.346534
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-0.168995,51.346534],"type":"Point"}
 }

@@ -2,26 +2,32 @@
   "id": 471331661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2011-05-01",
+    "date:cessation_upper":"2011-05-31",
+    "date:inception_lower":"2001-06-01",
+    "date:inception_upper":"2001-06-30",
+    "edtf:cessation":"2011-05-uu",
+    "edtf:inception":"2001-06-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-1.487971,51.783551,-1.487971,51.783551",
+    "geom:latitude":51.783551,
+    "geom:longitude":-1.487971,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85683867,
         85633159,
-        85785875
+        85683867,
+        85785875,
+        "85785875"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"26672119"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"56fd6e175b8bb2b32479194f4c3c43b7",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -31,7 +37,7 @@
         }
     ],
     "wof:id":471331661,
-    "wof:lastmodified":1474572864,
+    "wof:lastmodified":1565021330,
     "wof:name":"OX28 6BW",
     "wof:parent_id":"85785875",
     "wof:placetype":"postalcode",
@@ -41,10 +47,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -1.487971,
+    51.783551,
+    -1.487971,
+    51.783551
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-1.487971,51.783551],"type":"Point"}
 }

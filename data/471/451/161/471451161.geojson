@@ -2,26 +2,32 @@
   "id": 471451161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
+    "date:cessation_lower":"2015-12-01",
+    "date:cessation_upper":"2015-12-31",
+    "date:inception_lower":"1983-03-01",
+    "date:inception_upper":"1983-03-31",
+    "edtf:cessation":"2015-12-uu",
+    "edtf:inception":"1983-03-uu",
     "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
+    "geom:bbox":"-1.181117,50.852758,-1.181117,50.852758",
+    "geom:latitude":50.852758,
+    "geom:longitude":-1.181117,
     "iso:country":"GB",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "src:geom":"geoplanet",
     "wof:belongsto":[
-        85683773,
         85633159,
-        85790877
+        85683773,
+        85790877,
+        "85790877"
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":"27781744"
     },
     "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:geomhash":"1ab57a396a9bf5130220bcbaff1e86c5",
     "wof:hierarchy":[
         {
             "country_id":85633159,
@@ -31,7 +37,7 @@
         }
     ],
     "wof:id":471451161,
-    "wof:lastmodified":1474572954,
+    "wof:lastmodified":1564965301,
     "wof:name":"PO16 0DY",
     "wof:parent_id":"85790877",
     "wof:placetype":"postalcode",
@@ -41,10 +47,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
+    -1.181117,
+    50.852758,
+    -1.181117,
+    50.852758
 ],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+  "geometry": {"coordinates":[-1.181117,50.852758],"type":"Point"}
 }
