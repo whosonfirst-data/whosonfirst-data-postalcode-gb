@@ -1,61 +1,46 @@
 {
-  "id": 874432339,
   "type": "Feature",
+  "id": 874432339,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-2.99459677446,53.3353901992,-2.99459677446,53.3353901992",
-    "geom:latitude":53.33539,
-    "geom:longitude":-2.994597,
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"E08000015",
-    "os:admin_ward_code":"E05000958",
-    "os:country_code":"E92000001",
-    "os:nhs_ha_code":"E18000002",
-    "os:nhs_regional_ha_code":"E19000001",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[
-        85684519,
-        "102191581",
-        404452723,
-        "85633159",
-        404227469,
-        101750549
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2010-10-01",
+    "geom:area": 0,
+    "geom:bbox": "-2.994597,53.335390,-2.994597,53.335390",
+    "geom:latitude": 53.33539,
+    "geom:longitude": -2.994597,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E99999999",
+    "os:district_code": "E08000015",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000002",
+    "src:geom": "os",
+    "wof:belongsto": [101750549, 404227469, 1360698573, 85633159, 1360699049],
+    "wof:breaches": [],
+    "wof:country": "GB",
+    "wof:created": 1468876261,
+    "wof:geomhash": "701ce66a2a325ca5c67968860ba1bcfa",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360699049,
+        "locality_id": 101750549,
+        "macroregion_id": 404227469,
+        "region_id": 1360698573
+      }
     ],
-    "wof:breaches":[],
-    "wof:country":"GB",
-    "wof:created":1468876261,
-    "wof:geomhash":"0322c7585df7c2b03ba681c95be21b64",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404452723,
-            "locality_id":101750549,
-            "macroregion_id":404227469,
-            "postalcode_id":874432339,
-            "region_id":85684519
-        }
-    ],
-    "wof:id":874432339,
-    "wof:lastmodified":1468876261,
-    "wof:name":"CH63 9AY",
-    "wof:parent_id":101750549,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    -2.9945967744604123,
-    53.335390199206515,
-    -2.9945967744604123,
-    53.335390199206515
-],
-  "geometry": {"coordinates":[-2.99459677446041,53.33539019920651],"type":"Point"}
+    "wof:id": 874432339,
+    "wof:lastmodified": 1566242047,
+    "wof:name": "CH63 9AY",
+    "wof:parent_id": 101750549,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-2.994597, 53.33539, -2.994597, 53.33539],
+  "geometry": {"coordinates":[-2.994597,53.33539],"type":"Point"}
 }

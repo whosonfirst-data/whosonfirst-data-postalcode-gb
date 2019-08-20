@@ -1,62 +1,48 @@
 {
-  "id": 487900411,
   "type": "Feature",
+  "id": 487900411,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-3.56776565901,50.3503790533,-3.56776565901,50.3503790533",
-    "geom:latitude":50.350379,
-    "geom:longitude":-3.567766,
-    "gp:parent_id":"25220",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"E10000008",
-    "os:admin_distict_code":"E07000044",
-    "os:admin_ward_code":"E05010133",
-    "os:country_code":"E92000001",
-    "os:nhs_ha_code":"E18000010",
-    "os:nhs_regional_ha_code":"E19000002",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[
-        85683773,
-        "102191581",
-        404448855,
-        "85633159",
-        404227469
-    ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"28071023"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-3.567766,50.350379,-3.567766,50.350379",
+    "geom:latitude": 50.350379,
+    "geom:longitude": -3.567766,
+    "gp:parent_id": "25220",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E10000008",
+    "os:district_code": "E07000044",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000009",
+    "src:geom": "os",
+    "wof:belongsto": [1125910193, 1360698541, 404448855],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "28071023"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"c2637326b7dc17190618c37a43ee6780",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404448855,
-            "macroregion_id":404227469,
-            "postalcode_id":487900411,
-            "region_id":85683773
-        }
+    "wof:country": "GB",
+    "wof:created": 1566240933,
+    "wof:geomhash": "39a8b1bdee20678e5fb24796684dd5f3",
+    "wof:hierarchy": [
+      {
+        "localadmin_id": 404448855,
+        "locality_id": 1125910193,
+        "region_id": 1360698541
+      }
     ],
-    "wof:id":487900411,
-    "wof:lastmodified":1474573651,
-    "wof:name":"TQ6 0AP",
-    "wof:parent_id":404448855,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    -3.56776565900569,
-    50.35037905325873,
-    -3.56776565900569,
-    50.35037905325873
-],
-  "geometry": {"coordinates":[-3.56776565900569,50.35037905325873],"type":"Point"}
+    "wof:id": 487900411,
+    "wof:lastmodified": 1566240933,
+    "wof:name": "TQ6 0AP",
+    "wof:parent_id": 404448855,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-3.567766, 50.350379, -3.567766, 50.350379],
+  "geometry": {"coordinates":[-3.567766,50.350379],"type":"Point"}
 }

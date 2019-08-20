@@ -1,40 +1,58 @@
 {
-  "id": 437772927,
   "type": "Feature",
+  "id": 437772927,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
-    "gp:parent_id":"16044",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"28864554"
+    "edtf:cessation": "2003-09-01",
+    "edtf:inception": "2002-05-01",
+    "geom:area": 0,
+    "geom:bbox": "-1.583122,52.768718,-1.583122,52.768718",
+    "geom:latitude": 52.768718,
+    "geom:longitude": -1.583122,
+    "gp:parent_id": "16044",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "os:country_code": "E92000001",
+    "os:county_code": "E10000007",
+    "os:district_code": "E07000039",
+    "os:positional_quality_indicator": "5",
+    "os:region_code": "E12000004",
+    "src:geom": "os",
+    "wof:belongsto": [
+      1360817119, 
+      101853671, 
+      404227469, 
+      1360698539, 
+      85633159, 
+      1360698765
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "28864554"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
-    "wof:id":437772927,
-    "wof:lastmodified":1474570757,
-    "wof:name":"DE11 9WA",
-    "wof:parent_id":-1,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
-],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+    "wof:country": "GB",
+    "wof:created": 1566241117,
+    "wof:geomhash": "63bdfde796e8fc108d2e8a64ddd0a024",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698765,
+        "localadmin_id": 1360817119,
+        "locality_id": 101853671,
+        "macroregion_id": 404227469,
+        "region_id": 1360698539
+      }
+    ],
+    "wof:id": 437772927,
+    "wof:lastmodified": 1566241117,
+    "wof:name": "DE11 9WA",
+    "wof:parent_id": -1,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-1.583122, 52.768718, -1.583122, 52.768718],
+  "geometry": {"coordinates":[-1.583122,52.768718],"type":"Point"}
 }

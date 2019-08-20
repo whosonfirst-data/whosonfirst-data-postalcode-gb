@@ -1,61 +1,49 @@
 {
-  "id": 488557453,
   "type": "Feature",
+  "id": 488557453,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-3.18869920149,57.4772109533,-3.18869920149,57.4772109533",
-    "geom:latitude":57.477211,
-    "geom:longitude":-3.188699,
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"S12000020",
-    "os:admin_ward_code":"S13002696",
-    "os:country_code":"S92000003",
-    "os:nhs_ha_code":"S08000020",
-    "os:nhs_regional_ha_code":"",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[
-        85683887,
-        "102191581",
-        404446793,
-        "85633159",
-        404227471
-    ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"26836382"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1990-08-01",
+    "geom:area": 0,
+    "geom:bbox": "-3.188699,57.477211,-3.188699,57.477211",
+    "geom:latitude": 57.477211,
+    "geom:longitude": -3.188699,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "S92000003",
+    "os:county_code": "S99999999",
+    "os:district_code": "S12000020",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "S99999999",
+    "src:geom": "os",
+    "wof:belongsto": [85633159, 1360698869, 404446793, 404227471, 1360698715],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "26836382"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"dd47268728f763c0508059f8c8a1cde1",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404446793,
-            "macroregion_id":404227471,
-            "postalcode_id":488557453,
-            "region_id":85683887
-        }
+    "wof:country": "GB",
+    "wof:created": 1566242522,
+    "wof:geomhash": "f53bd8933cdb8b92dc691d23827255c6",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698869,
+        "localadmin_id": 404446793,
+        "macroregion_id": 404227471,
+        "region_id": 1360698715
+      }
     ],
-    "wof:id":488557453,
-    "wof:lastmodified":1468873821,
-    "wof:name":"AB55 4BW",
-    "wof:parent_id":404446793,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    -3.188699201485149,
-    57.47721095330003,
-    -3.188699201485149,
-    57.47721095330003
-],
-  "geometry": {"coordinates":[-3.18869920148515,57.47721095330003],"type":"Point"}
+    "wof:id": 488557453,
+    "wof:lastmodified": 1566242522,
+    "wof:name": "AB55 4BW",
+    "wof:parent_id": 404446793,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-3.188699, 57.477211, -3.188699, 57.477211],
+  "geometry": {"coordinates":[-3.188699,57.477211],"type":"Point"}
 }

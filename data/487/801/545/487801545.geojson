@@ -1,64 +1,50 @@
 {
-  "id": 487801545,
   "type": "Feature",
+  "id": 487801545,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-3.09782287779,51.0329780606,-3.09782287779,51.0329780606",
-    "geom:latitude":51.032978,
-    "geom:longitude":-3.097823,
-    "gp:parent_id":"37024",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"E10000027",
-    "os:admin_distict_code":"E07000190",
-    "os:admin_ward_code":"E05006877",
-    "os:country_code":"E92000001",
-    "os:nhs_ha_code":"E18000010",
-    "os:nhs_regional_ha_code":"E19000002",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[
-        85684013,
-        "102191581",
-        404452473,
-        "85633159",
-        404227469,
-        101751591
-    ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"28029759"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-3.097823,51.032978,-3.097823,51.032978",
+    "geom:latitude": 51.032978,
+    "geom:longitude": -3.097823,
+    "gp:parent_id": "37024",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E10000027",
+    "os:district_code": "E07000246",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000009",
+    "src:geom": "os",
+    "wof:belongsto": [85633159, 1360699059, 101751591, 404227469, 1360698589],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "28029759"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"7240c0075f6554c6db666396dbd7e7e7",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404452473,
-            "locality_id":101751591,
-            "macroregion_id":404227469,
-            "postalcode_id":487801545,
-            "region_id":85684013
-        }
+    "wof:country": "GB",
+    "wof:created": 1566240711,
+    "wof:geomhash": "b100083ce6e5a05b6daab58509c16d60",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360699059,
+        "locality_id": 101751591,
+        "macroregion_id": 404227469,
+        "region_id": 1360698589
+      }
     ],
-    "wof:id":487801545,
-    "wof:lastmodified":1474573568,
-    "wof:name":"TA2 7JA",
-    "wof:parent_id":101751591,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    -3.09782287779341,
-    51.03297806064992,
-    -3.09782287779341,
-    51.03297806064992
-],
-  "geometry": {"coordinates":[-3.09782287779341,51.03297806064992],"type":"Point"}
+    "wof:id": 487801545,
+    "wof:lastmodified": 1566240711,
+    "wof:name": "TA2 7JA",
+    "wof:parent_id": 101751591,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-3.097823, 51.032978, -3.097823, 51.032978],
+  "geometry": {"coordinates":[-3.097823,51.032978],"type":"Point"}
 }

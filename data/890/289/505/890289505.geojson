@@ -1,61 +1,46 @@
 {
-  "id": 890289505,
   "type": "Feature",
+  "id": 890289505,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-1.07131157568,53.9662191062,-1.07131157568,53.9662191062",
-    "geom:latitude":53.966219,
-    "geom:longitude":-1.071312,
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"E06000014",
-    "os:admin_ward_code":"E05010320",
-    "os:country_code":"E92000001",
-    "os:nhs_ha_code":"E18000003",
-    "os:nhs_regional_ha_code":"E19000001",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[
-        85683703,
-        "102191581",
-        404453233,
-        "85633159",
-        404227469,
-        101751641
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2010-08-01",
+    "geom:area": 0,
+    "geom:bbox": "-1.071312,53.966219,-1.071312,53.966219",
+    "geom:latitude": 53.966219,
+    "geom:longitude": -1.071312,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E99999999",
+    "os:district_code": "E06000014",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000003",
+    "src:geom": "os",
+    "wof:belongsto": [85633159, 1360698977, 101751641, 404227469, 1360698619],
+    "wof:breaches": [],
+    "wof:country": "GB",
+    "wof:created": 1468904540,
+    "wof:geomhash": "acc373c4f592287666947a25d4374573",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698977,
+        "locality_id": 101751641,
+        "macroregion_id": 404227469,
+        "region_id": 1360698619
+      }
     ],
-    "wof:breaches":[],
-    "wof:country":"GB",
-    "wof:created":1468904540,
-    "wof:geomhash":"1cf3c0ef5557a5b48b8dae30669c8c22",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404453233,
-            "locality_id":101751641,
-            "macroregion_id":404227469,
-            "postalcode_id":890289505,
-            "region_id":85683703
-        }
-    ],
-    "wof:id":890289505,
-    "wof:lastmodified":1468904540,
-    "wof:name":"YO31 7SL",
-    "wof:parent_id":101751641,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    -1.0713115756761762,
-    53.966219106186834,
-    -1.0713115756761762,
-    53.966219106186834
-],
-  "geometry": {"coordinates":[-1.07131157567618,53.96621910618683],"type":"Point"}
+    "wof:id": 890289505,
+    "wof:lastmodified": 1566242303,
+    "wof:name": "YO31 7SL",
+    "wof:parent_id": 101751641,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-1.071312, 53.966219, -1.071312, 53.966219],
+  "geometry": {"coordinates":[-1.071312,53.966219],"type":"Point"}
 }

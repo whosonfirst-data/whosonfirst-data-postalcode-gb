@@ -1,63 +1,49 @@
 {
-  "id": 488124883,
   "type": "Feature",
+  "id": 488124883,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-1.63409488047,53.6934001127,-1.63409488047,53.6934001127",
-    "geom:latitude":53.6934,
-    "geom:longitude":-1.634095,
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"E08000034",
-    "os:admin_ward_code":"E05001398",
-    "os:country_code":"E92000001",
-    "os:nhs_ha_code":"E18000003",
-    "os:nhs_regional_ha_code":"E19000001",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[
-        85684435,
-        "102191581",
-        404439289,
-        "85633159",
-        404227469,
-        101750569
-    ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"28151836"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-1.634095,53.693400,-1.634095,53.693400",
+    "geom:latitude": 53.6934,
+    "geom:longitude": -1.634095,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E99999999",
+    "os:district_code": "E08000034",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000003",
+    "src:geom": "os",
+    "wof:belongsto": [1360698917, 101750569, 404227469, 1360698609, 85633159],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "28151836"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"cc9c633f47d6e5c2fccb8152462309ef",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404439289,
-            "locality_id":101750569,
-            "macroregion_id":404227469,
-            "postalcode_id":488124883,
-            "region_id":85684435
-        }
+    "wof:country": "GB",
+    "wof:created": 1566241455,
+    "wof:geomhash": "f42994ca55b24dfa14b6603dfc125b7b",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698917,
+        "locality_id": 101750569,
+        "macroregion_id": 404227469,
+        "region_id": 1360698609
+      }
     ],
-    "wof:id":488124883,
-    "wof:lastmodified":1468903878,
-    "wof:name":"WF13 2PL",
-    "wof:parent_id":101750569,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    -1.634094880465807,
-    53.69340011267423,
-    -1.634094880465807,
-    53.69340011267423
-],
-  "geometry": {"coordinates":[-1.63409488046581,53.69340011267423],"type":"Point"}
+    "wof:id": 488124883,
+    "wof:lastmodified": 1566241455,
+    "wof:name": "WF13 2PL",
+    "wof:parent_id": 101750569,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-1.634095, 53.6934, -1.634095, 53.6934],
+  "geometry": {"coordinates":[-1.634095,53.6934],"type":"Point"}
 }

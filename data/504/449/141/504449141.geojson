@@ -1,47 +1,50 @@
 {
-  "id": 504449141,
   "type": "Feature",
+  "id": 504449141,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-4.65638496131,55.7355850229,-4.65638496131,55.7355850229",
-    "geom:latitude":55.735585,
-    "geom:longitude":-4.656385,
-    "gp:parent_id":"12696203",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"S12000021",
-    "os:admin_ward_code":"S13002709",
-    "os:country_code":"S92000003",
-    "os:nhs_ha_code":"S08000015",
-    "os:nhs_regional_ha_code":"",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27415865"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-4.656385,55.735585,-4.656385,55.735585",
+    "geom:latitude": 55.735585,
+    "geom:longitude": -4.656385,
+    "gp:parent_id": "12696203",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "S92000003",
+    "os:county_code": "S99999999",
+    "os:district_code": "S12000021",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "S99999999",
+    "src:geom": "os",
+    "wof:belongsto": [404227471, 1360698697, 85633159, 1360698855, 404441385],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27415865"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"05b82a9c1fd3ceab3b7fdaac36cc242f",
-    "wof:hierarchy":[],
-    "wof:id":504449141,
-    "wof:lastmodified":1468884777,
-    "wof:name":"KA14 3BT",
-    "wof:parent_id":404441385,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    -4.656384961312982,
-    55.73558502291238,
-    -4.656384961312982,
-    55.73558502291238
-],
-  "geometry": {"coordinates":[-4.65638496131298,55.73558502291238],"type":"Point"}
+    "wof:country": "GB",
+    "wof:created": 1566241876,
+    "wof:geomhash": "89697d1d0c191f8b7a839c988ccfceae",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698855,
+        "localadmin_id": 404441385,
+        "macroregion_id": 404227471,
+        "region_id": 1360698697
+      }
+    ],
+    "wof:id": 504449141,
+    "wof:lastmodified": 1566241876,
+    "wof:name": "KA14 3BT",
+    "wof:parent_id": 404441385,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-4.656385, 55.735585, -4.656385, 55.735585],
+  "geometry": {"coordinates":[-4.656385,55.735585],"type":"Point"}
 }

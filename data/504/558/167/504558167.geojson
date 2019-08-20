@@ -1,47 +1,50 @@
 {
-  "id": 504558167,
   "type": "Feature",
+  "id": 504558167,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-4.88207897483,55.8707876756,-4.88207897483,55.8707876756",
-    "geom:latitude":55.870788,
-    "geom:longitude":-4.882079,
-    "gp:parent_id":"12696203",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"S12000021",
-    "os:admin_ward_code":"S13002711",
-    "os:country_code":"S92000003",
-    "os:nhs_ha_code":"S08000015",
-    "os:nhs_regional_ha_code":"",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27732581"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-4.882079,55.870788,-4.882079,55.870788",
+    "geom:latitude": 55.870788,
+    "geom:longitude": -4.882079,
+    "gp:parent_id": "12696203",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "S92000003",
+    "os:county_code": "S99999999",
+    "os:district_code": "S12000021",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "S99999999",
+    "src:geom": "os",
+    "wof:belongsto": [404227471, 1360698697, 85633159, 1360698855, 404441385],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27732581"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"a2acc5fbb98f7334ccb00f2b950677d6",
-    "wof:hierarchy":[],
-    "wof:id":504558167,
-    "wof:lastmodified":1468892343,
-    "wof:name":"PA17 5BA",
-    "wof:parent_id":404441385,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    -4.88207897482886,
-    55.870787675593476,
-    -4.88207897482886,
-    55.870787675593476
-],
-  "geometry": {"coordinates":[-4.88207897482886,55.87078767559348],"type":"Point"}
+    "wof:country": "GB",
+    "wof:created": 1566242165,
+    "wof:geomhash": "cd77e32b6f882de1c9beca48558ae2f9",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698855,
+        "localadmin_id": 404441385,
+        "macroregion_id": 404227471,
+        "region_id": 1360698697
+      }
+    ],
+    "wof:id": 504558167,
+    "wof:lastmodified": 1566242165,
+    "wof:name": "PA17 5BA",
+    "wof:parent_id": 404441385,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-4.882079, 55.870788, -4.882079, 55.870788],
+  "geometry": {"coordinates":[-4.882079,55.870788],"type":"Point"}
 }

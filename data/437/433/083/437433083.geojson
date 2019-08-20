@@ -1,40 +1,58 @@
 {
-  "id": 437433083,
   "type": "Feature",
+  "id": 437433083,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
-    "gp:parent_id":"24855",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27014986"
+    "edtf:cessation": "2008-01-01",
+    "edtf:inception": "2007-12-01",
+    "geom:area": 0,
+    "geom:bbox": "-3.126340,54.602836,-3.126340,54.602836",
+    "geom:latitude": 54.602836,
+    "geom:longitude": -3.12634,
+    "gp:parent_id": "24855",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "os:country_code": "E92000001",
+    "os:county_code": "E10000006",
+    "os:district_code": "E07000026",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000002",
+    "src:geom": "os",
+    "wof:belongsto": [
+      404227469, 
+      1360698721, 
+      85633159, 
+      1360698877, 
+      404440643, 
+      101873415
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27014986"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
-    "wof:id":437433083,
-    "wof:lastmodified":1474570073,
-    "wof:name":"CA12 5YB",
-    "wof:parent_id":-1,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
-],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+    "wof:country": "GB",
+    "wof:created": 1566243013,
+    "wof:geomhash": "b322a8372e5ced365621731187c284b4",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698877,
+        "localadmin_id": 404440643,
+        "locality_id": 101873415,
+        "macroregion_id": 404227469,
+        "region_id": 1360698721
+      }
+    ],
+    "wof:id": 437433083,
+    "wof:lastmodified": 1566243013,
+    "wof:name": "CA12 5YB",
+    "wof:parent_id": -1,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-3.12634, 54.602836, -3.12634, 54.602836],
+  "geometry": {"coordinates":[-3.12634,54.602836],"type":"Point"}
 }

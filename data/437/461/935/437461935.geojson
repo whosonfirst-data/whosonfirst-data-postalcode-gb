@@ -1,40 +1,50 @@
 {
-  "id": 437461935,
   "type": "Feature",
+  "id": 437461935,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
-    "gp:parent_id":"32185",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27764038"
+    "edtf:cessation": "2008-12-01",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-4.146202,50.365630,-4.146202,50.365630",
+    "geom:latitude": 50.36563,
+    "geom:longitude": -4.146202,
+    "gp:parent_id": "32185",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "os:country_code": "E92000001",
+    "os:county_code": "E99999999",
+    "os:district_code": "E06000026",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000009",
+    "src:geom": "os",
+    "wof:belongsto": [101750297, 404227469, 1360698541, 85633159, 1360698841],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27764038"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
-    "wof:id":437461935,
-    "wof:lastmodified":1474570115,
-    "wof:name":"PL1 2PT",
-    "wof:parent_id":-1,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
-],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+    "wof:country": "GB",
+    "wof:created": 1566240401,
+    "wof:geomhash": "b8856af921dc35907c8dadc186ca170d",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698841,
+        "locality_id": 101750297,
+        "macroregion_id": 404227469,
+        "region_id": 1360698541
+      }
+    ],
+    "wof:id": 437461935,
+    "wof:lastmodified": 1566240401,
+    "wof:name": "PL1 2PT",
+    "wof:parent_id": -1,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-4.146202, 50.36563, -4.146202, 50.36563],
+  "geometry": {"coordinates":[-4.146202,50.36563],"type":"Point"}
 }

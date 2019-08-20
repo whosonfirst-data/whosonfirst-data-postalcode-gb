@@ -1,64 +1,47 @@
 {
-  "id": 471439075,
   "type": "Feature",
+  "id": 471439075,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-4.10855926954,50.3535918847,-4.10855926954,50.3535918847",
-    "geom:latitude":50.353592,
-    "geom:longitude":-4.108559,
-    "gp:parent_id":"32185",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"E06000026",
-    "os:admin_ward_code":"E05002092",
-    "os:country_code":"E92000001",
-    "os:nhs_ha_code":"E18000010",
-    "os:nhs_regional_ha_code":"E19000002",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[
-        85684127,
-        "102191581",
-        404449629,
-        "85633159",
-        404227469,
-        101750297
-    ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27777682"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-4.108559,50.353592,-4.108559,50.353592",
+    "geom:latitude": 50.353592,
+    "geom:longitude": -4.108559,
+    "gp:parent_id": "32185",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E99999999",
+    "os:district_code": "E06000026",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000009",
+    "src:geom": "os",
+    "wof:belongsto": [101750297, 1360698541],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27777682"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"dbef1de215ce46ac8eb2e32abae1ddd6",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404449629,
-            "locality_id":101750297,
-            "macroregion_id":404227469,
-            "postalcode_id":471439075,
-            "region_id":85684127
-        }
+    "wof:country": "GB",
+    "wof:created": 1566241238,
+    "wof:geomhash": "27ef154a9df21dbf5ba705b8c0b4f9a2",
+    "wof:hierarchy": [
+      {
+        "locality_id": 101750297,
+        "region_id": 1360698541
+      }
     ],
-    "wof:id":471439075,
-    "wof:lastmodified":1474572947,
-    "wof:name":"PL9 9PW",
-    "wof:parent_id":101750297,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    -4.10855926953656,
-    50.3535918846797,
-    -4.10855926953656,
-    50.3535918846797
-],
-  "geometry": {"coordinates":[-4.10855926953656,50.3535918846797],"type":"Point"}
+    "wof:id": 471439075,
+    "wof:lastmodified": 1566241238,
+    "wof:name": "PL9 9PW",
+    "wof:parent_id": 101750297,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-4.108559, 50.353592, -4.108559, 50.353592],
+  "geometry": {"coordinates":[-4.108559,50.353592],"type":"Point"}
 }

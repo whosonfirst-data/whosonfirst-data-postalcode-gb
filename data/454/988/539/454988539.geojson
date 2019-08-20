@@ -1,46 +1,57 @@
 {
-  "id": 454988539,
   "type": "Feature",
+  "id": 454988539,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-3.21020223478,54.1901562992,-3.21020223478,54.1901562992",
-    "geom:latitude":54.190156,
-    "geom:longitude":-3.210202,
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"E10000006",
-    "os:admin_distict_code":"E07000027",
-    "os:admin_ward_code":"E05003147",
-    "os:country_code":"E92000001",
-    "os:nhs_ha_code":"E18000002",
-    "os:nhs_regional_ha_code":"E19000001",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27461408"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1990-02-01",
+    "geom:area": 0,
+    "geom:bbox": "-3.210202,54.190156,-3.210202,54.190156",
+    "geom:latitude": 54.190156,
+    "geom:longitude": -3.210202,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E10000006",
+    "os:district_code": "E07000027",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000002",
+    "src:geom": "os",
+    "wof:belongsto": [
+      1360698721, 
+      85633159, 
+      1360698877, 
+      404445115, 
+      1360759205, 
+      404227469
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27461408"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"3a72c46000f4307ee71b54fa0d3be3f0",
-    "wof:hierarchy":[],
-    "wof:id":454988539,
-    "wof:lastmodified":1468886528,
-    "wof:name":"LA16 7JA",
-    "wof:parent_id":404445115,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    -3.2102022347849215,
-    54.19015629922047,
-    -3.2102022347849215,
-    54.19015629922047
-],
-  "geometry": {"coordinates":[-3.21020223478492,54.19015629922047],"type":"Point"}
+    "wof:country": "GB",
+    "wof:created": 1566241975,
+    "wof:geomhash": "375fbef9b70a5556a32cf7a2b2c6299e",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698877,
+        "localadmin_id": 404445115,
+        "locality_id": 1360759205,
+        "macroregion_id": 404227469,
+        "region_id": 1360698721
+      }
+    ],
+    "wof:id": 454988539,
+    "wof:lastmodified": 1566241975,
+    "wof:name": "LA16 7JA",
+    "wof:parent_id": 404445115,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-3.210202, 54.190156, -3.210202, 54.190156],
+  "geometry": {"coordinates":[-3.210202,54.190156],"type":"Point"}
 }

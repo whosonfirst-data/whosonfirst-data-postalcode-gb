@@ -1,62 +1,50 @@
 {
-  "id": 471279929,
   "type": "Feature",
+  "id": 471279929,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-2.16234090834,53.5958854123,-2.16234090834,53.5958854123",
-    "geom:latitude":53.595885,
-    "geom:longitude":-2.162341,
-    "gp:parent_id":"33424",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"E08000005",
-    "os:admin_ward_code":"E05000739",
-    "os:country_code":"E92000001",
-    "os:nhs_ha_code":"E18000002",
-    "os:nhs_regional_ha_code":"E19000001",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[
-        85684271,
-        "102191581",
-        404453857,
-        "85633159",
-        404227469
-    ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"26388903"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-2.162341,53.595885,-2.162341,53.595885",
+    "geom:latitude": 53.595885,
+    "geom:longitude": -2.162341,
+    "gp:parent_id": "33424",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E99999999",
+    "os:district_code": "E08000005",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000002",
+    "src:geom": "os",
+    "wof:belongsto": [85633159, 1360699063, 101750565, 404227469, 1360698555],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "26388903"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"632be96655f48220c2ebb4d426bcdf6f",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404453857,
-            "macroregion_id":404227469,
-            "postalcode_id":471279929,
-            "region_id":85684271
-        }
+    "wof:country": "GB",
+    "wof:created": 1566240855,
+    "wof:geomhash": "a7ed84d73bd2ea3d38913fd1aa634961",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360699063,
+        "locality_id": 101750565,
+        "macroregion_id": 404227469,
+        "region_id": 1360698555
+      }
     ],
-    "wof:id":471279929,
-    "wof:lastmodified":1468891768,
-    "wof:name":"OL11 2QX",
-    "wof:parent_id":404453857,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    -2.1623409083362635,
-    53.595885412304256,
-    -2.1623409083362635,
-    53.595885412304256
-],
-  "geometry": {"coordinates":[-2.16234090833626,53.59588541230426],"type":"Point"}
+    "wof:id": 471279929,
+    "wof:lastmodified": 1566240855,
+    "wof:name": "OL11 2QX",
+    "wof:parent_id": 404453857,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-2.162341, 53.595885, -2.162341, 53.595885],
+  "geometry": {"coordinates":[-2.162341,53.595885],"type":"Point"}
 }

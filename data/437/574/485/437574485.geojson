@@ -1,40 +1,58 @@
 {
-  "id": 437574485,
   "type": "Feature",
+  "id": 437574485,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
-    "gp:parent_id":"17356",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"26620336"
+    "edtf:cessation": "1999-12-01",
+    "edtf:inception": "1993-08-01",
+    "geom:area": 0,
+    "geom:bbox": "-2.525453,53.413543,-2.525453,53.413543",
+    "geom:latitude": 53.413543,
+    "geom:longitude": -2.525453,
+    "gp:parent_id": "17356",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "os:country_code": "E92000001",
+    "os:county_code": "E99999999",
+    "os:district_code": "E06000007",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000002",
+    "src:geom": "os",
+    "wof:belongsto": [
+      404227469, 
+      1360698537, 
+      85633159, 
+      1360698965, 
+      404454217, 
+      1125781887
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "26620336"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
-    "wof:id":437574485,
-    "wof:lastmodified":1474570458,
-    "wof:name":"WA3 7PP",
-    "wof:parent_id":-1,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
-],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+    "wof:country": "GB",
+    "wof:created": 1566240679,
+    "wof:geomhash": "afeeeb3663b4c15b391d4054439f252e",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698965,
+        "localadmin_id": 404454217,
+        "locality_id": 1125781887,
+        "macroregion_id": 404227469,
+        "region_id": 1360698537
+      }
+    ],
+    "wof:id": 437574485,
+    "wof:lastmodified": 1566240679,
+    "wof:name": "WA3 7PP",
+    "wof:parent_id": -1,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-2.525453, 53.413543, -2.525453, 53.413543],
+  "geometry": {"coordinates":[-2.525453,53.413543],"type":"Point"}
 }

@@ -1,47 +1,50 @@
 {
-  "id": 488442575,
   "type": "Feature",
+  "id": 488442575,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-4.74386120303,55.6479071256,-4.74386120303,55.6479071256",
-    "geom:latitude":55.647907,
-    "geom:longitude":-4.743861,
-    "gp:parent_id":"12696203",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"S12000021",
-    "os:admin_ward_code":"S13002707",
-    "os:country_code":"S92000003",
-    "os:nhs_ha_code":"S08000015",
-    "os:nhs_regional_ha_code":"",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"26608623"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-4.743861,55.647907,-4.743861,55.647907",
+    "geom:latitude": 55.647907,
+    "geom:longitude": -4.743861,
+    "gp:parent_id": "12696203",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "S92000003",
+    "os:county_code": "S99999999",
+    "os:district_code": "S12000021",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "S99999999",
+    "src:geom": "os",
+    "wof:belongsto": [404441385, 404227471, 1360698697, 85633159, 1360698855],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "26608623"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"2fe083a5d3357b6b3053de008ff0edfc",
-    "wof:hierarchy":[],
-    "wof:id":488442575,
-    "wof:lastmodified":1468884868,
-    "wof:name":"KA20 4HT",
-    "wof:parent_id":404441385,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    -4.743861203034076,
-    55.64790712560947,
-    -4.743861203034076,
-    55.64790712560947
-],
-  "geometry": {"coordinates":[-4.74386120303408,55.64790712560947],"type":"Point"}
+    "wof:country": "GB",
+    "wof:created": 1566242216,
+    "wof:geomhash": "be0a7fd6284cee1e158a656f53e6bb31",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698855,
+        "localadmin_id": 404441385,
+        "macroregion_id": 404227471,
+        "region_id": 1360698697
+      }
+    ],
+    "wof:id": 488442575,
+    "wof:lastmodified": 1566242216,
+    "wof:name": "KA20 4HT",
+    "wof:parent_id": 404441385,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-4.743861, 55.647907, -4.743861, 55.647907],
+  "geometry": {"coordinates":[-4.743861,55.647907],"type":"Point"}
 }

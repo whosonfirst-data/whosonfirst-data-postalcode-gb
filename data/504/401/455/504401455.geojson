@@ -1,40 +1,60 @@
 {
-  "id": 504401455,
   "type": "Feature",
+  "id": 504401455,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
-    "gp:parent_id":"12696198",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27287771"
+    "edtf:cessation": "2014-06-01",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-4.300778,55.821980,-4.300778,55.821980",
+    "geom:latitude": 55.82198,
+    "geom:longitude": -4.300778,
+    "gp:parent_id": "12696198",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "os:country_code": "S92000003",
+    "os:county_code": "S99999999",
+    "os:district_code": "S12000049",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "S99999999",
+    "src:geom": "os",
+    "wof:belongsto": [
+      1360698797, 
+      404430153, 
+      1175612707, 
+      404227471, 
+      85789883, 
+      1360698707, 
+      85633159
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27287771"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
-    "wof:id":504401455,
-    "wof:lastmodified":1474574403,
-    "wof:name":"G43 1LR",
-    "wof:parent_id":-1,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
-],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+    "wof:country": "GB",
+    "wof:created": 1566241720,
+    "wof:geomhash": "7e3e19928b8b1ab4b3d9341df124d397",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698797,
+        "localadmin_id": 404430153,
+        "locality_id": 1175612707,
+        "macroregion_id": 404227471,
+        "neighbourhood_id": 85789883,
+        "region_id": 1360698707
+      }
+    ],
+    "wof:id": 504401455,
+    "wof:lastmodified": 1566241720,
+    "wof:name": "G43 1LR",
+    "wof:parent_id": -1,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-4.300778, 55.82198, -4.300778, 55.82198],
+  "geometry": {"coordinates":[-4.300778,55.82198],"type":"Point"}
 }

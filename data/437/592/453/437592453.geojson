@@ -1,40 +1,58 @@
 {
-  "id": 437592453,
   "type": "Feature",
+  "id": 437592453,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
-    "gp:parent_id":"33572",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"26890441"
+    "edtf:cessation": "2006-07-01",
+    "edtf:inception": "2006-06-01",
+    "geom:area": 0,
+    "geom:bbox": "-2.284443,53.702006,-2.284443,53.702006",
+    "geom:latitude": 53.702006,
+    "geom:longitude": -2.284443,
+    "gp:parent_id": "33572",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "os:country_code": "E92000001",
+    "os:county_code": "E10000017",
+    "os:district_code": "E07000125",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000002",
+    "src:geom": "os",
+    "wof:belongsto": [
+      1360817193, 
+      1125898295, 
+      404227469, 
+      1360698567, 
+      85633159, 
+      1360698817
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "26890441"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
-    "wof:id":437592453,
-    "wof:lastmodified":1474570484,
-    "wof:name":"BB4 6GA",
-    "wof:parent_id":-1,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
-],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+    "wof:country": "GB",
+    "wof:created": 1566240719,
+    "wof:geomhash": "e8fc122bab50832927e196936158b08c",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698817,
+        "localadmin_id": 1360817193,
+        "locality_id": 1125898295,
+        "macroregion_id": 404227469,
+        "region_id": 1360698567
+      }
+    ],
+    "wof:id": 437592453,
+    "wof:lastmodified": 1566240719,
+    "wof:name": "BB4 6GA",
+    "wof:parent_id": -1,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-2.284443, 53.702006, -2.284443, 53.702006],
+  "geometry": {"coordinates":[-2.284443,53.702006],"type":"Point"}
 }

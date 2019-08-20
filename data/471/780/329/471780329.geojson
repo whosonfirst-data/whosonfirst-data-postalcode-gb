@@ -1,61 +1,49 @@
 {
-  "id": 471780329,
   "type": "Feature",
+  "id": 471780329,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-1.90237394572,53.2456822854,-1.90237394572,53.2456822854",
-    "geom:latitude":53.245682,
-    "geom:longitude":-1.902374,
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"E10000007",
-    "os:admin_distict_code":"E07000037",
-    "os:admin_ward_code":"E05010630",
-    "os:country_code":"E92000001",
-    "os:nhs_ha_code":"E18000004",
-    "os:nhs_regional_ha_code":"E19000001",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[
-        85684075,
-        "102191581",
-        404438007,
-        "85633159",
-        404227469
-    ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27920554"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-1.902374,53.245682,-1.902374,53.245682",
+    "geom:latitude": 53.245682,
+    "geom:longitude": -1.902374,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E10000007",
+    "os:district_code": "E07000037",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000004",
+    "src:geom": "os",
+    "wof:belongsto": [1360698539, 85633159, 1360698765, 101872099, 404227469],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27920554"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"4e496604fe86476bf431ba3737b86cbf",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404438007,
-            "macroregion_id":404227469,
-            "postalcode_id":471780329,
-            "region_id":85684075
-        }
+    "wof:country": "GB",
+    "wof:created": 1566242005,
+    "wof:geomhash": "e477fd34ab852ee6b8010efbb66a6a05",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698765,
+        "locality_id": 101872099,
+        "macroregion_id": 404227469,
+        "region_id": 1360698539
+      }
     ],
-    "wof:id":471780329,
-    "wof:lastmodified":1468900173,
-    "wof:name":"SK17 9RY",
-    "wof:parent_id":404438007,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    -1.9023739457230107,
-    53.24568228539076,
-    -1.9023739457230107,
-    53.24568228539076
-],
-  "geometry": {"coordinates":[-1.90237394572301,53.24568228539076],"type":"Point"}
+    "wof:id": 471780329,
+    "wof:lastmodified": 1566242005,
+    "wof:name": "SK17 9RY",
+    "wof:parent_id": 404438007,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-1.902374, 53.245682, -1.902374, 53.245682],
+  "geometry": {"coordinates":[-1.902374,53.245682],"type":"Point"}
 }

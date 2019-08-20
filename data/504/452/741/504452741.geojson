@@ -1,47 +1,50 @@
 {
-  "id": 504452741,
   "type": "Feature",
+  "id": 504452741,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-4.77781900474,55.6497583524,-4.77781900474,55.6497583524",
-    "geom:latitude":55.649758,
-    "geom:longitude":-4.777819,
-    "gp:parent_id":"12696203",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"S12000021",
-    "os:admin_ward_code":"S13002707",
-    "os:country_code":"S92000003",
-    "os:nhs_ha_code":"S08000015",
-    "os:nhs_regional_ha_code":"",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27417719"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-4.777819,55.649758,-4.777819,55.649758",
+    "geom:latitude": 55.649758,
+    "geom:longitude": -4.777819,
+    "gp:parent_id": "12696203",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "S92000003",
+    "os:county_code": "S99999999",
+    "os:district_code": "S12000021",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "S99999999",
+    "src:geom": "os",
+    "wof:belongsto": [404441385, 404227471, 1360698697, 85633159, 1360698855],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27417719"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"20110db4db40e04b82d451b59016008f",
-    "wof:hierarchy":[],
-    "wof:id":504452741,
-    "wof:lastmodified":1468884877,
-    "wof:name":"KA21 6DY",
-    "wof:parent_id":404441385,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    -4.777819004743057,
-    55.64975835239143,
-    -4.777819004743057,
-    55.64975835239143
-],
-  "geometry": {"coordinates":[-4.77781900474306,55.64975835239143],"type":"Point"}
+    "wof:country": "GB",
+    "wof:created": 1566241889,
+    "wof:geomhash": "976650dff52d8adb1b680291f88a4ead",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698855,
+        "localadmin_id": 404441385,
+        "macroregion_id": 404227471,
+        "region_id": 1360698697
+      }
+    ],
+    "wof:id": 504452741,
+    "wof:lastmodified": 1566241889,
+    "wof:name": "KA21 6DY",
+    "wof:parent_id": 404441385,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-4.777819, 55.649758, -4.777819, 55.649758],
+  "geometry": {"coordinates":[-4.777819,55.649758],"type":"Point"}
 }

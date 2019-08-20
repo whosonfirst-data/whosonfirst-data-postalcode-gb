@@ -1,61 +1,46 @@
 {
-  "id": 874462745,
   "type": "Feature",
+  "id": 874462745,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-0.561164908458,51.3156957828,-0.561164908458,51.3156957828",
-    "geom:latitude":51.315696,
-    "geom:longitude":-0.561165,
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"E10000030",
-    "os:admin_distict_code":"E07000217",
-    "os:admin_ward_code":"E05010802",
-    "os:country_code":"E92000001",
-    "os:nhs_ha_code":"E18000008",
-    "os:nhs_regional_ha_code":"E19000002",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[
-        85684417,
-        "102191581",
-        404435057,
-        "85633159",
-        404227469,
-        101751589
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2014-02-01",
+    "geom:area": 0,
+    "geom:bbox": "-0.561165,51.315696,-0.561165,51.315696",
+    "geom:latitude": 51.315696,
+    "geom:longitude": -0.561165,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E10000030",
+    "os:district_code": "E07000217",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000008",
+    "src:geom": "os",
+    "wof:belongsto": [1360698887, 101751589, 404227469, 1360698599, 85633159],
+    "wof:breaches": [],
+    "wof:country": "GB",
+    "wof:created": 1468880213,
+    "wof:geomhash": "332565a65ad29c56a9b21d6ae7865c09",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698887,
+        "locality_id": 101751589,
+        "macroregion_id": 404227469,
+        "region_id": 1360698599
+      }
     ],
-    "wof:breaches":[],
-    "wof:country":"GB",
-    "wof:created":1468880213,
-    "wof:geomhash":"b911268ce3a097b8542d6b8a3f677622",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404435057,
-            "locality_id":101751589,
-            "macroregion_id":404227469,
-            "postalcode_id":874462745,
-            "region_id":85684417
-        }
-    ],
-    "wof:id":874462745,
-    "wof:lastmodified":1468880213,
-    "wof:name":"GU22 7NY",
-    "wof:parent_id":101751589,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    -0.5611649084577672,
-    51.31569578275811,
-    -0.5611649084577672,
-    51.31569578275811
-],
-  "geometry": {"coordinates":[-0.56116490845777,51.31569578275811],"type":"Point"}
+    "wof:id": 874462745,
+    "wof:lastmodified": 1566242119,
+    "wof:name": "GU22 7NY",
+    "wof:parent_id": 101751589,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-0.561165, 51.315696, -0.561165, 51.315696],
+  "geometry": {"coordinates":[-0.561165,51.315696],"type":"Point"}
 }

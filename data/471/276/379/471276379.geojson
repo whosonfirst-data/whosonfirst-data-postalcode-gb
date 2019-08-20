@@ -1,62 +1,50 @@
 {
-  "id": 471276379,
   "type": "Feature",
+  "id": 471276379,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-2.15646031606,53.5582952052,-2.15646031606,53.5582952052",
-    "geom:latitude":53.558295,
-    "geom:longitude":-2.15646,
-    "gp:parent_id":"15550",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"E08000004",
-    "os:admin_ward_code":"E05000721",
-    "os:country_code":"E92000001",
-    "os:nhs_ha_code":"E18000002",
-    "os:nhs_regional_ha_code":"E19000001",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[
-        85683689,
-        "102191581",
-        404440809,
-        "85633159",
-        404227469
-    ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27704204"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-2.156460,53.558295,-2.156460,53.558295",
+    "geom:latitude": 53.558295,
+    "geom:longitude": -2.15646,
+    "gp:parent_id": "15550",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E99999999",
+    "os:district_code": "E08000004",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000002",
+    "src:geom": "os",
+    "wof:belongsto": [404227469, 1360698555, 85633159, 1360698953, 1126030435],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27704204"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"77b8dd6fa773982b154c5c2454767779",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404440809,
-            "macroregion_id":404227469,
-            "postalcode_id":471276379,
-            "region_id":85683689
-        }
+    "wof:country": "GB",
+    "wof:created": 1566240847,
+    "wof:geomhash": "e14bf2cf12f98a769709a5c34c7decf9",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698953,
+        "locality_id": 1126030435,
+        "macroregion_id": 404227469,
+        "region_id": 1360698555
+      }
     ],
-    "wof:id":471276379,
-    "wof:lastmodified":1474572823,
-    "wof:name":"OL1 2SB",
-    "wof:parent_id":404440809,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    -2.15646031606491,
-    53.55829520519531,
-    -2.15646031606491,
-    53.55829520519531
-],
-  "geometry": {"coordinates":[-2.15646031606491,53.55829520519531],"type":"Point"}
+    "wof:id": 471276379,
+    "wof:lastmodified": 1566240847,
+    "wof:name": "OL1 2SB",
+    "wof:parent_id": 404440809,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-2.15646, 53.558295, -2.15646, 53.558295],
+  "geometry": {"coordinates":[-2.15646,53.558295],"type":"Point"}
 }

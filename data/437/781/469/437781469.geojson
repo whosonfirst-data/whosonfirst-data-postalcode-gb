@@ -1,40 +1,60 @@
 {
-  "id": 437781469,
   "type": "Feature",
+  "id": 437781469,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
-    "gp:parent_id":"12695817",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"28869414"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2017-07-01",
+    "geom:area": 0,
+    "geom:bbox": "-0.015904,51.495750,-0.015904,51.495750",
+    "geom:latitude": 51.49575,
+    "geom:longitude": -0.015904,
+    "gp:parent_id": "12695817",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E99999999",
+    "os:district_code": "E09000030",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000007",
+    "src:geom": "os",
+    "wof:belongsto": [
+      85633159, 
+      101750367, 
+      1158864717, 
+      404227469, 
+      85786921, 
+      1360698645, 
+      1158857269
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "28869414"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
-    "wof:id":437781469,
-    "wof:lastmodified":1474570770,
-    "wof:name":"E14 9GJ",
-    "wof:parent_id":-1,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
-],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+    "wof:country": "GB",
+    "wof:created": 1566241136,
+    "wof:geomhash": "583e8875f9cfb8d5d2d45df9b8e12feb",
+    "wof:hierarchy": [
+      {
+        "borough_id": 1158857269,
+        "country_id": 85633159,
+        "locality_id": 101750367,
+        "macrohood_id": 1158864717,
+        "macroregion_id": 404227469,
+        "neighbourhood_id": 85786921,
+        "region_id": 1360698645
+      }
+    ],
+    "wof:id": 437781469,
+    "wof:lastmodified": 1566241136,
+    "wof:name": "E14 9GJ",
+    "wof:parent_id": -1,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-0.015904, 51.49575, -0.015904, 51.49575],
+  "geometry": {"coordinates":[-0.015904,51.49575],"type":"Point"}
 }

@@ -1,63 +1,49 @@
 {
-  "id": 471226201,
   "type": "Feature",
+  "id": 471226201,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"1.2972542602,52.6414487959,1.2972542602,52.6414487959",
-    "geom:latitude":52.641449,
-    "geom:longitude":1.297254,
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"E10000020",
-    "os:admin_distict_code":"E07000148",
-    "os:admin_ward_code":"E05005885",
-    "os:country_code":"E92000001",
-    "os:nhs_ha_code":"E18000006",
-    "os:nhs_regional_ha_code":"E19000001",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[
-        85683947,
-        "102191581",
-        404432969,
-        "85633159",
-        404227469,
-        101750483
-    ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"26399102"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "1.297254,52.641449,1.297254,52.641449",
+    "geom:latitude": 52.641449,
+    "geom:longitude": 1.297254,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E10000020",
+    "os:district_code": "E07000148",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000006",
+    "src:geom": "os",
+    "wof:belongsto": [101750483, 404227469, 1360698575, 85633159, 1360698955],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "26399102"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"55fec2b61f159d18ce8c3cd02bfa5a6d",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404432969,
-            "locality_id":101750483,
-            "macroregion_id":404227469,
-            "postalcode_id":471226201,
-            "region_id":85683947
-        }
+    "wof:country": "GB",
+    "wof:created": 1566240741,
+    "wof:geomhash": "c47cbf7ed216c713aadcbe69e1f9a96b",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698955,
+        "locality_id": 101750483,
+        "macroregion_id": 404227469,
+        "region_id": 1360698575
+      }
     ],
-    "wof:id":471226201,
-    "wof:lastmodified":1474572770,
-    "wof:name":"NR3 4QL",
-    "wof:parent_id":101750483,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    1.2972542601976,
-    52.64144879591986,
-    1.2972542601976,
-    52.64144879591986
-],
-  "geometry": {"coordinates":[1.2972542601976,52.64144879591986],"type":"Point"}
+    "wof:id": 471226201,
+    "wof:lastmodified": 1566240741,
+    "wof:name": "NR3 4QL",
+    "wof:parent_id": 101750483,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [1.297254, 52.641449, 1.297254, 52.641449],
+  "geometry": {"coordinates":[1.297254,52.641449],"type":"Point"}
 }

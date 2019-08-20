@@ -1,63 +1,61 @@
 {
-  "id": 487753189,
   "type": "Feature",
+  "id": 487753189,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-0.156503252049,51.4923597451,-0.156503252049,51.4923597451",
-    "geom:latitude":51.49236,
-    "geom:longitude":-0.156503,
-    "gp:parent_id":"12695812",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"E09000020",
-    "os:admin_ward_code":"E05009403",
-    "os:country_code":"E92000001",
-    "os:nhs_ha_code":"E18000007",
-    "os:nhs_regional_ha_code":"E19000003",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[
-        102191581,
-        85633159,
-        404227469,
-        101750367
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.156464,51.492361,-0.156464,51.492361",
+    "geom:latitude": 51.492361,
+    "geom:longitude": -0.156464,
+    "gp:parent_id": "12695812",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E99999999",
+    "os:district_code": "E09000020",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000007",
+    "src:geom": "os",
+    "wof:belongsto": [
+      85633159, 
+      101750367, 
+      404227469, 
+      1158859473, 
+      85792129, 
+      1360698645, 
+      1158857317
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"28007324"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "28007324"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"448a363d0002227f17e0c929d24d8328",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633159,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "postalcode_id":487753189,
-            "region_id":-1
-        }
+    "wof:country": "GB",
+    "wof:created": 1566240602,
+    "wof:geomhash": "6bc6e488f1bcfdf644b864bc066e906c",
+    "wof:hierarchy": [
+      {
+        "borough_id": 1158857317,
+        "country_id": 85633159,
+        "locality_id": 101750367,
+        "macroregion_id": 404227469,
+        "microhood_id": 1158859473,
+        "neighbourhood_id": 85792129,
+        "region_id": 1360698645
+      }
     ],
-    "wof:id":487753189,
-    "wof:lastmodified":1513911316,
-    "wof:name":"SW1W 8BB",
-    "wof:parent_id":101750367,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    -0.15650325204862,
-    51.49235974505154,
-    -0.15650325204862,
-    51.49235974505154
-],
-  "geometry": {"coordinates":[-0.15650325204862,51.49235974505154],"type":"Point"}
+    "wof:id": 487753189,
+    "wof:lastmodified": 1566240602,
+    "wof:name": "SW1W 8BB",
+    "wof:parent_id": 101750367,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-0.156464, 51.492361, -0.156464, 51.492361],
+  "geometry": {"coordinates":[-0.156464,51.492361],"type":"Point"}
 }

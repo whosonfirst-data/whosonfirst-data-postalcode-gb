@@ -1,47 +1,58 @@
 {
-  "id": 454997311,
   "type": "Feature",
+  "id": 454997311,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-2.84302553266,54.0726616035,-2.84302553266,54.0726616035",
-    "geom:latitude":54.072662,
-    "geom:longitude":-2.843026,
-    "gp:parent_id":"29313",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"E10000017",
-    "os:admin_distict_code":"E07000121",
-    "os:admin_ward_code":"E05009592",
-    "os:country_code":"E92000001",
-    "os:nhs_ha_code":"E18000002",
-    "os:nhs_regional_ha_code":"E19000001",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27464666"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-2.843025,54.072662,-2.843025,54.072662",
+    "geom:latitude": 54.072662,
+    "geom:longitude": -2.843025,
+    "gp:parent_id": "29313",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E10000017",
+    "os:district_code": "E07000121",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000002",
+    "src:geom": "os",
+    "wof:belongsto": [
+      1360698817, 
+      404430699, 
+      1125770537, 
+      404227469, 
+      1360698567, 
+      85633159
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27464666"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"8392035c964c13cf8a4873a2e45d7781",
-    "wof:hierarchy":[],
-    "wof:id":454997311,
-    "wof:lastmodified":1474572335,
-    "wof:name":"LA4 6UD",
-    "wof:parent_id":404430699,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    -2.84302553266225,
-    54.07266160354079,
-    -2.84302553266225,
-    54.07266160354079
-],
-  "geometry": {"coordinates":[-2.84302553266225,54.07266160354079],"type":"Point"}
+    "wof:country": "GB",
+    "wof:created": 1566241995,
+    "wof:geomhash": "65526a2fef37044358ba13e1b46f6d5f",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698817,
+        "localadmin_id": 404430699,
+        "locality_id": 1125770537,
+        "macroregion_id": 404227469,
+        "region_id": 1360698567
+      }
+    ],
+    "wof:id": 454997311,
+    "wof:lastmodified": 1566241995,
+    "wof:name": "LA4 6UD",
+    "wof:parent_id": 404430699,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-2.843025, 54.072662, -2.843025, 54.072662],
+  "geometry": {"coordinates":[-2.843025,54.072662],"type":"Point"}
 }

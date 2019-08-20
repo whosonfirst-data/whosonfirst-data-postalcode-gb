@@ -1,46 +1,49 @@
 {
-  "id": 504455717,
   "type": "Feature",
+  "id": 504455717,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-4.85702269116,55.7352955564,-4.85702269116,55.7352955564",
-    "geom:latitude":55.735296,
-    "geom:longitude":-4.857023,
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"S12000021",
-    "os:admin_ward_code":"S13002711",
-    "os:country_code":"S92000003",
-    "os:nhs_ha_code":"S08000015",
-    "os:nhs_regional_ha_code":"",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27419165"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-4.857001,55.735292,-4.857001,55.735292",
+    "geom:latitude": 55.735292,
+    "geom:longitude": -4.857001,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "S92000003",
+    "os:county_code": "S99999999",
+    "os:district_code": "S12000021",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "S99999999",
+    "src:geom": "os",
+    "wof:belongsto": [404441385, 404227471, 1360698697, 85633159, 1360698855],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27419165"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"7789345f78797b657b788b31e2864705",
-    "wof:hierarchy":[],
-    "wof:id":504455717,
-    "wof:lastmodified":1468884969,
-    "wof:name":"KA29 0EQ",
-    "wof:parent_id":404441385,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    -4.857022691159163,
-    55.73529555643301,
-    -4.857022691159163,
-    55.73529555643301
-],
-  "geometry": {"coordinates":[-4.85702269115916,55.73529555643301],"type":"Point"}
+    "wof:country": "GB",
+    "wof:created": 1566241902,
+    "wof:geomhash": "702e5d176900e7079a872bfd64505512",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698855,
+        "localadmin_id": 404441385,
+        "macroregion_id": 404227471,
+        "region_id": 1360698697
+      }
+    ],
+    "wof:id": 504455717,
+    "wof:lastmodified": 1566241902,
+    "wof:name": "KA29 0EQ",
+    "wof:parent_id": 404441385,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-4.857001, 55.735292, -4.857001, 55.735292],
+  "geometry": {"coordinates":[-4.857001,55.735292],"type":"Point"}
 }

@@ -1,40 +1,58 @@
 {
-  "id": 437570303,
   "type": "Feature",
+  "id": 437570303,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
-    "gp:parent_id":"16448",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"26483196"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2016-09-01",
+    "geom:area": 0,
+    "geom:bbox": "-4.007487,55.852350,-4.007487,55.852350",
+    "geom:latitude": 55.85235,
+    "geom:longitude": -4.007487,
+    "gp:parent_id": "16448",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "S92000003",
+    "os:county_code": "S99999999",
+    "os:district_code": "S12000050",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "S99999999",
+    "src:geom": "os",
+    "wof:belongsto": [
+      1360698703, 
+      85633159, 
+      1360698949, 
+      404435713, 
+      101877119, 
+      404227471
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "26483196"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
-    "wof:id":437570303,
-    "wof:lastmodified":1474570451,
-    "wof:name":"ML5 4SE",
-    "wof:parent_id":-1,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
-],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+    "wof:country": "GB",
+    "wof:created": 1566240672,
+    "wof:geomhash": "1d021c248cf905a0168f8cd30729a3ce",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698949,
+        "localadmin_id": 404435713,
+        "locality_id": 101877119,
+        "macroregion_id": 404227471,
+        "region_id": 1360698703
+      }
+    ],
+    "wof:id": 437570303,
+    "wof:lastmodified": 1566240672,
+    "wof:name": "ML5 4SE",
+    "wof:parent_id": -1,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-4.007487, 55.85235, -4.007487, 55.85235],
+  "geometry": {"coordinates":[-4.007487,55.85235],"type":"Point"}
 }

@@ -1,62 +1,50 @@
 {
-  "id": 454116341,
   "type": "Feature",
+  "id": 454116341,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-3.16093893744,53.4030047651,-3.16093893744,53.4030047651",
-    "geom:latitude":53.403005,
-    "geom:longitude":-3.160939,
-    "gp:parent_id":"28715",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"E08000015",
-    "os:admin_ward_code":"E05000963",
-    "os:country_code":"E92000001",
-    "os:nhs_ha_code":"E18000002",
-    "os:nhs_regional_ha_code":"E19000001",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[
-        85684519,
-        "102191581",
-        404452723,
-        "85633159",
-        404227469
-    ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"26452385"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1999-06-01",
+    "geom:area": 0,
+    "geom:bbox": "-3.160939,53.403005,-3.160939,53.403005",
+    "geom:latitude": 53.403005,
+    "geom:longitude": -3.160939,
+    "gp:parent_id": "28715",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E99999999",
+    "os:district_code": "E08000015",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000002",
+    "src:geom": "os",
+    "wof:belongsto": [404227469, 1360698573, 85633159, 1360699049, 101750549],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "26452385"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"92db0baad58799d9753a2129082572f4",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404452723,
-            "macroregion_id":404227469,
-            "postalcode_id":454116341,
-            "region_id":85684519
-        }
+    "wof:country": "GB",
+    "wof:created": 1566242809,
+    "wof:geomhash": "9650dc82304df69a434983ec44c1a4a7",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360699049,
+        "locality_id": 101750549,
+        "macroregion_id": 404227469,
+        "region_id": 1360698573
+      }
     ],
-    "wof:id":454116341,
-    "wof:lastmodified":1468876192,
-    "wof:name":"CH47 6AU",
-    "wof:parent_id":404452723,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    -3.1609389374352137,
-    53.403004765061816,
-    -3.1609389374352137,
-    53.403004765061816
-],
-  "geometry": {"coordinates":[-3.16093893743521,53.40300476506182],"type":"Point"}
+    "wof:id": 454116341,
+    "wof:lastmodified": 1566242809,
+    "wof:name": "CH47 6AU",
+    "wof:parent_id": 404452723,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-3.160939, 53.403005, -3.160939, 53.403005],
+  "geometry": {"coordinates":[-3.160939,53.403005],"type":"Point"}
 }

@@ -1,47 +1,50 @@
 {
-  "id": 504446901,
   "type": "Feature",
+  "id": 504446901,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-4.61852145117,55.6131021606,-4.61852145117,55.6131021606",
-    "geom:latitude":55.613102,
-    "geom:longitude":-4.618521,
-    "gp:parent_id":"12696203",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"S12000021",
-    "os:admin_ward_code":"S13002705",
-    "os:country_code":"S92000003",
-    "os:nhs_ha_code":"S08000015",
-    "os:nhs_regional_ha_code":"",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"26511067"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-4.618521,55.613102,-4.618521,55.613102",
+    "geom:latitude": 55.613102,
+    "geom:longitude": -4.618521,
+    "gp:parent_id": "12696203",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "S92000003",
+    "os:county_code": "S99999999",
+    "os:district_code": "S12000021",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "S99999999",
+    "src:geom": "os",
+    "wof:belongsto": [1360698855, 404441385, 404227471, 1360698697, 85633159],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "26511067"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"05b949d1f7e7faf82ea3a8ac3075b623",
-    "wof:hierarchy":[],
-    "wof:id":504446901,
-    "wof:lastmodified":1468884694,
-    "wof:name":"KA11 1DA",
-    "wof:parent_id":404441385,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    -4.618521451174561,
-    55.61310216064379,
-    -4.618521451174561,
-    55.61310216064379
-],
-  "geometry": {"coordinates":[-4.61852145117456,55.61310216064379],"type":"Point"}
+    "wof:country": "GB",
+    "wof:created": 1566241865,
+    "wof:geomhash": "80355b14eb95593811db91fd500387de",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698855,
+        "localadmin_id": 404441385,
+        "macroregion_id": 404227471,
+        "region_id": 1360698697
+      }
+    ],
+    "wof:id": 504446901,
+    "wof:lastmodified": 1566241865,
+    "wof:name": "KA11 1DA",
+    "wof:parent_id": 404441385,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-4.618521, 55.613102, -4.618521, 55.613102],
+  "geometry": {"coordinates":[-4.618521,55.613102],"type":"Point"}
 }

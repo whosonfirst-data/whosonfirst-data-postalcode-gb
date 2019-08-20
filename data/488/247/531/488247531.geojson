@@ -1,64 +1,50 @@
 {
-  "id": 488247531,
   "type": "Feature",
+  "id": 488247531,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-1.08983344833,53.9696683994,-1.08983344833,53.9696683994",
-    "geom:latitude":53.969668,
-    "geom:longitude":-1.089833,
-    "gp:parent_id":"41415",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"E06000014",
-    "os:admin_ward_code":"E05010313",
-    "os:country_code":"E92000001",
-    "os:nhs_ha_code":"E18000003",
-    "os:nhs_regional_ha_code":"E19000001",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[
-        85683703,
-        "102191581",
-        404453233,
-        "85633159",
-        404227469,
-        101751641
-    ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"28196685"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1998-06-01",
+    "geom:area": 0,
+    "geom:bbox": "-1.089833,53.969668,-1.089833,53.969668",
+    "geom:latitude": 53.969668,
+    "geom:longitude": -1.089833,
+    "gp:parent_id": "41415",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E99999999",
+    "os:district_code": "E06000014",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000003",
+    "src:geom": "os",
+    "wof:belongsto": [404227469, 1360698619, 85633159, 1360698977, 101751641],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "28196685"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"d2554e1672ddcbd533e3d8c483c2639e",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404453233,
-            "locality_id":101751641,
-            "macroregion_id":404227469,
-            "postalcode_id":488247531,
-            "region_id":85683703
-        }
+    "wof:country": "GB",
+    "wof:created": 1566241742,
+    "wof:geomhash": "ff251455f023e1a02ccb882dee631b8f",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698977,
+        "locality_id": 101751641,
+        "macroregion_id": 404227469,
+        "region_id": 1360698619
+      }
     ],
-    "wof:id":488247531,
-    "wof:lastmodified":1468904530,
-    "wof:name":"YO30 6BY",
-    "wof:parent_id":101751641,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    -1.0898334483271468,
-    53.96966839941279,
-    -1.0898334483271468,
-    53.96966839941279
-],
-  "geometry": {"coordinates":[-1.08983344832715,53.96966839941279],"type":"Point"}
+    "wof:id": 488247531,
+    "wof:lastmodified": 1566241742,
+    "wof:name": "YO30 6BY",
+    "wof:parent_id": 101751641,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-1.089833, 53.969668, -1.089833, 53.969668],
+  "geometry": {"coordinates":[-1.089833,53.969668],"type":"Point"}
 }

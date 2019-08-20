@@ -1,61 +1,49 @@
 {
-  "id": 471755149,
   "type": "Feature",
+  "id": 471755149,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-0.285534732069,51.9458532051,-0.285534732069,51.9458532051",
-    "geom:latitude":51.945853,
-    "geom:longitude":-0.285535,
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"E10000015",
-    "os:admin_distict_code":"E07000099",
-    "os:admin_ward_code":"E05004771",
-    "os:country_code":"E92000001",
-    "os:nhs_ha_code":"E18000006",
-    "os:nhs_regional_ha_code":"E19000001",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[
-        85684331,
-        "102191581",
-        404450129,
-        "85633159",
-        404227469
-    ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"26742201"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-0.285535,51.945853,-0.285535,51.945853",
+    "geom:latitude": 51.945853,
+    "geom:longitude": -0.285535,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E10000015",
+    "os:district_code": "E07000099",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000006",
+    "src:geom": "os",
+    "wof:belongsto": [101875457, 404227469, 1360698559, 85633159, 1360698763],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "26742201"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"68176066ae61f3e0c4ed0e52d4a7e5c1",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404450129,
-            "macroregion_id":404227469,
-            "postalcode_id":471755149,
-            "region_id":85684331
-        }
+    "wof:country": "GB",
+    "wof:created": 1566241949,
+    "wof:geomhash": "98d33b2f427e46d11941200ed1d1afb4",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698763,
+        "locality_id": 101875457,
+        "macroregion_id": 404227469,
+        "region_id": 1360698559
+      }
     ],
-    "wof:id":471755149,
-    "wof:lastmodified":1474573246,
-    "wof:name":"SG5 2AY",
-    "wof:parent_id":404450129,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    -0.28553473206889,
-    51.9458532050779,
-    -0.28553473206889,
-    51.9458532050779
-],
-  "geometry": {"coordinates":[-0.28553473206889,51.9458532050779],"type":"Point"}
+    "wof:id": 471755149,
+    "wof:lastmodified": 1566241949,
+    "wof:name": "SG5 2AY",
+    "wof:parent_id": 404450129,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-0.285535, 51.945853, -0.285535, 51.945853],
+  "geometry": {"coordinates":[-0.285535,51.945853],"type":"Point"}
 }

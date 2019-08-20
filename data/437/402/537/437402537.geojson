@@ -1,40 +1,58 @@
 {
-  "id": 437402537,
   "type": "Feature",
+  "id": 437402537,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
-    "gp:parent_id":"16063",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27040082"
+    "edtf:cessation": "2008-07-01",
+    "edtf:inception": "2000-12-01",
+    "geom:area": 0,
+    "geom:bbox": "-3.348913,51.596000,-3.348913,51.596000",
+    "geom:latitude": 51.596,
+    "geom:longitude": -3.348913,
+    "gp:parent_id": "16063",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "os:country_code": "W92000004",
+    "os:county_code": "W99999999",
+    "os:district_code": "W06000016",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "W99999999",
+    "src:geom": "os",
+    "wof:belongsto": [
+      1360698631, 
+      85633159, 
+      1360699025, 
+      404441965, 
+      101852813, 
+      404227475
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27040082"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
-    "wof:id":437402537,
-    "wof:lastmodified":1474570008,
-    "wof:name":"CF38 1XD",
-    "wof:parent_id":-1,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
-],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+    "wof:country": "GB",
+    "wof:created": 1566242939,
+    "wof:geomhash": "6cc2e7a342faadcc902cabeb844d062b",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360699025,
+        "localadmin_id": 404441965,
+        "locality_id": 101852813,
+        "macroregion_id": 404227475,
+        "region_id": 1360698631
+      }
+    ],
+    "wof:id": 437402537,
+    "wof:lastmodified": 1566242939,
+    "wof:name": "CF38 1XD",
+    "wof:parent_id": -1,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-3.348913, 51.596, -3.348913, 51.596],
+  "geometry": {"coordinates":[-3.348913,51.596],"type":"Point"}
 }

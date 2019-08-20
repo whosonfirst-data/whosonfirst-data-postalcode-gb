@@ -1,64 +1,50 @@
 {
-  "id": 487677225,
   "type": "Feature",
+  "id": 487677225,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.781827381003,51.5313465607,0.781827381003,51.5313465607",
-    "geom:latitude":51.531347,
-    "geom:longitude":0.781827,
-    "gp:parent_id":"34697",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"E06000033",
-    "os:admin_ward_code":"E05002228",
-    "os:country_code":"E92000001",
-    "os:nhs_ha_code":"E18000006",
-    "os:nhs_regional_ha_code":"E19000001",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[
-        85684067,
-        "102191581",
-        404445643,
-        "85633159",
-        404227469,
-        101750371
-    ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27980893"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "0.781827,51.531347,0.781827,51.531347",
+    "geom:latitude": 51.531347,
+    "geom:longitude": 0.781827,
+    "gp:parent_id": "34697",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E99999999",
+    "os:district_code": "E06000033",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000006",
+    "src:geom": "os",
+    "wof:belongsto": [85633159, 1360698751, 101750371, 404227469, 1360698551],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27980893"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"e46233df90f6eb0046d744d65fff0e50",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404445643,
-            "locality_id":101750371,
-            "macroregion_id":404227469,
-            "postalcode_id":487677225,
-            "region_id":85684067
-        }
+    "wof:country": "GB",
+    "wof:created": 1566240412,
+    "wof:geomhash": "a5da1133c84a4770fa6bb23381311460",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698751,
+        "locality_id": 101750371,
+        "macroregion_id": 404227469,
+        "region_id": 1360698551
+      }
     ],
-    "wof:id":487677225,
-    "wof:lastmodified":1474573442,
-    "wof:name":"SS3 9EA",
-    "wof:parent_id":101750371,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    0.78182738100254,
-    51.53134656065748,
-    0.78182738100254,
-    51.53134656065748
-],
-  "geometry": {"coordinates":[0.78182738100254,51.53134656065748],"type":"Point"}
+    "wof:id": 487677225,
+    "wof:lastmodified": 1566240412,
+    "wof:name": "SS3 9EA",
+    "wof:parent_id": 101750371,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [0.781827, 51.531347, 0.781827, 51.531347],
+  "geometry": {"coordinates":[0.781827,51.531347],"type":"Point"}
 }

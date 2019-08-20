@@ -1,40 +1,58 @@
 {
-  "id": 437840113,
   "type": "Feature",
+  "id": 437840113,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
-    "gp:parent_id":"12695810",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"28903451"
+    "edtf:cessation": "2002-10-01",
+    "edtf:inception": "2002-06-01",
+    "geom:area": 0,
+    "geom:bbox": "-0.055962,51.599060,-0.055962,51.599060",
+    "geom:latitude": 51.59906,
+    "geom:longitude": -0.055962,
+    "gp:parent_id": "12695810",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "os:country_code": "E92000001",
+    "os:county_code": "E99999999",
+    "os:district_code": "E09000014",
+    "os:positional_quality_indicator": "5",
+    "os:region_code": "E12000007",
+    "src:geom": "os",
+    "wof:belongsto": [
+      85633159, 
+      101750367, 
+      404227469, 
+      85860365, 
+      1360698645, 
+      1158857279
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "28903451"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
-    "wof:id":437840113,
-    "wof:lastmodified":1474570857,
-    "wof:name":"N17 9YT",
-    "wof:parent_id":-1,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
-],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+    "wof:country": "GB",
+    "wof:created": 1566241271,
+    "wof:geomhash": "24795c6717fe2d72273e6732dad79c64",
+    "wof:hierarchy": [
+      {
+        "borough_id": 1158857279,
+        "country_id": 85633159,
+        "locality_id": 101750367,
+        "macroregion_id": 404227469,
+        "neighbourhood_id": 85860365,
+        "region_id": 1360698645
+      }
+    ],
+    "wof:id": 437840113,
+    "wof:lastmodified": 1566241271,
+    "wof:name": "N17 9YT",
+    "wof:parent_id": -1,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-0.055962, 51.59906, -0.055962, 51.59906],
+  "geometry": {"coordinates":[-0.055962,51.59906],"type":"Point"}
 }

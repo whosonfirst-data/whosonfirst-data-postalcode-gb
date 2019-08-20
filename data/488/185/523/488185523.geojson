@@ -1,63 +1,49 @@
 {
-  "id": 488185523,
   "type": "Feature",
+  "id": 488185523,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-2.02970126675,52.6998936708,-2.02970126675,52.6998936708",
-    "geom:latitude":52.699894,
-    "geom:longitude":-2.029701,
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"E10000028",
-    "os:admin_distict_code":"E07000192",
-    "os:admin_ward_code":"E05006904",
-    "os:country_code":"E92000001",
-    "os:nhs_ha_code":"E18000005",
-    "os:nhs_regional_ha_code":"E19000001",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[
-        85683943,
-        "102191581",
-        404439863,
-        "85633159",
-        404227469,
-        101750497
-    ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"28173712"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2003-03-01",
+    "geom:area": 0,
+    "geom:bbox": "-2.029701,52.699894,-2.029701,52.699894",
+    "geom:latitude": 52.699894,
+    "geom:longitude": -2.029701,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E10000028",
+    "os:district_code": "E07000192",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000005",
+    "src:geom": "os",
+    "wof:belongsto": [404227469, 1360698593, 85633159, 1360698947, 101750497],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "28173712"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"41e0a9a326e74b584389a71327d28e63",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404439863,
-            "locality_id":101750497,
-            "macroregion_id":404227469,
-            "postalcode_id":488185523,
-            "region_id":85683943
-        }
+    "wof:country": "GB",
+    "wof:created": 1566241598,
+    "wof:geomhash": "da36b2b03e9dabb67291b335dcfb115b",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698947,
+        "locality_id": 101750497,
+        "macroregion_id": 404227469,
+        "region_id": 1360698593
+      }
     ],
-    "wof:id":488185523,
-    "wof:lastmodified":1468904100,
-    "wof:name":"WS11 5SB",
-    "wof:parent_id":101750497,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    -2.0297012667531904,
-    52.69989367081022,
-    -2.0297012667531904,
-    52.69989367081022
-],
-  "geometry": {"coordinates":[-2.02970126675319,52.69989367081022],"type":"Point"}
+    "wof:id": 488185523,
+    "wof:lastmodified": 1566241598,
+    "wof:name": "WS11 5SB",
+    "wof:parent_id": 101750497,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-2.029701, 52.699894, -2.029701, 52.699894],
+  "geometry": {"coordinates":[-2.029701,52.699894],"type":"Point"}
 }

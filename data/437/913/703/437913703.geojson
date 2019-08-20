@@ -1,40 +1,58 @@
 {
-  "id": 437913703,
   "type": "Feature",
+  "id": 437913703,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
-    "gp:parent_id":"26045",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"28945726"
+    "edtf:cessation": "2004-01-01",
+    "edtf:inception": "2001-12-01",
+    "geom:area": 0,
+    "geom:bbox": "-5.436203,50.164314,-5.436203,50.164314",
+    "geom:latitude": 50.164314,
+    "geom:longitude": -5.436203,
+    "gp:parent_id": "26045",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "os:country_code": "E92000001",
+    "os:county_code": "E99999999",
+    "os:district_code": "E06000052",
+    "os:positional_quality_indicator": "5",
+    "os:region_code": "E12000009",
+    "src:geom": "os",
+    "wof:belongsto": [
+      1126029975, 
+      404227469, 
+      1360698623, 
+      85633159, 
+      1360699085, 
+      404444631
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "28945726"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
-    "wof:id":437913703,
-    "wof:lastmodified":1474570966,
-    "wof:name":"TR27 6WB",
-    "wof:parent_id":-1,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
-],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+    "wof:country": "GB",
+    "wof:created": 1566241433,
+    "wof:geomhash": "7fae6eb253390059dd167e82e05becff",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360699085,
+        "localadmin_id": 404444631,
+        "locality_id": 1126029975,
+        "macroregion_id": 404227469,
+        "region_id": 1360698623
+      }
+    ],
+    "wof:id": 437913703,
+    "wof:lastmodified": 1566241433,
+    "wof:name": "TR27 6WB",
+    "wof:parent_id": -1,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-5.436203, 50.164314, -5.436203, 50.164314],
+  "geometry": {"coordinates":[-5.436203,50.164314],"type":"Point"}
 }

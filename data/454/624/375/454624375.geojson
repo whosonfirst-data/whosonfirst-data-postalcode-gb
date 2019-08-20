@@ -1,61 +1,49 @@
 {
-  "id": 454624375,
   "type": "Feature",
+  "id": 454624375,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-2.95264435019,53.7415549381,-2.95264435019,53.7415549381",
-    "geom:latitude":53.741555,
-    "geom:longitude":-2.952644,
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"E10000017",
-    "os:admin_distict_code":"E07000119",
-    "os:admin_ward_code":"E05005201",
-    "os:country_code":"E92000001",
-    "os:nhs_ha_code":"E18000002",
-    "os:nhs_regional_ha_code":"E19000001",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[
-        85683853,
-        "102191581",
-        404448215,
-        "85633159",
-        404227469
-    ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"26665006"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-2.952644,53.741555,-2.952644,53.741555",
+    "geom:latitude": 53.741555,
+    "geom:longitude": -2.952644,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E10000017",
+    "os:district_code": "E07000119",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000002",
+    "src:geom": "os",
+    "wof:belongsto": [1360698567, 85633159, 1360698817, 101872281, 404227469],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "26665006"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"104602495606c678876bcf01e1ecbc12",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404448215,
-            "macroregion_id":404227469,
-            "postalcode_id":454624375,
-            "region_id":85683853
-        }
+    "wof:country": "GB",
+    "wof:created": 1566241144,
+    "wof:geomhash": "3cdb0efd6b6709a140306605d15d27d6",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698817,
+        "locality_id": 101872281,
+        "macroregion_id": 404227469,
+        "region_id": 1360698567
+      }
     ],
-    "wof:id":454624375,
-    "wof:lastmodified":1474571967,
-    "wof:name":"FY8 4JB",
-    "wof:parent_id":404448215,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    -2.95264435019367,
-    53.74155493808839,
-    -2.95264435019367,
-    53.74155493808839
-],
-  "geometry": {"coordinates":[-2.95264435019367,53.74155493808839],"type":"Point"}
+    "wof:id": 454624375,
+    "wof:lastmodified": 1566241144,
+    "wof:name": "FY8 4JB",
+    "wof:parent_id": 404448215,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-2.952644, 53.741555, -2.952644, 53.741555],
+  "geometry": {"coordinates":[-2.952644,53.741555],"type":"Point"}
 }

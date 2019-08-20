@@ -1,63 +1,49 @@
 {
-  "id": 471080645,
   "type": "Feature",
+  "id": 471080645,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-1.71777153613,54.9984730251,-1.71777153613,54.9984730251",
-    "geom:latitude":54.998473,
-    "geom:longitude":-1.717772,
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"E08000021",
-    "os:admin_ward_code":"E05001110",
-    "os:country_code":"E92000001",
-    "os:nhs_ha_code":"E18000001",
-    "os:nhs_regional_ha_code":"E19000001",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[
-        85683691,
-        "102191581",
-        404440729,
-        "85633159",
-        404227469,
-        101750617
-    ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27621050"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-1.717771,54.998473,-1.717771,54.998473",
+    "geom:latitude": 54.998473,
+    "geom:longitude": -1.717771,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E99999999",
+    "os:district_code": "E08000021",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000001",
+    "src:geom": "os",
+    "wof:belongsto": [85633159, 1360698961, 101750617, 404227469, 1360698601],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27621050"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"5bd962ec39d962f724e1f2a8b81ed069",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404440729,
-            "locality_id":101750617,
-            "macroregion_id":404227469,
-            "postalcode_id":471080645,
-            "region_id":85683691
-        }
+    "wof:country": "GB",
+    "wof:created": 1566240406,
+    "wof:geomhash": "67d8054df35706c451fdeb548ca01dab",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698961,
+        "locality_id": 101750617,
+        "macroregion_id": 404227469,
+        "region_id": 1360698601
+      }
     ],
-    "wof:id":471080645,
-    "wof:lastmodified":1474572660,
-    "wof:name":"NE5 1JD",
-    "wof:parent_id":101750617,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    -1.71777153612768,
-    54.99847302505258,
-    -1.71777153612768,
-    54.99847302505258
-],
-  "geometry": {"coordinates":[-1.71777153612768,54.99847302505258],"type":"Point"}
+    "wof:id": 471080645,
+    "wof:lastmodified": 1566240406,
+    "wof:name": "NE5 1JD",
+    "wof:parent_id": 101750617,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-1.717771, 54.998473, -1.717771, 54.998473],
+  "geometry": {"coordinates":[-1.717771,54.998473],"type":"Point"}
 }

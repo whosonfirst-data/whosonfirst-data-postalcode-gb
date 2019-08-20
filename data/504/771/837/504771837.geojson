@@ -1,64 +1,50 @@
 {
-  "id": 504771837,
   "type": "Feature",
+  "id": 504771837,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-3.59673624773,55.5980544981,-3.59673624773,55.5980544981",
-    "geom:latitude":55.598054,
-    "geom:longitude":-3.596736,
-    "gp:parent_id":"12696210",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"S12000029",
-    "os:admin_ward_code":"S13002789",
-    "os:country_code":"S92000003",
-    "os:nhs_ha_code":"S08000023",
-    "os:nhs_regional_ha_code":"",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[
-        85683955,
-        "102191581",
-        404453929,
-        "85633159",
-        404227471,
-        101873507
-    ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"56160921"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2008-11-01",
+    "geom:area": 0,
+    "geom:bbox": "-3.596736,55.598054,-3.596736,55.598054",
+    "geom:latitude": 55.598054,
+    "geom:longitude": -3.596736,
+    "gp:parent_id": "12696210",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "S92000003",
+    "os:county_code": "S99999999",
+    "os:district_code": "S12000029",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "S99999999",
+    "src:geom": "os",
+    "wof:belongsto": [1360698969, 404453929, 404227471, 1360698703, 85633159],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "56160921"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"51369feb56afdae85ca436e368784354",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404453929,
-            "locality_id":101873507,
-            "macroregion_id":404227471,
-            "postalcode_id":504771837,
-            "region_id":85683955
-        }
+    "wof:country": "GB",
+    "wof:created": 1566242565,
+    "wof:geomhash": "afd1846e6faaaea44fff91fb1c18edbe",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698969,
+        "localadmin_id": 404453929,
+        "macroregion_id": 404227471,
+        "region_id": 1360698703
+      }
     ],
-    "wof:id":504771837,
-    "wof:lastmodified":1468889044,
-    "wof:name":"ML12 6GQ",
-    "wof:parent_id":101873507,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    -3.5967362477266587,
-    55.598054498056875,
-    -3.5967362477266587,
-    55.598054498056875
-],
-  "geometry": {"coordinates":[-3.59673624772666,55.59805449805688],"type":"Point"}
+    "wof:id": 504771837,
+    "wof:lastmodified": 1566242565,
+    "wof:name": "ML12 6GQ",
+    "wof:parent_id": 101873507,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-3.596736, 55.598054, -3.596736, 55.598054],
+  "geometry": {"coordinates":[-3.596736,55.598054],"type":"Point"}
 }

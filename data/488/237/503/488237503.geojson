@@ -1,40 +1,58 @@
 {
-  "id": 488237503,
   "type": "Feature",
+  "id": 488237503,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
-    "gp:parent_id":"15382",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"28192844"
+    "edtf:cessation": "2016-01-01",
+    "edtf:inception": "1998-06-01",
+    "geom:area": 0,
+    "geom:bbox": "-0.940753,54.463603,-0.940753,54.463603",
+    "geom:latitude": 54.463603,
+    "geom:longitude": -0.940753,
+    "gp:parent_id": "15382",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "os:country_code": "E92000001",
+    "os:county_code": "E10000023",
+    "os:district_code": "E07000168",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000003",
+    "src:geom": "os",
+    "wof:belongsto": [
+      1125900983, 
+      404227469, 
+      1360698619, 
+      85633159, 
+      1360698753, 
+      404448043
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "28192844"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
-    "wof:id":488237503,
-    "wof:lastmodified":1474573975,
-    "wof:name":"YO21 2DW",
-    "wof:parent_id":-1,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
-],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+    "wof:country": "GB",
+    "wof:created": 1566241718,
+    "wof:geomhash": "e98c4d39c36af252cd0b2b0c6b563371",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698753,
+        "localadmin_id": 404448043,
+        "locality_id": 1125900983,
+        "macroregion_id": 404227469,
+        "region_id": 1360698619
+      }
+    ],
+    "wof:id": 488237503,
+    "wof:lastmodified": 1566241718,
+    "wof:name": "YO21 2DW",
+    "wof:parent_id": -1,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-0.940753, 54.463603, -0.940753, 54.463603],
+  "geometry": {"coordinates":[-0.940753,54.463603],"type":"Point"}
 }

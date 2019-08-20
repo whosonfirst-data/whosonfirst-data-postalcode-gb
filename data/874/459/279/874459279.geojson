@@ -1,59 +1,54 @@
 {
-  "id": 874459279,
   "type": "Feature",
+  "id": 874459279,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-4.23766709675,55.7588126317,-4.23766709675,55.7588126317",
-    "geom:latitude":55.758813,
-    "geom:longitude":-4.237667,
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"S12000029",
-    "os:admin_ward_code":"S13002795",
-    "os:country_code":"S92000003",
-    "os:nhs_ha_code":"S08000023",
-    "os:nhs_regional_ha_code":"",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[
-        85683955,
-        "102191581",
-        404453929,
-        "85633159",
-        404227471
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2011-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-4.237667,55.758813,-4.237667,55.758813",
+    "geom:latitude": 55.758813,
+    "geom:longitude": -4.237667,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "S92000003",
+    "os:county_code": "S99999999",
+    "os:district_code": "S12000029",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "S99999999",
+    "src:geom": "os",
+    "wof:belongsto": [
+      404453929, 
+      404227471, 
+      85786279, 
+      1360698703, 
+      85633159, 
+      1360698969
     ],
-    "wof:breaches":[],
-    "wof:country":"GB",
-    "wof:created":1468879742,
-    "wof:geomhash":"290d87c74161bf163171b842501c5c11",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404453929,
-            "macroregion_id":404227471,
-            "postalcode_id":874459279,
-            "region_id":85683955
-        }
+    "wof:breaches": [],
+    "wof:country": "GB",
+    "wof:created": 1468879742,
+    "wof:geomhash": "bdbf898f9e91d3e1baffbd73f89134e8",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698969,
+        "localadmin_id": 404453929,
+        "macroregion_id": 404227471,
+        "neighbourhood_id": 85786279,
+        "region_id": 1360698703
+      }
     ],
-    "wof:id":874459279,
-    "wof:lastmodified":1468879742,
-    "wof:name":"G74 5QB",
-    "wof:parent_id":404453929,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    -4.237667096750998,
-    55.75881263174841,
-    -4.237667096750998,
-    55.75881263174841
-],
-  "geometry": {"coordinates":[-4.237667096751,55.75881263174841],"type":"Point"}
+    "wof:id": 874459279,
+    "wof:lastmodified": 1566242112,
+    "wof:name": "G74 5QB",
+    "wof:parent_id": 404453929,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-4.237667, 55.758813, -4.237667, 55.758813],
+  "geometry": {"coordinates":[-4.237667,55.758813],"type":"Point"}
 }

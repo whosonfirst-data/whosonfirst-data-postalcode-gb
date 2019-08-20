@@ -1,62 +1,50 @@
 {
-  "id": 471116521,
   "type": "Feature",
+  "id": 471116521,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-1.30056533524,53.1222294272,-1.30056533524,53.1222294272",
-    "geom:latitude":53.122229,
-    "geom:longitude":-1.300565,
-    "gp:parent_id":"20092784",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"E10000024",
-    "os:admin_distict_code":"E07000170",
-    "os:admin_ward_code":"E05010682",
-    "os:country_code":"E92000001",
-    "os:nhs_ha_code":"E18000004",
-    "os:nhs_regional_ha_code":"E19000001",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[
-        85683849,
-        "102191581",
-        404432853,
-        "85633159",
-        404227469
-    ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"26655346"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-1.300565,53.122229,-1.300565,53.122229",
+    "geom:latitude": 53.122229,
+    "geom:longitude": -1.300565,
+    "gp:parent_id": "20092784",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E10000024",
+    "os:district_code": "E07000170",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000004",
+    "src:geom": "os",
+    "wof:belongsto": [85633159, 1360698809, 101750509, 404227469, 1360698583],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "26655346"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"6280afcc8b3012cf8e96f61e70591765",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404432853,
-            "macroregion_id":404227469,
-            "postalcode_id":471116521,
-            "region_id":85683849
-        }
+    "wof:country": "GB",
+    "wof:created": 1566240486,
+    "wof:geomhash": "bf74a395098c33c567a864faa413a4be",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698809,
+        "locality_id": 101750509,
+        "macroregion_id": 404227469,
+        "region_id": 1360698583
+      }
     ],
-    "wof:id":471116521,
-    "wof:lastmodified":1468890141,
-    "wof:name":"NG17 2JP",
-    "wof:parent_id":404432853,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    -1.3005653352436686,
-    53.12222942715577,
-    -1.3005653352436686,
-    53.12222942715577
-],
-  "geometry": {"coordinates":[-1.30056533524367,53.12222942715577],"type":"Point"}
+    "wof:id": 471116521,
+    "wof:lastmodified": 1566240486,
+    "wof:name": "NG17 2JP",
+    "wof:parent_id": 404432853,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-1.300565, 53.122229, -1.300565, 53.122229],
+  "geometry": {"coordinates":[-1.300565,53.122229],"type":"Point"}
 }

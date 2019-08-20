@@ -1,63 +1,49 @@
 {
-  "id": 471229571,
   "type": "Feature",
+  "id": 471229571,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"1.71771639366,52.5667533315,1.71771639366,52.5667533315",
-    "geom:latitude":52.566753,
-    "geom:longitude":1.717716,
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"E10000020",
-    "os:admin_distict_code":"E07000145",
-    "os:admin_ward_code":"E05005794",
-    "os:country_code":"E92000001",
-    "os:nhs_ha_code":"E18000006",
-    "os:nhs_regional_ha_code":"E19000001",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[
-        85683947,
-        "102191581",
-        404438689,
-        "85633159",
-        404227469,
-        101750479
-    ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27688095"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "1.717716,52.566753,1.717716,52.566753",
+    "geom:latitude": 52.566753,
+    "geom:longitude": 1.717716,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E10000020",
+    "os:district_code": "E07000145",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000006",
+    "src:geom": "os",
+    "wof:belongsto": [1360698575, 85633159, 1360698955, 101750479, 404227469],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27688095"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"298a4f5f17070bb51b9d0b72af359883",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404438689,
-            "locality_id":101750479,
-            "macroregion_id":404227469,
-            "postalcode_id":471229571,
-            "region_id":85683947
-        }
+    "wof:country": "GB",
+    "wof:created": 1566240748,
+    "wof:geomhash": "3bdc5a3285179e3884143de886aa02f8",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698955,
+        "locality_id": 101750479,
+        "macroregion_id": 404227469,
+        "region_id": 1360698575
+      }
     ],
-    "wof:id":471229571,
-    "wof:lastmodified":1468891386,
-    "wof:name":"NR31 7NH",
-    "wof:parent_id":101750479,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    1.7177163936629272,
-    52.566753331475574,
-    1.7177163936629272,
-    52.566753331475574
-],
-  "geometry": {"coordinates":[1.71771639366293,52.56675333147557],"type":"Point"}
+    "wof:id": 471229571,
+    "wof:lastmodified": 1566240748,
+    "wof:name": "NR31 7NH",
+    "wof:parent_id": 101750479,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [1.717716, 52.566753, 1.717716, 52.566753],
+  "geometry": {"coordinates":[1.717716,52.566753],"type":"Point"}
 }

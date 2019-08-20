@@ -1,63 +1,49 @@
 {
-  "id": 487855673,
   "type": "Feature",
+  "id": 487855673,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.845375157062,51.1524005416,0.845375157062,51.1524005416",
-    "geom:latitude":51.152401,
-    "geom:longitude":0.845375,
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"E10000016",
-    "os:admin_distict_code":"E07000105",
-    "os:admin_ward_code":"E05004876",
-    "os:country_code":"E92000001",
-    "os:nhs_ha_code":"E18000008",
-    "os:nhs_regional_ha_code":"E19000002",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[
-        85684363,
-        "102191581",
-        404446127,
-        "85633159",
-        404227469,
-        101750339
-    ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"26489618"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1981-06-01",
+    "geom:area": 0,
+    "geom:bbox": "0.845375,51.152401,0.845375,51.152401",
+    "geom:latitude": 51.152401,
+    "geom:longitude": 0.845375,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E10000016",
+    "os:district_code": "E07000105",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000008",
+    "src:geom": "os",
+    "wof:belongsto": [1360698565, 85633159, 1360698811, 101750339, 404227469],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "26489618"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"f9a418e7518315d6a39c437658e9bf9a",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404446127,
-            "locality_id":101750339,
-            "macroregion_id":404227469,
-            "postalcode_id":487855673,
-            "region_id":85684363
-        }
+    "wof:country": "GB",
+    "wof:created": 1566240837,
+    "wof:geomhash": "12ce1e771e05f2d115d270bee75729d6",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698811,
+        "locality_id": 101750339,
+        "macroregion_id": 404227469,
+        "region_id": 1360698565
+      }
     ],
-    "wof:id":487855673,
-    "wof:lastmodified":1468902504,
-    "wof:name":"TN23 3JR",
-    "wof:parent_id":101750339,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    0.8453751570620213,
-    51.15240054158801,
-    0.8453751570620213,
-    51.15240054158801
-],
-  "geometry": {"coordinates":[0.84537515706202,51.15240054158801],"type":"Point"}
+    "wof:id": 487855673,
+    "wof:lastmodified": 1566240837,
+    "wof:name": "TN23 3JR",
+    "wof:parent_id": 101750339,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [0.845375, 51.152401, 0.845375, 51.152401],
+  "geometry": {"coordinates":[0.845375,51.152401],"type":"Point"}
 }

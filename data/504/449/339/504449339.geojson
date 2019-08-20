@@ -1,46 +1,49 @@
 {
-  "id": 504449339,
   "type": "Feature",
+  "id": 504449339,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-4.60243411313,55.7084177614,-4.60243411313,55.7084177614",
-    "geom:latitude":55.708418,
-    "geom:longitude":-4.602434,
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"S12000021",
-    "os:admin_ward_code":"S13002706",
-    "os:country_code":"S92000003",
-    "os:nhs_ha_code":"S08000015",
-    "os:nhs_regional_ha_code":"",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27415961"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-4.602434,55.708418,-4.602434,55.708418",
+    "geom:latitude": 55.708418,
+    "geom:longitude": -4.602434,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "S92000003",
+    "os:county_code": "S99999999",
+    "os:district_code": "S12000021",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "S99999999",
+    "src:geom": "os",
+    "wof:belongsto": [85633159, 1360698855, 404441385, 404227471, 1360698697],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27415961"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"7e5cd29ea95f592546074946b6bb7bd3",
-    "wof:hierarchy":[],
-    "wof:id":504449339,
-    "wof:lastmodified":1468884785,
-    "wof:name":"KA15 1LD",
-    "wof:parent_id":404441385,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    -4.6024341131324595,
-    55.70841776140995,
-    -4.6024341131324595,
-    55.70841776140995
-],
-  "geometry": {"coordinates":[-4.60243411313246,55.70841776140995],"type":"Point"}
+    "wof:country": "GB",
+    "wof:created": 1566241877,
+    "wof:geomhash": "0f3ce13f3a7da258b0cd4151b5963424",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698855,
+        "localadmin_id": 404441385,
+        "macroregion_id": 404227471,
+        "region_id": 1360698697
+      }
+    ],
+    "wof:id": 504449339,
+    "wof:lastmodified": 1566241877,
+    "wof:name": "KA15 1LD",
+    "wof:parent_id": 404441385,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-4.602434, 55.708418, -4.602434, 55.708418],
+  "geometry": {"coordinates":[-4.602434,55.708418],"type":"Point"}
 }

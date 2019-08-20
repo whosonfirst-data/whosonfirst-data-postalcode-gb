@@ -1,62 +1,50 @@
 {
-  "id": 454515193,
   "type": "Feature",
+  "id": 454515193,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-0.00928676755869,51.5879995759,-0.00928676755869,51.5879995759",
-    "geom:latitude":51.588,
-    "geom:longitude":-0.009287,
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"E09000031",
-    "os:admin_ward_code":"E05000601",
-    "os:country_code":"E92000001",
-    "os:nhs_ha_code":"E18000007",
-    "os:nhs_regional_ha_code":"E19000003",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[
-        102191581,
-        85633159,
-        404227469,
-        101750367
-    ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27216360"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.009287,51.588000,-0.009287,51.588000",
+    "geom:latitude": 51.588,
+    "geom:longitude": -0.009287,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E99999999",
+    "os:district_code": "E09000031",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000007",
+    "src:geom": "os",
+    "wof:belongsto": [101750367, 404227469, 1360698645, 1158857287, 85633159],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27216360"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"157d22f24e5f4153186e650adbd7c603",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633159,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "postalcode_id":454515193,
-            "region_id":-1
-        }
+    "wof:country": "GB",
+    "wof:created": 1566240875,
+    "wof:geomhash": "fd6df971912836df6686494203befe1e",
+    "wof:hierarchy": [
+      {
+        "borough_id": 1158857287,
+        "country_id": 85633159,
+        "locality_id": 101750367,
+        "macroregion_id": 404227469,
+        "region_id": 1360698645
+      }
     ],
-    "wof:id":454515193,
-    "wof:lastmodified":1513905910,
-    "wof:name":"E17 3ER",
-    "wof:parent_id":101750367,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    -0.00928676755869,
-    51.58799957586172,
-    -0.00928676755869,
-    51.58799957586172
-],
-  "geometry": {"coordinates":[-0.00928676755869,51.58799957586172],"type":"Point"}
+    "wof:id": 454515193,
+    "wof:lastmodified": 1566240875,
+    "wof:name": "E17 3ER",
+    "wof:parent_id": 101750367,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-0.009287, 51.588, -0.009287, 51.588],
+  "geometry": {"coordinates":[-0.009287,51.588],"type":"Point"}
 }

@@ -1,61 +1,49 @@
 {
-  "id": 471112211,
   "type": "Feature",
+  "id": 471112211,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-1.19379940358,53.0342146207,-1.19379940358,53.0342146207",
-    "geom:latitude":53.034215,
-    "geom:longitude":-1.193799,
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"E10000024",
-    "os:admin_distict_code":"E07000170",
-    "os:admin_ward_code":"E05010678",
-    "os:country_code":"E92000001",
-    "os:nhs_ha_code":"E18000004",
-    "os:nhs_regional_ha_code":"E19000001",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[
-        85683849,
-        "102191581",
-        404446215,
-        "85633159",
-        404227469
-    ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"28218769"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2005-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-1.193799,53.034215,-1.193799,53.034215",
+    "geom:latitude": 53.034215,
+    "geom:longitude": -1.193799,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E10000024",
+    "os:district_code": "E07000170",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000004",
+    "src:geom": "os",
+    "wof:belongsto": [1360698809, 1125832373, 404227469, 1360698583, 85633159],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "28218769"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"231dc6e8b134a1716f6c2e150e3da4bc",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404446215,
-            "macroregion_id":404227469,
-            "postalcode_id":471112211,
-            "region_id":85683849
-        }
+    "wof:country": "GB",
+    "wof:created": 1566240477,
+    "wof:geomhash": "92c268295f34cbf14a392a33758838ae",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698809,
+        "locality_id": 1125832373,
+        "macroregion_id": 404227469,
+        "region_id": 1360698583
+      }
     ],
-    "wof:id":471112211,
-    "wof:lastmodified":1468890090,
-    "wof:name":"NG15 7UR",
-    "wof:parent_id":404446215,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    -1.1937994035826984,
-    53.03421462067829,
-    -1.1937994035826984,
-    53.03421462067829
-],
-  "geometry": {"coordinates":[-1.1937994035827,53.03421462067829],"type":"Point"}
+    "wof:id": 471112211,
+    "wof:lastmodified": 1566240477,
+    "wof:name": "NG15 7UR",
+    "wof:parent_id": 404446215,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-1.193799, 53.034215, -1.193799, 53.034215],
+  "geometry": {"coordinates":[-1.193799,53.034215],"type":"Point"}
 }

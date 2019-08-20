@@ -1,61 +1,46 @@
 {
-  "id": 874455771,
   "type": "Feature",
+  "id": 874455771,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-3.5385362195,50.7222582259,-3.5385362195,50.7222582259",
-    "geom:latitude":50.722258,
-    "geom:longitude":-3.538536,
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"E10000008",
-    "os:admin_distict_code":"E07000041",
-    "os:admin_ward_code":"E05011020",
-    "os:country_code":"E92000001",
-    "os:nhs_ha_code":"E18000010",
-    "os:nhs_regional_ha_code":"E19000002",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[
-        85683773,
-        "102191581",
-        404446569,
-        "85633159",
-        404227469,
-        101750383
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2015-03-01",
+    "geom:area": 0,
+    "geom:bbox": "-3.538536,50.722258,-3.538536,50.722258",
+    "geom:latitude": 50.722258,
+    "geom:longitude": -3.538536,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E10000008",
+    "os:district_code": "E07000041",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000009",
+    "src:geom": "os",
+    "wof:belongsto": [1360699081, 101750383, 404227469, 1360698541, 85633159],
+    "wof:breaches": [],
+    "wof:country": "GB",
+    "wof:created": 1468879529,
+    "wof:geomhash": "01de8888fd78f2155e44d2a0794ee1f2",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360699081,
+        "locality_id": 101750383,
+        "macroregion_id": 404227469,
+        "region_id": 1360698541
+      }
     ],
-    "wof:breaches":[],
-    "wof:country":"GB",
-    "wof:created":1468879529,
-    "wof:geomhash":"05c1becfd200490831eb50ed692d0aa1",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404446569,
-            "locality_id":101750383,
-            "macroregion_id":404227469,
-            "postalcode_id":874455771,
-            "region_id":85683773
-        }
-    ],
-    "wof:id":874455771,
-    "wof:lastmodified":1468879529,
-    "wof:name":"EX4 3DX",
-    "wof:parent_id":101750383,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    -3.5385362195044636,
-    50.722258225922914,
-    -3.5385362195044636,
-    50.722258225922914
-],
-  "geometry": {"coordinates":[-3.53853621950446,50.72225822592291],"type":"Point"}
+    "wof:id": 874455771,
+    "wof:lastmodified": 1566242103,
+    "wof:name": "EX4 3DX",
+    "wof:parent_id": 101750383,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-3.538536, 50.722258, -3.538536, 50.722258],
+  "geometry": {"coordinates":[-3.538536,50.722258],"type":"Point"}
 }

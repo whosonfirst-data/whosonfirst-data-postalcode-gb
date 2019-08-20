@@ -1,47 +1,58 @@
 {
-  "id": 454995227,
   "type": "Feature",
+  "id": 454995227,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-2.84711356984,54.0595285832,-2.84711356984,54.0595285832",
-    "geom:latitude":54.059529,
-    "geom:longitude":-2.847114,
-    "gp:parent_id":"35064",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"E10000017",
-    "os:admin_distict_code":"E07000121",
-    "os:admin_ward_code":"E05009618",
-    "os:country_code":"E92000001",
-    "os:nhs_ha_code":"E18000002",
-    "os:nhs_regional_ha_code":"E19000001",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27464020"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-2.847111,54.059539,-2.847111,54.059539",
+    "geom:latitude": 54.059539,
+    "geom:longitude": -2.847111,
+    "gp:parent_id": "35064",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E10000017",
+    "os:district_code": "E07000121",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000002",
+    "src:geom": "os",
+    "wof:belongsto": [
+      85633159, 
+      1360698817, 
+      404430699, 
+      1125770537, 
+      404227469, 
+      1360698567
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27464020"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"65bcd276d24c30efd7b733a6364843c4",
-    "wof:hierarchy":[],
-    "wof:id":454995227,
-    "wof:lastmodified":1474572332,
-    "wof:name":"LA3 3BT",
-    "wof:parent_id":404430699,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    -2.84711356984244,
-    54.05952858315221,
-    -2.84711356984244,
-    54.05952858315221
-],
-  "geometry": {"coordinates":[-2.84711356984244,54.05952858315221],"type":"Point"}
+    "wof:country": "GB",
+    "wof:created": 1566241991,
+    "wof:geomhash": "1da66d39483996bce6e434c4365f8a77",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698817,
+        "localadmin_id": 404430699,
+        "locality_id": 1125770537,
+        "macroregion_id": 404227469,
+        "region_id": 1360698567
+      }
+    ],
+    "wof:id": 454995227,
+    "wof:lastmodified": 1566241991,
+    "wof:name": "LA3 3BT",
+    "wof:parent_id": 404430699,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-2.847111, 54.059539, -2.847111, 54.059539],
+  "geometry": {"coordinates":[-2.847111,54.059539],"type":"Point"}
 }

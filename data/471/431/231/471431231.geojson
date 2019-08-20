@@ -1,64 +1,47 @@
 {
-  "id": 471431231,
   "type": "Feature",
+  "id": 471431231,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-4.20044071545,50.4042723759,-4.20044071545,50.4042723759",
-    "geom:latitude":50.404272,
-    "geom:longitude":-4.200441,
-    "gp:parent_id":"32185",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"E06000026",
-    "os:admin_ward_code":"E05002093",
-    "os:country_code":"E92000001",
-    "os:nhs_ha_code":"E18000010",
-    "os:nhs_regional_ha_code":"E19000002",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[
-        85684547,
-        "102191581",
-        404450003,
-        "85633159",
-        404227469,
-        101852381
-    ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27774868"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-4.200441,50.404272,-4.200441,50.404272",
+    "geom:latitude": 50.404272,
+    "geom:longitude": -4.200441,
+    "gp:parent_id": "32185",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E99999999",
+    "os:district_code": "E06000026",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000009",
+    "src:geom": "os",
+    "wof:belongsto": [1360698541, 101750297],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27774868"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"e9a3a80ff75b90dc707c768b054275c5",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404450003,
-            "locality_id":101852381,
-            "macroregion_id":404227469,
-            "postalcode_id":471431231,
-            "region_id":85684547
-        }
+    "wof:country": "GB",
+    "wof:created": 1566241216,
+    "wof:geomhash": "e5b5ebdbf5a321a0550083dd1c284a18",
+    "wof:hierarchy": [
+      {
+        "locality_id": 101750297,
+        "region_id": 1360698541
+      }
     ],
-    "wof:id":471431231,
-    "wof:lastmodified":1474572935,
-    "wof:name":"PL5 1JZ",
-    "wof:parent_id":101852381,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    -4.20044071544653,
-    50.40427237593466,
-    -4.20044071544653,
-    50.40427237593466
-],
-  "geometry": {"coordinates":[-4.20044071544653,50.40427237593466],"type":"Point"}
+    "wof:id": 471431231,
+    "wof:lastmodified": 1566241216,
+    "wof:name": "PL5 1JZ",
+    "wof:parent_id": 101852381,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-4.200441, 50.404272, -4.200441, 50.404272],
+  "geometry": {"coordinates":[-4.200441,50.404272],"type":"Point"}
 }

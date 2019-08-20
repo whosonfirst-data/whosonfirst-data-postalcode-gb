@@ -1,40 +1,58 @@
 {
-  "id": 437462797,
   "type": "Feature",
+  "id": 437462797,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
-    "gp:parent_id":"34438",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27790353"
+    "edtf:cessation": "2008-12-01",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-1.170771,50.633080,-1.170771,50.633080",
+    "geom:latitude": 50.63308,
+    "geom:longitude": -1.170771,
+    "gp:parent_id": "34438",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "os:country_code": "E92000001",
+    "os:county_code": "E99999999",
+    "os:district_code": "E06000046",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000008",
+    "src:geom": "os",
+    "wof:belongsto": [
+      1125995749, 
+      404227469, 
+      1360698563, 
+      85633159, 
+      1360699089, 
+      404444633
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27790353"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
-    "wof:id":437462797,
-    "wof:lastmodified":1474570117,
-    "wof:name":"PO37 6BQ",
-    "wof:parent_id":-1,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
-],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+    "wof:country": "GB",
+    "wof:created": 1566240403,
+    "wof:geomhash": "1f4a1fcd9ddc2ff103b9fe0efcd57b9e",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360699089,
+        "localadmin_id": 404444633,
+        "locality_id": 1125995749,
+        "macroregion_id": 404227469,
+        "region_id": 1360698563
+      }
+    ],
+    "wof:id": 437462797,
+    "wof:lastmodified": 1566240403,
+    "wof:name": "PO37 6BQ",
+    "wof:parent_id": -1,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-1.170771, 50.63308, -1.170771, 50.63308],
+  "geometry": {"coordinates":[-1.170771,50.63308],"type":"Point"}
 }

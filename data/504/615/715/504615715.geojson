@@ -1,40 +1,58 @@
 {
-  "id": 504615715,
   "type": "Feature",
+  "id": 504615715,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
-    "gp:parent_id":"26838",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"28018257"
+    "edtf:cessation": "2012-02-01",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-3.429873,52.482026,-3.429873,52.482026",
+    "geom:latitude": 52.482026,
+    "geom:longitude": -3.429873,
+    "gp:parent_id": "26838",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "os:country_code": "W92000004",
+    "os:county_code": "W99999999",
+    "os:district_code": "W06000023",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "W99999999",
+    "src:geom": "os",
+    "wof:belongsto": [
+      404429939, 
+      1293229389, 
+      404227475, 
+      1360698625, 
+      85633159, 
+      1360698985
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "28018257"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
-    "wof:id":504615715,
-    "wof:lastmodified":1474574581,
-    "wof:name":"SY17 5AR",
-    "wof:parent_id":-1,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
-],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+    "wof:country": "GB",
+    "wof:created": 1566242333,
+    "wof:geomhash": "f5d6c9e9b6f2be08f66a78feaec4278d",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698985,
+        "localadmin_id": 404429939,
+        "locality_id": 1293229389,
+        "macroregion_id": 404227475,
+        "region_id": 1360698625
+      }
+    ],
+    "wof:id": 504615715,
+    "wof:lastmodified": 1566242333,
+    "wof:name": "SY17 5AR",
+    "wof:parent_id": -1,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-3.429873, 52.482026, -3.429873, 52.482026],
+  "geometry": {"coordinates":[-3.429873,52.482026],"type":"Point"}
 }

@@ -1,63 +1,49 @@
 {
-  "id": 471072461,
   "type": "Feature",
+  "id": 471072461,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-1.65177902655,54.9834928982,-1.65177902655,54.9834928982",
-    "geom:latitude":54.983493,
-    "geom:longitude":-1.651779,
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"E08000021",
-    "os:admin_ward_code":"E05001113",
-    "os:country_code":"E92000001",
-    "os:nhs_ha_code":"E18000001",
-    "os:nhs_regional_ha_code":"E19000001",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[
-        85683691,
-        "102191581",
-        404440729,
-        "85633159",
-        404227469,
-        101750617
-    ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27617596"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-1.651779,54.983493,-1.651779,54.983493",
+    "geom:latitude": 54.983493,
+    "geom:longitude": -1.651779,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E99999999",
+    "os:district_code": "E08000021",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000001",
+    "src:geom": "os",
+    "wof:belongsto": [1360698601, 85633159, 1360698961, 101750617, 404227469],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27617596"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"5f30405c7d58253ee8620375c4b8a73b",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404440729,
-            "locality_id":101750617,
-            "macroregion_id":404227469,
-            "postalcode_id":471072461,
-            "region_id":85683691
-        }
+    "wof:country": "GB",
+    "wof:created": 1566240386,
+    "wof:geomhash": "66bc731f7086065f33f4bdc1cd066f87",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698961,
+        "locality_id": 101750617,
+        "macroregion_id": 404227469,
+        "region_id": 1360698601
+      }
     ],
-    "wof:id":471072461,
-    "wof:lastmodified":1474572657,
-    "wof:name":"NE4 9XL",
-    "wof:parent_id":101750617,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    -1.65177902654541,
-    54.983492898218,
-    -1.65177902654541,
-    54.983492898218
-],
-  "geometry": {"coordinates":[-1.65177902654541,54.983492898218],"type":"Point"}
+    "wof:id": 471072461,
+    "wof:lastmodified": 1566240386,
+    "wof:name": "NE4 9XL",
+    "wof:parent_id": 101750617,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-1.651779, 54.983493, -1.651779, 54.983493],
+  "geometry": {"coordinates":[-1.651779,54.983493],"type":"Point"}
 }

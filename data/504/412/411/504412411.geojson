@@ -1,40 +1,58 @@
 {
-  "id": 504412411,
   "type": "Feature",
+  "id": 504412411,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
-    "gp:parent_id":"25407",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27294401"
+    "edtf:cessation": "2015-01-01",
+    "edtf:inception": "2001-06-01",
+    "geom:area": 0,
+    "geom:bbox": "-4.142455,55.925534,-4.142455,55.925534",
+    "geom:latitude": 55.925534,
+    "geom:longitude": -4.142455,
+    "gp:parent_id": "25407",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "os:country_code": "S92000003",
+    "os:county_code": "S99999999",
+    "os:district_code": "S12000045",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "S99999999",
+    "src:geom": "os",
+    "wof:belongsto": [
+      404451795, 
+      404227471, 
+      85790731, 
+      1360698701, 
+      85633159, 
+      1360698835
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27294401"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
-    "wof:id":504412411,
-    "wof:lastmodified":1474574421,
-    "wof:name":"G66 3UG",
-    "wof:parent_id":-1,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
-],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+    "wof:country": "GB",
+    "wof:created": 1566241749,
+    "wof:geomhash": "b13c2679d719b157e426f5a05f647e9b",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698835,
+        "localadmin_id": 404451795,
+        "macroregion_id": 404227471,
+        "neighbourhood_id": 85790731,
+        "region_id": 1360698701
+      }
+    ],
+    "wof:id": 504412411,
+    "wof:lastmodified": 1566241749,
+    "wof:name": "G66 3UG",
+    "wof:parent_id": -1,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-4.142455, 55.925534, -4.142455, 55.925534],
+  "geometry": {"coordinates":[-4.142455,55.925534],"type":"Point"}
 }

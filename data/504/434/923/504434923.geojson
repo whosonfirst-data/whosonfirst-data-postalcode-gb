@@ -1,62 +1,50 @@
 {
-  "id": 504434923,
   "type": "Feature",
+  "id": 504434923,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-4.59950720686,57.5730956161,-4.59950720686,57.5730956161",
-    "geom:latitude":57.573096,
-    "geom:longitude":-4.599507,
-    "gp:parent_id":"12696199",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"S12000017",
-    "os:admin_ward_code":"S13002667",
-    "os:country_code":"S92000003",
-    "os:nhs_ha_code":"S08000022",
-    "os:nhs_regional_ha_code":"",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[
-        85683747,
-        "102191581",
-        404436073,
-        "85633159",
-        404227471
-    ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27408339"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-4.599507,57.573096,-4.599507,57.573096",
+    "geom:latitude": 57.573096,
+    "geom:longitude": -4.599507,
+    "gp:parent_id": "12696199",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "S92000003",
+    "os:county_code": "S99999999",
+    "os:district_code": "S12000017",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "S99999999",
+    "src:geom": "os",
+    "wof:belongsto": [85633159, 1360699045, 404436073, 404227471, 1360698667],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27408339"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"5af68663819b98688e1f16dff5f2fdf6",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404436073,
-            "macroregion_id":404227471,
-            "postalcode_id":504434923,
-            "region_id":85683747
-        }
+    "wof:country": "GB",
+    "wof:created": 1566241817,
+    "wof:geomhash": "26025464ddd607b6ba867e2ec9cc0d26",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360699045,
+        "localadmin_id": 404436073,
+        "macroregion_id": 404227471,
+        "region_id": 1360698667
+      }
     ],
-    "wof:id":504434923,
-    "wof:lastmodified":1468881948,
-    "wof:name":"IV14 9EG",
-    "wof:parent_id":404436073,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    -4.599507206864186,
-    57.573095616127006,
-    -4.599507206864186,
-    57.573095616127006
-],
-  "geometry": {"coordinates":[-4.59950720686419,57.57309561612701],"type":"Point"}
+    "wof:id": 504434923,
+    "wof:lastmodified": 1566241817,
+    "wof:name": "IV14 9EG",
+    "wof:parent_id": 404436073,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [-4.599507, 57.573096, -4.599507, 57.573096],
+  "geometry": {"coordinates":[-4.599507,57.573096],"type":"Point"}
 }

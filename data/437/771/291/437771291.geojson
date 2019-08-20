@@ -1,40 +1,58 @@
 {
-  "id": 437771291,
   "type": "Feature",
+  "id": 437771291,
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"0.0,0.0,0.0,0.0",
-    "geom:latitude":0.0,
-    "geom:longitude":0.0,
-    "gp:parent_id":"12695822",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "src:geom":"geoplanet",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"28863624"
+    "edtf:cessation": "2004-02-01",
+    "edtf:inception": "2001-12-01",
+    "geom:area": 0,
+    "geom:bbox": "0.195702,51.476455,0.195702,51.476455",
+    "geom:latitude": 51.476455,
+    "geom:longitude": 0.195702,
+    "gp:parent_id": "12695822",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 0,
+    "os:country_code": "E92000001",
+    "os:county_code": "E99999999",
+    "os:district_code": "E09000004",
+    "os:positional_quality_indicator": "5",
+    "os:region_code": "E12000007",
+    "src:geom": "os",
+    "wof:belongsto": [
+      101750367, 
+      404227469, 
+      85790379, 
+      1360698645, 
+      1158857255, 
+      85633159
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "28863624"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
-    "wof:hierarchy":[],
-    "wof:id":437771291,
-    "wof:lastmodified":1474570754,
-    "wof:name":"DA18 4WX",
-    "wof:parent_id":-1,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
-  "bbox": [
-    0.0,
-    0.0,
-    0.0,
-    0.0
-],
-  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+    "wof:country": "GB",
+    "wof:created": 1566241113,
+    "wof:geomhash": "89f8354df7ce802f847208ea67a13934",
+    "wof:hierarchy": [
+      {
+        "borough_id": 1158857255,
+        "country_id": 85633159,
+        "locality_id": 101750367,
+        "macroregion_id": 404227469,
+        "neighbourhood_id": 85790379,
+        "region_id": 1360698645
+      }
+    ],
+    "wof:id": 437771291,
+    "wof:lastmodified": 1566241113,
+    "wof:name": "DA18 4WX",
+    "wof:parent_id": -1,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
+  "bbox": [0.195702, 51.476455, 0.195702, 51.476455],
+  "geometry": {"coordinates":[0.195702,51.476455],"type":"Point"}
 }
