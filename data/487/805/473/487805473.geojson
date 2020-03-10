@@ -2,61 +2,62 @@
   "id": 487805473,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-3.52167019091,51.0078752932,-3.52167019091,51.0078752932",
-    "geom:latitude":51.007875,
-    "geom:longitude":-3.52167,
-    "gp:parent_id":"19790",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"E10000008",
-    "os:admin_distict_code":"E07000042",
-    "os:admin_ward_code":"E05003514",
-    "os:country_code":"E92000001",
-    "os:nhs_ha_code":"E18000010",
-    "os:nhs_regional_ha_code":"E19000002",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[
-        85683773,
-        "102191581",
-        404443799,
-        "85633159",
-        404227469
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-3.521670,51.007875,-3.521670,51.007875",
+    "geom:latitude": 51.007875,
+    "geom:longitude": -3.52167,
+    "gp:parent_id": "19790",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E10000008",
+    "os:district_code": "E07000042",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000009",
+    "src:geom": "os",
+    "wof:belongsto": [
+      85633159, 
+      1360699081, 
+      404443799, 
+      1125922557, 
+      404227469, 
+      1360698541
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"28031366"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "28031366"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"99bd6ef96b286fc04ffe24098d5091cb",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404443799,
-            "macroregion_id":404227469,
-            "postalcode_id":487805473,
-            "region_id":85683773
-        }
+    "wof:country": "GB",
+    "wof:created": 1583701176,
+    "wof:geomhash": "39cf71e94ca8acedcf130634960be324",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360699081,
+        "localadmin_id": 404443799,
+        "locality_id": 1125922557,
+        "macroregion_id": 404227469,
+        "region_id": 1360698541
+      }
     ],
-    "wof:id":487805473,
-    "wof:lastmodified":1468902109,
-    "wof:name":"TA22 9BD",
-    "wof:parent_id":404443799,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 487805473,
+    "wof:lastmodified": 1583786279,
+    "wof:name": "TA22 9BD",
+    "wof:parent_id": 404443799,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -3.5216701909056884,
-    51.007875293225474,
-    -3.5216701909056884,
-    51.007875293225474
-],
-  "geometry": {"coordinates":[-3.52167019090569,51.00787529322547],"type":"Point"}
+    -3.52167, 
+    51.007875, 
+    -3.52167, 
+    51.007875
+  ],
+  "geometry": {"coordinates":[-3.52167,51.007875],"type":"Point"}
 }

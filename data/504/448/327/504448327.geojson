@@ -2,46 +2,60 @@
   "id": 504448327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-4.65967858919,55.6282339174,-4.65967858919,55.6282339174",
-    "geom:latitude":55.628234,
-    "geom:longitude":-4.659679,
-    "gp:parent_id":"12696203",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"S12000021",
-    "os:admin_ward_code":"S13002704",
-    "os:country_code":"S92000003",
-    "os:nhs_ha_code":"S08000015",
-    "os:nhs_regional_ha_code":"",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27415433"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-4.659679,55.628234,-4.659679,55.628234",
+    "geom:latitude": 55.628234,
+    "geom:longitude": -4.659679,
+    "gp:parent_id": "12696203",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "S92000003",
+    "os:county_code": "S99999999",
+    "os:district_code": "S12000021",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "S99999999",
+    "src:geom": "os",
+    "wof:belongsto": [
+      85633159, 
+      1360698855, 
+      404441385, 
+      404227471, 
+      1360698697
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27415433"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"d8537ea823d4bd94e2af7e32bc656088",
-    "wof:hierarchy":[],
-    "wof:id":504448327,
-    "wof:lastmodified":1468884754,
-    "wof:name":"KA12 9HN",
-    "wof:parent_id":404441385,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "GB",
+    "wof:created": 1583701312,
+    "wof:geomhash": "3ab7e7eb8df6c4c255207c149d8daf8d",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698855,
+        "localadmin_id": 404441385,
+        "macroregion_id": 404227471,
+        "region_id": 1360698697
+      }
+    ],
+    "wof:id": 504448327,
+    "wof:lastmodified": 1583786426,
+    "wof:name": "KA12 9HN",
+    "wof:parent_id": 404441385,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -4.659678589192809,
-    55.628233917362756,
-    -4.659678589192809,
-    55.628233917362756
-],
-  "geometry": {"coordinates":[-4.65967858919281,55.62823391736276],"type":"Point"}
+    -4.659679, 
+    55.628234, 
+    -4.659679, 
+    55.628234
+  ],
+  "geometry": {"coordinates":[-4.659679,55.628234],"type":"Point"}
 }

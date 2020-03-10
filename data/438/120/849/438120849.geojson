@@ -2,63 +2,60 @@
   "id": 438120849,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-1.75008539177,53.7290302561,-1.75008539177,53.7290302561",
-    "geom:latitude":53.72903,
-    "geom:longitude":-1.750085,
-    "gp:parent_id":"34185",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"E08000034",
-    "os:admin_ward_code":"E05001393",
-    "os:country_code":"E92000001",
-    "os:nhs_ha_code":"E18000003",
-    "os:nhs_regional_ha_code":"E19000001",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[
-        85684463,
-        "102191581",
-        404444941,
-        "85633159",
-        404227469,
-        101750581
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-1.750085,53.729030,-1.750085,53.729030",
+    "geom:latitude": 53.72903,
+    "geom:longitude": -1.750085,
+    "gp:parent_id": "34185",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E99999999",
+    "os:district_code": "E08000034",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000003",
+    "src:geom": "os",
+    "wof:belongsto": [
+      101750569, 
+      404227469, 
+      1360698609, 
+      85633159, 
+      1360698917
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"26899568"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "26899568"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"1bcfe058360e8d99671b1de4704792ec",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404444941,
-            "locality_id":101750581,
-            "macroregion_id":404227469,
-            "postalcode_id":438120849,
-            "region_id":85684463
-        }
+    "wof:country": "GB",
+    "wof:created": 1583701315,
+    "wof:geomhash": "b794fc7b6212fc2d00396ab9745d32f7",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698917,
+        "locality_id": 101750569,
+        "macroregion_id": 404227469,
+        "region_id": 1360698609
+      }
     ],
-    "wof:id":438120849,
-    "wof:lastmodified":1468874452,
-    "wof:name":"BD19 6NA",
-    "wof:parent_id":101750581,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 438120849,
+    "wof:lastmodified": 1583786444,
+    "wof:name": "BD19 6NA",
+    "wof:parent_id": 101750581,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -1.750085391771715,
-    53.72903025609585,
-    -1.750085391771715,
-    53.72903025609585
-],
-  "geometry": {"coordinates":[-1.75008539177171,53.72903025609585],"type":"Point"}
+    -1.750085, 
+    53.72903, 
+    -1.750085, 
+    53.72903
+  ],
+  "geometry": {"coordinates":[-1.750085,53.72903],"type":"Point"}
 }

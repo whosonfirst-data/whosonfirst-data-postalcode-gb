@@ -2,46 +2,54 @@
   "id": 504455279,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-5.12973722348,55.6137881083,-5.12973722348,55.6137881083",
-    "geom:latitude":55.613788,
-    "geom:longitude":-5.129737,
-    "gp:parent_id":"12696203",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"S12000021",
-    "os:admin_ward_code":"S13002708",
-    "os:country_code":"S92000003",
-    "os:nhs_ha_code":"S08000015",
-    "os:nhs_regional_ha_code":"",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27418949"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-5.129737,55.613788,-5.129737,55.613788",
+    "geom:latitude": 55.613788,
+    "geom:longitude": -5.129737,
+    "gp:parent_id": "12696203",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "S92000003",
+    "os:county_code": "S99999999",
+    "os:district_code": "S12000021",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "S99999999",
+    "src:geom": "os",
+    "wof:belongsto": [
+      1360698697, 
+      404441385
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27418949"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"32622d57ac06d7eccda206eb016d331c",
-    "wof:hierarchy":[],
-    "wof:id":504455279,
-    "wof:lastmodified":1468884955,
-    "wof:name":"KA27 8JA",
-    "wof:parent_id":404441385,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "GB",
+    "wof:created": 1583701327,
+    "wof:geomhash": "2451fcb23e53936b1a667dd2a89ebb2a",
+    "wof:hierarchy": [
+      {
+        "localadmin_id": 404441385,
+        "region_id": 1360698697
+      }
+    ],
+    "wof:id": 504455279,
+    "wof:lastmodified": 1583786442,
+    "wof:name": "KA27 8JA",
+    "wof:parent_id": 404441385,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -5.12973722348421,
-    55.61378810833121,
-    -5.12973722348421,
-    55.61378810833121
-],
-  "geometry": {"coordinates":[-5.12973722348421,55.61378810833121],"type":"Point"}
+    -5.129737, 
+    55.613788, 
+    -5.129737, 
+    55.613788
+  ],
+  "geometry": {"coordinates":[-5.129737,55.613788],"type":"Point"}
 }

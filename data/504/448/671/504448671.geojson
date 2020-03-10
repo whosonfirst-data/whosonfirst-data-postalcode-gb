@@ -2,46 +2,60 @@
   "id": 504448671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-4.71969237567,55.668427796,-4.71969237567,55.668427796",
-    "geom:latitude":55.668428,
-    "geom:longitude":-4.719692,
-    "gp:parent_id":"12696203",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"S12000021",
-    "os:admin_ward_code":"S13002706",
-    "os:country_code":"S92000003",
-    "os:nhs_ha_code":"S08000015",
-    "os:nhs_regional_ha_code":"",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27415601"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-4.719692,55.668428,-4.719692,55.668428",
+    "geom:latitude": 55.668428,
+    "geom:longitude": -4.719692,
+    "gp:parent_id": "12696203",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "S92000003",
+    "os:county_code": "S99999999",
+    "os:district_code": "S12000021",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "S99999999",
+    "src:geom": "os",
+    "wof:belongsto": [
+      85633159, 
+      1360698855, 
+      404441385, 
+      404227471, 
+      1360698697
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27415601"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"a096afccbe5e5377633ccc415cf1ec71",
-    "wof:hierarchy":[],
-    "wof:id":504448671,
-    "wof:lastmodified":1468884763,
-    "wof:name":"KA13 6PH",
-    "wof:parent_id":404441385,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "GB",
+    "wof:created": 1583701313,
+    "wof:geomhash": "c13ac8288c9da36756d924fda48fe337",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698855,
+        "localadmin_id": 404441385,
+        "macroregion_id": 404227471,
+        "region_id": 1360698697
+      }
+    ],
+    "wof:id": 504448671,
+    "wof:lastmodified": 1583786428,
+    "wof:name": "KA13 6PH",
+    "wof:parent_id": 404441385,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -4.719692375673794,
-    55.66842779601671,
-    -4.719692375673794,
-    55.66842779601671
-],
-  "geometry": {"coordinates":[-4.71969237567379,55.66842779601671],"type":"Point"}
+    -4.719692, 
+    55.668428, 
+    -4.719692, 
+    55.668428
+  ],
+  "geometry": {"coordinates":[-4.719692,55.668428],"type":"Point"}
 }

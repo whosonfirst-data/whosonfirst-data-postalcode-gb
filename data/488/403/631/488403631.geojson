@@ -2,46 +2,54 @@
   "id": 488403631,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-4.88911600285,55.8572647595,-4.88911600285,55.8572647595",
-    "geom:latitude":55.857265,
-    "geom:longitude":-4.889116,
-    "gp:parent_id":"12696203",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"S12000021",
-    "os:admin_ward_code":"S13002711",
-    "os:country_code":"S92000003",
-    "os:nhs_ha_code":"S08000015",
-    "os:nhs_regional_ha_code":"",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"26482509"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-4.889116,55.857265,-4.889116,55.857265",
+    "geom:latitude": 55.857265,
+    "geom:longitude": -4.889116,
+    "gp:parent_id": "12696203",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "S92000003",
+    "os:county_code": "S99999999",
+    "os:district_code": "S12000021",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "S99999999",
+    "src:geom": "os",
+    "wof:belongsto": [
+      404441385, 
+      1360698697
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "26482509"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"4c3ec2f307c8d2c35815c4e832113859",
-    "wof:hierarchy":[],
-    "wof:id":488403631,
-    "wof:lastmodified":1468892345,
-    "wof:name":"PA17 5EJ",
-    "wof:parent_id":404441385,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "GB",
+    "wof:created": 1583701420,
+    "wof:geomhash": "a0ae77c33fde7e9dcd4b03c15c23d21c",
+    "wof:hierarchy": [
+      {
+        "localadmin_id": 404441385,
+        "region_id": 1360698697
+      }
+    ],
+    "wof:id": 488403631,
+    "wof:lastmodified": 1583786617,
+    "wof:name": "PA17 5EJ",
+    "wof:parent_id": 404441385,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -4.889116002845634,
-    55.85726475950851,
-    -4.889116002845634,
-    55.85726475950851
-],
-  "geometry": {"coordinates":[-4.88911600284563,55.85726475950851],"type":"Point"}
+    -4.889116, 
+    55.857265, 
+    -4.889116, 
+    55.857265
+  ],
+  "geometry": {"coordinates":[-4.889116,55.857265],"type":"Point"}
 }

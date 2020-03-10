@@ -2,46 +2,60 @@
   "id": 504463813,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-2.94463083541,58.9713587155,-2.94463083541,58.9713587155",
-    "geom:latitude":58.971359,
-    "geom:longitude":-2.944631,
-    "gp:parent_id":"12696205",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"S12000023",
-    "os:admin_ward_code":"S13002732",
-    "os:country_code":"S92000003",
-    "os:nhs_ha_code":"S08000025",
-    "os:nhs_regional_ha_code":"",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27433810"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-2.944631,58.971359,-2.944631,58.971359",
+    "geom:latitude": 58.971359,
+    "geom:longitude": -2.944631,
+    "gp:parent_id": "12696205",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "S92000003",
+    "os:county_code": "S99999999",
+    "os:district_code": "S12000023",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "S99999999",
+    "src:geom": "os",
+    "wof:belongsto": [
+      404432629, 
+      404227471, 
+      1360698683, 
+      85633159, 
+      1360698823
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27433810"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"5b03a92fbc6525a7f27eae4f207d09ea",
-    "wof:hierarchy":[],
-    "wof:id":504463813,
-    "wof:lastmodified":1468885877,
-    "wof:name":"KW15 1SP",
-    "wof:parent_id":404432629,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "GB",
+    "wof:created": 1583701345,
+    "wof:geomhash": "755cdb6820644fd66a33b59f64fec8be",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698823,
+        "localadmin_id": 404432629,
+        "macroregion_id": 404227471,
+        "region_id": 1360698683
+      }
+    ],
+    "wof:id": 504463813,
+    "wof:lastmodified": 1583786456,
+    "wof:name": "KW15 1SP",
+    "wof:parent_id": 404432629,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -2.9446308354127475,
-    58.971358715472874,
-    -2.9446308354127475,
-    58.971358715472874
-],
-  "geometry": {"coordinates":[-2.94463083541275,58.97135871547287],"type":"Point"}
+    -2.944631, 
+    58.971359, 
+    -2.944631, 
+    58.971359
+  ],
+  "geometry": {"coordinates":[-2.944631,58.971359],"type":"Point"}
 }

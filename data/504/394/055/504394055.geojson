@@ -2,63 +2,64 @@
   "id": 504394055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-4.21008573451,55.8740901784,-4.21008573451,55.8740901784",
-    "geom:latitude":55.87409,
-    "geom:longitude":-4.210086,
-    "gp:parent_id":"12696198",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"S12000046",
-    "os:admin_ward_code":"S13002657",
-    "os:country_code":"S92000003",
-    "os:nhs_ha_code":"S08000021",
-    "os:nhs_regional_ha_code":"",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[
-        85684351,
-        "102191581",
-        404430153,
-        "85633159",
-        404227471,
-        101750621
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-4.210086,55.874090,-4.210086,55.874090",
+    "geom:latitude": 55.87409,
+    "geom:longitude": -4.210086,
+    "gp:parent_id": "12696198",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "S92000003",
+    "os:county_code": "S99999999",
+    "os:district_code": "S12000049",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "S99999999",
+    "src:geom": "os",
+    "wof:belongsto": [
+      404227471, 
+      85792645, 
+      1360698707, 
+      85633159, 
+      1360698797, 
+      404430153, 
+      1175612707
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27282701"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27282701"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"3d435d554e0af80e57626b7d85dae7f3",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404430153,
-            "locality_id":101750621,
-            "macroregion_id":404227471,
-            "postalcode_id":504394055,
-            "region_id":85684351
-        }
+    "wof:country": "GB",
+    "wof:created": 1583701135,
+    "wof:geomhash": "f2e72f3a06c3516c060aea5280617c3c",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698797,
+        "localadmin_id": 404430153,
+        "locality_id": 1175612707,
+        "macroregion_id": 404227471,
+        "neighbourhood_id": 85792645,
+        "region_id": 1360698707
+      }
     ],
-    "wof:id":504394055,
-    "wof:lastmodified":1474574391,
-    "wof:name":"G21 2DL",
-    "wof:parent_id":101750621,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 504394055,
+    "wof:lastmodified": 1583786232,
+    "wof:name": "G21 2DL",
+    "wof:parent_id": 101750621,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -4.21008573451114,
-    55.87409017838303,
-    -4.21008573451114,
-    55.87409017838303
-],
-  "geometry": {"coordinates":[-4.21008573451114,55.87409017838303],"type":"Point"}
+    -4.210086, 
+    55.87409, 
+    -4.210086, 
+    55.87409
+  ],
+  "geometry": {"coordinates":[-4.210086,55.87409],"type":"Point"}
 }

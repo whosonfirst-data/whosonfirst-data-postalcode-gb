@@ -2,61 +2,62 @@
   "id": 504493267,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-3.137141347,52.9334205325,-3.137141347,52.9334205325",
-    "geom:latitude":52.933421,
-    "geom:longitude":-3.137141,
-    "gp:parent_id":"32287",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"W06000006",
-    "os:admin_ward_code":"W05000245",
-    "os:country_code":"W92000004",
-    "os:nhs_ha_code":"W11000023",
-    "os:nhs_regional_ha_code":"",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[
-        85684575,
-        "102191581",
-        404448261,
-        "85633159",
-        404227475
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-3.137141,52.933421,-3.137141,52.933421",
+    "geom:latitude": 52.933421,
+    "geom:longitude": -3.137141,
+    "gp:parent_id": "32287",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "W92000004",
+    "os:county_code": "W99999999",
+    "os:district_code": "W06000006",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "W99999999",
+    "src:geom": "os",
+    "wof:belongsto": [
+      404227475, 
+      1360698637, 
+      85633159, 
+      1360698743, 
+      404448261, 
+      1360711497
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27491197"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27491197"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"bf2a1b174993c769fff75cef1cb79323",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404448261,
-            "macroregion_id":404227475,
-            "postalcode_id":504493267,
-            "region_id":85684575
-        }
+    "wof:country": "GB",
+    "wof:created": 1583701372,
+    "wof:geomhash": "ac61f6954e38e176d922818e32a9fa19",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698743,
+        "localadmin_id": 404448261,
+        "locality_id": 1360711497,
+        "macroregion_id": 404227475,
+        "region_id": 1360698637
+      }
     ],
-    "wof:id":504493267,
-    "wof:lastmodified":1468887311,
-    "wof:name":"LL20 7AU",
-    "wof:parent_id":404448261,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 504493267,
+    "wof:lastmodified": 1583786495,
+    "wof:name": "LL20 7AU",
+    "wof:parent_id": 404448261,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -3.137141347004993,
-    52.93342053251902,
-    -3.137141347004993,
-    52.93342053251902
-],
-  "geometry": {"coordinates":[-3.13714134700499,52.93342053251902],"type":"Point"}
+    -3.137141, 
+    52.933421, 
+    -3.137141, 
+    52.933421
+  ],
+  "geometry": {"coordinates":[-3.137141,52.933421],"type":"Point"}
 }

@@ -2,46 +2,60 @@
   "id": 504455269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-5.38144167606,55.6461653824,-5.38144167606,55.6461653824",
-    "geom:latitude":55.646165,
-    "geom:longitude":-5.381442,
-    "gp:parent_id":"12696203",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"S12000021",
-    "os:admin_ward_code":"S13002708",
-    "os:country_code":"S92000003",
-    "os:nhs_ha_code":"S08000015",
-    "os:nhs_regional_ha_code":"",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27418944"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-5.381442,55.646165,-5.381442,55.646165",
+    "geom:latitude": 55.646165,
+    "geom:longitude": -5.381442,
+    "gp:parent_id": "12696203",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "S92000003",
+    "os:county_code": "S99999999",
+    "os:district_code": "S12000021",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "S99999999",
+    "src:geom": "os",
+    "wof:belongsto": [
+      1360698855, 
+      404441385, 
+      404227471, 
+      1360698697, 
+      85633159
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27418944"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"134e3d130eba4dd24b72e19d067444e1",
-    "wof:hierarchy":[],
-    "wof:id":504455269,
-    "wof:lastmodified":1468884955,
-    "wof:name":"KA27 8HP",
-    "wof:parent_id":404441385,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "GB",
+    "wof:created": 1583701327,
+    "wof:geomhash": "4bdd33e347b6a81e0afa61d15c219f1b",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698855,
+        "localadmin_id": 404441385,
+        "macroregion_id": 404227471,
+        "region_id": 1360698697
+      }
+    ],
+    "wof:id": 504455269,
+    "wof:lastmodified": 1583786441,
+    "wof:name": "KA27 8HP",
+    "wof:parent_id": 404441385,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -5.3814416760628605,
-    55.64616538244066,
-    -5.3814416760628605,
-    55.64616538244066
-],
-  "geometry": {"coordinates":[-5.38144167606286,55.64616538244066],"type":"Point"}
+    -5.381442, 
+    55.646165, 
+    -5.381442, 
+    55.646165
+  ],
+  "geometry": {"coordinates":[-5.381442,55.646165],"type":"Point"}
 }

@@ -2,61 +2,62 @@
   "id": 454324463,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"0.135160202006,51.4709006426,0.135160202006,51.4709006426",
-    "geom:latitude":51.470901,
-    "geom:longitude":0.13516,
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"E09000004",
-    "os:admin_ward_code":"E05000068",
-    "os:country_code":"E92000001",
-    "os:nhs_ha_code":"E18000007",
-    "os:nhs_regional_ha_code":"E19000003",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[
-        102191581,
-        85633159,
-        404227469,
-        101750367
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "0.135160,51.470901,0.135160,51.470901",
+    "geom:latitude": 51.470901,
+    "geom:longitude": 0.13516,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E99999999",
+    "os:district_code": "E09000004",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000007",
+    "src:geom": "os",
+    "wof:belongsto": [
+      404227469, 
+      85860131, 
+      1360698645, 
+      1158857255, 
+      85633159, 
+      101750367
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"26711212"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "26711212"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"6e63572a9b4c8f38b8c0b1ae303c2622",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633159,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "postalcode_id":454324463,
-            "region_id":-1
-        }
+    "wof:country": "GB",
+    "wof:created": 1583701488,
+    "wof:geomhash": "d431f6a1f4c49212520e1e7c8d007732",
+    "wof:hierarchy": [
+      {
+        "borough_id": 1158857255,
+        "country_id": 85633159,
+        "locality_id": 101750367,
+        "macroregion_id": 404227469,
+        "neighbourhood_id": 85860131,
+        "region_id": 1360698645
+      }
     ],
-    "wof:id":454324463,
-    "wof:lastmodified":1513905880,
-    "wof:name":"DA7 4RR",
-    "wof:parent_id":101750367,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 454324463,
+    "wof:lastmodified": 1583786616,
+    "wof:name": "DA7 4RR",
+    "wof:parent_id": 101750367,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    0.13516020200573,
-    51.47090064258864,
-    0.13516020200573,
-    51.47090064258864
-],
-  "geometry": {"coordinates":[0.13516020200573,51.47090064258864],"type":"Point"}
+    0.13516, 
+    51.470901, 
+    0.13516, 
+    51.470901
+  ],
+  "geometry": {"coordinates":[0.13516,51.470901],"type":"Point"}
 }

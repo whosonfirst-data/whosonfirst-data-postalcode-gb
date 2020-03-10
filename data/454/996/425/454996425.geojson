@@ -2,46 +2,62 @@
   "id": 454996425,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-2.86115260998,54.0712928456,-2.86115260998,54.0712928456",
-    "geom:latitude":54.071293,
-    "geom:longitude":-2.861153,
-    "gp:parent_id":"29313",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"E10000017",
-    "os:admin_distict_code":"E07000121",
-    "os:admin_ward_code":"E05009608",
-    "os:country_code":"E92000001",
-    "os:nhs_ha_code":"E18000002",
-    "os:nhs_regional_ha_code":"E19000001",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27464396"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1995-07-01",
+    "geom:area": 0,
+    "geom:bbox": "-2.861153,54.071293,-2.861153,54.071293",
+    "geom:latitude": 54.071293,
+    "geom:longitude": -2.861153,
+    "gp:parent_id": "29313",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E10000017",
+    "os:district_code": "E07000121",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000002",
+    "src:geom": "os",
+    "wof:belongsto": [
+      1125770537, 
+      404227469, 
+      1360698567, 
+      85633159, 
+      1360698817, 
+      404430699
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27464396"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"fc46b37db619d505add6b57e413d347b",
-    "wof:hierarchy":[],
-    "wof:id":454996425,
-    "wof:lastmodified":1474572334,
-    "wof:name":"LA4 5LG",
-    "wof:parent_id":404430699,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "GB",
+    "wof:created": 1583701768,
+    "wof:geomhash": "89cb626299455575ee66da61d68344eb",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698817,
+        "localadmin_id": 404430699,
+        "locality_id": 1125770537,
+        "macroregion_id": 404227469,
+        "region_id": 1360698567
+      }
+    ],
+    "wof:id": 454996425,
+    "wof:lastmodified": 1583786904,
+    "wof:name": "LA4 5LG",
+    "wof:parent_id": 404430699,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -2.86115260998469,
-    54.07129284564156,
-    -2.86115260998469,
-    54.07129284564156
-],
-  "geometry": {"coordinates":[-2.86115260998469,54.07129284564156],"type":"Point"}
+    -2.861153, 
+    54.071293, 
+    -2.861153, 
+    54.071293
+  ],
+  "geometry": {"coordinates":[-2.861153,54.071293],"type":"Point"}
 }

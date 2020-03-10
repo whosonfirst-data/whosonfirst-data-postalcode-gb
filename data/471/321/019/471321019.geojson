@@ -2,61 +2,62 @@
   "id": 471321019,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-1.36262684021,52.0911743387,-1.36262684021,52.0911743387",
-    "geom:latitude":52.091174,
-    "geom:longitude":-1.362627,
-    "gp:parent_id":"22370",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"E10000025",
-    "os:admin_distict_code":"E07000177",
-    "os:admin_ward_code":"E05010929",
-    "os:country_code":"E92000001",
-    "os:nhs_ha_code":"E18000009",
-    "os:nhs_regional_ha_code":"E19000002",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[
-        85683867,
-        "102191581",
-        404446883,
-        "85633159",
-        404227469
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-1.362627,52.091174,-1.362627,52.091174",
+    "geom:latitude": 52.091174,
+    "geom:longitude": -1.362627,
+    "gp:parent_id": "22370",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E10000025",
+    "os:district_code": "E07000177",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000008",
+    "src:geom": "os",
+    "wof:belongsto": [
+      1125992229, 
+      404227469, 
+      1360698585, 
+      85633159, 
+      1360698839, 
+      404446883
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27720540"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27720540"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"14d0323becf92ebd55c6f23968412645",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404446883,
-            "macroregion_id":404227469,
-            "postalcode_id":471321019,
-            "region_id":85683867
-        }
+    "wof:country": "GB",
+    "wof:created": 1583701499,
+    "wof:geomhash": "cc97dd7e1b82093194ef77377b325710",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698839,
+        "localadmin_id": 404446883,
+        "locality_id": 1125992229,
+        "macroregion_id": 404227469,
+        "region_id": 1360698585
+      }
     ],
-    "wof:id":471321019,
-    "wof:lastmodified":1468892102,
-    "wof:name":"OX17 1JT",
-    "wof:parent_id":404446883,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 471321019,
+    "wof:lastmodified": 1583786649,
+    "wof:name": "OX17 1JT",
+    "wof:parent_id": 404446883,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -1.3626268402132167,
-    52.091174338691346,
-    -1.3626268402132167,
-    52.091174338691346
-],
-  "geometry": {"coordinates":[-1.36262684021322,52.09117433869135],"type":"Point"}
+    -1.362627, 
+    52.091174, 
+    -1.362627, 
+    52.091174
+  ],
+  "geometry": {"coordinates":[-1.362627,52.091174],"type":"Point"}
 }
