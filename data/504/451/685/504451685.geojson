@@ -2,46 +2,60 @@
   "id": 504451685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-4.5867423743,55.6041681664,-4.5867423743,55.6041681664",
-    "geom:latitude":55.604168,
-    "geom:longitude":-4.586742,
-    "gp:parent_id":"17469",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"S12000021",
-    "os:admin_ward_code":"S13002704",
-    "os:country_code":"S92000003",
-    "os:nhs_ha_code":"S08000015",
-    "os:nhs_regional_ha_code":"",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27417164"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-4.586425,55.604227,-4.586425,55.604227",
+    "geom:latitude": 55.604227,
+    "geom:longitude": -4.586425,
+    "gp:parent_id": "17469",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "S92000003",
+    "os:county_code": "S99999999",
+    "os:district_code": "S12000021",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "S99999999",
+    "src:geom": "os",
+    "wof:belongsto": [
+      85633159, 
+      1360698855, 
+      404441385, 
+      404227471, 
+      1360698697
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27417164"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"36ef50bf3360f14bc558f626a5253e7e",
-    "wof:hierarchy":[],
-    "wof:id":504451685,
-    "wof:lastmodified":1474574466,
-    "wof:name":"KA2 0BN",
-    "wof:parent_id":404441385,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "GB",
+    "wof:created": 1583701316,
+    "wof:geomhash": "a814b352a127fd8d5b470be769dfb176",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698855,
+        "localadmin_id": 404441385,
+        "macroregion_id": 404227471,
+        "region_id": 1360698697
+      }
+    ],
+    "wof:id": 504451685,
+    "wof:lastmodified": 1583786433,
+    "wof:name": "KA2 0BN",
+    "wof:parent_id": 404441385,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -4.58674237430044,
-    55.60416816640718,
-    -4.58674237430044,
-    55.60416816640718
-],
-  "geometry": {"coordinates":[-4.58674237430044,55.60416816640718],"type":"Point"}
+    -4.586425, 
+    55.604227, 
+    -4.586425, 
+    55.604227
+  ],
+  "geometry": {"coordinates":[-4.586425,55.604227],"type":"Point"}
 }

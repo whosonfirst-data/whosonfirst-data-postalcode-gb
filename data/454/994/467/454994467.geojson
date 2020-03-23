@@ -2,46 +2,62 @@
   "id": 454994467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-2.8789959057,54.0645037358,-2.8789959057,54.0645037358",
-    "geom:latitude":54.064504,
-    "geom:longitude":-2.878996,
-    "gp:parent_id":"29313",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"E10000017",
-    "os:admin_distict_code":"E07000121",
-    "os:admin_ward_code":"E05009599",
-    "os:country_code":"E92000001",
-    "os:nhs_ha_code":"E18000002",
-    "os:nhs_regional_ha_code":"E19000001",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"26690603"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-2.878996,54.064504,-2.878996,54.064504",
+    "geom:latitude": 54.064504,
+    "geom:longitude": -2.878996,
+    "gp:parent_id": "29313",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E10000017",
+    "os:district_code": "E07000121",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000002",
+    "src:geom": "os",
+    "wof:belongsto": [
+      1360698817, 
+      404430699, 
+      1125770537, 
+      404227469, 
+      1360698567, 
+      85633159
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "26690603"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"090a26405b922988b632d24dd8400e93",
-    "wof:hierarchy":[],
-    "wof:id":454994467,
-    "wof:lastmodified":1474572331,
-    "wof:name":"LA3 1SG",
-    "wof:parent_id":404430699,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "GB",
+    "wof:created": 1583701767,
+    "wof:geomhash": "e2a7a3b1014d34f292dcaae92161cdfc",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698817,
+        "localadmin_id": 404430699,
+        "locality_id": 1125770537,
+        "macroregion_id": 404227469,
+        "region_id": 1360698567
+      }
+    ],
+    "wof:id": 454994467,
+    "wof:lastmodified": 1583786902,
+    "wof:name": "LA3 1SG",
+    "wof:parent_id": 404430699,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -2.87899590570413,
-    54.064503735758,
-    -2.87899590570413,
-    54.064503735758
-],
-  "geometry": {"coordinates":[-2.87899590570413,54.064503735758],"type":"Point"}
+    -2.878996, 
+    54.064504, 
+    -2.878996, 
+    54.064504
+  ],
+  "geometry": {"coordinates":[-2.878996,54.064504],"type":"Point"}
 }

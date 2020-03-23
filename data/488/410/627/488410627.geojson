@@ -2,45 +2,59 @@
   "id": 488410627,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-4.84830288313,55.6901838447,-4.84830288313,55.6901838447",
-    "geom:latitude":55.690184,
-    "geom:longitude":-4.848303,
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"S12000021",
-    "os:admin_ward_code":"S13002709",
-    "os:country_code":"S92000003",
-    "os:nhs_ha_code":"S08000015",
-    "os:nhs_regional_ha_code":"",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"26611634"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-4.848303,55.690184,-4.848303,55.690184",
+    "geom:latitude": 55.690184,
+    "geom:longitude": -4.848303,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "S92000003",
+    "os:county_code": "S99999999",
+    "os:district_code": "S12000021",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "S99999999",
+    "src:geom": "os",
+    "wof:belongsto": [
+      85633159, 
+      1360698855, 
+      404441385, 
+      404227471, 
+      1360698697
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "26611634"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"7c8876ce7a9c624c80e8a890a6fe37b0",
-    "wof:hierarchy":[],
-    "wof:id":488410627,
-    "wof:lastmodified":1468884892,
-    "wof:name":"KA23 9DH",
-    "wof:parent_id":404441385,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "GB",
+    "wof:created": 1583701421,
+    "wof:geomhash": "ba022ef1deea44b9470c6fb4a684907d",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698855,
+        "localadmin_id": 404441385,
+        "macroregion_id": 404227471,
+        "region_id": 1360698697
+      }
+    ],
+    "wof:id": 488410627,
+    "wof:lastmodified": 1583786629,
+    "wof:name": "KA23 9DH",
+    "wof:parent_id": 404441385,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -4.848302883132775,
-    55.690183844742364,
-    -4.848302883132775,
-    55.690183844742364
-],
-  "geometry": {"coordinates":[-4.84830288313278,55.69018384474236],"type":"Point"}
+    -4.848303, 
+    55.690184, 
+    -4.848303, 
+    55.690184
+  ],
+  "geometry": {"coordinates":[-4.848303,55.690184],"type":"Point"}
 }

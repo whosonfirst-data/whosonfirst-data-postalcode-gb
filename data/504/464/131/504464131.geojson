@@ -2,46 +2,60 @@
   "id": 504464131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-3.30646978072,58.9573265103,-3.30646978072,58.9573265103",
-    "geom:latitude":58.957327,
-    "geom:longitude":-3.30647,
-    "gp:parent_id":"12696205",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"S12000023",
-    "os:admin_ward_code":"S13002734",
-    "os:country_code":"S92000003",
-    "os:nhs_ha_code":"S08000025",
-    "os:nhs_regional_ha_code":"",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27433982"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-3.306470,58.957327,-3.306470,58.957327",
+    "geom:latitude": 58.957327,
+    "geom:longitude": -3.30647,
+    "gp:parent_id": "12696205",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "S92000003",
+    "os:county_code": "S99999999",
+    "os:district_code": "S12000023",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "S99999999",
+    "src:geom": "os",
+    "wof:belongsto": [
+      1360698823, 
+      404432629, 
+      404227471, 
+      1360698683, 
+      85633159
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27433982"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"767094f62f13beaa76adb43d0dd9a05b",
-    "wof:hierarchy":[],
-    "wof:id":504464131,
-    "wof:lastmodified":1468885962,
-    "wof:name":"KW16 3JR",
-    "wof:parent_id":404432629,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "GB",
+    "wof:created": 1583701347,
+    "wof:geomhash": "bfb72febf99b06429dce9751901adeee",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698823,
+        "localadmin_id": 404432629,
+        "macroregion_id": 404227471,
+        "region_id": 1360698683
+      }
+    ],
+    "wof:id": 504464131,
+    "wof:lastmodified": 1583786458,
+    "wof:name": "KW16 3JR",
+    "wof:parent_id": 404432629,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -3.3064697807245773,
-    58.95732651034605,
-    -3.3064697807245773,
-    58.95732651034605
-],
-  "geometry": {"coordinates":[-3.30646978072458,58.95732651034605],"type":"Point"}
+    -3.30647, 
+    58.957327, 
+    -3.30647, 
+    58.957327
+  ],
+  "geometry": {"coordinates":[-3.30647,58.957327],"type":"Point"}
 }

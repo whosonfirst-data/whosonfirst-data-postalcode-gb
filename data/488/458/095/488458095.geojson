@@ -2,46 +2,54 @@
   "id": 488458095,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-4.88127071934,55.8100222474,-4.88127071934,55.8100222474",
-    "geom:latitude":55.810022,
-    "geom:longitude":-4.881271,
-    "gp:parent_id":"12696203",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"S12000021",
-    "os:admin_ward_code":"S13002711",
-    "os:country_code":"S92000003",
-    "os:nhs_ha_code":"S08000015",
-    "os:nhs_regional_ha_code":"",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"26462733"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-4.881271,55.810022,-4.881271,55.810022",
+    "geom:latitude": 55.810022,
+    "geom:longitude": -4.881271,
+    "gp:parent_id": "12696203",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "S92000003",
+    "os:county_code": "S99999999",
+    "os:district_code": "S12000021",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "S99999999",
+    "src:geom": "os",
+    "wof:belongsto": [
+      1360698697, 
+      404441385
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "26462733"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"e24d5db7e1d3c1c6f26c975950f29a26",
-    "wof:hierarchy":[],
-    "wof:id":488458095,
-    "wof:lastmodified":1468884978,
-    "wof:name":"KA30 8RS",
-    "wof:parent_id":404441385,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "GB",
+    "wof:created": 1583701474,
+    "wof:geomhash": "c6bdd37e685a219db92f85e4308fae3d",
+    "wof:hierarchy": [
+      {
+        "localadmin_id": 404441385,
+        "region_id": 1360698697
+      }
+    ],
+    "wof:id": 488458095,
+    "wof:lastmodified": 1583786680,
+    "wof:name": "KA30 8RS",
+    "wof:parent_id": 404441385,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -4.881270719339055,
-    55.810022247358916,
-    -4.881270719339055,
-    55.810022247358916
-],
-  "geometry": {"coordinates":[-4.88127071933905,55.81002224735892],"type":"Point"}
+    -4.881271, 
+    55.810022, 
+    -4.881271, 
+    55.810022
+  ],
+  "geometry": {"coordinates":[-4.881271,55.810022],"type":"Point"}
 }

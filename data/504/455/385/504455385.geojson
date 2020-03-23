@@ -2,46 +2,60 @@
   "id": 504455385,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-5.14739436351,55.528090748,-5.14739436351,55.528090748",
-    "geom:latitude":55.528091,
-    "geom:longitude":-5.147394,
-    "gp:parent_id":"12696203",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"S12000021",
-    "os:admin_ward_code":"S13002708",
-    "os:country_code":"S92000003",
-    "os:nhs_ha_code":"S08000015",
-    "os:nhs_regional_ha_code":"",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27418998"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-5.147394,55.528091,-5.147394,55.528091",
+    "geom:latitude": 55.528091,
+    "geom:longitude": -5.147394,
+    "gp:parent_id": "12696203",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "S92000003",
+    "os:county_code": "S99999999",
+    "os:district_code": "S12000021",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "S99999999",
+    "src:geom": "os",
+    "wof:belongsto": [
+      404227471, 
+      1360698697, 
+      85633159, 
+      1360698855, 
+      404441385
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27418998"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"e411cb3afed7a8d253aab5a62ee498b7",
-    "wof:hierarchy":[],
-    "wof:id":504455385,
-    "wof:lastmodified":1468884960,
-    "wof:name":"KA27 8NT",
-    "wof:parent_id":404441385,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "GB",
+    "wof:created": 1583701329,
+    "wof:geomhash": "a53b106363aa8ecd2eaef331704c7d1a",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698855,
+        "localadmin_id": 404441385,
+        "macroregion_id": 404227471,
+        "region_id": 1360698697
+      }
+    ],
+    "wof:id": 504455385,
+    "wof:lastmodified": 1583786442,
+    "wof:name": "KA27 8NT",
+    "wof:parent_id": 404441385,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -5.147394363506354,
-    55.528090747977274,
-    -5.147394363506354,
-    55.528090747977274
-],
-  "geometry": {"coordinates":[-5.14739436350635,55.52809074797727],"type":"Point"}
+    -5.147394, 
+    55.528091, 
+    -5.147394, 
+    55.528091
+  ],
+  "geometry": {"coordinates":[-5.147394,55.528091],"type":"Point"}
 }

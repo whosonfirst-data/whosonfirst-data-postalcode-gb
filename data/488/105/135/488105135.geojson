@@ -2,61 +2,64 @@
   "id": 488105135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-0.347693485731,51.6307758778,-0.347693485731,51.6307758778",
-    "geom:latitude":51.630776,
-    "geom:longitude":-0.347693,
-    "gp:parent_id":"14728",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"E10000015",
-    "os:admin_distict_code":"E07000098",
-    "os:admin_ward_code":"E05004752",
-    "os:country_code":"E92000001",
-    "os:nhs_ha_code":"E18000006",
-    "os:nhs_regional_ha_code":"E19000001",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[
-        85684331,
-        "102191581",
-        404441705,
-        "85633159",
-        404227469
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2000-10-01",
+    "geom:area": 0,
+    "geom:bbox": "-0.347314,51.630649,-0.347314,51.630649",
+    "geom:latitude": 51.630649,
+    "geom:longitude": -0.347314,
+    "gp:parent_id": "14728",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E10000015",
+    "os:district_code": "E07000098",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000006",
+    "src:geom": "os",
+    "wof:belongsto": [
+      1125767615, 
+      404227469, 
+      85786151, 
+      1360698559, 
+      85633159, 
+      1360698763, 
+      1360817355
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"28145125"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "28145125"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"c855c323f0685be0655a7ffa67797c28",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404441705,
-            "macroregion_id":404227469,
-            "postalcode_id":488105135,
-            "region_id":85684331
-        }
+    "wof:country": "GB",
+    "wof:created": 1583701249,
+    "wof:geomhash": "30a8f38d3e2c60a0dc9e7ad76e219a25",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698763,
+        "localadmin_id": 1360817355,
+        "locality_id": 1125767615,
+        "macroregion_id": 404227469,
+        "neighbourhood_id": 85786151,
+        "region_id": 1360698559
+      }
     ],
-    "wof:id":488105135,
-    "wof:lastmodified":1468903759,
-    "wof:name":"WD23 1QP",
-    "wof:parent_id":404441705,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 488105135,
+    "wof:lastmodified": 1583786408,
+    "wof:name": "WD23 1QP",
+    "wof:parent_id": 404441705,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -0.3476934857305165,
-    51.63077587777675,
-    -0.3476934857305165,
-    51.63077587777675
-],
-  "geometry": {"coordinates":[-0.34769348573052,51.63077587777675],"type":"Point"}
+    -0.347314, 
+    51.630649, 
+    -0.347314, 
+    51.630649
+  ],
+  "geometry": {"coordinates":[-0.347314,51.630649],"type":"Point"}
 }

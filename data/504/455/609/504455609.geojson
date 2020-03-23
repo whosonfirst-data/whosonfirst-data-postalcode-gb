@@ -2,46 +2,60 @@
   "id": 504455609,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-4.93794003237,55.7500968909,-4.93794003237,55.7500968909",
-    "geom:latitude":55.750097,
-    "geom:longitude":-4.93794,
-    "gp:parent_id":"12696203",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"S12000021",
-    "os:admin_ward_code":"S13002711",
-    "os:country_code":"S92000003",
-    "os:nhs_ha_code":"S08000015",
-    "os:nhs_regional_ha_code":"",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27419114"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-4.937940,55.750097,-4.937940,55.750097",
+    "geom:latitude": 55.750097,
+    "geom:longitude": -4.93794,
+    "gp:parent_id": "12696203",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "S92000003",
+    "os:county_code": "S99999999",
+    "os:district_code": "S12000021",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "S99999999",
+    "src:geom": "os",
+    "wof:belongsto": [
+      404227471, 
+      1360698697, 
+      85633159, 
+      1360698855, 
+      404441385
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27419114"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"fb42cbd4bb22271c11a8940e3c14793b",
-    "wof:hierarchy":[],
-    "wof:id":504455609,
-    "wof:lastmodified":1468884967,
-    "wof:name":"KA28 0EZ",
-    "wof:parent_id":404441385,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "GB",
+    "wof:created": 1583701329,
+    "wof:geomhash": "66e96e2f64129b5960fc3b455465daf9",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698855,
+        "localadmin_id": 404441385,
+        "macroregion_id": 404227471,
+        "region_id": 1360698697
+      }
+    ],
+    "wof:id": 504455609,
+    "wof:lastmodified": 1583786442,
+    "wof:name": "KA28 0EZ",
+    "wof:parent_id": 404441385,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -4.937940032371716,
-    55.75009689094863,
-    -4.937940032371716,
-    55.75009689094863
-],
-  "geometry": {"coordinates":[-4.93794003237172,55.75009689094863],"type":"Point"}
+    -4.93794, 
+    55.750097, 
+    -4.93794, 
+    55.750097
+  ],
+  "geometry": {"coordinates":[-4.93794,55.750097],"type":"Point"}
 }

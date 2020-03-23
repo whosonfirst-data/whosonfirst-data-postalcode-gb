@@ -2,61 +2,62 @@
   "id": 455011855,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-1.12360298034,52.7719771829,-1.12360298034,52.7719771829",
-    "geom:latitude":52.771977,
-    "geom:longitude":-1.123603,
-    "gp:parent_id":"39102",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"E10000018",
-    "os:admin_distict_code":"E07000130",
-    "os:admin_ward_code":"E05005451",
-    "os:country_code":"E92000001",
-    "os:nhs_ha_code":"E18000004",
-    "os:nhs_regional_ha_code":"E19000001",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[
-        85683891,
-        "102191581",
-        404429613,
-        "85633159",
-        404227469
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-1.123603,52.771977,-1.123603,52.771977",
+    "geom:latitude": 52.771977,
+    "geom:longitude": -1.123603,
+    "gp:parent_id": "39102",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E10000018",
+    "os:district_code": "E07000130",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000004",
+    "src:geom": "os",
+    "wof:belongsto": [
+      1360698569, 
+      85633159, 
+      1360698871, 
+      404429613, 
+      1360753111, 
+      404227469
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27471806"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27471806"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"9d37fbeed035c31ea13433c220bd3ea1",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404429613,
-            "macroregion_id":404227469,
-            "postalcode_id":455011855,
-            "region_id":85683891
-        }
+    "wof:country": "GB",
+    "wof:created": 1583701092,
+    "wof:geomhash": "64bdba92b2a9f1c6c9af8118e5a7cc94",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698871,
+        "localadmin_id": 404429613,
+        "locality_id": 1360753111,
+        "macroregion_id": 404227469,
+        "region_id": 1360698569
+      }
     ],
-    "wof:id":455011855,
-    "wof:lastmodified":1468886854,
-    "wof:name":"LE12 8JE",
-    "wof:parent_id":404429613,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 455011855,
+    "wof:lastmodified": 1583786337,
+    "wof:name": "LE12 8JE",
+    "wof:parent_id": 404429613,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -1.1236029803370464,
-    52.77197718293997,
-    -1.1236029803370464,
-    52.77197718293997
-],
-  "geometry": {"coordinates":[-1.12360298033705,52.77197718293997],"type":"Point"}
+    -1.123603, 
+    52.771977, 
+    -1.123603, 
+    52.771977
+  ],
+  "geometry": {"coordinates":[-1.123603,52.771977],"type":"Point"}
 }

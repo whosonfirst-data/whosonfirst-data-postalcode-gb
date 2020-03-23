@@ -2,46 +2,60 @@
   "id": 504447625,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-4.60545141636,55.5958708523,-4.60545141636,55.5958708523",
-    "geom:latitude":55.595871,
-    "geom:longitude":-4.605451,
-    "gp:parent_id":"24544",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"S12000021",
-    "os:admin_ward_code":"S13002704",
-    "os:country_code":"S92000003",
-    "os:nhs_ha_code":"S08000015",
-    "os:nhs_regional_ha_code":"",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27415016"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-4.605414,55.596077,-4.605414,55.596077",
+    "geom:latitude": 55.596077,
+    "geom:longitude": -4.605414,
+    "gp:parent_id": "24544",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "S92000003",
+    "os:county_code": "S99999999",
+    "os:district_code": "S12000021",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "S99999999",
+    "src:geom": "os",
+    "wof:belongsto": [
+      404227471, 
+      1360698697, 
+      85633159, 
+      1360698855, 
+      404441385
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27415016"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"71a4e87858dffb12cd12c505bdee9bec",
-    "wof:hierarchy":[],
-    "wof:id":504447625,
-    "wof:lastmodified":1468884734,
-    "wof:name":"KA11 5BU",
-    "wof:parent_id":404441385,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "GB",
+    "wof:created": 1583701306,
+    "wof:geomhash": "137661ec62c03b2bebc022da3e39534a",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698855,
+        "localadmin_id": 404441385,
+        "macroregion_id": 404227471,
+        "region_id": 1360698697
+      }
+    ],
+    "wof:id": 504447625,
+    "wof:lastmodified": 1583786429,
+    "wof:name": "KA11 5BU",
+    "wof:parent_id": 404441385,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -4.6054514163644695,
-    55.59587085229569,
-    -4.6054514163644695,
-    55.59587085229569
-],
-  "geometry": {"coordinates":[-4.60545141636447,55.59587085229569],"type":"Point"}
+    -4.605414, 
+    55.596077, 
+    -4.605414, 
+    55.596077
+  ],
+  "geometry": {"coordinates":[-4.605414,55.596077],"type":"Point"}
 }

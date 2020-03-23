@@ -2,46 +2,60 @@
   "id": 504464677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-3.11544774726,59.0049990646,-3.11544774726,59.0049990646",
-    "geom:latitude":59.004999,
-    "geom:longitude":-3.115448,
-    "gp:parent_id":"20210",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"S12000023",
-    "os:admin_ward_code":"S13002735",
-    "os:country_code":"S92000003",
-    "os:nhs_ha_code":"S08000025",
-    "os:nhs_regional_ha_code":"",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27434234"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1994-02-01",
+    "geom:area": 0,
+    "geom:bbox": "-3.115448,59.004999,-3.115448,59.004999",
+    "geom:latitude": 59.004999,
+    "geom:longitude": -3.115448,
+    "gp:parent_id": "20210",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "S92000003",
+    "os:county_code": "S99999999",
+    "os:district_code": "S12000023",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "S99999999",
+    "src:geom": "os",
+    "wof:belongsto": [
+      1360698823, 
+      404432629, 
+      404227471, 
+      1360698683, 
+      85633159
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27434234"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"65aac27fc8409f12fa7ba146ee157cc4",
-    "wof:hierarchy":[],
-    "wof:id":504464677,
-    "wof:lastmodified":1468886133,
-    "wof:name":"KW17 2UT",
-    "wof:parent_id":404432629,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "GB",
+    "wof:created": 1583701351,
+    "wof:geomhash": "79d6a8fc81436c6822cf88b8a19a64ae",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698823,
+        "localadmin_id": 404432629,
+        "macroregion_id": 404227471,
+        "region_id": 1360698683
+      }
+    ],
+    "wof:id": 504464677,
+    "wof:lastmodified": 1583786461,
+    "wof:name": "KW17 2UT",
+    "wof:parent_id": 404432629,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -3.1154477472638735,
-    59.00499906457007,
-    -3.1154477472638735,
-    59.00499906457007
-],
-  "geometry": {"coordinates":[-3.11544774726387,59.00499906457007],"type":"Point"}
+    -3.115448, 
+    59.004999, 
+    -3.115448, 
+    59.004999
+  ],
+  "geometry": {"coordinates":[-3.115448,59.004999],"type":"Point"}
 }

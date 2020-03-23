@@ -2,46 +2,60 @@
   "id": 504753195,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-4.67736489,55.626887131,-4.67736489,55.626887131",
-    "geom:latitude":55.626887,
-    "geom:longitude":-4.677365,
-    "gp:parent_id":"12696203",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"S12000021",
-    "os:admin_ward_code":"S13002704",
-    "os:country_code":"S92000003",
-    "os:nhs_ha_code":"S08000015",
-    "os:nhs_regional_ha_code":"",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"28983296"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "2007-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-4.677365,55.626887,-4.677365,55.626887",
+    "geom:latitude": 55.626887,
+    "geom:longitude": -4.677365,
+    "gp:parent_id": "12696203",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "S92000003",
+    "os:county_code": "S99999999",
+    "os:district_code": "S12000021",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "S99999999",
+    "src:geom": "os",
+    "wof:belongsto": [
+      1360698855, 
+      404441385, 
+      404227471, 
+      1360698697, 
+      85633159
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "28983296"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"19d5ee01e48b6890daf662ab98ab3a07",
-    "wof:hierarchy":[],
-    "wof:id":504753195,
-    "wof:lastmodified":1468884744,
-    "wof:name":"KA12 8BG",
-    "wof:parent_id":404441385,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "GB",
+    "wof:created": 1583701547,
+    "wof:geomhash": "034998e3feb4311db6457048974e1f95",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698855,
+        "localadmin_id": 404441385,
+        "macroregion_id": 404227471,
+        "region_id": 1360698697
+      }
+    ],
+    "wof:id": 504753195,
+    "wof:lastmodified": 1583786703,
+    "wof:name": "KA12 8BG",
+    "wof:parent_id": 404441385,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -4.677364890001482,
-    55.62688713104837,
-    -4.677364890001482,
-    55.62688713104837
-],
-  "geometry": {"coordinates":[-4.67736489000148,55.62688713104837],"type":"Point"}
+    -4.677365, 
+    55.626887, 
+    -4.677365, 
+    55.626887
+  ],
+  "geometry": {"coordinates":[-4.677365,55.626887],"type":"Point"}
 }

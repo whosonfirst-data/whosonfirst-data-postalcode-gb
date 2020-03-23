@@ -2,46 +2,60 @@
   "id": 504464333,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-3.11368327572,59.016123946,-3.11368327572,59.016123946",
-    "geom:latitude":59.016124,
-    "geom:longitude":-3.113683,
-    "gp:parent_id":"20210",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"S12000023",
-    "os:admin_ward_code":"S13002735",
-    "os:country_code":"S92000003",
-    "os:nhs_ha_code":"S08000025",
-    "os:nhs_regional_ha_code":"",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27434078"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-3.113683,59.016124,-3.113683,59.016124",
+    "geom:latitude": 59.016124,
+    "geom:longitude": -3.113683,
+    "gp:parent_id": "20210",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "S92000003",
+    "os:county_code": "S99999999",
+    "os:district_code": "S12000023",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "S99999999",
+    "src:geom": "os",
+    "wof:belongsto": [
+      85633159, 
+      1360698823, 
+      404432629, 
+      404227471, 
+      1360698683
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27434078"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"416e2dc999e8f40159566e06e9edb868",
-    "wof:hierarchy":[],
-    "wof:id":504464333,
-    "wof:lastmodified":1468886023,
-    "wof:name":"KW17 2ER",
-    "wof:parent_id":404432629,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "GB",
+    "wof:created": 1583701348,
+    "wof:geomhash": "962b380e5d8eca9a4c93104b076b2597",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698823,
+        "localadmin_id": 404432629,
+        "macroregion_id": 404227471,
+        "region_id": 1360698683
+      }
+    ],
+    "wof:id": 504464333,
+    "wof:lastmodified": 1583786461,
+    "wof:name": "KW17 2ER",
+    "wof:parent_id": 404432629,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -3.1136832757207165,
-    59.01612394596594,
-    -3.1136832757207165,
-    59.01612394596594
-],
-  "geometry": {"coordinates":[-3.11368327572072,59.01612394596594],"type":"Point"}
+    -3.113683, 
+    59.016124, 
+    -3.113683, 
+    59.016124
+  ],
+  "geometry": {"coordinates":[-3.113683,59.016124],"type":"Point"}
 }

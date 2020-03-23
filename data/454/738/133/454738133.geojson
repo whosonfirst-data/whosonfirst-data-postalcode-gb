@@ -2,61 +2,62 @@
   "id": 454738133,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"-0.274470343342,51.5476053329,-0.274470343342,51.5476053329",
-    "geom:latitude":51.547605,
-    "geom:longitude":-0.27447,
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "mz:is_current":-1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"E09000005",
-    "os:admin_ward_code":"E05000102",
-    "os:country_code":"E92000001",
-    "os:nhs_ha_code":"E18000007",
-    "os:nhs_regional_ha_code":"E19000003",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[
-        102191581,
-        85633159,
-        404227469,
-        101750367
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:area_square_m": 0,
+    "geom:bbox": "-0.274470,51.547605,-0.274470,51.547605",
+    "geom:latitude": 51.547605,
+    "geom:longitude": -0.27447,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E99999999",
+    "os:district_code": "E09000005",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000007",
+    "src:geom": "os",
+    "wof:belongsto": [
+      101750367, 
+      404227469, 
+      85792291, 
+      1360698645, 
+      1158857267, 
+      85633159
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27344804"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27344804"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"42c68dcb9bad0d6c0b0fbbdfe0962023",
-    "wof:hierarchy":[
-        {
-            "continent_id":102191581,
-            "country_id":85633159,
-            "locality_id":101750367,
-            "macroregion_id":404227469,
-            "postalcode_id":454738133,
-            "region_id":-1
-        }
+    "wof:country": "GB",
+    "wof:created": 1583701705,
+    "wof:geomhash": "3bfe8367f7f41e82fa506f6c9eacd474",
+    "wof:hierarchy": [
+      {
+        "borough_id": 1158857267,
+        "country_id": 85633159,
+        "locality_id": 101750367,
+        "macroregion_id": 404227469,
+        "neighbourhood_id": 85792291,
+        "region_id": 1360698645
+      }
     ],
-    "wof:id":454738133,
-    "wof:lastmodified":1513907145,
-    "wof:name":"HA9 6NX",
-    "wof:parent_id":101750367,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 454738133,
+    "wof:lastmodified": 1583786846,
+    "wof:name": "HA9 6NX",
+    "wof:parent_id": 101750367,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -0.27447034334245,
-    51.54760533293303,
-    -0.27447034334245,
-    51.54760533293303
-],
-  "geometry": {"coordinates":[-0.27447034334245,51.54760533293303],"type":"Point"}
+    -0.27447, 
+    51.547605, 
+    -0.27447, 
+    51.547605
+  ],
+  "geometry": {"coordinates":[-0.27447,51.547605],"type":"Point"}
 }

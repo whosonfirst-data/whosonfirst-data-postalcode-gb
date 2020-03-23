@@ -2,46 +2,60 @@
   "id": 504452501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-4.78113391494,55.6346355484,-4.78113391494,55.6346355484",
-    "geom:latitude":55.634636,
-    "geom:longitude":-4.781134,
-    "gp:parent_id":"12696203",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"S12000021",
-    "os:admin_ward_code":"S13002707",
-    "os:country_code":"S92000003",
-    "os:nhs_ha_code":"S08000015",
-    "os:nhs_regional_ha_code":"",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27417583"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1986-02-01",
+    "geom:area": 0,
+    "geom:bbox": "-4.781134,55.634636,-4.781134,55.634636",
+    "geom:latitude": 55.634636,
+    "geom:longitude": -4.781134,
+    "gp:parent_id": "12696203",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "S92000003",
+    "os:county_code": "S99999999",
+    "os:district_code": "S12000021",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "S99999999",
+    "src:geom": "os",
+    "wof:belongsto": [
+      404227471, 
+      1360698697, 
+      85633159, 
+      1360698855, 
+      404441385
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27417583"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"76e715fc76bafd2f9f3e8d04ab48546a",
-    "wof:hierarchy":[],
-    "wof:id":504452501,
-    "wof:lastmodified":1468884872,
-    "wof:name":"KA21 5JL",
-    "wof:parent_id":404441385,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "GB",
+    "wof:created": 1583701318,
+    "wof:geomhash": "5a1795d8f145c46e0806b52cb6ac9251",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698855,
+        "localadmin_id": 404441385,
+        "macroregion_id": 404227471,
+        "region_id": 1360698697
+      }
+    ],
+    "wof:id": 504452501,
+    "wof:lastmodified": 1583786435,
+    "wof:name": "KA21 5JL",
+    "wof:parent_id": 404441385,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -4.7811339149440535,
-    55.63463554837964,
-    -4.7811339149440535,
-    55.63463554837964
-],
-  "geometry": {"coordinates":[-4.78113391494405,55.63463554837964],"type":"Point"}
+    -4.781134, 
+    55.634636, 
+    -4.781134, 
+    55.634636
+  ],
+  "geometry": {"coordinates":[-4.781134,55.634636],"type":"Point"}
 }

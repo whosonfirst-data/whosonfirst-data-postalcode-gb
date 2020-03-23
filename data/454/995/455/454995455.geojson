@@ -2,46 +2,62 @@
   "id": 454995455,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-2.85496668286,54.0588079,-2.85496668286,54.0588079",
-    "geom:latitude":54.058808,
-    "geom:longitude":-2.854967,
-    "gp:parent_id":"35064",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"E10000017",
-    "os:admin_distict_code":"E07000121",
-    "os:admin_ward_code":"E05009618",
-    "os:country_code":"E92000001",
-    "os:nhs_ha_code":"E18000002",
-    "os:nhs_regional_ha_code":"E19000001",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27464110"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-2.854967,54.058808,-2.854967,54.058808",
+    "geom:latitude": 54.058808,
+    "geom:longitude": -2.854967,
+    "gp:parent_id": "35064",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E10000017",
+    "os:district_code": "E07000121",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000002",
+    "src:geom": "os",
+    "wof:belongsto": [
+      85633159, 
+      1360698817, 
+      404430699, 
+      1125770537, 
+      404227469, 
+      1360698567
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27464110"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"0649bd354fc01d12108dd578c49b100f",
-    "wof:hierarchy":[],
-    "wof:id":454995455,
-    "wof:lastmodified":1474572332,
-    "wof:name":"LA3 3LY",
-    "wof:parent_id":404430699,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "GB",
+    "wof:created": 1583701768,
+    "wof:geomhash": "8450394b69a2221e6f9fe9ce4694bc2a",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698817,
+        "localadmin_id": 404430699,
+        "locality_id": 1125770537,
+        "macroregion_id": 404227469,
+        "region_id": 1360698567
+      }
+    ],
+    "wof:id": 454995455,
+    "wof:lastmodified": 1583786902,
+    "wof:name": "LA3 3LY",
+    "wof:parent_id": 404430699,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -2.85496668285891,
-    54.05880790001709,
-    -2.85496668285891,
-    54.05880790001709
-],
-  "geometry": {"coordinates":[-2.85496668285891,54.05880790001709],"type":"Point"}
+    -2.854967, 
+    54.058808, 
+    -2.854967, 
+    54.058808
+  ],
+  "geometry": {"coordinates":[-2.854967,54.058808],"type":"Point"}
 }

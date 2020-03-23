@@ -2,46 +2,62 @@
   "id": 504608955,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-4.69765787937,51.6710377362,-4.69765787937,51.6710377362",
-    "geom:latitude":51.671038,
-    "geom:longitude":-4.697658,
-    "gp:parent_id":"12696129",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"W06000009",
-    "os:admin_ward_code":"W05000454",
-    "os:country_code":"W92000004",
-    "os:nhs_ha_code":"W11000025",
-    "os:nhs_regional_ha_code":"",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27886921"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-4.697658,51.671038,-4.697658,51.671038",
+    "geom:latitude": 51.671038,
+    "geom:longitude": -4.697658,
+    "gp:parent_id": "12696129",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "W92000004",
+    "os:county_code": "W99999999",
+    "os:district_code": "W06000009",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "W99999999",
+    "src:geom": "os",
+    "wof:belongsto": [
+      404435111, 
+      101852995, 
+      404227475, 
+      1360698639, 
+      85633159, 
+      1360698843
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27886921"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"4635e2c56e9f8436fe28ef5a7d8311ad",
-    "wof:hierarchy":[],
-    "wof:id":504608955,
-    "wof:lastmodified":1468899003,
-    "wof:name":"SA70 7BA",
-    "wof:parent_id":404435111,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "GB",
+    "wof:created": 1583701479,
+    "wof:geomhash": "27f32d630cbd68a25d5a0b67a1745a8d",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698843,
+        "localadmin_id": 404435111,
+        "locality_id": 101852995,
+        "macroregion_id": 404227475,
+        "region_id": 1360698639
+      }
+    ],
+    "wof:id": 504608955,
+    "wof:lastmodified": 1583786632,
+    "wof:name": "SA70 7BA",
+    "wof:parent_id": 404435111,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -4.697657879372203,
-    51.67103773619828,
-    -4.697657879372203,
-    51.67103773619828
-],
-  "geometry": {"coordinates":[-4.6976578793722,51.67103773619828],"type":"Point"}
+    -4.697658, 
+    51.671038, 
+    -4.697658, 
+    51.671038
+  ],
+  "geometry": {"coordinates":[-4.697658,51.671038],"type":"Point"}
 }

@@ -2,45 +2,59 @@
   "id": 504452215,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-4.74369455895,55.6309846673,-4.74369455895,55.6309846673",
-    "geom:latitude":55.630985,
-    "geom:longitude":-4.743695,
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"S12000021",
-    "os:admin_ward_code":"S13002707",
-    "os:country_code":"S92000003",
-    "os:nhs_ha_code":"S08000015",
-    "os:nhs_regional_ha_code":"",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27417440"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-4.743695,55.630985,-4.743695,55.630985",
+    "geom:latitude": 55.630985,
+    "geom:longitude": -4.743695,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "S92000003",
+    "os:county_code": "S99999999",
+    "os:district_code": "S12000021",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "S99999999",
+    "src:geom": "os",
+    "wof:belongsto": [
+      85633159, 
+      1360698855, 
+      404441385, 
+      404227471, 
+      1360698697
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27417440"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"94c9e6594759b79c4e1d17219554f5d1",
-    "wof:hierarchy":[],
-    "wof:id":504452215,
-    "wof:lastmodified":1468884863,
-    "wof:name":"KA20 3PF",
-    "wof:parent_id":404441385,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "GB",
+    "wof:created": 1583701317,
+    "wof:geomhash": "52f37c896d475c2a50d294d7d8b55d9e",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698855,
+        "localadmin_id": 404441385,
+        "macroregion_id": 404227471,
+        "region_id": 1360698697
+      }
+    ],
+    "wof:id": 504452215,
+    "wof:lastmodified": 1583786435,
+    "wof:name": "KA20 3PF",
+    "wof:parent_id": 404441385,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -4.743694558948444,
-    55.630984667314934,
-    -4.743694558948444,
-    55.630984667314934
-],
-  "geometry": {"coordinates":[-4.74369455894844,55.63098466731493],"type":"Point"}
+    -4.743695, 
+    55.630985, 
+    -4.743695, 
+    55.630985
+  ],
+  "geometry": {"coordinates":[-4.743695,55.630985],"type":"Point"}
 }

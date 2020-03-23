@@ -2,60 +2,61 @@
   "id": 454570989,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-3.39255457193,50.8305722035,-3.39255457193,50.8305722035",
-    "geom:latitude":50.830572,
-    "geom:longitude":-3.392555,
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"E10000008",
-    "os:admin_distict_code":"E07000042",
-    "os:admin_ward_code":"E05003517",
-    "os:country_code":"E92000001",
-    "os:nhs_ha_code":"E18000010",
-    "os:nhs_regional_ha_code":"E19000002",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[
-        85683773,
-        "102191581",
-        404433557,
-        "85633159",
-        404227469
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-3.392555,50.830572,-3.392555,50.830572",
+    "geom:latitude": 50.830572,
+    "geom:longitude": -3.392555,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E10000008",
+    "os:district_code": "E07000042",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000009",
+    "src:geom": "os",
+    "wof:belongsto": [
+      101852633, 
+      404227469, 
+      1360698541, 
+      85633159, 
+      1360699081, 
+      404433557
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27253243"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27253243"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"7d3bbc09819f2d857fc82979b8d1db75",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404433557,
-            "macroregion_id":404227469,
-            "postalcode_id":454570989,
-            "region_id":85683773
-        }
+    "wof:country": "GB",
+    "wof:created": 1583701642,
+    "wof:geomhash": "70ba004d21a37b70ed9af4d8da638d09",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360699081,
+        "localadmin_id": 404433557,
+        "locality_id": 101852633,
+        "macroregion_id": 404227469,
+        "region_id": 1360698541
+      }
     ],
-    "wof:id":454570989,
-    "wof:lastmodified":1468879286,
-    "wof:name":"EX15 1RZ",
-    "wof:parent_id":404433557,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 454570989,
+    "wof:lastmodified": 1583786772,
+    "wof:name": "EX15 1RZ",
+    "wof:parent_id": 404433557,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -3.3925545719306687,
-    50.830572203515445,
-    -3.3925545719306687,
-    50.830572203515445
-],
-  "geometry": {"coordinates":[-3.39255457193067,50.83057220351544],"type":"Point"}
+    -3.392555, 
+    50.830572, 
+    -3.392555, 
+    50.830572
+  ],
+  "geometry": {"coordinates":[-3.392555,50.830572],"type":"Point"}
 }

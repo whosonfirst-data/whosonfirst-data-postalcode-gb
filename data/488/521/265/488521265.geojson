@@ -2,46 +2,60 @@
   "id": 488521265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-4.8190808247,55.6565203585,-4.8190808247,55.6565203585",
-    "geom:latitude":55.65652,
-    "geom:longitude":-4.819081,
-    "gp:parent_id":"12696203",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"S12000021",
-    "os:admin_ward_code":"S13002708",
-    "os:country_code":"S92000003",
-    "os:nhs_ha_code":"S08000015",
-    "os:nhs_regional_ha_code":"",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"26667822"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-4.819081,55.656520,-4.819081,55.656520",
+    "geom:latitude": 55.65652,
+    "geom:longitude": -4.819081,
+    "gp:parent_id": "12696203",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "S92000003",
+    "os:county_code": "S99999999",
+    "os:district_code": "S12000021",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "S99999999",
+    "src:geom": "os",
+    "wof:belongsto": [
+      85633159, 
+      1360698855, 
+      404441385, 
+      404227471, 
+      1360698697
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "26667822"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"afbec307a78028a1db170fec4cc60613",
-    "wof:hierarchy":[],
-    "wof:id":488521265,
-    "wof:lastmodified":1468884884,
-    "wof:name":"KA22 7PL",
-    "wof:parent_id":404441385,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "GB",
+    "wof:created": 1583701531,
+    "wof:geomhash": "aa0d5905d9e95ff9b20ccb08bd6eb33c",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698855,
+        "localadmin_id": 404441385,
+        "macroregion_id": 404227471,
+        "region_id": 1360698697
+      }
+    ],
+    "wof:id": 488521265,
+    "wof:lastmodified": 1583786733,
+    "wof:name": "KA22 7PL",
+    "wof:parent_id": 404441385,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -4.819080824703552,
-    55.65652035850207,
-    -4.819080824703552,
-    55.65652035850207
-],
-  "geometry": {"coordinates":[-4.81908082470355,55.65652035850207],"type":"Point"}
+    -4.819081, 
+    55.65652, 
+    -4.819081, 
+    55.65652
+  ],
+  "geometry": {"coordinates":[-4.819081,55.65652],"type":"Point"}
 }

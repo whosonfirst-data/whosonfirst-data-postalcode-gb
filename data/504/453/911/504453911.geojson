@@ -2,46 +2,60 @@
   "id": 504453911,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-4.75797012307,55.7153582054,-4.75797012307,55.7153582054",
-    "geom:latitude":55.715358,
-    "geom:longitude":-4.75797,
-    "gp:parent_id":"12696203",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"S12000021",
-    "os:admin_ward_code":"S13002709",
-    "os:country_code":"S92000003",
-    "os:nhs_ha_code":"S08000015",
-    "os:nhs_regional_ha_code":"",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27418306"
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-4.758033,55.715416,-4.758033,55.715416",
+    "geom:latitude": 55.715416,
+    "geom:longitude": -4.758033,
+    "gp:parent_id": "12696203",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "S92000003",
+    "os:county_code": "S99999999",
+    "os:district_code": "S12000021",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "S99999999",
+    "src:geom": "os",
+    "wof:belongsto": [
+      404227471, 
+      1360698697, 
+      85633159, 
+      1360698855, 
+      404441385
+    ],
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27418306"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"3cf16473da84d4075a3a285165a15821",
-    "wof:hierarchy":[],
-    "wof:id":504453911,
-    "wof:lastmodified":1468884910,
-    "wof:name":"KA24 5HS",
-    "wof:parent_id":404441385,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:country": "GB",
+    "wof:created": 1583701323,
+    "wof:geomhash": "78d80c4574117ac328d28f8b6a7ea58d",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698855,
+        "localadmin_id": 404441385,
+        "macroregion_id": 404227471,
+        "region_id": 1360698697
+      }
+    ],
+    "wof:id": 504453911,
+    "wof:lastmodified": 1583786440,
+    "wof:name": "KA24 5HS",
+    "wof:parent_id": 404441385,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -4.757970123070792,
-    55.71535820535282,
-    -4.757970123070792,
-    55.71535820535282
-],
-  "geometry": {"coordinates":[-4.75797012307079,55.71535820535282],"type":"Point"}
+    -4.758033, 
+    55.715416, 
+    -4.758033, 
+    55.715416
+  ],
+  "geometry": {"coordinates":[-4.758033,55.715416],"type":"Point"}
 }

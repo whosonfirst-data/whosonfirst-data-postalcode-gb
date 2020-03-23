@@ -2,60 +2,61 @@
   "id": 454776025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-1.00507498123,51.7769775751,-1.00507498123,51.7769775751",
-    "geom:latitude":51.776978,
-    "geom:longitude":-1.005075,
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"E10000002",
-    "os:admin_distict_code":"E07000004",
-    "os:admin_ward_code":"E05010345",
-    "os:country_code":"E92000001",
-    "os:nhs_ha_code":"E18000009",
-    "os:nhs_regional_ha_code":"E19000002",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[
-        85684231,
-        "102191581",
-        404429381,
-        "85633159",
-        404227469
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-1.005075,51.776978,-1.005075,51.776978",
+    "geom:latitude": 51.776978,
+    "geom:longitude": -1.005075,
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "E92000001",
+    "os:county_code": "E10000002",
+    "os:district_code": "E07000004",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "E12000008",
+    "src:geom": "os",
+    "wof:belongsto": [
+      101852795, 
+      404227469, 
+      1360698533, 
+      85633159, 
+      1360698997, 
+      404429381
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"26557117"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "26557117"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"f8caf07ff1c584206519b2ceaba4dfba",
-    "wof:hierarchy":[
-        {
-            "continent_id":"102191581",
-            "country_id":"85633159",
-            "localadmin_id":404429381,
-            "macroregion_id":404227469,
-            "postalcode_id":454776025,
-            "region_id":85684231
-        }
+    "wof:country": "GB",
+    "wof:created": 1583701713,
+    "wof:geomhash": "98bf6abcaeb081db417c548140f31c80",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698997,
+        "localadmin_id": 404429381,
+        "locality_id": 101852795,
+        "macroregion_id": 404227469,
+        "region_id": 1360698533
+      }
     ],
-    "wof:id":454776025,
-    "wof:lastmodified":1468880580,
-    "wof:name":"HP18 9EF",
-    "wof:parent_id":404429381,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 454776025,
+    "wof:lastmodified": 1583786852,
+    "wof:name": "HP18 9EF",
+    "wof:parent_id": 404429381,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -1.005074981233347,
-    51.776977575065466,
-    -1.005074981233347,
-    51.776977575065466
-],
-  "geometry": {"coordinates":[-1.00507498123335,51.77697757506547],"type":"Point"}
+    -1.005075, 
+    51.776978, 
+    -1.005075, 
+    51.776978
+  ],
+  "geometry": {"coordinates":[-1.005075,51.776978],"type":"Point"}
 }

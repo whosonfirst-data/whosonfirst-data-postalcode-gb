@@ -2,57 +2,60 @@
   "id": 504447845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"uuuu",
-    "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:bbox":"-4.65595407302,55.6224989582,-4.65595407302,55.6224989582",
-    "geom:latitude":55.622499,
-    "geom:longitude":-4.655954,
-    "gp:parent_id":"12696203",
-    "iso:country":"GB",
-    "mz:hierarchy_label":1,
-    "os:admin_county_code":"",
-    "os:admin_distict_code":"S12000021",
-    "os:admin_ward_code":"S13002704",
-    "os:country_code":"S92000003",
-    "os:nhs_ha_code":"S08000015",
-    "os:nhs_regional_ha_code":"",
-    "os:positional_quality_indicator":"10",
-    "src:geom":"os",
-    "wof:belongsto":[
-        101872479,
-        85633159,
-        85684391
+    "edtf:cessation": "uuuu",
+    "edtf:inception": "1980-01-01",
+    "geom:area": 0,
+    "geom:bbox": "-4.655954,55.622499,-4.655954,55.622499",
+    "geom:latitude": 55.622499,
+    "geom:longitude": -4.655954,
+    "gp:parent_id": "12696203",
+    "iso:country": "GB",
+    "mz:hierarchy_label": 1,
+    "mz:is_current": 1,
+    "os:country_code": "S92000003",
+    "os:county_code": "S99999999",
+    "os:district_code": "S12000021",
+    "os:positional_quality_indicator": "1",
+    "os:region_code": "S99999999",
+    "src:geom": "os",
+    "wof:belongsto": [
+      404441385, 
+      404227471, 
+      1360698697, 
+      85633159, 
+      1360698855
     ],
-    "wof:breaches":[],
-    "wof:concordances":{
-        "gp:id":"27415141"
+    "wof:breaches": [],
+    "wof:concordances": {
+      "gp:id": "27415141"
     },
-    "wof:country":"GB",
-    "wof:geomhash":"2e202d92b8f9ee1d6a937c3dd1ba7152",
-    "wof:hierarchy":[
-        {
-            "country_id":85633159,
-            "locality_id":101872479,
-            "postalcode_id":504447845,
-            "region_id":85684391
-        }
+    "wof:country": "GB",
+    "wof:created": 1583701307,
+    "wof:geomhash": "f3d699d01f7cb77755f1e8343b5edcf4",
+    "wof:hierarchy": [
+      {
+        "country_id": 85633159,
+        "county_id": 1360698855,
+        "localadmin_id": 404441385,
+        "macroregion_id": 404227471,
+        "region_id": 1360698697
+      }
     ],
-    "wof:id":504447845,
-    "wof:lastmodified":1468884739,
-    "wof:name":"KA12 0RP",
-    "wof:parent_id":101872479,
-    "wof:placetype":"postalcode",
-    "wof:repo":"whosonfirst-data-postalcode-gb",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
-    "wof:tags":[]
-},
+    "wof:id": 504447845,
+    "wof:lastmodified": 1583786429,
+    "wof:name": "KA12 0RP",
+    "wof:parent_id": 101872479,
+    "wof:placetype": "postalcode",
+    "wof:repo": "whosonfirst-data-postalcode-gb",
+    "wof:superseded_by": [],
+    "wof:supersedes": [],
+    "wof:tags": []
+  },
   "bbox": [
-    -4.655954073021297,
-    55.62249895815197,
-    -4.655954073021297,
-    55.62249895815197
-],
-  "geometry": {"coordinates":[-4.6559540730213,55.62249895815197],"type":"Point"}
+    -4.655954, 
+    55.622499, 
+    -4.655954, 
+    55.622499
+  ],
+  "geometry": {"coordinates":[-4.655954,55.622499],"type":"Point"}
 }
