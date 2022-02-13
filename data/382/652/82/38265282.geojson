@@ -2,6 +2,10 @@
   "id": 38265282,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2000-10-01",
+    "date:cessation_upper": "2000-10-01",
+    "date:inception_lower": "1999-12-01",
+    "date:inception_upper": "1999-12-01",
     "edtf:cessation": "2000-10-01",
     "edtf:inception": "1999-12-01",
     "geom:area": 0,
@@ -18,8 +22,8 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1360711925, 
-      1360698629, 
+      1360711925,
+      1360698629,
       404446945
     ],
     "wof:breaches": [],
@@ -30,11 +34,12 @@
       {
         "localadmin_id": 404446945,
         "locality_id": 1360711925,
+        "postalcode_id": 38265282,
         "region_id": 1360698629
       }
     ],
     "wof:id": 38265282,
-    "wof:lastmodified": 1583788385,
+    "wof:lastmodified": 1644779509,
     "wof:name": "SA13 1RG",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -44,9 +49,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.781838, 
-    51.587383, 
-    -3.781838, 
+    -3.781838,
+    51.587383,
+    -3.781838,
     51.587383
   ],
   "geometry": {"coordinates":[-3.781838,51.587383],"type":"Point"}

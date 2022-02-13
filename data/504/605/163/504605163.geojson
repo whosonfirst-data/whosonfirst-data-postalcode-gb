@@ -2,6 +2,8 @@
   "id": 504605163,
   "type": "Feature",
   "properties": {
+    "date:inception_lower": "1980-01-01",
+    "date:inception_upper": "1980-01-01",
     "edtf:cessation": "",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
@@ -19,8 +21,8 @@
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
-      1125998211, 
-      1360698639, 
+      1125998211,
+      1360698639,
       404430167
     ],
     "wof:breaches": [],
@@ -34,11 +36,12 @@
       {
         "localadmin_id": 404430167,
         "locality_id": 1125998211,
+        "postalcode_id": 504605163,
         "region_id": 1360698639
       }
     ],
     "wof:id": 504605163,
-    "wof:lastmodified": 1583786627,
+    "wof:lastmodified": 1644780125,
     "wof:name": "SA62 4HN",
     "wof:parent_id": 404430167,
     "wof:placetype": "postalcode",
@@ -48,9 +51,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.901107, 
-    51.748946, 
-    -4.901107, 
+    -4.901107,
+    51.748946,
+    -4.901107,
     51.748946
   ],
   "geometry": {"coordinates":[-4.901107,51.748946],"type":"Point"}

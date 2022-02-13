@@ -2,6 +2,8 @@
   "id": 471473909,
   "type": "Feature",
   "properties": {
+    "date:inception_lower": "1980-01-01",
+    "date:inception_upper": "1980-01-01",
     "edtf:cessation": "",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
@@ -19,8 +21,8 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1125960513, 
-      1360698563, 
+      1125960513,
+      1360698563,
       404449807
     ],
     "wof:breaches": [],
@@ -34,11 +36,12 @@
       {
         "localadmin_id": 404449807,
         "locality_id": 1125960513,
+        "postalcode_id": 471473909,
         "region_id": 1360698563
       }
     ],
     "wof:id": 471473909,
-    "wof:lastmodified": 1583786758,
+    "wof:lastmodified": 1644779905,
     "wof:name": "PO33 4LB",
     "wof:parent_id": 404449807,
     "wof:placetype": "postalcode",
@@ -48,9 +51,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.223894, 
-    50.725794, 
-    -1.223894, 
+    -1.223894,
+    50.725794,
+    -1.223894,
     50.725794
   ],
   "geometry": {"coordinates":[-1.223894,50.725794],"type":"Point"}

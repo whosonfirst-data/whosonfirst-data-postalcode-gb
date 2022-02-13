@@ -2,6 +2,10 @@
   "id": 1712782267,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2001-01-01",
+    "date:cessation_upper": "2001-01-01",
+    "date:inception_lower": "1980-01-01",
+    "date:inception_upper": "1980-01-01",
     "edtf:cessation": "2001-01-01",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
@@ -18,10 +22,10 @@
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698601, 
-      85633159, 
-      1360698881, 
-      1126015613, 
+      1360698601,
+      85633159,
+      1360698881,
+      1126015613,
       404227469
     ],
     "wof:breaches": [],
@@ -34,11 +38,12 @@
         "county_id": 1360698881,
         "locality_id": 1126015613,
         "macroregion_id": 404227469,
+        "postalcode_id": 1712782267,
         "region_id": 1360698601
       }
     ],
     "wof:id": 1712782267,
-    "wof:lastmodified": 1583803342,
+    "wof:lastmodified": 1644779454,
     "wof:name": "DH3 1DH",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -48,9 +53,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.583671, 
-    54.895321, 
-    -1.583671, 
+    -1.583671,
+    54.895321,
+    -1.583671,
     54.895321
   ],
   "geometry": {"coordinates":[-1.583671,54.895321],"type":"Point"}

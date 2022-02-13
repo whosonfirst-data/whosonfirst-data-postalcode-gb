@@ -2,6 +2,10 @@
   "id": 1161052240,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2001-10-01",
+    "date:cessation_upper": "2001-10-01",
+    "date:inception_lower": "2000-12-01",
+    "date:inception_upper": "2000-12-01",
     "edtf:cessation": "2001-10-01",
     "edtf:inception": "2000-12-01",
     "geom:area": 0,
@@ -18,7 +22,7 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698545, 
+      1360698545,
       101751585
     ],
     "wof:breaches": [],
@@ -28,11 +32,12 @@
     "wof:hierarchy": [
       {
         "locality_id": 101751585,
+        "postalcode_id": 1161052240,
         "region_id": 1360698545
       }
     ],
     "wof:id": 1161052240,
-    "wof:lastmodified": 1595711958,
+    "wof:lastmodified": 1644779398,
     "wof:name": "DT4 9YT",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -42,9 +47,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.456042, 
-    50.609146, 
-    -2.456042, 
+    -2.456042,
+    50.609146,
+    -2.456042,
     50.609146
   ],
   "geometry": {"coordinates":[-2.456042,50.609146],"type":"Point"}

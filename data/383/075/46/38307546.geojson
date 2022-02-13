@@ -2,6 +2,10 @@
   "id": 38307546,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "1995-01-01",
+    "date:cessation_upper": "1995-01-01",
+    "date:inception_lower": "1994-05-01",
+    "date:inception_upper": "1994-05-01",
     "edtf:cessation": "1995-01-01",
     "edtf:inception": "1994-05-01",
     "geom:area": 0,
@@ -18,7 +22,7 @@
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698541, 
+      1360698541,
       101750297
     ],
     "wof:breaches": [],
@@ -28,11 +32,12 @@
     "wof:hierarchy": [
       {
         "locality_id": 101750297,
+        "postalcode_id": 38307546,
         "region_id": 1360698541
       }
     ],
     "wof:id": 38307546,
-    "wof:lastmodified": 1583788865,
+    "wof:lastmodified": 1644779516,
     "wof:name": "PL1 3EA",
     "wof:parent_id": -1,
     "wof:placetype": "postalcode",
@@ -42,9 +47,9 @@
     "wof:tags": []
   },
   "bbox": [
-    -4.151143, 
-    50.36419, 
-    -4.151143, 
+    -4.151143,
+    50.36419,
+    -4.151143,
     50.36419
   ],
   "geometry": {"coordinates":[-4.151143,50.36419],"type":"Point"}
