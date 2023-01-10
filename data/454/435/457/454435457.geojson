@@ -2,20 +2,18 @@
   "id": 454435457,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2013-03-01",
-    "date:cessation_upper": "2013-03-01",
-    "date:inception_lower": "1980-01-01",
-    "date:inception_upper": "1980-01-01",
-    "edtf:cessation": "2013-03-01",
-    "edtf:inception": "1980-01-01",
+    "date:inception_lower": "2022-09-01",
+    "date:inception_upper": "2022-09-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2022-09-01",
     "geom:area": 0,
-    "geom:bbox": "-1.005530,53.353005,-1.005530,53.353005",
-    "geom:latitude": 53.353005,
-    "geom:longitude": -1.00553,
+    "geom:bbox": "-0.975347,53.358047,-0.975347,53.358047",
+    "geom:latitude": 53.358047,
+    "geom:longitude": -0.975347,
     "gp:parent_id": "11896",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000024",
     "os:district_code": "E07000171",
@@ -23,13 +21,13 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      404447429,
-      1125908569,
       404227469,
       1360698583,
       85633159,
       1360698809,
-      102191581
+      102191581,
+      404445725,
+      1360759645
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -37,23 +35,23 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701567,
-    "wof:geomhash": "ed8aecf93ded10d41226366d40dba392",
+    "wof:geomhash": "01a5f963a8d5a01f497d30726401c482",
     "wof:hierarchy": [
       {
         "continent_id": 102191581,
         "country_id": 85633159,
         "county_id": 1360698809,
-        "localadmin_id": 404447429,
-        "locality_id": 1125908569,
+        "localadmin_id": 404445725,
+        "locality_id": 1360759645,
         "macroregion_id": 404227469,
         "postalcode_id": 454435457,
         "region_id": 1360698583
       }
     ],
     "wof:id": 454435457,
-    "wof:lastmodified": 1661965578,
+    "wof:lastmodified": 1673324459,
     "wof:name": "DN22 8QP",
-    "wof:parent_id": 1125908569,
+    "wof:parent_id": 1360759645,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -61,10 +59,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.00553,
-    53.353005,
-    -1.00553,
-    53.353005
+    -0.975347,
+    53.358047,
+    -0.975347,
+    53.358047
   ],
-  "geometry": {"coordinates":[-1.00553,53.353005],"type":"Point"}
+  "geometry": {"coordinates":[-0.975347,53.358047],"type":"Point"}
 }
