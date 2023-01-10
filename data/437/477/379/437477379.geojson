@@ -2,32 +2,34 @@
   "id": 437477379,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2022-09-01",
+    "date:cessation_upper": "2022-09-01",
     "date:inception_lower": "2022-07-01",
     "date:inception_upper": "2022-07-01",
-    "edtf:cessation": "",
+    "edtf:cessation": "2022-09-01",
     "edtf:inception": "2022-07-01",
     "geom:area": 0,
-    "geom:bbox": "-1.299506,54.622646,-1.299506,54.622646",
-    "geom:latitude": 54.622646,
-    "geom:longitude": -1.299506,
+    "geom:bbox": "-1.332758,54.640564,-1.332758,54.640564",
+    "geom:latitude": 54.640564,
+    "geom:longitude": -1.332758,
     "gp:parent_id": "40871",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
-    "os:district_code": "E06000004",
-    "os:positional_quality_indicator": "5",
+    "os:district_code": "E06000001",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
-      404439861,
-      1125925777,
       404227469,
       1360698621,
       85633159,
-      1360699087,
-      102191581
+      102191581,
+      1360698981,
+      404444069,
+      1125775931
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -35,23 +37,23 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701263,
-    "wof:geomhash": "e03bc8c6433d01118c605fa87125ed5e",
+    "wof:geomhash": "1377b5de31b527fe6cefdb7f385b08df",
     "wof:hierarchy": [
       {
         "continent_id": 102191581,
         "country_id": 85633159,
-        "county_id": 1360699087,
-        "localadmin_id": 404439861,
-        "locality_id": 1125925777,
+        "county_id": 1360698981,
+        "localadmin_id": 404444069,
+        "locality_id": 1125775931,
         "macroregion_id": 404227469,
         "postalcode_id": 437477379,
         "region_id": 1360698621
       }
     ],
     "wof:id": 437477379,
-    "wof:lastmodified": 1662040514,
+    "wof:lastmodified": 1673300668,
     "wof:name": "TS22 5JU",
-    "wof:parent_id": 1125925777,
+    "wof:parent_id": 1125775931,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -59,10 +61,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.299506,
-    54.622646,
-    -1.299506,
-    54.622646
+    -1.332758,
+    54.640564,
+    -1.332758,
+    54.640564
   ],
-  "geometry": {"coordinates":[-1.299506,54.622646],"type":"Point"}
+  "geometry": {"coordinates":[-1.332758,54.640564],"type":"Point"}
 }
