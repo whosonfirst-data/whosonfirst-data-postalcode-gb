@@ -2,33 +2,32 @@
   "id": 437654963,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2006-02-01",
-    "date:cessation_upper": "2006-02-01",
-    "date:inception_lower": "2001-12-01",
-    "date:inception_upper": "2001-12-01",
-    "edtf:cessation": "2006-02-01",
-    "edtf:inception": "2001-12-01",
+    "date:inception_lower": "2023-04-01",
+    "date:inception_upper": "2023-04-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2023-04-01",
     "geom:area": 0,
-    "geom:bbox": "-0.545233,53.224065,-0.545233,53.224065",
-    "geom:latitude": 53.224065,
-    "geom:longitude": -0.545233,
+    "geom:bbox": "-0.669487,53.153882,-0.669487,53.153882",
+    "geom:latitude": 53.153882,
+    "geom:longitude": -0.669487,
     "gp:parent_id": "22763082",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000019",
-    "os:district_code": "E07000138",
+    "os:district_code": "E07000139",
     "os:positional_quality_indicator": "1",
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       1360699067,
-      101750523,
       404227469,
       1360698571,
-      102191581
+      102191581,
+      404432689,
+      1360753057
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -36,22 +35,23 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701454,
-    "wof:geomhash": "7321c4edc6dcba1dc6df86690e6630a8",
+    "wof:geomhash": "f3a14050cbbca14fd6d7fcef09370a54",
     "wof:hierarchy": [
       {
         "continent_id": 102191581,
         "country_id": 85633159,
         "county_id": 1360699067,
-        "locality_id": 101750523,
+        "localadmin_id": 404432689,
+        "locality_id": 1360753057,
         "macroregion_id": 404227469,
         "postalcode_id": 437654963,
         "region_id": 1360698571
       }
     ],
     "wof:id": 437654963,
-    "wof:lastmodified": 1661959241,
+    "wof:lastmodified": 1687559901,
     "wof:name": "LN6 9YA",
-    "wof:parent_id": 101750523,
+    "wof:parent_id": 1360753057,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -59,10 +59,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.545233,
-    53.224065,
-    -0.545233,
-    53.224065
+    -0.669487,
+    53.153882,
+    -0.669487,
+    53.153882
   ],
-  "geometry": {"coordinates":[-0.545233,53.224065],"type":"Point"}
+  "geometry": {"coordinates":[-0.669487,53.153882],"type":"Point"}
 }
