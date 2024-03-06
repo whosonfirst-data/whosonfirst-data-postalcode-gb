@@ -2,9 +2,11 @@
   "id": 470962999,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-01-01",
+    "date:cessation_upper": "2024-01-01",
     "date:inception_lower": "1999-06-01",
     "date:inception_upper": "1999-06-01",
-    "edtf:cessation": "",
+    "edtf:cessation": "2024-01-01",
     "edtf:inception": "1999-06-01",
     "geom:area": 0,
     "geom:bbox": "-0.828772,52.047583,-0.828772,52.047583",
@@ -13,7 +15,7 @@
     "gp:parent_id": "23600",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000042",
@@ -21,13 +23,10 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360759695,
-      404227469,
-      1360698533,
       85633159,
-      1360698913,
-      404453903,
-      102191581
+      102191581,
+      136253055,
+      1864208869
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -40,18 +39,15 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
-        "county_id": 1360698913,
-        "localadmin_id": 404453903,
-        "locality_id": 1360759695,
-        "macroregion_id": 404227469,
+        "empire_id": 136253055,
         "postalcode_id": 470962999,
-        "region_id": 1360698533
+        "postalregion_id": 1864208869
       }
     ],
     "wof:id": 470962999,
-    "wof:lastmodified": 1661944559,
+    "wof:lastmodified": 1709408616,
     "wof:name": "MK12 6ZS",
-    "wof:parent_id": 1360759695,
+    "wof:parent_id": 1864208869,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],

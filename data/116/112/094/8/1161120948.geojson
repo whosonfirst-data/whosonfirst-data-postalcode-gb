@@ -2,9 +2,11 @@
   "id": 1161120948,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-01",
+    "date:cessation_upper": "2023-10-01",
     "date:inception_lower": "2017-09-01",
     "date:inception_upper": "2017-09-01",
-    "edtf:cessation": "",
+    "edtf:cessation": "2023-10-01",
     "edtf:inception": "2017-09-01",
     "geom:area": 0,
     "geom:bbox": "-0.730969,51.085902,-0.730969,51.085902",
@@ -12,7 +14,7 @@
     "geom:longitude": -0.730969,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000030",
     "os:district_code": "E07000216",
@@ -20,13 +22,10 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      404437989,
-      101854671,
-      404227469,
-      1360698599,
       85633159,
-      1360698887,
-      102191581
+      102191581,
+      136253055,
+      1864207543
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -36,18 +35,15 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
-        "county_id": 1360698887,
-        "localadmin_id": 404437989,
-        "locality_id": 101854671,
-        "macroregion_id": 404227469,
+        "empire_id": 136253055,
         "postalcode_id": 1161120948,
-        "region_id": 1360698599
+        "postalregion_id": 1864207543
       }
     ],
     "wof:id": 1161120948,
-    "wof:lastmodified": 1661969539,
+    "wof:lastmodified": 1709408842,
     "wof:name": "GU27 9GP",
-    "wof:parent_id": 101854671,
+    "wof:parent_id": 1864207543,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],

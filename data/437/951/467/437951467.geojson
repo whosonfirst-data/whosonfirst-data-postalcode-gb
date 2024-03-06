@@ -2,9 +2,11 @@
   "id": 437951467,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-01",
+    "date:cessation_upper": "2023-08-01",
     "date:inception_lower": "1995-01-01",
     "date:inception_upper": "1995-01-01",
-    "edtf:cessation": "",
+    "edtf:cessation": "2023-08-01",
     "edtf:inception": "1995-01-01",
     "geom:area": 0,
     "geom:bbox": "-0.194152,51.804635,-0.194152,51.804635",
@@ -12,7 +14,7 @@
     "geom:longitude": -0.194152,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000015",
     "os:district_code": "E07000241",
@@ -20,12 +22,10 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698763,
-      101853555,
-      404227469,
-      1360698559,
       85633159,
-      102191581
+      102191581,
+      136253055,
+      1864205467
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -38,17 +38,15 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
-        "county_id": 1360698763,
-        "locality_id": 101853555,
-        "macroregion_id": 404227469,
+        "empire_id": 136253055,
         "postalcode_id": 437951467,
-        "region_id": 1360698559
+        "postalregion_id": 1864205467
       }
     ],
     "wof:id": 437951467,
-    "wof:lastmodified": 1661945355,
+    "wof:lastmodified": 1709408658,
     "wof:name": "AL7 1AS",
-    "wof:parent_id": 101853555,
+    "wof:parent_id": 1864205467,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],

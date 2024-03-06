@@ -2,20 +2,18 @@
   "id": 471541317,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2016-09-01",
-    "date:cessation_upper": "2016-09-01",
-    "date:inception_lower": "1980-01-01",
-    "date:inception_upper": "1980-01-01",
-    "edtf:cessation": "2016-09-01",
-    "edtf:inception": "1980-01-01",
+    "date:inception_lower": "2024-01-01",
+    "date:inception_upper": "2024-01-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.029822,51.241358,-1.029822,51.241358",
-    "geom:latitude": 51.241358,
-    "geom:longitude": -1.029822,
+    "geom:bbox": "-1.029805,51.241357,-1.029805,51.241357",
+    "geom:latitude": 51.241357,
+    "geom:longitude": -1.029805,
     "gp:parent_id": "38338",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000014",
     "os:district_code": "E07000084",
@@ -23,13 +21,10 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698557,
       85633159,
-      1360698827,
-      404452277,
-      1259409841,
-      404227469,
-      102191581
+      102191581,
+      136253055,
+      1864210045
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -37,23 +32,20 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701665,
-    "wof:geomhash": "3ac1d8f9529aaf756b7ceb8ae7864815",
+    "wof:geomhash": "011e58cab777c3ac66b3743cb3c791d2",
     "wof:hierarchy": [
       {
         "continent_id": 102191581,
         "country_id": 85633159,
-        "county_id": 1360698827,
-        "localadmin_id": 404452277,
-        "locality_id": 1259409841,
-        "macroregion_id": 404227469,
+        "empire_id": 136253055,
         "postalcode_id": 471541317,
-        "region_id": 1360698557
+        "postalregion_id": 1864210045
       }
     ],
     "wof:id": 471541317,
-    "wof:lastmodified": 1661959670,
+    "wof:lastmodified": 1709409023,
     "wof:name": "RG25 2LD",
-    "wof:parent_id": 1259409841,
+    "wof:parent_id": 1864210045,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -61,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.029822,
-    51.241358,
-    -1.029822,
-    51.241358
+    -1.029805,
+    51.241357,
+    -1.029805,
+    51.241357
   ],
-  "geometry": {"coordinates":[-1.029822,51.241358],"type":"Point"}
+  "geometry": {"coordinates":[-1.029805,51.241357],"type":"Point"}
 }

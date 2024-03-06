@@ -2,9 +2,11 @@
   "id": 438242469,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-01",
+    "date:cessation_upper": "2023-10-01",
     "date:inception_lower": "2020-11-01",
     "date:inception_upper": "2020-11-01",
-    "edtf:cessation": "",
+    "edtf:cessation": "2023-10-01",
     "edtf:inception": "2020-11-01",
     "geom:area": 0,
     "geom:bbox": "-0.142128,50.924225,-0.142128,50.924225",
@@ -13,7 +15,7 @@
     "gp:parent_id": "22612",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000032",
     "os:district_code": "E07000228",
@@ -21,13 +23,10 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1125881701,
-      404227469,
-      1360698607,
       85633159,
-      1360698757,
       102191581,
-      404436065
+      136253055,
+      1864205933
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -40,18 +39,15 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
-        "county_id": 1360698757,
-        "localadmin_id": 404436065,
-        "locality_id": 1125881701,
-        "macroregion_id": 404227469,
+        "empire_id": 136253055,
         "postalcode_id": 438242469,
-        "region_id": 1360698607
+        "postalregion_id": 1864205933
       }
     ],
     "wof:id": 438242469,
-    "wof:lastmodified": 1662040364,
+    "wof:lastmodified": 1709408907,
     "wof:name": "BN6 8WN",
-    "wof:parent_id": 1125881701,
+    "wof:parent_id": 1864205933,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],

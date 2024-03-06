@@ -2,9 +2,11 @@
   "id": 488022681,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-12-01",
+    "date:cessation_upper": "2023-12-01",
     "date:inception_lower": "2000-12-01",
     "date:inception_upper": "2000-12-01",
-    "edtf:cessation": "",
+    "edtf:cessation": "2023-12-01",
     "edtf:inception": "2000-12-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
@@ -13,7 +15,7 @@
     "geom:longitude": -0.134558,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E09000033",
@@ -21,11 +23,10 @@
     "os:region_code": "E12000007",
     "src:geom": "os",
     "wof:belongsto": [
-      404227469,
-      1360698645,
       85633159,
-      101750367,
-      102191581
+      102191581,
+      136253055,
+      1864211413
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -38,16 +39,15 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
-        "locality_id": 101750367,
-        "macroregion_id": 404227469,
+        "empire_id": 136253055,
         "postalcode_id": 488022681,
-        "region_id": 1360698645
+        "postalregion_id": 1864211413
       }
     ],
     "wof:id": 488022681,
-    "wof:lastmodified": 1661969202,
+    "wof:lastmodified": 1709408918,
     "wof:name": "W1F 8ZU",
-    "wof:parent_id": 101750367,
+    "wof:parent_id": 1864211413,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],

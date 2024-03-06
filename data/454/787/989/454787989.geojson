@@ -2,9 +2,11 @@
   "id": 454787989,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-01-01",
+    "date:cessation_upper": "2024-01-01",
     "date:inception_lower": "2001-12-01",
     "date:inception_upper": "2001-12-01",
-    "edtf:cessation": "",
+    "edtf:cessation": "2024-01-01",
     "edtf:inception": "2001-12-01",
     "geom:area": 0,
     "geom:bbox": "-0.582161,51.768026,-0.582161,51.768026",
@@ -12,7 +14,7 @@
     "geom:longitude": -0.582161,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000015",
     "os:district_code": "E07000096",
@@ -20,13 +22,10 @@
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698763,
-      404431337,
-      101854795,
-      404227469,
-      1360698559,
       85633159,
-      102191581
+      102191581,
+      136253055,
+      1864207681
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -39,18 +38,15 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
-        "county_id": 1360698763,
-        "localadmin_id": 404431337,
-        "locality_id": 101854795,
-        "macroregion_id": 404227469,
+        "empire_id": 136253055,
         "postalcode_id": 454787989,
-        "region_id": 1360698559
+        "postalregion_id": 1864207681
       }
     ],
     "wof:id": 454787989,
-    "wof:lastmodified": 1661951889,
+    "wof:lastmodified": 1709408718,
     "wof:name": "HP4 1GE",
-    "wof:parent_id": 101854795,
+    "wof:parent_id": 1864207681,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],

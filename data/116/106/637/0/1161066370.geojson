@@ -2,9 +2,11 @@
   "id": 1161066370,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-01",
+    "date:cessation_upper": "2023-10-01",
     "date:inception_lower": "2019-10-01",
     "date:inception_upper": "2019-10-01",
-    "edtf:cessation": "",
+    "edtf:cessation": "2023-10-01",
     "edtf:inception": "2019-10-01",
     "geom:area": 0,
     "geom:bbox": "0.263715,53.339246,0.263715,53.339246",
@@ -12,7 +14,7 @@
     "geom:longitude": 0.263715,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000019",
     "os:district_code": "E07000137",
@@ -20,13 +22,10 @@
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
-      404454665,
-      1360753981,
-      404227469,
-      1360698571,
       85633159,
-      1360699067,
-      102191581
+      102191581,
+      136253055,
+      1864208605
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -36,18 +35,15 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
-        "county_id": 1360699067,
-        "localadmin_id": 404454665,
-        "locality_id": 1360753981,
-        "macroregion_id": 404227469,
+        "empire_id": 136253055,
         "postalcode_id": 1161066370,
-        "region_id": 1360698571
+        "postalregion_id": 1864208605
       }
     ],
     "wof:id": 1161066370,
-    "wof:lastmodified": 1661970153,
+    "wof:lastmodified": 1709408851,
     "wof:name": "LN12 2AH",
-    "wof:parent_id": 1360753981,
+    "wof:parent_id": 1864208605,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],

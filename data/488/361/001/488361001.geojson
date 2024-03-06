@@ -2,9 +2,11 @@
   "id": 488361001,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-01-01",
+    "date:cessation_upper": "2024-01-01",
     "date:inception_lower": "2009-04-01",
     "date:inception_upper": "2009-04-01",
-    "edtf:cessation": "",
+    "edtf:cessation": "2024-01-01",
     "edtf:inception": "2009-04-01",
     "geom:area": 0,
     "geom:bbox": "-2.115246,51.460931,-2.115246,51.460931",
@@ -13,7 +15,7 @@
     "gp:parent_id": "15952",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000054",
@@ -22,12 +24,9 @@
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
-      1360698937,
-      404430805,
-      101852747,
-      404227469,
-      1360698611,
-      102191581
+      102191581,
+      136253055,
+      1864210613
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -40,18 +39,15 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
-        "county_id": 1360698937,
-        "localadmin_id": 404430805,
-        "locality_id": 101852747,
-        "macroregion_id": 404227469,
+        "empire_id": 136253055,
         "postalcode_id": 488361001,
-        "region_id": 1360698611
+        "postalregion_id": 1864210613
       }
     ],
     "wof:id": 488361001,
-    "wof:lastmodified": 1661958663,
+    "wof:lastmodified": 1709408978,
     "wof:name": "SN15 9UF",
-    "wof:parent_id": 101852747,
+    "wof:parent_id": 1864210613,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],

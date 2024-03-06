@@ -2,9 +2,11 @@
   "id": 454533799,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-01-01",
+    "date:cessation_upper": "2024-01-01",
     "date:inception_lower": "1980-01-01",
     "date:inception_upper": "1980-01-01",
-    "edtf:cessation": "",
+    "edtf:cessation": "2024-01-01",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:area_square_m": 0,
@@ -13,7 +15,7 @@
     "geom:longitude": -0.102812,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E09000001",
@@ -22,10 +24,9 @@
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
-      101750367,
-      404227469,
       102191581,
-      1360698645
+      136253055,
+      1864206967
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -38,16 +39,15 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
-        "locality_id": 101750367,
-        "macroregion_id": 404227469,
+        "empire_id": 136253055,
         "postalcode_id": 454533799,
-        "region_id": 1360698645
+        "postalregion_id": 1864206967
       }
     ],
     "wof:id": 454533799,
-    "wof:lastmodified": 1661963114,
+    "wof:lastmodified": 1709408748,
     "wof:name": "EC1A 2DP",
-    "wof:parent_id": 101750367,
+    "wof:parent_id": 1864206967,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],

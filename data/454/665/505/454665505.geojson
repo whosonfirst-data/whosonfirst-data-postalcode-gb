@@ -2,9 +2,11 @@
   "id": 454665505,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-10-01",
+    "date:cessation_upper": "2023-10-01",
     "date:inception_lower": "1980-01-01",
     "date:inception_upper": "1980-01-01",
-    "edtf:cessation": "",
+    "edtf:cessation": "2023-10-01",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:bbox": "-1.966834,51.716813,-1.966834,51.716813",
@@ -13,7 +15,7 @@
     "gp:parent_id": "16119",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000013",
     "os:district_code": "E07000079",
@@ -22,12 +24,9 @@
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
-      1360698927,
-      404453915,
-      1125962769,
-      404227469,
-      1360698553,
-      102191581
+      102191581,
+      136253055,
+      1864207495
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -40,18 +39,15 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
-        "county_id": 1360698927,
-        "localadmin_id": 404453915,
-        "locality_id": 1125962769,
-        "macroregion_id": 404227469,
+        "empire_id": 136253055,
         "postalcode_id": 454665505,
-        "region_id": 1360698553
+        "postalregion_id": 1864207495
       }
     ],
     "wof:id": 454665505,
-    "wof:lastmodified": 1661958295,
+    "wof:lastmodified": 1709408766,
     "wof:name": "GL7 2NP",
-    "wof:parent_id": 1125962769,
+    "wof:parent_id": 1864207495,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],

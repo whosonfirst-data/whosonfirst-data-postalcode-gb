@@ -2,9 +2,11 @@
   "id": 437541463,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2023-08-01",
+    "date:cessation_upper": "2023-08-01",
     "date:inception_lower": "2022-10-01",
     "date:inception_upper": "2022-10-01",
-    "edtf:cessation": "",
+    "edtf:cessation": "2023-08-01",
     "edtf:inception": "2022-10-01",
     "geom:area": 0,
     "geom:bbox": "0.563687,51.237694,0.563687,51.237694",
@@ -13,7 +15,7 @@
     "gp:parent_id": "28168",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000016",
     "os:district_code": "E07000110",
@@ -21,13 +23,10 @@
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698811,
-      404227469,
-      1360698565,
       85633159,
       102191581,
-      404431751,
-      1125908733
+      136253055,
+      1864208829
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -40,18 +39,15 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
-        "county_id": 1360698811,
-        "localadmin_id": 404431751,
-        "locality_id": 1125908733,
-        "macroregion_id": 404227469,
+        "empire_id": 136253055,
         "postalcode_id": 437541463,
-        "region_id": 1360698565
+        "postalregion_id": 1864208829
       }
     ],
     "wof:id": 437541463,
-    "wof:lastmodified": 1673303552,
+    "wof:lastmodified": 1709408650,
     "wof:name": "ME14 9BS",
-    "wof:parent_id": 1125908733,
+    "wof:parent_id": 1864208829,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],

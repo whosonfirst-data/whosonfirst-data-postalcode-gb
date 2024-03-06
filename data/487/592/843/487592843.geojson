@@ -2,33 +2,29 @@
   "id": 487592843,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-07-01",
-    "date:cessation_upper": "2023-07-01",
-    "date:inception_lower": "2023-01-01",
-    "date:inception_upper": "2023-01-01",
-    "edtf:cessation": "2023-07-01",
-    "edtf:inception": "2023-01-01",
+    "date:inception_lower": "2023-10-01",
+    "date:inception_upper": "2023-10-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2023-10-01",
     "geom:area": 0,
-    "geom:bbox": "-1.433543,50.909713,-1.433543,50.909713",
-    "geom:latitude": 50.909713,
-    "geom:longitude": -1.433543,
+    "geom:bbox": "-1.430034,50.908221,-1.430034,50.908221",
+    "geom:latitude": 50.908221,
+    "geom:longitude": -1.430034,
     "gp:parent_id": "35356",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000045",
-    "os:positional_quality_indicator": "1",
+    "os:positional_quality_indicator": "5",
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
-      1360698907,
-      101750311,
-      404227469,
-      1360698557,
       85633159,
-      102191581
+      102191581,
+      136253055,
+      1864210645
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -36,22 +32,20 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701076,
-    "wof:geomhash": "c202bc05abe56c615061b130962be0b3",
+    "wof:geomhash": "97e556ae4e3fa90341311b01d1904166",
     "wof:hierarchy": [
       {
         "continent_id": 102191581,
         "country_id": 85633159,
-        "county_id": 1360698907,
-        "locality_id": 101750311,
-        "macroregion_id": 404227469,
+        "empire_id": 136253055,
         "postalcode_id": 487592843,
-        "region_id": 1360698557
+        "postalregion_id": 1864210645
       }
     ],
     "wof:id": 487592843,
-    "wof:lastmodified": 1695221872,
+    "wof:lastmodified": 1709409076,
     "wof:name": "SO15 1HE",
-    "wof:parent_id": 101750311,
+    "wof:parent_id": 1864210645,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -59,10 +53,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.433543,
-    50.909713,
-    -1.433543,
-    50.909713
+    -1.430034,
+    50.908221,
+    -1.430034,
+    50.908221
   ],
-  "geometry": {"coordinates":[-1.433543,50.909713],"type":"Point"}
+  "geometry": {"coordinates":[-1.430034,50.908221],"type":"Point"}
 }
