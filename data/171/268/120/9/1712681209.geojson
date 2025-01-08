@@ -2,23 +2,21 @@
   "id": 1712681209,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1996-12-01",
-    "date:cessation_upper": "1996-12-01",
-    "date:inception_lower": "1995-07-01",
-    "date:inception_upper": "1995-07-01",
-    "edtf:cessation": "1996-12-01",
-    "edtf:inception": "1995-07-01",
+    "date:inception_lower": "2024-08-01",
+    "date:inception_upper": "2024-08-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-08-01",
     "geom:area": 0,
-    "geom:bbox": "-2.135012,52.826950,-2.135012,52.826950",
-    "geom:latitude": 52.82695,
-    "geom:longitude": -2.135012,
+    "geom:bbox": "-2.128286,52.837095,-2.128286,52.837095",
+    "geom:latitude": 52.837095,
+    "geom:longitude": -2.128286,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000028",
     "os:district_code": "E07000197",
-    "os:positional_quality_indicator": "8",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
@@ -27,22 +25,24 @@
       136253055,
       1864210795,
       1880771627,
-      101750501,
       1880761999,
       404227469,
-      1880762719
+      1880762719,
+      404440295,
+      1126048387
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583798847,
-    "wof:geomhash": "e756de7bd1621a3c7cc02797e1fcab41",
+    "wof:geomhash": "cc44a044b0273022fd24ccb76ec06e0b",
     "wof:hierarchy": [
       {
         "continent_id": 102191581,
         "country_id": 85633159,
         "county_id": 1880771627,
         "empire_id": 136253055,
-        "locality_id": 101750501,
+        "localadmin_id": 404440295,
+        "locality_id": 1126048387,
         "macrocounty_id": 1880761999,
         "macroregion_id": 404227469,
         "postalcode_id": 1712681209,
@@ -57,9 +57,9 @@
       }
     ],
     "wof:id": 1712681209,
-    "wof:lastmodified": 1736289446,
+    "wof:lastmodified": 1736334268,
     "wof:name": "ST16 1QN",
-    "wof:parent_id": 101750501,
+    "wof:parent_id": 1126048387,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -67,10 +67,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.135012,
-    52.82695,
-    -2.135012,
-    52.82695
+    -2.128286,
+    52.837095,
+    -2.128286,
+    52.837095
   ],
-  "geometry": {"coordinates":[-2.135012,52.82695],"type":"Point"}
+  "geometry": {"coordinates":[-2.128286,52.837095],"type":"Point"}
 }

@@ -2,23 +2,21 @@
   "id": 39208626,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1990-12-01",
-    "date:cessation_upper": "1990-12-01",
-    "date:inception_lower": "1980-01-01",
-    "date:inception_upper": "1980-01-01",
-    "edtf:cessation": "1990-12-01",
-    "edtf:inception": "1980-01-01",
+    "date:inception_lower": "2024-03-01",
+    "date:inception_upper": "2024-03-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-03-01",
     "geom:area": 0,
-    "geom:bbox": "-0.155580,51.114136,-0.155580,51.114136",
-    "geom:latitude": 51.114136,
-    "geom:longitude": -0.15558,
+    "geom:bbox": "-0.107184,51.114960,-0.107184,51.114960",
+    "geom:latitude": 51.11496,
+    "geom:longitude": -0.107184,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000032",
-    "os:district_code": "E07000226",
-    "os:positional_quality_indicator": "8",
+    "os:district_code": "E07000228",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
@@ -26,23 +24,25 @@
       102191581,
       136253055,
       1864210085,
-      1880771693,
-      101750321,
       1880762061,
       404227469,
-      1880762709
+      1880762709,
+      1880771687,
+      404440555,
+      1225873585
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583798933,
-    "wof:geomhash": "130ef4d6dd746b6e6c446c91492dde73",
+    "wof:geomhash": "b449024d12ef64013a2e032afbc9b646",
     "wof:hierarchy": [
       {
         "continent_id": 102191581,
         "country_id": 85633159,
-        "county_id": 1880771693,
+        "county_id": 1880771687,
         "empire_id": 136253055,
-        "locality_id": 101750321,
+        "localadmin_id": 404440555,
+        "locality_id": 1225873585,
         "macrocounty_id": 1880762061,
         "macroregion_id": 404227469,
         "postalcode_id": 39208626,
@@ -57,9 +57,9 @@
       }
     ],
     "wof:id": 39208626,
-    "wof:lastmodified": 1736288418,
+    "wof:lastmodified": 1736333099,
     "wof:name": "RH10 4BH",
-    "wof:parent_id": 101750321,
+    "wof:parent_id": 1225873585,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -67,10 +67,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.15558,
-    51.114136,
-    -0.15558,
-    51.114136
+    -0.107184,
+    51.11496,
+    -0.107184,
+    51.11496
   ],
-  "geometry": {"coordinates":[-0.15558,51.114136],"type":"Point"}
+  "geometry": {"coordinates":[-0.107184,51.11496],"type":"Point"}
 }

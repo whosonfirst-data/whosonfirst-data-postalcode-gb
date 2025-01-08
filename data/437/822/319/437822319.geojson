@@ -2,24 +2,22 @@
   "id": 437822319,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2005-09-01",
-    "date:cessation_upper": "2005-09-01",
-    "date:inception_lower": "2002-05-01",
-    "date:inception_upper": "2002-05-01",
-    "edtf:cessation": "2005-09-01",
-    "edtf:inception": "2002-05-01",
+    "date:inception_lower": "2024-03-01",
+    "date:inception_upper": "2024-03-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-03-01",
     "geom:area": 0,
-    "geom:bbox": "-1.125337,52.632799,-1.125337,52.632799",
-    "geom:latitude": 52.632799,
-    "geom:longitude": -1.125337,
+    "geom:bbox": "-1.067097,52.584817,-1.067097,52.584817",
+    "geom:latitude": 52.584817,
+    "geom:longitude": -1.067097,
     "gp:parent_id": "26062",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
-    "os:county_code": "E99999999",
-    "os:district_code": "E06000016",
-    "os:positional_quality_indicator": "1",
+    "os:county_code": "E10000018",
+    "os:district_code": "E07000135",
+    "os:positional_quality_indicator": "5",
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
@@ -27,11 +25,12 @@
       102191581,
       136253055,
       1864208415,
-      1360698995,
-      101750485,
       1880762051,
       404227469,
-      1880773085
+      1880773085,
+      1880771357,
+      1360817107,
+      1125971909
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -39,14 +38,15 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701572,
-    "wof:geomhash": "9f34f86bafff5b2c6ffcf1810cc5bddb",
+    "wof:geomhash": "5a00fcdb6b11a95bab90c47a6cb76568",
     "wof:hierarchy": [
       {
         "continent_id": 102191581,
         "country_id": 85633159,
-        "county_id": 1360698995,
+        "county_id": 1880771357,
         "empire_id": 136253055,
-        "locality_id": 101750485,
+        "localadmin_id": 1360817107,
+        "locality_id": 1125971909,
         "macrocounty_id": 1880762051,
         "macroregion_id": 404227469,
         "postalcode_id": 437822319,
@@ -61,9 +61,9 @@
       }
     ],
     "wof:id": 437822319,
-    "wof:lastmodified": 1736289357,
+    "wof:lastmodified": 1736334109,
     "wof:name": "LE2 4WJ",
-    "wof:parent_id": 101750485,
+    "wof:parent_id": 1125971909,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -71,10 +71,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.125337,
-    52.632799,
-    -1.125337,
-    52.632799
+    -1.067097,
+    52.584817,
+    -1.067097,
+    52.584817
   ],
-  "geometry": {"coordinates":[-1.125337,52.632799],"type":"Point"}
+  "geometry": {"coordinates":[-1.067097,52.584817],"type":"Point"}
 }
