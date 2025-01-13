@@ -7,16 +7,16 @@
     "edtf:cessation": "",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.211112,53.115806,-2.211112,53.115806",
-    "geom:latitude": 53.115806,
-    "geom:longitude": -2.211112,
+    "geom:bbox": "-2.212258,53.115022,-2.212258,53.115022",
+    "geom:latitude": 53.115022,
+    "geom:longitude": -2.212258,
     "gp:parent_id": "29497",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000028",
-    "os:district_code": "E07000198",
+    "os:district_code": "E07000195",
     "os:positional_quality_indicator": "1",
     "os:region_code": "E12000005",
     "src:geom": "os",
@@ -24,7 +24,13 @@
       85633159,
       102191581,
       136253055,
-      1864210823
+      1864210823,
+      1880761999,
+      404227469,
+      1880762719,
+      1880771623,
+      404455307,
+      1126014815
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,8 +38,20 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701140,
-    "wof:geomhash": "5972f252ff43389510956ab3e50a2bf5",
+    "wof:geomhash": "2e50a900b95b51f5917680aa2773a402",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1880771623,
+        "empire_id": 136253055,
+        "localadmin_id": 404455307,
+        "locality_id": 1126014815,
+        "macrocounty_id": 1880761999,
+        "macroregion_id": 404227469,
+        "postalcode_id": 487723951,
+        "region_id": 1880762719
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -43,9 +61,9 @@
       }
     ],
     "wof:id": 487723951,
-    "wof:lastmodified": 1709396363,
+    "wof:lastmodified": 1736334328,
     "wof:name": "ST7 3PG",
-    "wof:parent_id": 1864210823,
+    "wof:parent_id": 1126014815,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -53,10 +71,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.211112,
-    53.115806,
-    -2.211112,
-    53.115806
+    -2.212258,
+    53.115022,
+    -2.212258,
+    53.115022
   ],
-  "geometry": {"coordinates":[-2.211112,53.115806],"type":"Point"}
+  "geometry": {"coordinates":[-2.212258,53.115022],"type":"Point"}
 }

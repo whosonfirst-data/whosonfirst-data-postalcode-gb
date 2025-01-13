@@ -2,31 +2,35 @@
   "id": 437646117,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2006-07-01",
-    "date:cessation_upper": "2006-07-01",
-    "date:inception_lower": "1994-05-01",
-    "date:inception_upper": "1994-05-01",
-    "edtf:cessation": "2006-07-01",
-    "edtf:inception": "1994-05-01",
+    "date:inception_lower": "2024-07-01",
+    "date:inception_upper": "2024-07-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-07-01",
     "geom:area": 0,
-    "geom:bbox": "-2.537949,53.395123,-2.537949,53.395123",
-    "geom:latitude": 53.395123,
-    "geom:longitude": -2.537949,
+    "geom:bbox": "-2.537177,53.397148,-2.537177,53.397148",
+    "geom:latitude": 53.397148,
+    "geom:longitude": -2.537177,
     "gp:parent_id": "41081",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000007",
-    "os:positional_quality_indicator": "1",
+    "os:positional_quality_indicator": "5",
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       102191581,
       136253055,
-      1864211451
+      1864211451,
+      1360698965,
+      404430553,
+      1126051103,
+      1880762135,
+      404227469,
+      1880773021
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -34,8 +38,20 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701446,
-    "wof:geomhash": "737a93ec5caf94aa86a450635f645d17",
+    "wof:geomhash": "cd68e601eb9ed3ebda3566df12cc1870",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698965,
+        "empire_id": 136253055,
+        "localadmin_id": 404430553,
+        "locality_id": 1126051103,
+        "macrocounty_id": 1880762135,
+        "macroregion_id": 404227469,
+        "postalcode_id": 437646117,
+        "region_id": 1880773021
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -45,9 +61,9 @@
       }
     ],
     "wof:id": 437646117,
-    "wof:lastmodified": 1709395919,
+    "wof:lastmodified": 1736334117,
     "wof:name": "WA1 4AY",
-    "wof:parent_id": 1864211451,
+    "wof:parent_id": 1126051103,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -55,10 +71,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.537949,
-    53.395123,
-    -2.537949,
-    53.395123
+    -2.537177,
+    53.397148,
+    -2.537177,
+    53.397148
   ],
-  "geometry": {"coordinates":[-2.537949,53.395123],"type":"Point"}
+  "geometry": {"coordinates":[-2.537177,53.397148],"type":"Point"}
 }

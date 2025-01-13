@@ -2,36 +2,52 @@
   "id": 1880440815,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-07-01",
-    "date:cessation_upper": "2023-07-01",
-    "date:inception_lower": "2023-05-01",
-    "date:inception_upper": "2023-05-01",
-    "edtf:cessation": "2023-07-01",
-    "edtf:inception": "2023-05-01",
+    "date:inception_lower": "2024-02-01",
+    "date:inception_upper": "2024-02-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-02-01",
     "geom:area": 0,
-    "geom:bbox": "0.148259,52.209359,0.148259,52.209359",
-    "geom:latitude": 52.209359,
-    "geom:longitude": 0.148259,
+    "geom:bbox": "-0.082979,52.225957,-0.082979,52.225957",
+    "geom:latitude": 52.225957,
+    "geom:longitude": -0.082979,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000003",
-    "os:district_code": "E07000008",
-    "os:positional_quality_indicator": "5",
+    "os:district_code": "E07000012",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
       102191581,
       85633159,
       136253055,
-      1864206131
+      1864206131,
+      1880762143,
+      404227469,
+      1880762687,
+      1880771367,
+      404434427,
+      1125974067
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1695222016,
-    "wof:geomhash": "a808ed411c5875a04dc163df65f0e450",
+    "wof:geomhash": "caa7872b48e7e19adfc6da2efc8f37d5",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1880771367,
+        "empire_id": 136253055,
+        "localadmin_id": 404434427,
+        "locality_id": 1125974067,
+        "macrocounty_id": 1880762143,
+        "macroregion_id": 404227469,
+        "postalcode_id": 1880440815,
+        "region_id": 1880762687
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +57,9 @@
       }
     ],
     "wof:id": 1880440815,
-    "wof:lastmodified": 1709396188,
+    "wof:lastmodified": 1736334363,
     "wof:name": "CB23 6ND",
-    "wof:parent_id": 1864206131,
+    "wof:parent_id": 1125974067,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +67,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.148259,
-    52.209359,
-    0.148259,
-    52.209359
+    -0.082979,
+    52.225957,
+    -0.082979,
+    52.225957
   ],
-  "geometry": {"coordinates":[0.148259,52.209359],"type":"Point"}
+  "geometry": {"coordinates":[-0.082979,52.225957],"type":"Point"}
 }

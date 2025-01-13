@@ -2,9 +2,11 @@
   "id": 438137371,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-01",
+    "date:cessation_upper": "2024-03-01",
     "date:inception_lower": "1985-04-01",
     "date:inception_upper": "1985-04-01",
-    "edtf:cessation": "",
+    "edtf:cessation": "2024-03-01",
     "edtf:inception": "1985-04-01",
     "geom:area": 0,
     "geom:bbox": "-1.752964,53.781577,-1.752964,53.781577",
@@ -13,7 +15,7 @@
     "gp:parent_id": "13527",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000032",
@@ -24,7 +26,11 @@
       85633159,
       102191581,
       136253055,
-      1864205767
+      1864205767,
+      1360698963,
+      404445549,
+      1360759451,
+      1880762059
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -35,6 +41,16 @@
     "wof:geomhash": "29001b66b9e8554acc01cfeca682ced6",
     "wof:hierarchy": [
       {
+        "continent_id": -1,
+        "country_id": -1,
+        "county_id": 1360698963,
+        "localadmin_id": 404445549,
+        "locality_id": 1360759451,
+        "macrocounty_id": 1880762059,
+        "postalcode_id": 438137371,
+        "region_id": -1
+      },
+      {
         "continent_id": 102191581,
         "country_id": 85633159,
         "empire_id": 136253055,
@@ -43,9 +59,9 @@
       }
     ],
     "wof:id": 438137371,
-    "wof:lastmodified": 1709396080,
+    "wof:lastmodified": 1736334419,
     "wof:name": "BD5 7UQ",
-    "wof:parent_id": 1864205767,
+    "wof:parent_id": 1360759451,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],

@@ -2,36 +2,52 @@
   "id": 1712746445,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1995-01-01",
-    "date:cessation_upper": "1995-01-01",
-    "date:inception_lower": "1993-01-01",
-    "date:inception_upper": "1993-01-01",
-    "edtf:cessation": "1995-01-01",
-    "edtf:inception": "1993-01-01",
+    "date:inception_lower": "2024-03-01",
+    "date:inception_upper": "2024-03-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-03-01",
     "geom:area": 0,
-    "geom:bbox": "-0.942974,51.355903,-0.942974,51.355903",
-    "geom:latitude": 51.355903,
-    "geom:longitude": -0.942974,
+    "geom:bbox": "-0.975434,51.395370,-0.975434,51.395370",
+    "geom:latitude": 51.39537,
+    "geom:longitude": -0.975434,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
-    "os:county_code": "E10000014",
-    "os:district_code": "E07000089",
-    "os:positional_quality_indicator": "8",
+    "os:county_code": "E99999999",
+    "os:district_code": "E06000041",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       102191581,
       136253055,
-      1864210075
+      1864210075,
+      404227469,
+      1360698967,
+      404431865,
+      1126031037,
+      1880762165,
+      1880772969
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583801754,
-    "wof:geomhash": "f17bbbe85ffdffd30143691a904d1d48",
+    "wof:geomhash": "19e32b4fb3972467c4d738308aadcf47",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698967,
+        "empire_id": 136253055,
+        "localadmin_id": 404431865,
+        "locality_id": 1126031037,
+        "macrocounty_id": 1880762165,
+        "macroregion_id": 404227469,
+        "postalcode_id": 1712746445,
+        "region_id": 1880772969
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +57,9 @@
       }
     ],
     "wof:id": 1712746445,
-    "wof:lastmodified": 1709396077,
+    "wof:lastmodified": 1736334323,
     "wof:name": "RG7 1YT",
-    "wof:parent_id": 1864210075,
+    "wof:parent_id": 1126031037,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +67,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.942974,
-    51.355903,
-    -0.942974,
-    51.355903
+    -0.975434,
+    51.39537,
+    -0.975434,
+    51.39537
   ],
-  "geometry": {"coordinates":[-0.942974,51.355903],"type":"Point"}
+  "geometry": {"coordinates":[-0.975434,51.39537],"type":"Point"}
 }

@@ -7,9 +7,9 @@
     "edtf:cessation": "",
     "edtf:inception": "1999-06-01",
     "geom:area": 0,
-    "geom:bbox": "-3.025686,53.375540,-3.025686,53.375540",
-    "geom:latitude": 53.37554,
-    "geom:longitude": -3.025686,
+    "geom:bbox": "-3.025489,53.375488,-3.025489,53.375488",
+    "geom:latitude": 53.375488,
+    "geom:longitude": -3.025489,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -23,7 +23,12 @@
       85633159,
       102191581,
       136253055,
-      1864206273
+      1864206273,
+      1360699049,
+      101750549,
+      1880762035,
+      404227469,
+      1880773063
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,8 +36,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701232,
-    "wof:geomhash": "9b79b07df84e8f1dcf36eb8ce6a904f1",
+    "wof:geomhash": "a81913959072ffc0dc6ef42e938b5aa5",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360699049,
+        "empire_id": 136253055,
+        "locality_id": 101750549,
+        "macrocounty_id": 1880762035,
+        "macroregion_id": 404227469,
+        "postalcode_id": 454108587,
+        "region_id": 1880773063
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -42,9 +58,9 @@
       }
     ],
     "wof:id": 454108587,
-    "wof:lastmodified": 1709395881,
+    "wof:lastmodified": 1736333315,
     "wof:name": "CH42 7LG",
-    "wof:parent_id": 1864206273,
+    "wof:parent_id": 101750549,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -52,10 +68,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.025686,
-    53.37554,
-    -3.025686,
-    53.37554
+    -3.025489,
+    53.375488,
+    -3.025489,
+    53.375488
   ],
-  "geometry": {"coordinates":[-3.025686,53.37554],"type":"Point"}
+  "geometry": {"coordinates":[-3.025489,53.375488],"type":"Point"}
 }

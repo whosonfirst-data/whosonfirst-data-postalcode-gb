@@ -2,12 +2,12 @@
   "id": 454882133,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-12-01",
-    "date:cessation_upper": "2023-12-01",
-    "date:inception_lower": "2023-07-01",
-    "date:inception_upper": "2023-07-01",
-    "edtf:cessation": "2023-12-01",
-    "edtf:inception": "2023-07-01",
+    "date:cessation_lower": "2024-07-01",
+    "date:cessation_upper": "2024-07-01",
+    "date:inception_lower": "2024-06-01",
+    "date:inception_upper": "2024-06-01",
+    "edtf:cessation": "2024-07-01",
+    "edtf:inception": "2024-06-01",
     "geom:area": 0,
     "geom:bbox": "0.876329,52.588453,0.876329,52.588453",
     "geom:latitude": 52.588453,
@@ -25,7 +25,13 @@
       85633159,
       102191581,
       136253055,
-      1864207859
+      1864207859,
+      1880771591,
+      404432911,
+      1125902827,
+      1880762037,
+      404227469,
+      1880762699
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -38,15 +44,27 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
+        "county_id": 1880771591,
+        "empire_id": 136253055,
+        "localadmin_id": 404432911,
+        "locality_id": 1125902827,
+        "macrocounty_id": 1880762037,
+        "macroregion_id": 404227469,
+        "postalcode_id": 454882133,
+        "region_id": 1880762699
+      },
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
         "empire_id": 136253055,
         "postalcode_id": 454882133,
         "postalregion_id": 1864207859
       }
     ],
     "wof:id": 454882133,
-    "wof:lastmodified": 1709408747,
+    "wof:lastmodified": 1736333488,
     "wof:name": "IP25 6UU",
-    "wof:parent_id": 1864207859,
+    "wof:parent_id": 1125902827,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],

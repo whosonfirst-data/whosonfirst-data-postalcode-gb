@@ -2,36 +2,54 @@
   "id": 39592458,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1995-01-01",
-    "date:cessation_upper": "1995-01-01",
-    "date:inception_lower": "1990-02-01",
-    "date:inception_upper": "1990-02-01",
-    "edtf:cessation": "1995-01-01",
-    "edtf:inception": "1990-02-01",
+    "date:cessation_lower": "2024-06-01",
+    "date:cessation_upper": "2024-06-01",
+    "date:inception_lower": "2024-05-01",
+    "date:inception_upper": "2024-05-01",
+    "edtf:cessation": "2024-06-01",
+    "edtf:inception": "2024-05-01",
     "geom:area": 0,
-    "geom:bbox": "0.888211,51.308868,0.888211,51.308868",
-    "geom:latitude": 51.308868,
-    "geom:longitude": 0.888211,
+    "geom:bbox": "0.888454,51.309046,0.888454,51.309046",
+    "geom:latitude": 51.309046,
+    "geom:longitude": 0.888454,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000016",
     "os:district_code": "E07000113",
-    "os:positional_quality_indicator": "8",
+    "os:positional_quality_indicator": "5",
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       102191581,
       136253055,
-      1864208827
+      1864208827,
+      1880771523,
+      404435365,
+      101854627,
+      1880762057,
+      404227469,
+      1880762705
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583803150,
-    "wof:geomhash": "ed429b9278fcaf79a19d012d0d05046f",
+    "wof:geomhash": "5d326051a7b595275e2b3606a8b43196",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1880771523,
+        "empire_id": 136253055,
+        "localadmin_id": 404435365,
+        "locality_id": 101854627,
+        "macrocounty_id": 1880762057,
+        "macroregion_id": 404227469,
+        "postalcode_id": 39592458,
+        "region_id": 1880762705
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +59,9 @@
       }
     ],
     "wof:id": 39592458,
-    "wof:lastmodified": 1709396054,
+    "wof:lastmodified": 1736334395,
     "wof:name": "ME13 8JT",
-    "wof:parent_id": 1864208827,
+    "wof:parent_id": 101854627,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +69,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.888211,
-    51.308868,
-    0.888211,
-    51.308868
+    0.888454,
+    51.309046,
+    0.888454,
+    51.309046
   ],
-  "geometry": {"coordinates":[0.888211,51.308868],"type":"Point"}
+  "geometry": {"coordinates":[0.888454,51.309046],"type":"Point"}
 }

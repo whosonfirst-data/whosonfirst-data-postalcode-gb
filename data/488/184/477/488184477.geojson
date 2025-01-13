@@ -2,28 +2,31 @@
   "id": 488184477,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2003-03-01",
-    "date:inception_upper": "2003-03-01",
+    "date:inception_lower": "2024-10-01",
+    "date:inception_upper": "2024-10-01",
     "edtf:cessation": "",
-    "edtf:inception": "2003-03-01",
+    "edtf:inception": "2024-10-01",
     "geom:area": 0,
-    "geom:bbox": "-2.028874,52.688412,-2.028874,52.688412",
-    "geom:latitude": 52.688412,
-    "geom:longitude": -2.028874,
+    "geom:bbox": "-2.026758,52.688152,-2.026758,52.688152",
+    "geom:latitude": 52.688152,
+    "geom:longitude": -2.026758,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000028",
     "os:district_code": "E07000192",
-    "os:positional_quality_indicator": "1",
+    "os:positional_quality_indicator": "5",
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       102191581,
       136253055,
-      1864211645
+      1864211645,
+      1880771631,
+      101750497,
+      1880761999
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,8 +34,17 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701298,
-    "wof:geomhash": "1f38024ae9d547ce24430dafb5c5ac21",
+    "wof:geomhash": "ba55a3edf66391d647a48c4c3a8bc794",
     "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": -1,
+        "county_id": 1880771631,
+        "locality_id": 101750497,
+        "macrocounty_id": 1880761999,
+        "postalcode_id": 488184477,
+        "region_id": -1
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -42,9 +54,9 @@
       }
     ],
     "wof:id": 488184477,
-    "wof:lastmodified": 1709395898,
+    "wof:lastmodified": 1736333345,
     "wof:name": "WS11 0DP",
-    "wof:parent_id": 1864211645,
+    "wof:parent_id": 101750497,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -52,10 +64,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.028874,
-    52.688412,
-    -2.028874,
-    52.688412
+    -2.026758,
+    52.688152,
+    -2.026758,
+    52.688152
   ],
-  "geometry": {"coordinates":[-2.028874,52.688412],"type":"Point"}
+  "geometry": {"coordinates":[-2.026758,52.688152],"type":"Point"}
 }

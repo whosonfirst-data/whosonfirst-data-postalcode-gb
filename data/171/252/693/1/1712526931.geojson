@@ -2,36 +2,52 @@
   "id": 1712526931,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2000-09-01",
-    "date:cessation_upper": "2000-09-01",
-    "date:inception_lower": "1998-03-01",
-    "date:inception_upper": "1998-03-01",
-    "edtf:cessation": "2000-09-01",
-    "edtf:inception": "1998-03-01",
+    "date:inception_lower": "2024-05-01",
+    "date:inception_upper": "2024-05-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-05-01",
     "geom:area": 0,
-    "geom:bbox": "0.553868,51.257282,0.553868,51.257282",
-    "geom:latitude": 51.257282,
-    "geom:longitude": 0.553868,
+    "geom:bbox": "0.559980,51.256860,0.559980,51.256860",
+    "geom:latitude": 51.25686,
+    "geom:longitude": 0.55998,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000016",
     "os:district_code": "E07000110",
-    "os:positional_quality_indicator": "8",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       102191581,
       136253055,
-      1864208831
+      1864208831,
+      1880771521,
+      1880762057,
+      404227469,
+      1880762705,
+      404448987,
+      1360757773
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583792007,
-    "wof:geomhash": "1744110ac8d323de242b1fe5769ea5d2",
+    "wof:geomhash": "71a37287d2a0b7fd204783e1a52d7b48",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1880771521,
+        "empire_id": 136253055,
+        "localadmin_id": 404448987,
+        "locality_id": 1360757773,
+        "macrocounty_id": 1880762057,
+        "macroregion_id": 404227469,
+        "postalcode_id": 1712526931,
+        "region_id": 1880762705
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +57,9 @@
       }
     ],
     "wof:id": 1712526931,
-    "wof:lastmodified": 1709396116,
+    "wof:lastmodified": 1736334241,
     "wof:name": "ME15 8FD",
-    "wof:parent_id": 1864208831,
+    "wof:parent_id": 1360757773,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +67,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.553868,
-    51.257282,
-    0.553868,
-    51.257282
+    0.55998,
+    51.25686,
+    0.55998,
+    51.25686
   ],
-  "geometry": {"coordinates":[0.553868,51.257282],"type":"Point"}
+  "geometry": {"coordinates":[0.55998,51.25686],"type":"Point"}
 }

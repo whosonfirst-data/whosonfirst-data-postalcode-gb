@@ -2,36 +2,52 @@
   "id": 38735343,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1995-01-01",
-    "date:cessation_upper": "1995-01-01",
-    "date:inception_lower": "1980-01-01",
-    "date:inception_upper": "1980-01-01",
-    "edtf:cessation": "1995-01-01",
-    "edtf:inception": "1980-01-01",
+    "date:inception_lower": "2024-09-01",
+    "date:inception_upper": "2024-09-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-09-01",
     "geom:area": 0,
-    "geom:bbox": "-1.720793,55.357594,-1.720793,55.357594",
-    "geom:latitude": 55.357594,
-    "geom:longitude": -1.720793,
+    "geom:bbox": "-1.741269,55.327692,-1.741269,55.327692",
+    "geom:latitude": 55.327692,
+    "geom:longitude": -1.741269,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000057",
-    "os:positional_quality_indicator": "8",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       102191581,
       136253055,
-      1864209113
+      1864209113,
+      1360698769,
+      1880761987,
+      404227469,
+      1880772897,
+      404454515,
+      1360753715
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583793740,
-    "wof:geomhash": "56a32236b31694dbd83e3c429dd18325",
+    "wof:geomhash": "aa1d5ee7e1bfecdba6c990b1cf2cb68a",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698769,
+        "empire_id": 136253055,
+        "localadmin_id": 404454515,
+        "locality_id": 1360753715,
+        "macrocounty_id": 1880761987,
+        "macroregion_id": 404227469,
+        "postalcode_id": 38735343,
+        "region_id": 1880772897
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +57,9 @@
       }
     ],
     "wof:id": 38735343,
-    "wof:lastmodified": 1709395858,
+    "wof:lastmodified": 1736333136,
     "wof:name": "NE65 9LJ",
-    "wof:parent_id": 1864209113,
+    "wof:parent_id": 1360753715,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +67,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.720793,
-    55.357594,
-    -1.720793,
-    55.357594
+    -1.741269,
+    55.327692,
+    -1.741269,
+    55.327692
   ],
-  "geometry": {"coordinates":[-1.720793,55.357594],"type":"Point"}
+  "geometry": {"coordinates":[-1.741269,55.327692],"type":"Point"}
 }

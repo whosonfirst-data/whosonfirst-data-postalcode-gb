@@ -2,10 +2,10 @@
   "id": 1780391051,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2020-08-01",
-    "date:inception_upper": "2020-08-01",
+    "date:inception_lower": "2024-06-01",
+    "date:inception_upper": "2024-06-01",
     "edtf:cessation": "",
-    "edtf:inception": "2020-08-01",
+    "edtf:inception": "2024-06-01",
     "geom:area": 0,
     "geom:bbox": "-0.545234,53.224087,-0.545234,53.224087",
     "geom:latitude": 53.224087,
@@ -23,7 +23,12 @@
       102191581,
       85633159,
       136253055,
-      1864208615
+      1864208615,
+      1880771359,
+      101750523,
+      1880762033,
+      404227469,
+      1880762701
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -33,15 +38,26 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
+        "county_id": 1880771359,
+        "empire_id": 136253055,
+        "locality_id": 101750523,
+        "macrocounty_id": 1880762033,
+        "macroregion_id": 404227469,
+        "postalcode_id": 1780391051,
+        "region_id": 1880762701
+      },
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
         "empire_id": 136253055,
         "postalcode_id": 1780391051,
         "postalregion_id": 1864208615
       }
     ],
     "wof:id": 1780391051,
-    "wof:lastmodified": 1709395808,
+    "wof:lastmodified": 1736334216,
     "wof:name": "LN5 5UD",
-    "wof:parent_id": 1864208615,
+    "wof:parent_id": 101750523,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],

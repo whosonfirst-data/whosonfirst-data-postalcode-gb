@@ -2,9 +2,11 @@
   "id": 471742579,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-01",
+    "date:cessation_upper": "2024-06-01",
     "date:inception_lower": "2003-06-01",
     "date:inception_upper": "2003-06-01",
-    "edtf:cessation": "",
+    "edtf:cessation": "2024-06-01",
     "edtf:inception": "2003-06-01",
     "geom:area": 0,
     "geom:bbox": "-0.022812,51.805799,-0.022812,51.805799",
@@ -12,7 +14,7 @@
     "geom:longitude": -0.022812,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000015",
     "os:district_code": "E07000242",
@@ -23,7 +25,13 @@
       85633159,
       102191581,
       136253055,
-      1864210479
+      1864210479,
+      1880771491,
+      404454299,
+      1326765891,
+      1880762153,
+      404227469,
+      1880762721
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -36,15 +44,27 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
+        "county_id": 1880771491,
+        "empire_id": 136253055,
+        "localadmin_id": 404454299,
+        "locality_id": 1326765891,
+        "macrocounty_id": 1880762153,
+        "macroregion_id": 404227469,
+        "postalcode_id": 471742579,
+        "region_id": 1880762721
+      },
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
         "empire_id": 136253055,
         "postalcode_id": 471742579,
         "postalregion_id": 1864210479
       }
     ],
     "wof:id": 471742579,
-    "wof:lastmodified": 1709396264,
+    "wof:lastmodified": 1736333512,
     "wof:name": "SG12 0ZN",
-    "wof:parent_id": 1864210479,
+    "wof:parent_id": 1326765891,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],

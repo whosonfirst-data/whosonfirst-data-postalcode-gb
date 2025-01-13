@@ -7,9 +7,9 @@
     "edtf:cessation": "",
     "edtf:inception": "1993-08-01",
     "geom:area": 0,
-    "geom:bbox": "-3.519848,51.751867,-3.519848,51.751867",
-    "geom:latitude": 51.751867,
-    "geom:longitude": -3.519848,
+    "geom:bbox": "-3.519983,51.751560,-3.519983,51.751560",
+    "geom:latitude": 51.75156,
+    "geom:longitude": -3.519983,
     "gp:parent_id": "12696115",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -24,7 +24,13 @@
       85633159,
       102191581,
       136253055,
-      1864206201
+      1864206201,
+      1360699025,
+      404450987,
+      1125910749,
+      1880762185,
+      404227475,
+      1880773115
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,8 +38,20 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701599,
-    "wof:geomhash": "bdba7153ae1fa2788584eea1c215f201",
+    "wof:geomhash": "6560e17cb74784daa930bc5e7dae4258",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360699025,
+        "empire_id": 136253055,
+        "localadmin_id": 404450987,
+        "locality_id": 1125910749,
+        "macrocounty_id": 1880762185,
+        "macroregion_id": 404227475,
+        "postalcode_id": 488575229,
+        "region_id": 1880773115
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -43,9 +61,9 @@
       }
     ],
     "wof:id": 488575229,
-    "wof:lastmodified": 1709395941,
+    "wof:lastmodified": 1736333281,
     "wof:name": "CF44 0RX",
-    "wof:parent_id": 1864206201,
+    "wof:parent_id": 1125910749,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -53,10 +71,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.519848,
-    51.751867,
-    -3.519848,
-    51.751867
+    -3.519983,
+    51.75156,
+    -3.519983,
+    51.75156
   ],
-  "geometry": {"coordinates":[-3.519848,51.751867],"type":"Point"}
+  "geometry": {"coordinates":[-3.519983,51.75156],"type":"Point"}
 }

@@ -2,36 +2,50 @@
   "id": 1712703809,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1995-01-01",
-    "date:cessation_upper": "1995-01-01",
-    "date:inception_lower": "1983-03-01",
-    "date:inception_upper": "1983-03-01",
-    "edtf:cessation": "1995-01-01",
-    "edtf:inception": "1983-03-01",
+    "date:inception_lower": "2024-04-01",
+    "date:inception_upper": "2024-04-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-04-01",
     "geom:area": 0,
-    "geom:bbox": "-0.718583,51.522714,-0.718583,51.522714",
-    "geom:latitude": 51.522714,
-    "geom:longitude": -0.718583,
+    "geom:bbox": "-0.721299,51.520813,-0.721299,51.520813",
+    "geom:latitude": 51.520813,
+    "geom:longitude": -0.721299,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000040",
-    "os:positional_quality_indicator": "8",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       102191581,
       136253055,
-      1864210571
+      1864210571,
+      1360698943,
+      101750385,
+      1880762165,
+      404227469,
+      1880772969
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583799858,
-    "wof:geomhash": "42afc1a248bc0fe438c10ee423974f23",
+    "wof:geomhash": "b11ec84c0c5fc28aead348358bb6286e",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698943,
+        "empire_id": 136253055,
+        "locality_id": 101750385,
+        "macrocounty_id": 1880762165,
+        "macroregion_id": 404227469,
+        "postalcode_id": 1712703809,
+        "region_id": 1880772969
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +55,9 @@
       }
     ],
     "wof:id": 1712703809,
-    "wof:lastmodified": 1709396076,
+    "wof:lastmodified": 1736334270,
     "wof:name": "SL6 1QQ",
-    "wof:parent_id": 1864210571,
+    "wof:parent_id": 101750385,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +65,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.718583,
-    51.522714,
-    -0.718583,
-    51.522714
+    -0.721299,
+    51.520813,
+    -0.721299,
+    51.520813
   ],
-  "geometry": {"coordinates":[-0.718583,51.522714],"type":"Point"}
+  "geometry": {"coordinates":[-0.721299,51.520813],"type":"Point"}
 }

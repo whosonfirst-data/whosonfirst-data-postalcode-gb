@@ -2,19 +2,17 @@
   "id": 437466675,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2008-07-01",
-    "date:cessation_upper": "2008-07-01",
-    "date:inception_lower": "2007-07-01",
-    "date:inception_upper": "2007-07-01",
-    "edtf:cessation": "2008-07-01",
-    "edtf:inception": "2007-07-01",
+    "date:inception_lower": "2024-05-01",
+    "date:inception_upper": "2024-05-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-05-01",
     "geom:area": 0,
-    "geom:bbox": "-1.293194,53.229057,-1.293194,53.229057",
-    "geom:latitude": 53.229057,
-    "geom:longitude": -1.293194,
+    "geom:bbox": "-1.290427,53.240521,-1.290427,53.240521",
+    "geom:latitude": 53.240521,
+    "geom:longitude": -1.290427,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000007",
     "os:district_code": "E07000033",
@@ -25,7 +23,13 @@
       85633159,
       102191581,
       136253055,
-      1864210225
+      1864210225,
+      1880771387,
+      404445045,
+      1360759169,
+      1880762133,
+      404227469,
+      1880762707
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,8 +37,20 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701239,
-    "wof:geomhash": "1f880771a4433b5e885dcf7bdb4fb3bc",
+    "wof:geomhash": "d11fbb6157f93d136308f855491c7484",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1880771387,
+        "empire_id": 136253055,
+        "localadmin_id": 404445045,
+        "locality_id": 1360759169,
+        "macrocounty_id": 1880762133,
+        "macroregion_id": 404227469,
+        "postalcode_id": 437466675,
+        "region_id": 1880762707
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -44,9 +60,9 @@
       }
     ],
     "wof:id": 437466675,
-    "wof:lastmodified": 1709395895,
+    "wof:lastmodified": 1736334125,
     "wof:name": "S44 6GY",
-    "wof:parent_id": 1864210225,
+    "wof:parent_id": 1360759169,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -54,10 +70,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.293194,
-    53.229057,
-    -1.293194,
-    53.229057
+    -1.290427,
+    53.240521,
+    -1.290427,
+    53.240521
   ],
-  "geometry": {"coordinates":[-1.293194,53.229057],"type":"Point"}
+  "geometry": {"coordinates":[-1.290427,53.240521],"type":"Point"}
 }

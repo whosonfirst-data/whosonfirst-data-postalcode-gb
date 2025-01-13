@@ -7,8 +7,8 @@
     "edtf:cessation": "",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.371148,53.407994,-1.371148,53.407994",
-    "geom:latitude": 53.407994,
+    "geom:bbox": "-1.371148,53.408021,-1.371148,53.408021",
+    "geom:latitude": 53.408021,
     "geom:longitude": -1.371148,
     "gp:parent_id": "13957",
     "iso:country": "GB",
@@ -24,7 +24,11 @@
       85633159,
       102191581,
       136253055,
-      1864210235
+      1864210235,
+      1360698851,
+      404433821,
+      1125869825,
+      1880761997
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,8 +36,18 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701692,
-    "wof:geomhash": "888bd3ba7eec9942352c3d2504e0b127",
+    "wof:geomhash": "2c9ed4f585da37c95f2febf0438a9466",
     "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": -1,
+        "county_id": 1360698851,
+        "localadmin_id": 404433821,
+        "locality_id": 1125869825,
+        "macrocounty_id": 1880761997,
+        "postalcode_id": 471662949,
+        "region_id": -1
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -43,9 +57,9 @@
       }
     ],
     "wof:id": 471662949,
-    "wof:lastmodified": 1709396206,
+    "wof:lastmodified": 1736333466,
     "wof:name": "S60 5AJ",
-    "wof:parent_id": 1864210235,
+    "wof:parent_id": 1125869825,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -54,9 +68,9 @@
   },
   "bbox": [
     -1.371148,
-    53.407994,
+    53.408021,
     -1.371148,
-    53.407994
+    53.408021
   ],
-  "geometry": {"coordinates":[-1.371148,53.407994],"type":"Point"}
+  "geometry": {"coordinates":[-1.371148,53.408021],"type":"Point"}
 }

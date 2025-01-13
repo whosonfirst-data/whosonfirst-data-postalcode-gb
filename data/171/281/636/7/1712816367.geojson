@@ -2,36 +2,52 @@
   "id": 1712816367,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1996-06-01",
-    "date:cessation_upper": "1996-06-01",
-    "date:inception_lower": "1995-01-01",
-    "date:inception_upper": "1995-01-01",
-    "edtf:cessation": "1996-06-01",
-    "edtf:inception": "1995-01-01",
+    "date:inception_lower": "2024-04-01",
+    "date:inception_upper": "2024-04-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-04-01",
     "geom:area": 0,
-    "geom:bbox": "-1.614477,51.598311,-1.614477,51.598311",
-    "geom:latitude": 51.598311,
-    "geom:longitude": -1.614477,
+    "geom:bbox": "-1.599323,51.651968,-1.599323,51.651968",
+    "geom:latitude": 51.651968,
+    "geom:longitude": -1.599323,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000025",
     "os:district_code": "E07000180",
-    "os:positional_quality_indicator": "8",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       102191581,
       136253055,
-      1864210637
+      1864210637,
+      1880771609,
+      1880762079,
+      404227469,
+      1880762695,
+      404438375,
+      1360754159
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583804877,
-    "wof:geomhash": "0ea015a33c177171e78d6cd5a6d99686",
+    "wof:geomhash": "3c3c84896eb2486b46298ebd14ad7e90",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1880771609,
+        "empire_id": 136253055,
+        "localadmin_id": 404438375,
+        "locality_id": 1360754159,
+        "macrocounty_id": 1880762079,
+        "macroregion_id": 404227469,
+        "postalcode_id": 1712816367,
+        "region_id": 1880762695
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +57,9 @@
       }
     ],
     "wof:id": 1712816367,
-    "wof:lastmodified": 1709396120,
+    "wof:lastmodified": 1736334270,
     "wof:name": "SN7 7QU",
-    "wof:parent_id": 1864210637,
+    "wof:parent_id": 1360754159,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +67,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.614477,
-    51.598311,
-    -1.614477,
-    51.598311
+    -1.599323,
+    51.651968,
+    -1.599323,
+    51.651968
   ],
-  "geometry": {"coordinates":[-1.614477,51.598311],"type":"Point"}
+  "geometry": {"coordinates":[-1.599323,51.651968],"type":"Point"}
 }

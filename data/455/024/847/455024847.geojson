@@ -7,9 +7,9 @@
     "edtf:cessation": "",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.100387,52.614040,-1.100387,52.614040",
-    "geom:latitude": 52.61404,
-    "geom:longitude": -1.100387,
+    "geom:bbox": "-1.100355,52.614165,-1.100355,52.614165",
+    "geom:latitude": 52.614165,
+    "geom:longitude": -1.100355,
     "gp:parent_id": "26062",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -24,7 +24,12 @@
       85633159,
       102191581,
       136253055,
-      1864208415
+      1864208415,
+      1360698995,
+      101750485,
+      1880762051,
+      404227469,
+      1880773085
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,8 +37,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701078,
-    "wof:geomhash": "e82f29e51f65ed41cfaeef17def54818",
+    "wof:geomhash": "fe39153170cf8a3e6a88f3b64d975ccc",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698995,
+        "empire_id": 136253055,
+        "locality_id": 101750485,
+        "macrocounty_id": 1880762051,
+        "macroregion_id": 404227469,
+        "postalcode_id": 455024847,
+        "region_id": 1880773085
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -43,9 +59,9 @@
       }
     ],
     "wof:id": 455024847,
-    "wof:lastmodified": 1709396331,
+    "wof:lastmodified": 1736333141,
     "wof:name": "LE2 2RB",
-    "wof:parent_id": 1864208415,
+    "wof:parent_id": 101750485,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -53,10 +69,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.100387,
-    52.61404,
-    -1.100387,
-    52.61404
+    -1.100355,
+    52.614165,
+    -1.100355,
+    52.614165
   ],
-  "geometry": {"coordinates":[-1.100387,52.61404],"type":"Point"}
+  "geometry": {"coordinates":[-1.100355,52.614165],"type":"Point"}
 }

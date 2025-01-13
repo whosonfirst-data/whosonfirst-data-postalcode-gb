@@ -7,8 +7,8 @@
     "edtf:cessation": "",
     "edtf:inception": "2005-04-01",
     "geom:area": 0,
-    "geom:bbox": "-4.706353,50.459888,-4.706353,50.459888",
-    "geom:latitude": 50.459888,
+    "geom:bbox": "-4.706353,50.459897,-4.706353,50.459897",
+    "geom:latitude": 50.459897,
     "geom:longitude": -4.706353,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -23,7 +23,11 @@
       85633159,
       102191581,
       136253055,
-      1864209885
+      1864209885,
+      1360699085,
+      404441461,
+      101852373,
+      1880762119
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,8 +35,18 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701596,
-    "wof:geomhash": "138f742719d877906ea695f7f0772a05",
+    "wof:geomhash": "2f0949d175cbbc55a00448437df813ae",
     "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": -1,
+        "county_id": 1360699085,
+        "localadmin_id": 404441461,
+        "locality_id": 101852373,
+        "macrocounty_id": 1880762119,
+        "postalcode_id": 471427801,
+        "region_id": -1
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -42,9 +56,9 @@
       }
     ],
     "wof:id": 471427801,
-    "wof:lastmodified": 1709396311,
+    "wof:lastmodified": 1736333562,
     "wof:name": "PL31 1RB",
-    "wof:parent_id": 1864209885,
+    "wof:parent_id": 101852373,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -53,9 +67,9 @@
   },
   "bbox": [
     -4.706353,
-    50.459888,
+    50.459897,
     -4.706353,
-    50.459888
+    50.459897
   ],
-  "geometry": {"coordinates":[-4.706353,50.459888],"type":"Point"}
+  "geometry": {"coordinates":[-4.706353,50.459897],"type":"Point"}
 }

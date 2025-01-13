@@ -2,9 +2,11 @@
   "id": 454782497,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-10-01",
+    "date:cessation_upper": "2024-10-01",
     "date:inception_lower": "1996-12-01",
     "date:inception_upper": "1996-12-01",
-    "edtf:cessation": "",
+    "edtf:cessation": "2024-10-01",
     "edtf:inception": "1996-12-01",
     "geom:area": 0,
     "geom:bbox": "-0.935371,51.862835,-0.935371,51.862835",
@@ -13,7 +15,7 @@
     "gp:parent_id": "32737",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000060",
@@ -24,7 +26,13 @@
       85633159,
       102191581,
       136253055,
-      1864207673
+      1864207673,
+      1360698997,
+      404439537,
+      1125882001,
+      1880762141,
+      404227469,
+      1880773087
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -37,15 +45,27 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
+        "county_id": 1360698997,
+        "empire_id": 136253055,
+        "localadmin_id": 404439537,
+        "locality_id": 1125882001,
+        "macrocounty_id": 1880762141,
+        "macroregion_id": 404227469,
+        "postalcode_id": 454782497,
+        "region_id": 1880773087
+      },
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
         "empire_id": 136253055,
         "postalcode_id": 454782497,
         "postalregion_id": 1864207673
       }
     ],
     "wof:id": 454782497,
-    "wof:lastmodified": 1709396023,
+    "wof:lastmodified": 1736333450,
     "wof:name": "HP22 4DB",
-    "wof:parent_id": 1864207673,
+    "wof:parent_id": 1125882001,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],

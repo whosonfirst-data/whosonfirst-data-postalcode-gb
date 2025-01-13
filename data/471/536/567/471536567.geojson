@@ -2,9 +2,11 @@
   "id": 471536567,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-01",
+    "date:cessation_upper": "2024-03-01",
     "date:inception_lower": "2002-10-01",
     "date:inception_upper": "2002-10-01",
-    "edtf:cessation": "",
+    "edtf:cessation": "2024-03-01",
     "edtf:inception": "2002-10-01",
     "geom:area": 0,
     "geom:bbox": "-1.085319,51.264527,-1.085319,51.264527",
@@ -12,7 +14,7 @@
     "geom:longitude": -1.085319,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000014",
     "os:district_code": "E07000084",
@@ -23,7 +25,12 @@
       85633159,
       102191581,
       136253055,
-      1864210035
+      1864210035,
+      1880771457,
+      101750351,
+      1880762155,
+      404227469,
+      1880762717
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -36,15 +43,26 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
+        "county_id": 1880771457,
+        "empire_id": 136253055,
+        "locality_id": 101750351,
+        "macrocounty_id": 1880762155,
+        "macroregion_id": 404227469,
+        "postalcode_id": 471536567,
+        "region_id": 1880762717
+      },
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
         "empire_id": 136253055,
         "postalcode_id": 471536567,
         "postalregion_id": 1864210035
       }
     ],
     "wof:id": 471536567,
-    "wof:lastmodified": 1709396312,
+    "wof:lastmodified": 1736333258,
     "wof:name": "RG21 7BA",
-    "wof:parent_id": 1864210035,
+    "wof:parent_id": 101750351,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],

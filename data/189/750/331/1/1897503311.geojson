@@ -2,10 +2,10 @@
   "id": 1897503311,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-10-01",
-    "date:inception_upper": "2023-10-01",
+    "date:inception_lower": "2024-09-01",
+    "date:inception_upper": "2024-09-01",
     "edtf:cessation": "",
-    "edtf:inception": "2023-10-01",
+    "edtf:inception": "2024-09-01",
     "geom:area": 0,
     "geom:bbox": "-1.317269,52.574457,-1.317269,52.574457",
     "geom:latitude": 52.574457,
@@ -23,7 +23,13 @@
       102191581,
       85633159,
       136253055,
-      1864208443
+      1864208443,
+      1880771557,
+      404441189,
+      101853097,
+      1880762051,
+      404227469,
+      1880773085
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -33,15 +39,27 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
+        "county_id": 1880771557,
+        "empire_id": 136253055,
+        "localadmin_id": 404441189,
+        "locality_id": 101853097,
+        "macrocounty_id": 1880762051,
+        "macroregion_id": 404227469,
+        "postalcode_id": 1897503311,
+        "region_id": 1880773085
+      },
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
         "empire_id": 136253055,
         "postalcode_id": 1897503311,
         "postalregion_id": 1864208443
       }
     ],
     "wof:id": 1897503311,
-    "wof:lastmodified": 1709410613,
+    "wof:lastmodified": 1736333090,
     "wof:name": "LE9 0EN",
-    "wof:parent_id": 1864208443,
+    "wof:parent_id": 101853097,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],

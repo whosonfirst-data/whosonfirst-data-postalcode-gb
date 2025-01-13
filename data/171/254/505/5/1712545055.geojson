@@ -2,36 +2,52 @@
   "id": 1712545055,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-03-01",
-    "date:cessation_upper": "2023-03-01",
-    "date:inception_lower": "2022-10-01",
-    "date:inception_upper": "2022-10-01",
-    "edtf:cessation": "2023-03-01",
-    "edtf:inception": "2022-10-01",
+    "date:inception_lower": "2024-07-01",
+    "date:inception_upper": "2024-07-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-07-01",
     "geom:area": 0,
-    "geom:bbox": "0.500628,51.742499,0.500628,51.742499",
-    "geom:latitude": 51.742499,
-    "geom:longitude": 0.500628,
+    "geom:bbox": "0.510496,51.768405,0.510496,51.768405",
+    "geom:latitude": 51.768405,
+    "geom:longitude": 0.510496,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000012",
     "os:district_code": "E07000070",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       102191581,
       136253055,
-      1864206325
+      1864206325,
+      1880771431,
+      1880762159,
+      404227469,
+      1880762723,
+      404450753,
+      1125804347
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583792801,
-    "wof:geomhash": "2583187d6a5c13599c9f4f8bd49faf32",
+    "wof:geomhash": "fee5076aaaf2ffac9116dfbfd03a049c",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1880771431,
+        "empire_id": 136253055,
+        "localadmin_id": 404450753,
+        "locality_id": 1125804347,
+        "macrocounty_id": 1880762159,
+        "macroregion_id": 404227469,
+        "postalcode_id": 1712545055,
+        "region_id": 1880762723
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +57,9 @@
       }
     ],
     "wof:id": 1712545055,
-    "wof:lastmodified": 1709396091,
+    "wof:lastmodified": 1736334215,
     "wof:name": "CM1 6HD",
-    "wof:parent_id": 1864206325,
+    "wof:parent_id": 1125804347,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +67,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.500628,
-    51.742499,
-    0.500628,
-    51.742499
+    0.510496,
+    51.768405,
+    0.510496,
+    51.768405
   ],
-  "geometry": {"coordinates":[0.500628,51.742499],"type":"Point"}
+  "geometry": {"coordinates":[0.510496,51.768405],"type":"Point"}
 }

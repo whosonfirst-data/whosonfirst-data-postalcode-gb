@@ -2,36 +2,48 @@
   "id": 1712551035,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1997-08-01",
-    "date:cessation_upper": "1997-08-01",
-    "date:inception_lower": "1996-12-01",
-    "date:inception_upper": "1996-12-01",
-    "edtf:cessation": "1997-08-01",
-    "edtf:inception": "1996-12-01",
+    "date:inception_lower": "2024-08-01",
+    "date:inception_upper": "2024-08-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-08-01",
     "geom:area": 0,
-    "geom:bbox": "-2.325043,57.160828,-2.325043,57.160828",
-    "geom:latitude": 57.160828,
-    "geom:longitude": -2.325043,
+    "geom:bbox": "-2.269354,57.147435,-2.269354,57.147435",
+    "geom:latitude": 57.147435,
+    "geom:longitude": -2.269354,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "S92000003",
     "os:county_code": "S99999999",
     "os:district_code": "S12000034",
-    "os:positional_quality_indicator": "8",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       102191581,
       136253055,
-      1864205409
+      1864205409,
+      1360699031,
+      1880762109,
+      404227471,
+      1880773121
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583793063,
-    "wof:geomhash": "1b6abff3e88c4b18fa5dfdf60f836e13",
+    "wof:geomhash": "2ea86436b29ca055db764c8aaf5c594c",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360699031,
+        "empire_id": 136253055,
+        "macrocounty_id": 1880762109,
+        "macroregion_id": 404227471,
+        "postalcode_id": 1712551035,
+        "region_id": 1880773121
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +53,9 @@
       }
     ],
     "wof:id": 1712551035,
-    "wof:lastmodified": 1709396158,
+    "wof:lastmodified": 1736334229,
     "wof:name": "AB32 6GD",
-    "wof:parent_id": 1864205409,
+    "wof:parent_id": 1360699031,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +63,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.325043,
-    57.160828,
-    -2.325043,
-    57.160828
+    -2.269354,
+    57.147435,
+    -2.269354,
+    57.147435
   ],
-  "geometry": {"coordinates":[-2.325043,57.160828],"type":"Point"}
+  "geometry": {"coordinates":[-2.269354,57.147435],"type":"Point"}
 }

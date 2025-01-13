@@ -7,9 +7,9 @@
     "edtf:cessation": "",
     "edtf:inception": "1997-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.529966,52.283400,-1.529966,52.283400",
-    "geom:latitude": 52.2834,
-    "geom:longitude": -1.529966,
+    "geom:bbox": "-1.529804,52.283408,-1.529804,52.283408",
+    "geom:latitude": 52.283408,
+    "geom:longitude": -1.529804,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -23,7 +23,13 @@
       85633159,
       102191581,
       136253055,
-      1864206511
+      1864206511,
+      1880771673,
+      404439437,
+      101750473,
+      1880762065,
+      404227469,
+      1880762725
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,8 +37,20 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701424,
-    "wof:geomhash": "fa3475dc0a8b19a3315c378385ccf545",
+    "wof:geomhash": "a2ca9c2691db0769f526e34ce87a3db3",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1880771673,
+        "empire_id": 136253055,
+        "localadmin_id": 404439437,
+        "locality_id": 101750473,
+        "macrocounty_id": 1880762065,
+        "macroregion_id": 404227469,
+        "postalcode_id": 454265419,
+        "region_id": 1880762725
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -42,9 +60,9 @@
       }
     ],
     "wof:id": 454265419,
-    "wof:lastmodified": 1709395971,
+    "wof:lastmodified": 1736333676,
     "wof:name": "CV31 2TA",
-    "wof:parent_id": 1864206511,
+    "wof:parent_id": 101750473,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -52,10 +70,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.529966,
-    52.2834,
-    -1.529966,
-    52.2834
+    -1.529804,
+    52.283408,
+    -1.529804,
+    52.283408
   ],
-  "geometry": {"coordinates":[-1.529966,52.2834],"type":"Point"}
+  "geometry": {"coordinates":[-1.529804,52.283408],"type":"Point"}
 }

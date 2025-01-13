@@ -7,9 +7,9 @@
     "edtf:cessation": "",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.299324,53.698445,-1.299324,53.698445",
-    "geom:latitude": 53.698445,
-    "geom:longitude": -1.299324,
+    "geom:bbox": "-1.299353,53.698490,-1.299353,53.698490",
+    "geom:latitude": 53.69849,
+    "geom:longitude": -1.299353,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -23,7 +23,11 @@
       85633159,
       102191581,
       136253055,
-      1864211579
+      1864211579,
+      1360698945,
+      1360817483,
+      101872189,
+      1880762059
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,8 +35,18 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701273,
-    "wof:geomhash": "ab8944ac74ef2a629640ddabe4f710af",
+    "wof:geomhash": "f8e099a248e33d889074d90ede963e82",
     "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": -1,
+        "county_id": 1360698945,
+        "localadmin_id": 1360817483,
+        "locality_id": 101872189,
+        "macrocounty_id": 1880762059,
+        "postalcode_id": 488143473,
+        "region_id": -1
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -42,9 +56,9 @@
       }
     ],
     "wof:id": 488143473,
-    "wof:lastmodified": 1709396022,
+    "wof:lastmodified": 1736333437,
     "wof:name": "WF8 2JN",
-    "wof:parent_id": 1864211579,
+    "wof:parent_id": 101872189,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -52,10 +66,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.299324,
-    53.698445,
-    -1.299324,
-    53.698445
+    -1.299353,
+    53.69849,
+    -1.299353,
+    53.69849
   ],
-  "geometry": {"coordinates":[-1.299324,53.698445],"type":"Point"}
+  "geometry": {"coordinates":[-1.299353,53.69849],"type":"Point"}
 }

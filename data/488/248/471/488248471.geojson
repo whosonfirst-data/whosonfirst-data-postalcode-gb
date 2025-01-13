@@ -7,8 +7,8 @@
     "edtf:cessation": "",
     "edtf:inception": "1998-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.061577,53.968390,-1.061577,53.968390",
-    "geom:latitude": 53.96839,
+    "geom:bbox": "-1.061577,53.968399,-1.061577,53.968399",
+    "geom:latitude": 53.968399,
     "geom:longitude": -1.061577,
     "gp:parent_id": "41415",
     "iso:country": "GB",
@@ -24,7 +24,12 @@
       85633159,
       102191581,
       136253055,
-      1864211755
+      1864211755,
+      1360698977,
+      101751641,
+      1880762011,
+      404227469,
+      1880772891
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,8 +37,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701212,
-    "wof:geomhash": "3e6f825685733f35499be785033606b7",
+    "wof:geomhash": "850843cd75885340ba31630e1c9e02d7",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698977,
+        "empire_id": 136253055,
+        "locality_id": 101751641,
+        "macrocounty_id": 1880762011,
+        "macroregion_id": 404227469,
+        "postalcode_id": 488248471,
+        "region_id": 1880772891
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -43,9 +59,9 @@
       }
     ],
     "wof:id": 488248471,
-    "wof:lastmodified": 1709396022,
+    "wof:lastmodified": 1736333542,
     "wof:name": "YO31 1BQ",
-    "wof:parent_id": 1864211755,
+    "wof:parent_id": 101751641,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -54,9 +70,9 @@
   },
   "bbox": [
     -1.061577,
-    53.96839,
+    53.968399,
     -1.061577,
-    53.96839
+    53.968399
   ],
-  "geometry": {"coordinates":[-1.061577,53.96839],"type":"Point"}
+  "geometry": {"coordinates":[-1.061577,53.968399],"type":"Point"}
 }

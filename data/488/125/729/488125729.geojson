@@ -7,9 +7,9 @@
     "edtf:cessation": "",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.642617,53.701404,-1.642617,53.701404",
-    "geom:latitude": 53.701404,
-    "geom:longitude": -1.642617,
+    "geom:bbox": "-1.642603,53.701341,-1.642603,53.701341",
+    "geom:latitude": 53.701341,
+    "geom:longitude": -1.642603,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -23,7 +23,12 @@
       85633159,
       102191581,
       136253055,
-      1864211555
+      1864211555,
+      1360698917,
+      101750569,
+      1880762059,
+      404227469,
+      1880773017
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,8 +36,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701261,
-    "wof:geomhash": "d678887fee496239c4b04947f2be1222",
+    "wof:geomhash": "9ada7f7c21afe106f45db3736c0cfac6",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698917,
+        "empire_id": 136253055,
+        "locality_id": 101750569,
+        "macrocounty_id": 1880762059,
+        "macroregion_id": 404227469,
+        "postalcode_id": 488125729,
+        "region_id": 1880773017
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -42,9 +58,9 @@
       }
     ],
     "wof:id": 488125729,
-    "wof:lastmodified": 1709395891,
+    "wof:lastmodified": 1736333112,
     "wof:name": "WF13 4JJ",
-    "wof:parent_id": 1864211555,
+    "wof:parent_id": 101750569,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -52,10 +68,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.642617,
-    53.701404,
-    -1.642617,
-    53.701404
+    -1.642603,
+    53.701341,
+    -1.642603,
+    53.701341
   ],
-  "geometry": {"coordinates":[-1.642617,53.701404],"type":"Point"}
+  "geometry": {"coordinates":[-1.642603,53.701341],"type":"Point"}
 }

@@ -7,9 +7,9 @@
     "edtf:cessation": "",
     "edtf:inception": "2002-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.998002,51.058992,-1.998002,51.058992",
-    "geom:latitude": 51.058992,
-    "geom:longitude": -1.998002,
+    "geom:bbox": "-1.998230,51.059064,-1.998230,51.059064",
+    "geom:latitude": 51.059064,
+    "geom:longitude": -1.99823,
     "gp:parent_id": "20535",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -24,7 +24,11 @@
       85633159,
       102191581,
       136253055,
-      1864210705
+      1864210705,
+      1360698937,
+      404431603,
+      1126058601,
+      1880762017
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,8 +36,18 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701098,
-    "wof:geomhash": "807943cd615669893655d0b143d5ea0c",
+    "wof:geomhash": "d608d5eca033184cb84c485c6f38c0b1",
     "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": -1,
+        "county_id": 1360698937,
+        "localadmin_id": 404431603,
+        "locality_id": 1126058601,
+        "macrocounty_id": 1880762017,
+        "postalcode_id": 487638671,
+        "region_id": -1
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -43,9 +57,9 @@
       }
     ],
     "wof:id": 487638671,
-    "wof:lastmodified": 1709409089,
+    "wof:lastmodified": 1736334329,
     "wof:name": "SP3 5DT",
-    "wof:parent_id": 1864210705,
+    "wof:parent_id": 1126058601,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -53,10 +67,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.998002,
-    51.058992,
-    -1.998002,
-    51.058992
+    -1.99823,
+    51.059064,
+    -1.99823,
+    51.059064
   ],
-  "geometry": {"coordinates":[-1.998002,51.058992],"type":"Point"}
+  "geometry": {"coordinates":[-1.99823,51.059064],"type":"Point"}
 }

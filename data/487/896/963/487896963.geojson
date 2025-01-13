@@ -7,9 +7,9 @@
     "edtf:cessation": "",
     "edtf:inception": "1995-07-01",
     "geom:area": 0,
-    "geom:bbox": "-3.561211,50.446957,-3.561211,50.446957",
-    "geom:latitude": 50.446957,
-    "geom:longitude": -3.561211,
+    "geom:bbox": "-3.561297,50.447000,-3.561297,50.447000",
+    "geom:latitude": 50.447,
+    "geom:longitude": -3.561297,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -23,7 +23,13 @@
       85633159,
       102191581,
       136253055,
-      1864211171
+      1864211171,
+      1360699071,
+      1360817197,
+      101750299,
+      1880762149,
+      404227469,
+      1880762683
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,8 +37,20 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701241,
-    "wof:geomhash": "1ae8ffa918203ee65e65846cdabb97bd",
+    "wof:geomhash": "93ffbd31aa34af10b59cd1d33383e68b",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360699071,
+        "empire_id": 136253055,
+        "localadmin_id": 1360817197,
+        "locality_id": 101750299,
+        "macrocounty_id": 1880762149,
+        "macroregion_id": 404227469,
+        "postalcode_id": 487896963,
+        "region_id": 1880762683
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -42,9 +60,9 @@
       }
     ],
     "wof:id": 487896963,
-    "wof:lastmodified": 1709396360,
+    "wof:lastmodified": 1736334262,
     "wof:name": "TQ3 2RU",
-    "wof:parent_id": 1864211171,
+    "wof:parent_id": 101750299,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -52,10 +70,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.561211,
-    50.446957,
-    -3.561211,
-    50.446957
+    -3.561297,
+    50.447,
+    -3.561297,
+    50.447
   ],
-  "geometry": {"coordinates":[-3.561211,50.446957],"type":"Point"}
+  "geometry": {"coordinates":[-3.561297,50.447],"type":"Point"}
 }

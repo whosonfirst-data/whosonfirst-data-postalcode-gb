@@ -7,8 +7,8 @@
     "edtf:cessation": "",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.010042,52.503342,-2.010042,52.503342",
-    "geom:latitude": 52.503342,
+    "geom:bbox": "-2.010042,52.503288,-2.010042,52.503288",
+    "geom:latitude": 52.503288,
     "geom:longitude": -2.010042,
     "gp:parent_id": "31003",
     "iso:country": "GB",
@@ -24,7 +24,11 @@
       85633159,
       102191581,
       136253055,
-      1864205593
+      1864205593,
+      1360699035,
+      1360817335,
+      1125901577,
+      1880762069
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,8 +36,18 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701295,
-    "wof:geomhash": "a54bc97acd2443d5d89a8b5c56241229",
+    "wof:geomhash": "88588bd0bf7125cb6f25dfa951448224",
     "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": -1,
+        "county_id": 1360699035,
+        "localadmin_id": 1360817335,
+        "locality_id": 1125901577,
+        "macrocounty_id": 1880762069,
+        "postalcode_id": 438016119,
+        "region_id": -1
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -43,9 +57,9 @@
       }
     ],
     "wof:id": 438016119,
-    "wof:lastmodified": 1709408884,
+    "wof:lastmodified": 1736334444,
     "wof:name": "B69 4UP",
-    "wof:parent_id": 1864205593,
+    "wof:parent_id": 1125901577,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -54,9 +68,9 @@
   },
   "bbox": [
     -2.010042,
-    52.503342,
+    52.503288,
     -2.010042,
-    52.503342
+    52.503288
   ],
-  "geometry": {"coordinates":[-2.010042,52.503342],"type":"Point"}
+  "geometry": {"coordinates":[-2.010042,52.503288],"type":"Point"}
 }

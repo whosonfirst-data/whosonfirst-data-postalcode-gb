@@ -2,36 +2,52 @@
   "id": 1160800280,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1986-12-01",
-    "date:cessation_upper": "1986-12-01",
-    "date:inception_lower": "1980-01-01",
-    "date:inception_upper": "1980-01-01",
-    "edtf:cessation": "1986-12-01",
-    "edtf:inception": "1980-01-01",
+    "date:inception_lower": "2024-05-01",
+    "date:inception_upper": "2024-05-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-05-01",
     "geom:area": 0,
-    "geom:bbox": "-3.809128,53.288823,-3.809128,53.288823",
-    "geom:latitude": 53.288823,
-    "geom:longitude": -3.809128,
+    "geom:bbox": "-3.829572,53.282307,-3.829572,53.282307",
+    "geom:latitude": 53.282307,
+    "geom:longitude": -3.829572,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "W92000004",
     "os:county_code": "W99999999",
     "os:district_code": "W06000003",
-    "os:positional_quality_indicator": "8",
+    "os:positional_quality_indicator": "5",
     "os:region_code": "W99999999",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       102191581,
       136253055,
-      1864208495
+      1864208495,
+      1360698739,
+      404446965,
+      101872129,
+      1880762183,
+      404227475,
+      1880772909
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583790559,
-    "wof:geomhash": "ed73de77cda8c74d8c56eda607dd3e48",
+    "wof:geomhash": "578323d32fd852e5db0c801777a65c71",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698739,
+        "empire_id": 136253055,
+        "localadmin_id": 404446965,
+        "locality_id": 101872129,
+        "macrocounty_id": 1880762183,
+        "macroregion_id": 404227475,
+        "postalcode_id": 1160800280,
+        "region_id": 1880772909
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +57,9 @@
       }
     ],
     "wof:id": 1160800280,
-    "wof:lastmodified": 1709396128,
+    "wof:lastmodified": 1736333875,
     "wof:name": "LL32 8BQ",
-    "wof:parent_id": 1864208495,
+    "wof:parent_id": 101872129,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +67,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.809128,
-    53.288823,
-    -3.809128,
-    53.288823
+    -3.829572,
+    53.282307,
+    -3.829572,
+    53.282307
   ],
-  "geometry": {"coordinates":[-3.809128,53.288823],"type":"Point"}
+  "geometry": {"coordinates":[-3.829572,53.282307],"type":"Point"}
 }

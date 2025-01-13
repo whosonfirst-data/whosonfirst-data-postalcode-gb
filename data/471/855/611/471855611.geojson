@@ -7,8 +7,8 @@
     "edtf:cessation": "",
     "edtf:inception": "2000-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.835591,51.565454,-1.835591,51.565454",
-    "geom:latitude": 51.565454,
+    "geom:bbox": "-1.835591,51.565418,-1.835591,51.565418",
+    "geom:latitude": 51.565418,
     "geom:longitude": -1.835591,
     "gp:parent_id": "36796",
     "iso:country": "GB",
@@ -24,7 +24,11 @@
       85633159,
       102191581,
       136253055,
-      1864210631
+      1864210631,
+      1360699033,
+      1360753063,
+      404227469,
+      1360698611
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,8 +36,17 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701756,
-    "wof:geomhash": "128343c09a5393813018c2bc6c1d3219",
+    "wof:geomhash": "d93655365701318b20e3db14a3374504",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360699033,
+        "locality_id": 1360753063,
+        "macroregion_id": 404227469,
+        "postalcode_id": 471855611,
+        "region_id": 1360698611
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -43,9 +56,9 @@
       }
     ],
     "wof:id": 471855611,
-    "wof:lastmodified": 1709396274,
+    "wof:lastmodified": 1736333409,
     "wof:name": "SN5 5RG",
-    "wof:parent_id": 1864210631,
+    "wof:parent_id": 1360753063,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -54,9 +67,9 @@
   },
   "bbox": [
     -1.835591,
-    51.565454,
+    51.565418,
     -1.835591,
-    51.565454
+    51.565418
   ],
-  "geometry": {"coordinates":[-1.835591,51.565454],"type":"Point"}
+  "geometry": {"coordinates":[-1.835591,51.565418],"type":"Point"}
 }

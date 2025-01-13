@@ -2,9 +2,11 @@
   "id": 438009535,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-07-01",
+    "date:cessation_upper": "2024-07-01",
     "date:inception_lower": "1995-07-01",
     "date:inception_upper": "1995-07-01",
-    "edtf:cessation": "",
+    "edtf:cessation": "2024-07-01",
     "edtf:inception": "1995-07-01",
     "geom:area": 0,
     "geom:bbox": "-2.086880,52.468828,-2.086880,52.468828",
@@ -13,7 +15,7 @@
     "gp:parent_id": "17128",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000028",
@@ -24,7 +26,11 @@
       85633159,
       102191581,
       136253055,
-      1864205583
+      1864205583,
+      1360699035,
+      1360817335,
+      1125942405,
+      1880762069
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -35,6 +41,16 @@
     "wof:geomhash": "a10d75b77946f0978c446ecd6499d78b",
     "wof:hierarchy": [
       {
+        "continent_id": -1,
+        "country_id": -1,
+        "county_id": 1360699035,
+        "localadmin_id": 1360817335,
+        "locality_id": 1125942405,
+        "macrocounty_id": 1880762069,
+        "postalcode_id": 438009535,
+        "region_id": -1
+      },
+      {
         "continent_id": 102191581,
         "country_id": 85633159,
         "empire_id": 136253055,
@@ -43,9 +59,9 @@
       }
     ],
     "wof:id": 438009535,
-    "wof:lastmodified": 1709396106,
+    "wof:lastmodified": 1736334430,
     "wof:name": "B64 7AW",
-    "wof:parent_id": 1864205583,
+    "wof:parent_id": 1125942405,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],

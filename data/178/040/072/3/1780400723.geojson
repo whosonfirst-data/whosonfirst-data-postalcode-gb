@@ -2,9 +2,11 @@
   "id": 1780400723,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-08-01",
+    "date:cessation_upper": "2024-08-01",
     "date:inception_lower": "2023-09-01",
     "date:inception_upper": "2023-09-01",
-    "edtf:cessation": "",
+    "edtf:cessation": "2024-08-01",
     "edtf:inception": "2023-09-01",
     "geom:area": 0,
     "geom:bbox": "-2.028447,52.691883,-2.028447,52.691883",
@@ -12,7 +14,7 @@
     "geom:longitude": -2.028447,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000028",
     "os:district_code": "E07000192",
@@ -23,13 +25,25 @@
       102191581,
       85633159,
       136253055,
-      1864211647
+      1864211647,
+      1880771631,
+      101750497,
+      1880761999
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1662030383,
     "wof:geomhash": "31d97dc97909f18d398620430cd80bb4",
     "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": -1,
+        "county_id": 1880771631,
+        "locality_id": 101750497,
+        "macrocounty_id": 1880761999,
+        "postalcode_id": 1780400723,
+        "region_id": -1
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -39,9 +53,9 @@
       }
     ],
     "wof:id": 1780400723,
-    "wof:lastmodified": 1709408594,
+    "wof:lastmodified": 1736334201,
     "wof:name": "WS12 9HU",
-    "wof:parent_id": 1864211647,
+    "wof:parent_id": 101750497,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],

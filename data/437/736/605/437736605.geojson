@@ -2,19 +2,17 @@
   "id": 437736605,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2004-01-01",
-    "date:cessation_upper": "2004-01-01",
-    "date:inception_lower": "2004-01-01",
-    "date:inception_upper": "2004-01-01",
-    "edtf:cessation": "2004-01-01",
-    "edtf:inception": "2004-01-01",
+    "date:inception_lower": "2024-09-01",
+    "date:inception_upper": "2024-09-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-09-01",
     "geom:area": 0,
-    "geom:bbox": "-2.412028,51.054999,-2.412028,51.054999",
-    "geom:latitude": 51.054999,
-    "geom:longitude": -2.412028,
+    "geom:bbox": "-2.403765,51.056388,-2.403765,51.056388",
+    "geom:latitude": 51.056388,
+    "geom:longitude": -2.403765,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000066",
@@ -25,7 +23,13 @@
       85633159,
       102191581,
       136253055,
-      1864205691
+      1864205691,
+      1360699059,
+      404435715,
+      101852507,
+      1880762071,
+      404227469,
+      1880773145
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,8 +37,20 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701518,
-    "wof:geomhash": "f8a0c60bee22fb1897ecb42d3bbf2c85",
+    "wof:geomhash": "458a7fb1e6ca02cc01ebb87440575cb6",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360699059,
+        "empire_id": 136253055,
+        "localadmin_id": 404435715,
+        "locality_id": 101852507,
+        "macrocounty_id": 1880762071,
+        "macroregion_id": 404227469,
+        "postalcode_id": 437736605,
+        "region_id": 1880773145
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -44,9 +60,9 @@
       }
     ],
     "wof:id": 437736605,
-    "wof:lastmodified": 1709408674,
+    "wof:lastmodified": 1736334165,
     "wof:name": "BA9 9QP",
-    "wof:parent_id": 1864205691,
+    "wof:parent_id": 101852507,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -54,10 +70,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.412028,
-    51.054999,
-    -2.412028,
-    51.054999
+    -2.403765,
+    51.056388,
+    -2.403765,
+    51.056388
   ],
-  "geometry": {"coordinates":[-2.412028,51.054999],"type":"Point"}
+  "geometry": {"coordinates":[-2.403765,51.056388],"type":"Point"}
 }

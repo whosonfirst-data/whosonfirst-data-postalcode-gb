@@ -2,20 +2,18 @@
   "id": 487680133,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2012-11-01",
-    "date:cessation_upper": "2012-11-01",
-    "date:inception_lower": "1980-01-01",
-    "date:inception_upper": "1980-01-01",
-    "edtf:cessation": "2012-11-01",
-    "edtf:inception": "1980-01-01",
+    "date:inception_lower": "2024-09-01",
+    "date:inception_upper": "2024-09-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-09-01",
     "geom:area": 0,
-    "geom:bbox": "0.627519,51.629841,0.627519,51.629841",
-    "geom:latitude": 51.629841,
-    "geom:longitude": 0.627519,
+    "geom:bbox": "0.634816,51.630862,0.634816,51.630862",
+    "geom:latitude": 51.630862,
+    "geom:longitude": 0.634816,
     "gp:parent_id": "24104",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000012",
     "os:district_code": "E07000075",
@@ -26,7 +24,13 @@
       85633159,
       102191581,
       136253055,
-      1864210767
+      1864210767,
+      1880771431,
+      404449417,
+      1126031097,
+      1880762159,
+      404227469,
+      1880762723
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -34,8 +38,20 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701117,
-    "wof:geomhash": "08d0a2ae5bdf34e941f1f44b1ea27182",
+    "wof:geomhash": "4b7342889f630a64c961c6031c5c96e6",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1880771431,
+        "empire_id": 136253055,
+        "localadmin_id": 404449417,
+        "locality_id": 1126031097,
+        "macrocounty_id": 1880762159,
+        "macroregion_id": 404227469,
+        "postalcode_id": 487680133,
+        "region_id": 1880762723
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -45,9 +61,9 @@
       }
     ],
     "wof:id": 487680133,
-    "wof:lastmodified": 1709396351,
+    "wof:lastmodified": 1736334239,
     "wof:name": "SS5 6QD",
-    "wof:parent_id": 1864210767,
+    "wof:parent_id": 1126031097,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -55,10 +71,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.627519,
-    51.629841,
-    0.627519,
-    51.629841
+    0.634816,
+    51.630862,
+    0.634816,
+    51.630862
   ],
-  "geometry": {"coordinates":[0.627519,51.629841],"type":"Point"}
+  "geometry": {"coordinates":[0.634816,51.630862],"type":"Point"}
 }

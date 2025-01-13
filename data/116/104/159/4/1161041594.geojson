@@ -2,36 +2,52 @@
   "id": 1161041594,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1984-12-01",
-    "date:cessation_upper": "1984-12-01",
-    "date:inception_lower": "1980-01-01",
-    "date:inception_upper": "1980-01-01",
-    "edtf:cessation": "1984-12-01",
-    "edtf:inception": "1980-01-01",
+    "date:cessation_lower": "2024-08-01",
+    "date:cessation_upper": "2024-08-01",
+    "date:inception_lower": "2024-07-01",
+    "date:inception_upper": "2024-07-01",
+    "edtf:cessation": "2024-08-01",
+    "edtf:inception": "2024-07-01",
     "geom:area": 0,
-    "geom:bbox": "-0.333555,53.743981,-0.333555,53.743981",
-    "geom:latitude": 53.743981,
-    "geom:longitude": -0.333555,
+    "geom:bbox": "-0.335387,53.741159,-0.335387,53.741159",
+    "geom:latitude": 53.741159,
+    "geom:longitude": -0.335387,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000010",
-    "os:positional_quality_indicator": "8",
+    "os:positional_quality_indicator": "5",
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       102191581,
       136253055,
-      1864207735
+      1864207735,
+      1360698951,
+      101750561,
+      1880762147,
+      404227469,
+      1880773091
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583801294,
-    "wof:geomhash": "47070d756c7229ba2a357f1fd3201da3",
+    "wof:geomhash": "a4b3a1a89dd8cabafe3e8aacd879153f",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698951,
+        "empire_id": 136253055,
+        "locality_id": 101750561,
+        "macrocounty_id": 1880762147,
+        "macroregion_id": 404227469,
+        "postalcode_id": 1161041594,
+        "region_id": 1880773091
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +57,9 @@
       }
     ],
     "wof:id": 1161041594,
-    "wof:lastmodified": 1709396134,
+    "wof:lastmodified": 1736333963,
     "wof:name": "HU1 1SG",
-    "wof:parent_id": 1864207735,
+    "wof:parent_id": 101750561,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +67,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.333555,
-    53.743981,
-    -0.333555,
-    53.743981
+    -0.335387,
+    53.741159,
+    -0.335387,
+    53.741159
   ],
-  "geometry": {"coordinates":[-0.333555,53.743981],"type":"Point"}
+  "geometry": {"coordinates":[-0.335387,53.741159],"type":"Point"}
 }

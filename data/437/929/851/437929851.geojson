@@ -2,19 +2,17 @@
   "id": 437929851,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2003-10-01",
-    "date:cessation_upper": "2003-10-01",
-    "date:inception_lower": "1996-12-01",
-    "date:inception_upper": "1996-12-01",
-    "edtf:cessation": "2003-10-01",
-    "edtf:inception": "1996-12-01",
+    "date:inception_lower": "2024-07-01",
+    "date:inception_upper": "2024-07-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-07-01",
     "geom:area": 0,
-    "geom:bbox": "-2.780258,53.544382,-2.780258,53.544382",
-    "geom:latitude": 53.544382,
-    "geom:longitude": -2.780258,
+    "geom:bbox": "-2.811812,53.553006,-2.811812,53.553006",
+    "geom:latitude": 53.553006,
+    "geom:longitude": -2.811812,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000017",
     "os:district_code": "E07000127",
@@ -25,7 +23,13 @@
       85633159,
       102191581,
       136253055,
-      1864211601
+      1864211601,
+      1880771529,
+      1880762053,
+      404227469,
+      1880762711,
+      404437241,
+      1360759411
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,8 +37,20 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701638,
-    "wof:geomhash": "ceab19d5fde3dc4b5954e198d8abcc80",
+    "wof:geomhash": "132609e8072edbf67bf4a1f828f519ad",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1880771529,
+        "empire_id": 136253055,
+        "localadmin_id": 404437241,
+        "locality_id": 1360759411,
+        "macrocounty_id": 1880762053,
+        "macroregion_id": 404227469,
+        "postalcode_id": 437929851,
+        "region_id": 1880762711
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -44,9 +60,9 @@
       }
     ],
     "wof:id": 437929851,
-    "wof:lastmodified": 1709396002,
+    "wof:lastmodified": 1736334155,
     "wof:name": "WN8 8FD",
-    "wof:parent_id": 1864211601,
+    "wof:parent_id": 1360759411,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -54,10 +70,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.780258,
-    53.544382,
-    -2.780258,
-    53.544382
+    -2.811812,
+    53.553006,
+    -2.811812,
+    53.553006
   ],
-  "geometry": {"coordinates":[-2.780258,53.544382],"type":"Point"}
+  "geometry": {"coordinates":[-2.811812,53.553006],"type":"Point"}
 }

@@ -7,9 +7,9 @@
     "edtf:cessation": "",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.584077,56.089119,-3.584077,56.089119",
-    "geom:latitude": 56.089119,
-    "geom:longitude": -3.584077,
+    "geom:bbox": "-3.584260,56.090446,-3.584260,56.090446",
+    "geom:latitude": 56.090446,
+    "geom:longitude": -3.58426,
     "gp:parent_id": "16741",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -24,7 +24,11 @@
       85633159,
       102191581,
       136253055,
-      1864208181
+      1864208181,
+      1360699123,
+      1880762125,
+      404227471,
+      1880773203
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,8 +36,18 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701352,
-    "wof:geomhash": "bf65bd4fbe9a0c0e30212a39cdec8bc4",
+    "wof:geomhash": "87698c2a4457948c8e6732fdcf698d10",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360699123,
+        "empire_id": 136253055,
+        "macrocounty_id": 1880762125,
+        "macroregion_id": 404227471,
+        "postalcode_id": 504469643,
+        "region_id": 1880773203
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -43,9 +57,9 @@
       }
     ],
     "wof:id": 504469643,
-    "wof:lastmodified": 1709395897,
+    "wof:lastmodified": 1736333806,
     "wof:name": "KY12 9HE",
-    "wof:parent_id": 1864208181,
+    "wof:parent_id": 1360699123,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -53,10 +67,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.584077,
-    56.089119,
-    -3.584077,
-    56.089119
+    -3.58426,
+    56.090446,
+    -3.58426,
+    56.090446
   ],
-  "geometry": {"coordinates":[-3.584077,56.089119],"type":"Point"}
+  "geometry": {"coordinates":[-3.58426,56.090446],"type":"Point"}
 }

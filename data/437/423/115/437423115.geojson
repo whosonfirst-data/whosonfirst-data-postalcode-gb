@@ -2,20 +2,18 @@
   "id": 437423115,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2007-02-01",
-    "date:cessation_upper": "2007-02-01",
-    "date:inception_lower": "2003-06-01",
-    "date:inception_upper": "2003-06-01",
-    "edtf:cessation": "2007-02-01",
-    "edtf:inception": "2003-06-01",
+    "date:inception_lower": "2024-04-01",
+    "date:inception_upper": "2024-04-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-04-01",
     "geom:area": 0,
-    "geom:bbox": "-2.316725,53.425767,-2.316725,53.425767",
-    "geom:latitude": 53.425767,
-    "geom:longitude": -2.316725,
+    "geom:bbox": "-2.297777,53.414695,-2.297777,53.414695",
+    "geom:latitude": 53.414695,
+    "geom:longitude": -2.297777,
     "gp:parent_id": "33875",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000009",
@@ -26,7 +24,13 @@
       85633159,
       102191581,
       136253055,
-      1864208771
+      1864208771,
+      1360698935,
+      1360817437,
+      1125985817,
+      1880762163,
+      404227469,
+      1880773095
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -34,8 +38,20 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701139,
-    "wof:geomhash": "1fa6da7147d8579a9f8b49e32ec4dd19",
+    "wof:geomhash": "2980757f4c581929450b9d5f17a11872",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698935,
+        "empire_id": 136253055,
+        "localadmin_id": 1360817437,
+        "locality_id": 1125985817,
+        "macrocounty_id": 1880762163,
+        "macroregion_id": 404227469,
+        "postalcode_id": 437423115,
+        "region_id": 1880773095
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -45,9 +61,9 @@
       }
     ],
     "wof:id": 437423115,
-    "wof:lastmodified": 1709395933,
+    "wof:lastmodified": 1736334049,
     "wof:name": "M33 2UD",
-    "wof:parent_id": 1864208771,
+    "wof:parent_id": 1125985817,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -55,10 +71,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.316725,
-    53.425767,
-    -2.316725,
-    53.425767
+    -2.297777,
+    53.414695,
+    -2.297777,
+    53.414695
   ],
-  "geometry": {"coordinates":[-2.316725,53.425767],"type":"Point"}
+  "geometry": {"coordinates":[-2.297777,53.414695],"type":"Point"}
 }

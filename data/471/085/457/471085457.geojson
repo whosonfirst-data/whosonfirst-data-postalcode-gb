@@ -7,9 +7,9 @@
     "edtf:cessation": "",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.701152,55.170925,-1.701152,55.170925",
-    "geom:latitude": 55.170925,
-    "geom:longitude": -1.701152,
+    "geom:bbox": "-1.701100,55.171545,-1.701100,55.171545",
+    "geom:latitude": 55.171545,
+    "geom:longitude": -1.7011,
     "gp:parent_id": "29362",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -24,7 +24,13 @@
       85633159,
       102191581,
       136253055,
-      1864209103
+      1864209103,
+      1360698769,
+      404449843,
+      101873459,
+      1880761987,
+      404227469,
+      1880772897
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,8 +38,20 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701260,
-    "wof:geomhash": "55ed368fccddfa53c100e2862324526d",
+    "wof:geomhash": "a9cf4424d0bd91a4f57c5c6d5816274e",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698769,
+        "empire_id": 136253055,
+        "localadmin_id": 404449843,
+        "locality_id": 101873459,
+        "macrocounty_id": 1880761987,
+        "macroregion_id": 404227469,
+        "postalcode_id": 471085457,
+        "region_id": 1880772897
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -43,9 +61,9 @@
       }
     ],
     "wof:id": 471085457,
-    "wof:lastmodified": 1709409017,
+    "wof:lastmodified": 1736333260,
     "wof:name": "NE61 1RH",
-    "wof:parent_id": 1864209103,
+    "wof:parent_id": 101873459,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -53,10 +71,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.701152,
-    55.170925,
-    -1.701152,
-    55.170925
+    -1.7011,
+    55.171545,
+    -1.7011,
+    55.171545
   ],
-  "geometry": {"coordinates":[-1.701152,55.170925],"type":"Point"}
+  "geometry": {"coordinates":[-1.7011,55.171545],"type":"Point"}
 }

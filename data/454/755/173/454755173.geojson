@@ -2,20 +2,18 @@
   "id": 454755173,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2021-07-01",
-    "date:cessation_upper": "2021-07-01",
-    "date:inception_lower": "2001-06-01",
-    "date:inception_upper": "2001-06-01",
-    "edtf:cessation": "2021-07-01",
-    "edtf:inception": "2001-06-01",
+    "date:inception_lower": "2024-06-01",
+    "date:inception_upper": "2024-06-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.733575,53.554381,-1.733575,53.554381",
-    "geom:latitude": 53.554381,
-    "geom:longitude": -1.733575,
+    "geom:bbox": "-1.733546,53.554342,-1.733546,53.554342",
+    "geom:latitude": 53.554342,
+    "geom:longitude": -1.733546,
     "gp:parent_id": "23066",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000034",
@@ -26,7 +24,13 @@
       85633159,
       102191581,
       136253055,
-      1864207627
+      1864207627,
+      1360698917,
+      404446989,
+      1360754629,
+      1880762059,
+      404227469,
+      1880773017
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -34,8 +38,20 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701707,
-    "wof:geomhash": "271069181ed1b5da287be588f80a2325",
+    "wof:geomhash": "956d2c22cb1a219536411eafb2cd785d",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698917,
+        "empire_id": 136253055,
+        "localadmin_id": 404446989,
+        "locality_id": 1360754629,
+        "macrocounty_id": 1880762059,
+        "macroregion_id": 404227469,
+        "postalcode_id": 454755173,
+        "region_id": 1880773017
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -45,9 +61,9 @@
       }
     ],
     "wof:id": 454755173,
-    "wof:lastmodified": 1709395930,
+    "wof:lastmodified": 1736333692,
     "wof:name": "HD9 7TR",
-    "wof:parent_id": 1864207627,
+    "wof:parent_id": 1360754629,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -55,10 +71,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.733575,
-    53.554381,
-    -1.733575,
-    53.554381
+    -1.733546,
+    53.554342,
+    -1.733546,
+    53.554342
   ],
-  "geometry": {"coordinates":[-1.733575,53.554381],"type":"Point"}
+  "geometry": {"coordinates":[-1.733546,53.554342],"type":"Point"}
 }

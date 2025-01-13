@@ -7,9 +7,9 @@
     "edtf:cessation": "",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.448272,52.703828,-2.448272,52.703828",
-    "geom:latitude": 52.703828,
-    "geom:longitude": -2.448272,
+    "geom:bbox": "-2.448212,52.703784,-2.448212,52.703784",
+    "geom:latitude": 52.703784,
+    "geom:longitude": -2.448212,
     "gp:parent_id": "28835469",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -24,7 +24,11 @@
       85633159,
       102191581,
       136253055,
-      1864211047
+      1864211047,
+      1360698911,
+      404446961,
+      1360754599,
+      1880762073
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,8 +36,18 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701193,
-    "wof:geomhash": "eb1091d926d28dee25cb835d663e0ea1",
+    "wof:geomhash": "127e9e9065f329726102e2d8fa326de2",
     "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": -1,
+        "county_id": 1360698911,
+        "localadmin_id": 404446961,
+        "locality_id": 1360754599,
+        "macrocounty_id": 1880762073,
+        "postalcode_id": 487825813,
+        "region_id": -1
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -43,9 +57,9 @@
       }
     ],
     "wof:id": 487825813,
-    "wof:lastmodified": 1709396339,
+    "wof:lastmodified": 1736334185,
     "wof:name": "TF2 6LY",
-    "wof:parent_id": 1864211047,
+    "wof:parent_id": 1360754599,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -53,10 +67,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.448272,
-    52.703828,
-    -2.448272,
-    52.703828
+    -2.448212,
+    52.703784,
+    -2.448212,
+    52.703784
   ],
-  "geometry": {"coordinates":[-2.448272,52.703828],"type":"Point"}
+  "geometry": {"coordinates":[-2.448212,52.703784],"type":"Point"}
 }

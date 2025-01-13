@@ -2,20 +2,18 @@
   "id": 437488323,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2008-06-01",
-    "date:cessation_upper": "2008-06-01",
-    "date:inception_lower": "2003-01-01",
-    "date:inception_upper": "2003-01-01",
-    "edtf:cessation": "2008-06-01",
-    "edtf:inception": "2003-01-01",
+    "date:inception_lower": "2024-02-01",
+    "date:inception_upper": "2024-02-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-02-01",
     "geom:area": 0,
-    "geom:bbox": "-1.456819,53.827208,-1.456819,53.827208",
-    "geom:latitude": 53.827208,
-    "geom:longitude": -1.456819,
+    "geom:bbox": "-1.463574,53.804183,-1.463574,53.804183",
+    "geom:latitude": 53.804183,
+    "geom:longitude": -1.463574,
     "gp:parent_id": "26042",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000035",
@@ -26,7 +24,12 @@
       85633159,
       102191581,
       136253055,
-      1864208639
+      1864208639,
+      1360698749,
+      101750579,
+      1880762059,
+      404227469,
+      1880773017
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -34,8 +37,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701288,
-    "wof:geomhash": "60c3c0cd11f0bb9b3dcc1b076db9380d",
+    "wof:geomhash": "68a418d3dfaf956d69f63234a4445877",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698749,
+        "empire_id": 136253055,
+        "locality_id": 101750579,
+        "macrocounty_id": 1880762059,
+        "macroregion_id": 404227469,
+        "postalcode_id": 437488323,
+        "region_id": 1880773017
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -45,9 +59,9 @@
       }
     ],
     "wof:id": 437488323,
-    "wof:lastmodified": 1709395923,
+    "wof:lastmodified": 1736334059,
     "wof:name": "LS14 6WD",
-    "wof:parent_id": 1864208639,
+    "wof:parent_id": 101750579,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -55,10 +69,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.456819,
-    53.827208,
-    -1.456819,
-    53.827208
+    -1.463574,
+    53.804183,
+    -1.463574,
+    53.804183
   ],
-  "geometry": {"coordinates":[-1.456819,53.827208],"type":"Point"}
+  "geometry": {"coordinates":[-1.463574,53.804183],"type":"Point"}
 }

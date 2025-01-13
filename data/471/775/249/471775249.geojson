@@ -7,8 +7,8 @@
     "edtf:cessation": "",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.020243,53.450875,-2.020243,53.450875",
-    "geom:latitude": 53.450875,
+    "geom:bbox": "-2.020243,53.450956,-2.020243,53.450956",
+    "geom:latitude": 53.450956,
     "geom:longitude": -2.020243,
     "gp:parent_id": "29445",
     "iso:country": "GB",
@@ -24,7 +24,13 @@
       85633159,
       102191581,
       136253055,
-      1864210525
+      1864210525,
+      1360698931,
+      1360817329,
+      1125768209,
+      1880762163,
+      404227469,
+      1880773095
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,8 +38,20 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701736,
-    "wof:geomhash": "6f08dfbce8f4a10d4f68cd80e8d067a3",
+    "wof:geomhash": "13c8e88ba07a13828013f09ef7bee527",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698931,
+        "empire_id": 136253055,
+        "localadmin_id": 1360817329,
+        "locality_id": 1125768209,
+        "macrocounty_id": 1880762163,
+        "macroregion_id": 404227469,
+        "postalcode_id": 471775249,
+        "region_id": 1880773095
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -43,9 +61,9 @@
       }
     ],
     "wof:id": 471775249,
-    "wof:lastmodified": 1709396312,
+    "wof:lastmodified": 1736333587,
     "wof:name": "SK14 6QH",
-    "wof:parent_id": 1864210525,
+    "wof:parent_id": 1125768209,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -54,9 +72,9 @@
   },
   "bbox": [
     -2.020243,
-    53.450875,
+    53.450956,
     -2.020243,
-    53.450875
+    53.450956
   ],
-  "geometry": {"coordinates":[-2.020243,53.450875],"type":"Point"}
+  "geometry": {"coordinates":[-2.020243,53.450956],"type":"Point"}
 }

@@ -2,10 +2,10 @@
   "id": 488118953,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-09-01",
-    "date:inception_upper": "2023-09-01",
+    "date:inception_lower": "2024-09-01",
+    "date:inception_upper": "2024-09-01",
     "edtf:cessation": "",
-    "edtf:inception": "2023-09-01",
+    "edtf:inception": "2024-09-01",
     "geom:area": 0,
     "geom:bbox": "-1.500932,53.679490,-1.500932,53.679490",
     "geom:latitude": 53.67949,
@@ -24,7 +24,13 @@
       85633159,
       102191581,
       136253055,
-      1864211545
+      1864211545,
+      1360698945,
+      1360817491,
+      101751637,
+      1880762059,
+      404227469,
+      1880773017
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -37,15 +43,27 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
+        "county_id": 1360698945,
+        "empire_id": 136253055,
+        "localadmin_id": 1360817491,
+        "locality_id": 101751637,
+        "macrocounty_id": 1880762059,
+        "macroregion_id": 404227469,
+        "postalcode_id": 488118953,
+        "region_id": 1880773017
+      },
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
         "empire_id": 136253055,
         "postalcode_id": 488118953,
         "postalregion_id": 1864211545
       }
     ],
     "wof:id": 488118953,
-    "wof:lastmodified": 1709408874,
+    "wof:lastmodified": 1736333197,
     "wof:name": "WF1 9AJ",
-    "wof:parent_id": 1864211545,
+    "wof:parent_id": 101751637,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],

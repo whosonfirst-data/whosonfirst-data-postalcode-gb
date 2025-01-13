@@ -2,36 +2,52 @@
   "id": 39198816,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2000-06-01",
-    "date:cessation_upper": "2000-06-01",
-    "date:inception_lower": "1999-12-01",
-    "date:inception_upper": "1999-12-01",
-    "edtf:cessation": "2000-06-01",
-    "edtf:inception": "1999-12-01",
+    "date:inception_lower": "2024-09-01",
+    "date:inception_upper": "2024-09-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-09-01",
     "geom:area": 0,
-    "geom:bbox": "0.393030,51.269567,0.393030,51.269567",
-    "geom:latitude": 51.269567,
-    "geom:longitude": 0.39303,
+    "geom:bbox": "0.396131,51.280943,0.396131,51.280943",
+    "geom:latitude": 51.280943,
+    "geom:longitude": 0.396131,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000016",
     "os:district_code": "E07000115",
-    "os:positional_quality_indicator": "6",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       102191581,
       136253055,
-      1864208841
+      1864208841,
+      1880771509,
+      1880762057,
+      404227469,
+      1880762705,
+      404443549,
+      1125951821
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583798808,
-    "wof:geomhash": "20a9d0fe40d3f97661b9fd20866299f8",
+    "wof:geomhash": "3a83bddfddbca74f2c35478500f1c15d",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1880771509,
+        "empire_id": 136253055,
+        "localadmin_id": 404443549,
+        "locality_id": 1125951821,
+        "macrocounty_id": 1880762057,
+        "macroregion_id": 404227469,
+        "postalcode_id": 39198816,
+        "region_id": 1880762705
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +57,9 @@
       }
     ],
     "wof:id": 39198816,
-    "wof:lastmodified": 1709396189,
+    "wof:lastmodified": 1736334038,
     "wof:name": "ME19 4PF",
-    "wof:parent_id": 1864208841,
+    "wof:parent_id": 1125951821,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +67,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.39303,
-    51.269567,
-    0.39303,
-    51.269567
+    0.396131,
+    51.280943,
+    0.396131,
+    51.280943
   ],
-  "geometry": {"coordinates":[0.39303,51.269567],"type":"Point"}
+  "geometry": {"coordinates":[0.396131,51.280943],"type":"Point"}
 }

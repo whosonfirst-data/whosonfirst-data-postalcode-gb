@@ -2,36 +2,52 @@
   "id": 1161042776,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2001-01-01",
-    "date:cessation_upper": "2001-01-01",
-    "date:inception_lower": "1999-12-01",
-    "date:inception_upper": "1999-12-01",
-    "edtf:cessation": "2001-01-01",
-    "edtf:inception": "1999-12-01",
+    "date:inception_lower": "2024-06-01",
+    "date:inception_upper": "2024-06-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-06-01",
     "geom:area": 0,
-    "geom:bbox": "-0.980624,51.146170,-0.980624,51.146170",
-    "geom:latitude": 51.14617,
-    "geom:longitude": -0.980624,
+    "geom:bbox": "-0.972541,51.148974,-0.972541,51.148974",
+    "geom:latitude": 51.148974,
+    "geom:longitude": -0.972541,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000014",
     "os:district_code": "E07000085",
-    "os:positional_quality_indicator": "6",
+    "os:positional_quality_indicator": "5",
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       102191581,
       136253055,
-      1864207561
+      1864207561,
+      1880771465,
+      404438549,
+      1125962733,
+      1880762155,
+      404227469,
+      1880762717
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583801313,
-    "wof:geomhash": "421a50f3349d2ffd0accc4ce09a122fc",
+    "wof:geomhash": "b75411930a34c578c766df7a63908408",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1880771465,
+        "empire_id": 136253055,
+        "localadmin_id": 404438549,
+        "locality_id": 1125962733,
+        "macrocounty_id": 1880762155,
+        "macroregion_id": 404227469,
+        "postalcode_id": 1161042776,
+        "region_id": 1880762717
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +57,9 @@
       }
     ],
     "wof:id": 1161042776,
-    "wof:lastmodified": 1709396132,
+    "wof:lastmodified": 1736333963,
     "wof:name": "GU34 1UL",
-    "wof:parent_id": 1864207561,
+    "wof:parent_id": 1125962733,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +67,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.980624,
-    51.14617,
-    -0.980624,
-    51.14617
+    -0.972541,
+    51.148974,
+    -0.972541,
+    51.148974
   ],
-  "geometry": {"coordinates":[-0.980624,51.14617],"type":"Point"}
+  "geometry": {"coordinates":[-0.972541,51.148974],"type":"Point"}
 }

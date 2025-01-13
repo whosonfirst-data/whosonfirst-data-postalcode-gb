@@ -2,36 +2,50 @@
   "id": 1712443299,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1995-12-01",
-    "date:cessation_upper": "1995-12-01",
-    "date:inception_lower": "1992-08-01",
-    "date:inception_upper": "1992-08-01",
-    "edtf:cessation": "1995-12-01",
-    "edtf:inception": "1992-08-01",
+    "date:inception_lower": "2024-08-01",
+    "date:inception_upper": "2024-08-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-08-01",
     "geom:area": 0,
-    "geom:bbox": "-0.905430,52.262787,-0.905430,52.262787",
-    "geom:latitude": 52.262787,
-    "geom:longitude": -0.90543,
+    "geom:bbox": "-0.904077,52.273741,-0.904077,52.273741",
+    "geom:latitude": 52.273741,
+    "geom:longitude": -0.904077,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000062",
-    "os:positional_quality_indicator": "8",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       102191581,
       136253055,
-      1864209239
+      1864209239,
+      1880773231,
+      101750459,
+      1880762029,
+      404227469,
+      1880773265
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583788294,
-    "wof:geomhash": "82b7fc0fdad48b12ee09fb8dd892e1f6",
+    "wof:geomhash": "9bcb286c35d3aaf1b233cae24a359eb7",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1880773231,
+        "empire_id": 136253055,
+        "locality_id": 101750459,
+        "macrocounty_id": 1880762029,
+        "macroregion_id": 404227469,
+        "postalcode_id": 1712443299,
+        "region_id": 1880773265
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +55,9 @@
       }
     ],
     "wof:id": 1712443299,
-    "wof:lastmodified": 1709396094,
+    "wof:lastmodified": 1736334354,
     "wof:name": "NN2 8AB",
-    "wof:parent_id": 1864209239,
+    "wof:parent_id": 101750459,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +65,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.90543,
-    52.262787,
-    -0.90543,
-    52.262787
+    -0.904077,
+    52.273741,
+    -0.904077,
+    52.273741
   ],
-  "geometry": {"coordinates":[-0.90543,52.262787],"type":"Point"}
+  "geometry": {"coordinates":[-0.904077,52.273741],"type":"Point"}
 }

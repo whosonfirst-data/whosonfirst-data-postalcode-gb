@@ -2,34 +2,54 @@
   "id": 38258037,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-01",
+    "date:cessation_upper": "2024-04-01",
     "date:inception_lower": "2024-01-01",
     "date:inception_upper": "2024-01-01",
-    "edtf:cessation": "",
+    "edtf:cessation": "2024-04-01",
     "edtf:inception": "2024-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.895363,51.301565,-0.895363,51.301565",
-    "geom:latitude": 51.301565,
-    "geom:longitude": -0.895363,
+    "geom:bbox": "-0.899571,51.306163,-0.899571,51.306163",
+    "geom:latitude": 51.306163,
+    "geom:longitude": -0.899571,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000014",
     "os:district_code": "E07000089",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       102191581,
       136253055,
-      1864210049
+      1864210049,
+      1880771471,
+      404444909,
+      1343993285,
+      1880762155,
+      404227469,
+      1880762717
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583788322,
-    "wof:geomhash": "d7511b851df9eea37838a1428d83422d",
+    "wof:geomhash": "4faad8d2a03d869142bf1d458f51c1ce",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1880771471,
+        "empire_id": 136253055,
+        "localadmin_id": 404444909,
+        "locality_id": 1343993285,
+        "macrocounty_id": 1880762155,
+        "macroregion_id": 404227469,
+        "postalcode_id": 38258037,
+        "region_id": 1880762717
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -39,9 +59,9 @@
       }
     ],
     "wof:id": 38258037,
-    "wof:lastmodified": 1709408928,
+    "wof:lastmodified": 1736334178,
     "wof:name": "RG27 8FT",
-    "wof:parent_id": 1864210049,
+    "wof:parent_id": 1343993285,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -49,10 +69,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.895363,
-    51.301565,
-    -0.895363,
-    51.301565
+    -0.899571,
+    51.306163,
+    -0.899571,
+    51.306163
   ],
-  "geometry": {"coordinates":[-0.895363,51.301565],"type":"Point"}
+  "geometry": {"coordinates":[-0.899571,51.306163],"type":"Point"}
 }

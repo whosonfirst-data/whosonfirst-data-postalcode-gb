@@ -7,24 +7,29 @@
     "edtf:cessation": "",
     "edtf:inception": "2024-01-01",
     "geom:area": 0,
-    "geom:bbox": "-0.205027,51.078436,-0.205027,51.078436",
-    "geom:latitude": 51.078436,
-    "geom:longitude": -0.205027,
+    "geom:bbox": "-0.203546,51.097118,-0.203546,51.097118",
+    "geom:latitude": 51.097118,
+    "geom:longitude": -0.203546,
     "gp:parent_id": "31544",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000032",
-    "os:district_code": "E07000228",
-    "os:positional_quality_indicator": "5",
+    "os:district_code": "E07000226",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       102191581,
       136253055,
-      1864210087
+      1864210087,
+      1880762061,
+      404227469,
+      1880762709,
+      1880771693,
+      101750321
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,8 +37,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701670,
-    "wof:geomhash": "e2c03c3a1557c8df0ef62bbaaf33de93",
+    "wof:geomhash": "ce5fc2f6bef988b2cb410d0668c79cbe",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1880771693,
+        "empire_id": 136253055,
+        "locality_id": 101750321,
+        "macrocounty_id": 1880762061,
+        "macroregion_id": 404227469,
+        "postalcode_id": 471577191,
+        "region_id": 1880762709
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -43,9 +59,9 @@
       }
     ],
     "wof:id": 471577191,
-    "wof:lastmodified": 1709409057,
+    "wof:lastmodified": 1736333645,
     "wof:name": "RH11 9AQ",
-    "wof:parent_id": 1864210087,
+    "wof:parent_id": 101750321,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -53,10 +69,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.205027,
-    51.078436,
-    -0.205027,
-    51.078436
+    -0.203546,
+    51.097118,
+    -0.203546,
+    51.097118
   ],
-  "geometry": {"coordinates":[-0.205027,51.078436],"type":"Point"}
+  "geometry": {"coordinates":[-0.203546,51.097118],"type":"Point"}
 }

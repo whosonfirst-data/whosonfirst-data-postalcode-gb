@@ -2,36 +2,52 @@
   "id": 38749788,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1981-12-01",
-    "date:cessation_upper": "1981-12-01",
-    "date:inception_lower": "1980-01-01",
-    "date:inception_upper": "1980-01-01",
-    "edtf:cessation": "1981-12-01",
-    "edtf:inception": "1980-01-01",
+    "date:inception_lower": "2024-08-01",
+    "date:inception_upper": "2024-08-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-08-01",
     "geom:area": 0,
-    "geom:bbox": "-2.045574,52.453945,-2.045574,52.453945",
-    "geom:latitude": 52.453945,
-    "geom:longitude": -2.045574,
+    "geom:bbox": "-2.037267,52.469184,-2.037267,52.469184",
+    "geom:latitude": 52.469184,
+    "geom:longitude": -2.037267,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000027",
-    "os:positional_quality_indicator": "8",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       102191581,
       136253055,
-      1864205579
+      1864205579,
+      1360698933,
+      1360817295,
+      1126020695,
+      1880762069,
+      404227469,
+      1880773161
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583793839,
-    "wof:geomhash": "a83da905340efbfa60e40b846157077a",
+    "wof:geomhash": "712c825de100dad938f4bc52ce9649c6",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698933,
+        "empire_id": 136253055,
+        "localadmin_id": 1360817295,
+        "locality_id": 1126020695,
+        "macrocounty_id": 1880762069,
+        "macroregion_id": 404227469,
+        "postalcode_id": 38749788,
+        "region_id": 1880773161
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +57,9 @@
       }
     ],
     "wof:id": 38749788,
-    "wof:lastmodified": 1709395862,
+    "wof:lastmodified": 1736333119,
     "wof:name": "B62 8EQ",
-    "wof:parent_id": 1864205579,
+    "wof:parent_id": 1126020695,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +67,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.045574,
-    52.453945,
-    -2.045574,
-    52.453945
+    -2.037267,
+    52.469184,
+    -2.037267,
+    52.469184
   ],
-  "geometry": {"coordinates":[-2.045574,52.453945],"type":"Point"}
+  "geometry": {"coordinates":[-2.037267,52.469184],"type":"Point"}
 }

@@ -2,20 +2,18 @@
   "id": 504581241,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-07-01",
-    "date:cessation_upper": "2023-07-01",
-    "date:inception_lower": "1994-05-01",
-    "date:inception_upper": "1994-05-01",
-    "edtf:cessation": "2023-07-01",
-    "edtf:inception": "1994-05-01",
+    "date:inception_lower": "2024-08-01",
+    "date:inception_upper": "2024-08-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-08-01",
     "geom:area": 0,
-    "geom:bbox": "-3.799453,51.661597,-3.799453,51.661597",
-    "geom:latitude": 51.661597,
-    "geom:longitude": -3.799453,
+    "geom:bbox": "-3.806931,51.661658,-3.806931,51.661658",
+    "geom:latitude": 51.661658,
+    "geom:longitude": -3.806931,
     "gp:parent_id": "12696122",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "W92000004",
     "os:county_code": "W99999999",
     "os:district_code": "W06000012",
@@ -26,7 +24,13 @@
       85633159,
       102191581,
       136253055,
-      1864210291
+      1864210291,
+      1360698825,
+      404436583,
+      1125846003,
+      1880762113,
+      404227475,
+      1880773177
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -34,8 +38,20 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701451,
-    "wof:geomhash": "bcdf0a8ecc959754c9f6ef46b4143959",
+    "wof:geomhash": "b34fbaab6289b4565a16e2ee369e1c65",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698825,
+        "empire_id": 136253055,
+        "localadmin_id": 404436583,
+        "locality_id": 1125846003,
+        "macrocounty_id": 1880762113,
+        "macroregion_id": 404227475,
+        "postalcode_id": 504581241,
+        "region_id": 1880773177
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -45,9 +61,9 @@
       }
     ],
     "wof:id": 504581241,
-    "wof:lastmodified": 1709395902,
+    "wof:lastmodified": 1736333752,
     "wof:name": "SA11 3BN",
-    "wof:parent_id": 1864210291,
+    "wof:parent_id": 1125846003,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -55,10 +71,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.799453,
-    51.661597,
-    -3.799453,
-    51.661597
+    -3.806931,
+    51.661658,
+    -3.806931,
+    51.661658
   ],
-  "geometry": {"coordinates":[-3.799453,51.661597],"type":"Point"}
+  "geometry": {"coordinates":[-3.806931,51.661658],"type":"Point"}
 }

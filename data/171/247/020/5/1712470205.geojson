@@ -2,36 +2,52 @@
   "id": 1712470205,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1994-12-01",
-    "date:cessation_upper": "1994-12-01",
-    "date:inception_lower": "1980-01-01",
-    "date:inception_upper": "1980-01-01",
-    "edtf:cessation": "1994-12-01",
-    "edtf:inception": "1980-01-01",
+    "date:inception_lower": "2024-02-01",
+    "date:inception_upper": "2024-02-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-02-01",
     "geom:area": 0,
-    "geom:bbox": "-1.642537,55.289997,-1.642537,55.289997",
-    "geom:latitude": 55.289997,
-    "geom:longitude": -1.642537,
+    "geom:bbox": "-1.557960,55.217982,-1.557960,55.217982",
+    "geom:latitude": 55.217982,
+    "geom:longitude": -1.55796,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000057",
-    "os:positional_quality_indicator": "8",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       102191581,
       136253055,
-      1864209103
+      1864209103,
+      1360698769,
+      1880761987,
+      404227469,
+      1880772897,
+      404436631,
+      1360758767
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583789473,
-    "wof:geomhash": "13777e2a0de30d68758ef4914cd3d294",
+    "wof:geomhash": "e8a73fc49a3821f179b13289f1ceaab0",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698769,
+        "empire_id": 136253055,
+        "localadmin_id": 404436631,
+        "locality_id": 1360758767,
+        "macrocounty_id": 1880761987,
+        "macroregion_id": 404227469,
+        "postalcode_id": 1712470205,
+        "region_id": 1880772897
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +57,9 @@
       }
     ],
     "wof:id": 1712470205,
-    "wof:lastmodified": 1709396180,
+    "wof:lastmodified": 1736334254,
     "wof:name": "NE61 5DP",
-    "wof:parent_id": 1864209103,
+    "wof:parent_id": 1360758767,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +67,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.642537,
-    55.289997,
-    -1.642537,
-    55.289997
+    -1.55796,
+    55.217982,
+    -1.55796,
+    55.217982
   ],
-  "geometry": {"coordinates":[-1.642537,55.289997],"type":"Point"}
+  "geometry": {"coordinates":[-1.55796,55.217982],"type":"Point"}
 }

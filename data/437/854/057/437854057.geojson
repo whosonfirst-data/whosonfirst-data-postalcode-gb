@@ -2,20 +2,18 @@
   "id": 437854057,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2003-01-01",
-    "date:cessation_upper": "2003-01-01",
-    "date:inception_lower": "1997-12-01",
-    "date:inception_upper": "1997-12-01",
-    "edtf:cessation": "2003-01-01",
-    "edtf:inception": "1997-12-01",
+    "date:inception_lower": "2024-08-01",
+    "date:inception_upper": "2024-08-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-08-01",
     "geom:area": 0,
-    "geom:bbox": "1.223279,52.676294,1.223279,52.676294",
-    "geom:latitude": 52.676294,
-    "geom:longitude": 1.223279,
+    "geom:bbox": "1.223227,52.676321,1.223227,52.676321",
+    "geom:latitude": 52.676321,
+    "geom:longitude": 1.223227,
     "gp:parent_id": "37025",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000020",
     "os:district_code": "E07000144",
@@ -26,7 +24,13 @@
       85633159,
       102191581,
       136253055,
-      1864209373
+      1864209373,
+      1880771709,
+      404454539,
+      1226471633,
+      1880762037,
+      404227469,
+      1880762699
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -34,8 +38,20 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701596,
-    "wof:geomhash": "fec7e3d34ccd5947c00acf66daa66de7",
+    "wof:geomhash": "a91d1eba32416de009a205c2d8646035",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1880771709,
+        "empire_id": 136253055,
+        "localadmin_id": 404454539,
+        "locality_id": 1226471633,
+        "macrocounty_id": 1880762037,
+        "macroregion_id": 404227469,
+        "postalcode_id": 437854057,
+        "region_id": 1880762699
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -45,9 +61,9 @@
       }
     ],
     "wof:id": 437854057,
-    "wof:lastmodified": 1709395991,
+    "wof:lastmodified": 1736334118,
     "wof:name": "NR8 6RS",
-    "wof:parent_id": 1864209373,
+    "wof:parent_id": 1226471633,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -55,10 +71,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.223279,
-    52.676294,
-    1.223279,
-    52.676294
+    1.223227,
+    52.676321,
+    1.223227,
+    52.676321
   ],
-  "geometry": {"coordinates":[1.223279,52.676294],"type":"Point"}
+  "geometry": {"coordinates":[1.223227,52.676321],"type":"Point"}
 }

@@ -2,9 +2,11 @@
   "id": 470901023,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-03-01",
+    "date:cessation_upper": "2024-03-01",
     "date:inception_lower": "1994-05-01",
     "date:inception_upper": "1994-05-01",
-    "edtf:cessation": "",
+    "edtf:cessation": "2024-03-01",
     "edtf:inception": "1994-05-01",
     "geom:area": 0,
     "geom:bbox": "-2.328448,53.423874,-2.328448,53.423874",
@@ -13,7 +15,7 @@
     "gp:parent_id": "33875",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000009",
@@ -24,7 +26,13 @@
       85633159,
       102191581,
       136253055,
-      1864208771
+      1864208771,
+      1360698935,
+      1360817437,
+      1125985817,
+      1880762163,
+      404227469,
+      1880773095
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -37,15 +45,27 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
+        "county_id": 1360698935,
+        "empire_id": 136253055,
+        "localadmin_id": 1360817437,
+        "locality_id": 1125985817,
+        "macrocounty_id": 1880762163,
+        "macroregion_id": 404227469,
+        "postalcode_id": 470901023,
+        "region_id": 1880773095
+      },
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
         "empire_id": 136253055,
         "postalcode_id": 470901023,
         "postalregion_id": 1864208771
       }
     ],
     "wof:id": 470901023,
-    "wof:lastmodified": 1709395867,
+    "wof:lastmodified": 1736334038,
     "wof:name": "M33 7RA",
-    "wof:parent_id": 1864208771,
+    "wof:parent_id": 1125985817,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],

@@ -7,9 +7,9 @@
     "edtf:cessation": "",
     "edtf:inception": "1999-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.596950,54.986269,-1.596950,54.986269",
-    "geom:latitude": 54.986269,
-    "geom:longitude": -1.59695,
+    "geom:bbox": "-1.597250,54.985956,-1.597250,54.985956",
+    "geom:latitude": 54.985956,
+    "geom:longitude": -1.59725,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -23,7 +23,12 @@
       85633159,
       102191581,
       136253055,
-      1864209025
+      1864209025,
+      1360698961,
+      101750617,
+      1880762063,
+      404227469,
+      1880773053
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,8 +36,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701153,
-    "wof:geomhash": "41d6fafc36f3116b38b95ee7d574e5c2",
+    "wof:geomhash": "8b0ed75c9105c53578a533c4c96ed168",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698961,
+        "empire_id": 136253055,
+        "locality_id": 101750617,
+        "macrocounty_id": 1880762063,
+        "macroregion_id": 404227469,
+        "postalcode_id": 471040223,
+        "region_id": 1880773053
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -42,9 +58,9 @@
       }
     ],
     "wof:id": 471040223,
-    "wof:lastmodified": 1709409018,
+    "wof:lastmodified": 1736333391,
     "wof:name": "NE2 1JN",
-    "wof:parent_id": 1864209025,
+    "wof:parent_id": 101750617,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -52,10 +68,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.59695,
-    54.986269,
-    -1.59695,
-    54.986269
+    -1.59725,
+    54.985956,
+    -1.59725,
+    54.985956
   ],
-  "geometry": {"coordinates":[-1.59695,54.986269],"type":"Point"}
+  "geometry": {"coordinates":[-1.59725,54.985956],"type":"Point"}
 }

@@ -2,9 +2,11 @@
   "id": 454433925,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-01",
+    "date:cessation_upper": "2024-05-01",
     "date:inception_lower": "1999-06-01",
     "date:inception_upper": "1999-06-01",
-    "edtf:cessation": "",
+    "edtf:cessation": "2024-05-01",
     "edtf:inception": "1999-06-01",
     "geom:area": 0,
     "geom:bbox": "-0.942132,53.323147,-0.942132,53.323147",
@@ -13,7 +15,7 @@
     "gp:parent_id": "33135",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000024",
     "os:district_code": "E07000171",
@@ -24,7 +26,12 @@
       85633159,
       102191581,
       136253055,
-      1864206821
+      1864206821,
+      1880771595,
+      1126035403,
+      1880762077,
+      404227469,
+      1880762689
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -37,15 +44,26 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
+        "county_id": 1880771595,
+        "empire_id": 136253055,
+        "locality_id": 1126035403,
+        "macrocounty_id": 1880762077,
+        "macroregion_id": 404227469,
+        "postalcode_id": 454433925,
+        "region_id": 1880762689
+      },
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
         "empire_id": 136253055,
         "postalcode_id": 454433925,
         "postalregion_id": 1864206821
       }
     ],
     "wof:id": 454433925,
-    "wof:lastmodified": 1709396029,
+    "wof:lastmodified": 1736333525,
     "wof:name": "DN22 6HB",
-    "wof:parent_id": 1864206821,
+    "wof:parent_id": 1126035403,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],

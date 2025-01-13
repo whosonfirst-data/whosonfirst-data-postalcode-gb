@@ -7,9 +7,9 @@
     "edtf:cessation": "",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.539869,54.321319,-2.539869,54.321319",
-    "geom:latitude": 54.321319,
-    "geom:longitude": -2.539869,
+    "geom:bbox": "-2.541200,54.320800,-2.541200,54.320800",
+    "geom:latitude": 54.3208,
+    "geom:longitude": -2.5412,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -23,7 +23,13 @@
       85633159,
       102191581,
       136253055,
-      1864208323
+      1864208323,
+      1880773235,
+      404439605,
+      101873379,
+      1880761989,
+      404227469,
+      1880773269
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,8 +37,20 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701766,
-    "wof:geomhash": "634ce89773aeabb129e805c0cc789c38",
+    "wof:geomhash": "79ecda23af2747394dc0b28924777db4",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1880773235,
+        "empire_id": 136253055,
+        "localadmin_id": 404439605,
+        "locality_id": 101873379,
+        "macrocounty_id": 1880761989,
+        "macroregion_id": 404227469,
+        "postalcode_id": 454980739,
+        "region_id": 1880773269
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -42,9 +60,9 @@
       }
     ],
     "wof:id": 454980739,
-    "wof:lastmodified": 1709396034,
+    "wof:lastmodified": 1736333400,
     "wof:name": "LA10 5HH",
-    "wof:parent_id": 1864208323,
+    "wof:parent_id": 101873379,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -52,10 +70,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.539869,
-    54.321319,
-    -2.539869,
-    54.321319
+    -2.5412,
+    54.3208,
+    -2.5412,
+    54.3208
   ],
-  "geometry": {"coordinates":[-2.539869,54.321319],"type":"Point"}
+  "geometry": {"coordinates":[-2.5412,54.3208],"type":"Point"}
 }

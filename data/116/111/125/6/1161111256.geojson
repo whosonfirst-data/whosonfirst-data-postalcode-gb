@@ -2,36 +2,50 @@
   "id": 1161111256,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1997-07-01",
-    "date:cessation_upper": "1997-07-01",
-    "date:inception_lower": "1995-07-01",
-    "date:inception_upper": "1995-07-01",
-    "edtf:cessation": "1997-07-01",
-    "edtf:inception": "1995-07-01",
+    "date:inception_lower": "2024-08-01",
+    "date:inception_upper": "2024-08-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-08-01",
     "geom:area": 0,
-    "geom:bbox": "-2.400267,53.522412,-2.400267,53.522412",
-    "geom:latitude": 53.522412,
-    "geom:longitude": -2.400267,
+    "geom:bbox": "-2.397632,53.529592,-2.397632,53.529592",
+    "geom:latitude": 53.529592,
+    "geom:longitude": -2.397632,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000006",
-    "os:positional_quality_indicator": "8",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       102191581,
       136253055,
-      1864208757
+      1864208757,
+      1360699005,
+      1175612693,
+      1880762163,
+      404227469,
+      1880773095
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583804397,
-    "wof:geomhash": "ec2023f483ea1f54062e1c02aa66dc7f",
+    "wof:geomhash": "a2aa18e6a0590e780b0284886d50eaea",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360699005,
+        "empire_id": 136253055,
+        "locality_id": 1175612693,
+        "macrocounty_id": 1880762163,
+        "macroregion_id": 404227469,
+        "postalcode_id": 1161111256,
+        "region_id": 1880773095
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +55,9 @@
       }
     ],
     "wof:id": 1161111256,
-    "wof:lastmodified": 1709396163,
+    "wof:lastmodified": 1736333906,
     "wof:name": "M28 3EA",
-    "wof:parent_id": 1864208757,
+    "wof:parent_id": 1175612693,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +65,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.400267,
-    53.522412,
-    -2.400267,
-    53.522412
+    -2.397632,
+    53.529592,
+    -2.397632,
+    53.529592
   ],
-  "geometry": {"coordinates":[-2.400267,53.522412],"type":"Point"}
+  "geometry": {"coordinates":[-2.397632,53.529592],"type":"Point"}
 }

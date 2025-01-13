@@ -2,13 +2,13 @@
   "id": 454121747,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "1999-06-01",
-    "date:inception_upper": "1999-06-01",
+    "date:inception_lower": "2024-03-01",
+    "date:inception_upper": "2024-03-01",
     "edtf:cessation": "",
-    "edtf:inception": "1999-06-01",
+    "edtf:inception": "2024-03-01",
     "geom:area": 0,
-    "geom:bbox": "-2.975607,53.334423,-2.975607,53.334423",
-    "geom:latitude": 53.334423,
+    "geom:bbox": "-2.975607,53.334440,-2.975607,53.334440",
+    "geom:latitude": 53.33444,
     "geom:longitude": -2.975607,
     "gp:parent_id": "12695853",
     "iso:country": "GB",
@@ -24,7 +24,12 @@
       85633159,
       102191581,
       136253055,
-      1864206301
+      1864206301,
+      1360699049,
+      101750549,
+      1880762035,
+      404227469,
+      1880773063
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,8 +37,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701262,
-    "wof:geomhash": "8a1b4e51866906011417047e54ef2e03",
+    "wof:geomhash": "46c654fa641a00151627a02e53a1e85b",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360699049,
+        "empire_id": 136253055,
+        "locality_id": 101750549,
+        "macrocounty_id": 1880762035,
+        "macroregion_id": 404227469,
+        "postalcode_id": 454121747,
+        "region_id": 1880773063
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -43,9 +59,9 @@
       }
     ],
     "wof:id": 454121747,
-    "wof:lastmodified": 1709396038,
+    "wof:lastmodified": 1736333585,
     "wof:name": "CH62 3PZ",
-    "wof:parent_id": 1864206301,
+    "wof:parent_id": 101750549,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -54,9 +70,9 @@
   },
   "bbox": [
     -2.975607,
-    53.334423,
+    53.33444,
     -2.975607,
-    53.334423
+    53.33444
   ],
-  "geometry": {"coordinates":[-2.975607,53.334423],"type":"Point"}
+  "geometry": {"coordinates":[-2.975607,53.33444],"type":"Point"}
 }

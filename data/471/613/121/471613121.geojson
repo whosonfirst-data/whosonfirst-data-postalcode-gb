@@ -7,9 +7,9 @@
     "edtf:cessation": "",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "0.325374,51.479639,0.325374,51.479639",
-    "geom:latitude": 51.479639,
-    "geom:longitude": 0.325374,
+    "geom:bbox": "0.325320,51.479703,0.325320,51.479703",
+    "geom:latitude": 51.479703,
+    "geom:longitude": 0.32532,
     "gp:parent_id": "21536",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -24,7 +24,13 @@
       85633159,
       102191581,
       136253055,
-      1864210145
+      1864210145,
+      1360698915,
+      1360817299,
+      101750377,
+      1880762159,
+      404227469,
+      1880762723
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,8 +38,20 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701681,
-    "wof:geomhash": "28d6e63e1839f88cd7f684d9b5237c63",
+    "wof:geomhash": "01eef78f9701ebe614979ac1698f4067",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698915,
+        "empire_id": 136253055,
+        "localadmin_id": 1360817299,
+        "locality_id": 101750377,
+        "macrocounty_id": 1880762159,
+        "macroregion_id": 404227469,
+        "postalcode_id": 471613121,
+        "region_id": 1880762723
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -43,9 +61,9 @@
       }
     ],
     "wof:id": 471613121,
-    "wof:lastmodified": 1709396224,
+    "wof:lastmodified": 1736333668,
     "wof:name": "RM17 5HF",
-    "wof:parent_id": 1864210145,
+    "wof:parent_id": 101750377,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -53,10 +71,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.325374,
-    51.479639,
-    0.325374,
-    51.479639
+    0.32532,
+    51.479703,
+    0.32532,
+    51.479703
   ],
-  "geometry": {"coordinates":[0.325374,51.479639],"type":"Point"}
+  "geometry": {"coordinates":[0.32532,51.479703],"type":"Point"}
 }

@@ -2,36 +2,50 @@
   "id": 38718405,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1990-12-01",
-    "date:cessation_upper": "1990-12-01",
-    "date:inception_lower": "1980-01-01",
-    "date:inception_upper": "1980-01-01",
-    "edtf:cessation": "1990-12-01",
-    "edtf:inception": "1980-01-01",
+    "date:inception_lower": "2024-03-01",
+    "date:inception_upper": "2024-03-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-03-01",
     "geom:area": 0,
-    "geom:bbox": "-1.918969,52.482695,-1.918969,52.482695",
-    "geom:latitude": 52.482695,
-    "geom:longitude": -1.918969,
+    "geom:bbox": "-1.917960,52.483680,-1.917960,52.483680",
+    "geom:latitude": 52.48368,
+    "geom:longitude": -1.91796,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000025",
-    "os:positional_quality_indicator": "8",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       102191581,
       136253055,
-      1864205475
+      1864205475,
+      1360699077,
+      101750467,
+      1880762069,
+      404227469,
+      1880773161
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583793557,
-    "wof:geomhash": "5bc618c973b196343c2d3078b4e08b01",
+    "wof:geomhash": "fd935efb77117b67aff9a08988e806fb",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360699077,
+        "empire_id": 136253055,
+        "locality_id": 101750467,
+        "macrocounty_id": 1880762069,
+        "macroregion_id": 404227469,
+        "postalcode_id": 38718405,
+        "region_id": 1880773161
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +55,9 @@
       }
     ],
     "wof:id": 38718405,
-    "wof:lastmodified": 1709395855,
+    "wof:lastmodified": 1736333125,
     "wof:name": "B1 2SU",
-    "wof:parent_id": 1864205475,
+    "wof:parent_id": 101750467,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +65,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.918969,
-    52.482695,
-    -1.918969,
-    52.482695
+    -1.91796,
+    52.48368,
+    -1.91796,
+    52.48368
   ],
-  "geometry": {"coordinates":[-1.918969,52.482695],"type":"Point"}
+  "geometry": {"coordinates":[-1.91796,52.48368],"type":"Point"}
 }

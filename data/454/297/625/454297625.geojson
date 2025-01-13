@@ -7,9 +7,9 @@
     "edtf:cessation": "",
     "edtf:inception": "1987-10-01",
     "geom:area": 0,
-    "geom:bbox": "-2.469180,52.988248,-2.469180,52.988248",
-    "geom:latitude": 52.988248,
-    "geom:longitude": -2.46918,
+    "geom:bbox": "-2.469301,52.988400,-2.469301,52.988400",
+    "geom:latitude": 52.9884,
+    "geom:longitude": -2.469301,
     "gp:parent_id": "14441",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -24,7 +24,13 @@
       85633159,
       102191581,
       136253055,
-      1864206555
+      1864206555,
+      1360698929,
+      404431373,
+      1360755827,
+      1880762135,
+      404227469,
+      1880773021
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,8 +38,20 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701460,
-    "wof:geomhash": "852c3b30bea8f4598ae76fefa14281f8",
+    "wof:geomhash": "82d8858d282e9ff1228ec3647fb4ba8e",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698929,
+        "empire_id": 136253055,
+        "localadmin_id": 404431373,
+        "locality_id": 1360755827,
+        "macrocounty_id": 1880762135,
+        "macroregion_id": 404227469,
+        "postalcode_id": 454297625,
+        "region_id": 1880773021
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -43,9 +61,9 @@
       }
     ],
     "wof:id": 454297625,
-    "wof:lastmodified": 1709396124,
+    "wof:lastmodified": 1736333273,
     "wof:name": "CW3 0DN",
-    "wof:parent_id": 1864206555,
+    "wof:parent_id": 1360755827,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -53,10 +71,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.46918,
-    52.988248,
-    -2.46918,
-    52.988248
+    -2.469301,
+    52.9884,
+    -2.469301,
+    52.9884
   ],
-  "geometry": {"coordinates":[-2.46918,52.988248],"type":"Point"}
+  "geometry": {"coordinates":[-2.469301,52.9884],"type":"Point"}
 }

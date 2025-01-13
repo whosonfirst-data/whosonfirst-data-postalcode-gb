@@ -2,36 +2,52 @@
   "id": 1712505165,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1997-07-01",
-    "date:cessation_upper": "1997-07-01",
-    "date:inception_lower": "1996-06-01",
-    "date:inception_upper": "1996-06-01",
-    "edtf:cessation": "1997-07-01",
-    "edtf:inception": "1996-06-01",
+    "date:inception_lower": "2024-06-01",
+    "date:inception_upper": "2024-06-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.945799,53.514765,-2.945799,53.514765",
-    "geom:latitude": 53.514765,
-    "geom:longitude": -2.945799,
+    "geom:bbox": "-2.932419,53.528458,-2.932419,53.528458",
+    "geom:latitude": 53.528458,
+    "geom:longitude": -2.932419,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000014",
-    "os:positional_quality_indicator": "8",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       102191581,
       136253055,
-      1864208267
+      1864208267,
+      1360698771,
+      1880762035,
+      404227469,
+      1880773063,
+      404430995,
+      1125971533
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583791022,
-    "wof:geomhash": "4751c65b92ed36a5c36b24fd317bb949",
+    "wof:geomhash": "cfad0a94f552d15c4d7b0e440305dd45",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698771,
+        "empire_id": 136253055,
+        "localadmin_id": 404430995,
+        "locality_id": 1125971533,
+        "macrocounty_id": 1880762035,
+        "macroregion_id": 404227469,
+        "postalcode_id": 1712505165,
+        "region_id": 1880773063
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +57,9 @@
       }
     ],
     "wof:id": 1712505165,
-    "wof:lastmodified": 1709396134,
+    "wof:lastmodified": 1736334352,
     "wof:name": "L31 2PU",
-    "wof:parent_id": 1864208267,
+    "wof:parent_id": 1125971533,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +67,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.945799,
-    53.514765,
-    -2.945799,
-    53.514765
+    -2.932419,
+    53.528458,
+    -2.932419,
+    53.528458
   ],
-  "geometry": {"coordinates":[-2.945799,53.514765],"type":"Point"}
+  "geometry": {"coordinates":[-2.932419,53.528458],"type":"Point"}
 }

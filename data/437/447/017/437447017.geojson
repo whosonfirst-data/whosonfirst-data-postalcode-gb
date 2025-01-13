@@ -2,23 +2,21 @@
   "id": 437447017,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2008-06-01",
-    "date:cessation_upper": "2008-06-01",
-    "date:inception_lower": "1996-12-01",
-    "date:inception_upper": "1996-12-01",
-    "edtf:cessation": "2008-06-01",
-    "edtf:inception": "1996-12-01",
+    "date:inception_lower": "2024-09-01",
+    "date:inception_upper": "2024-09-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-09-01",
     "geom:area": 0,
-    "geom:bbox": "0.710299,52.245045,0.710299,52.245045",
-    "geom:latitude": 52.245045,
-    "geom:longitude": 0.710299,
+    "geom:bbox": "0.886512,52.230073,0.886512,52.230073",
+    "geom:latitude": 52.230073,
+    "geom:longitude": 0.886512,
     "gp:parent_id": "37844",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000029",
-    "os:district_code": "E07000245",
+    "os:district_code": "E07000203",
     "os:positional_quality_indicator": "1",
     "os:region_code": "E12000006",
     "src:geom": "os",
@@ -26,7 +24,13 @@
       85633159,
       102191581,
       136253055,
-      1864207873
+      1864207873,
+      1880762001,
+      404227469,
+      1880762685,
+      1880771641,
+      404435471,
+      1125897019
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -34,8 +38,20 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701195,
-    "wof:geomhash": "6bbc132bfc1f93921b97111b4d72ff2e",
+    "wof:geomhash": "29a4c5b1206bdb1c326f25474a52d1d8",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1880771641,
+        "empire_id": 136253055,
+        "localadmin_id": 404435471,
+        "locality_id": 1125897019,
+        "macrocounty_id": 1880762001,
+        "macroregion_id": 404227469,
+        "postalcode_id": 437447017,
+        "region_id": 1880762685
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -45,9 +61,9 @@
       }
     ],
     "wof:id": 437447017,
-    "wof:lastmodified": 1709395924,
+    "wof:lastmodified": 1736334101,
     "wof:name": "IP30 9UT",
-    "wof:parent_id": 1864207873,
+    "wof:parent_id": 1125897019,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -55,10 +71,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.710299,
-    52.245045,
-    0.710299,
-    52.245045
+    0.886512,
+    52.230073,
+    0.886512,
+    52.230073
   ],
-  "geometry": {"coordinates":[0.710299,52.245045],"type":"Point"}
+  "geometry": {"coordinates":[0.886512,52.230073],"type":"Point"}
 }

@@ -2,36 +2,52 @@
   "id": 1161027098,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1997-08-01",
-    "date:cessation_upper": "1997-08-01",
-    "date:inception_lower": "1996-06-01",
-    "date:inception_upper": "1996-06-01",
-    "edtf:cessation": "1997-08-01",
-    "edtf:inception": "1996-06-01",
+    "date:inception_lower": "2024-03-01",
+    "date:inception_upper": "2024-03-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-03-01",
     "geom:area": 0,
-    "geom:bbox": "-0.898245,52.245270,-0.898245,52.245270",
-    "geom:latitude": 52.24527,
-    "geom:longitude": -0.898245,
+    "geom:bbox": "-0.834895,52.291743,-0.834895,52.291743",
+    "geom:latitude": 52.291743,
+    "geom:longitude": -0.834895,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000062",
-    "os:positional_quality_indicator": "8",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       102191581,
       136253055,
-      1864209251
+      1864209251,
+      1880773231,
+      1880762029,
+      404227469,
+      1880773265,
+      404440793,
+      1125865937
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583800624,
-    "wof:geomhash": "0294c13e8d7ded5248915d5ea3c9a914",
+    "wof:geomhash": "3d3f31ade108c5f8bef5db97b41ab179",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1880773231,
+        "empire_id": 136253055,
+        "localadmin_id": 404440793,
+        "locality_id": 1125865937,
+        "macrocounty_id": 1880762029,
+        "macroregion_id": 404227469,
+        "postalcode_id": 1161027098,
+        "region_id": 1880773265
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +57,9 @@
       }
     ],
     "wof:id": 1161027098,
-    "wof:lastmodified": 1709396117,
+    "wof:lastmodified": 1736333948,
     "wof:name": "NN6 0SL",
-    "wof:parent_id": 1864209251,
+    "wof:parent_id": 1125865937,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +67,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.898245,
-    52.24527,
-    -0.898245,
-    52.24527
+    -0.834895,
+    52.291743,
+    -0.834895,
+    52.291743
   ],
-  "geometry": {"coordinates":[-0.898245,52.24527],"type":"Point"}
+  "geometry": {"coordinates":[-0.834895,52.291743],"type":"Point"}
 }

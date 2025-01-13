@@ -2,9 +2,11 @@
   "id": 471794545,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-02-01",
+    "date:cessation_upper": "2024-02-01",
     "date:inception_lower": "1980-01-01",
     "date:inception_upper": "1980-01-01",
-    "edtf:cessation": "",
+    "edtf:cessation": "2024-02-01",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:bbox": "-2.235422,53.369848,-2.235422,53.369848",
@@ -13,7 +15,7 @@
     "gp:parent_id": "22829",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000007",
@@ -24,7 +26,12 @@
       85633159,
       102191581,
       136253055,
-      1864210553
+      1864210553,
+      1360698879,
+      101750527,
+      1880762163,
+      404227469,
+      1880773095
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -37,15 +44,26 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
+        "county_id": 1360698879,
+        "empire_id": 136253055,
+        "locality_id": 101750527,
+        "macrocounty_id": 1880762163,
+        "macroregion_id": 404227469,
+        "postalcode_id": 471794545,
+        "region_id": 1880773095
+      },
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
         "empire_id": 136253055,
         "postalcode_id": 471794545,
         "postalregion_id": 1864210553
       }
     ],
     "wof:id": 471794545,
-    "wof:lastmodified": 1709396274,
+    "wof:lastmodified": 1736333272,
     "wof:name": "SK8 3PY",
-    "wof:parent_id": 1864210553,
+    "wof:parent_id": 101750527,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],

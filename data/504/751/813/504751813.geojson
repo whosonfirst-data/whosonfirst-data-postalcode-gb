@@ -7,9 +7,9 @@
     "edtf:cessation": "",
     "edtf:inception": "2007-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.140505,51.532957,-3.140505,51.532957",
-    "geom:latitude": 51.532957,
-    "geom:longitude": -3.140505,
+    "geom:bbox": "-3.140514,51.532940,-3.140514,51.532940",
+    "geom:latitude": 51.53294,
+    "geom:longitude": -3.140514,
     "gp:parent_id": "32300",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -24,7 +24,12 @@
       85633159,
       102191581,
       136253055,
-      1864206163
+      1864206163,
+      1360699107,
+      101750397,
+      1880762115,
+      404227475,
+      1880773187
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,8 +37,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701546,
-    "wof:geomhash": "ee989e92b0bc4a6d88926d004364665f",
+    "wof:geomhash": "fb58467f153ecb3c9d5a3a02b4e7e4c1",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360699107,
+        "empire_id": 136253055,
+        "locality_id": 101750397,
+        "macrocounty_id": 1880762115,
+        "macroregion_id": 404227475,
+        "postalcode_id": 504751813,
+        "region_id": 1880773187
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -43,9 +59,9 @@
       }
     ],
     "wof:id": 504751813,
-    "wof:lastmodified": 1709395854,
+    "wof:lastmodified": 1736333751,
     "wof:name": "CF23 8FG",
-    "wof:parent_id": 1864206163,
+    "wof:parent_id": 101750397,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -53,10 +69,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.140505,
-    51.532957,
-    -3.140505,
-    51.532957
+    -3.140514,
+    51.53294,
+    -3.140514,
+    51.53294
   ],
-  "geometry": {"coordinates":[-3.140505,51.532957],"type":"Point"}
+  "geometry": {"coordinates":[-3.140514,51.53294],"type":"Point"}
 }

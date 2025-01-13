@@ -2,22 +2,20 @@
   "id": 437895627,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2005-07-01",
-    "date:cessation_upper": "2005-07-01",
-    "date:inception_lower": "2000-12-01",
-    "date:inception_upper": "2000-12-01",
-    "edtf:cessation": "2005-07-01",
-    "edtf:inception": "2000-12-01",
+    "date:inception_lower": "2024-06-01",
+    "date:inception_upper": "2024-06-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-06-01",
     "geom:area": 0,
-    "geom:bbox": "-1.307929,50.925195,-1.307929,50.925195",
-    "geom:latitude": 50.925195,
-    "geom:longitude": -1.307929,
+    "geom:bbox": "-1.244640,50.895496,-1.244640,50.895496",
+    "geom:latitude": 50.895496,
+    "geom:longitude": -1.24464,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000014",
-    "os:district_code": "E07000086",
+    "os:district_code": "E07000094",
     "os:positional_quality_indicator": "1",
     "os:region_code": "E12000008",
     "src:geom": "os",
@@ -25,7 +23,13 @@
       85633159,
       102191581,
       136253055,
-      1864210669
+      1864210669,
+      1880762155,
+      404227469,
+      1880762717,
+      1880771467,
+      404440525,
+      1125797209
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,8 +37,20 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701620,
-    "wof:geomhash": "22b6b1397b2f94aea748d30a4a99d9de",
+    "wof:geomhash": "fb33230151ab22d0081ee20d7c65f21c",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1880771467,
+        "empire_id": 136253055,
+        "localadmin_id": 404440525,
+        "locality_id": 1125797209,
+        "macrocounty_id": 1880762155,
+        "macroregion_id": 404227469,
+        "postalcode_id": 437895627,
+        "region_id": 1880762717
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -44,9 +60,9 @@
       }
     ],
     "wof:id": 437895627,
-    "wof:lastmodified": 1709395880,
+    "wof:lastmodified": 1736334116,
     "wof:name": "SO30 2YT",
-    "wof:parent_id": 1864210669,
+    "wof:parent_id": 1125797209,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -54,10 +70,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.307929,
-    50.925195,
-    -1.307929,
-    50.925195
+    -1.24464,
+    50.895496,
+    -1.24464,
+    50.895496
   ],
-  "geometry": {"coordinates":[-1.307929,50.925195],"type":"Point"}
+  "geometry": {"coordinates":[-1.24464,50.895496],"type":"Point"}
 }

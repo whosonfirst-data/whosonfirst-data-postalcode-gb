@@ -7,8 +7,8 @@
     "edtf:cessation": "",
     "edtf:inception": "2022-02-01",
     "geom:area": 0,
-    "geom:bbox": "-2.504563,57.668257,-2.504563,57.668257",
-    "geom:latitude": 57.668257,
+    "geom:bbox": "-2.504563,57.668266,-2.504563,57.668266",
+    "geom:latitude": 57.668266,
     "geom:longitude": -2.504563,
     "gp:parent_id": "12696183",
     "iso:country": "GB",
@@ -24,7 +24,11 @@
       85633159,
       102191581,
       136253055,
-      1864205435
+      1864205435,
+      1360699031,
+      1880762109,
+      404227471,
+      1880773121
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,8 +36,18 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701550,
-    "wof:geomhash": "8b353ddb8f0b8cb3d0add1607a27faa4",
+    "wof:geomhash": "966a22bf90816f9682bdcadf90f099ee",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360699031,
+        "empire_id": 136253055,
+        "macrocounty_id": 1880762109,
+        "macroregion_id": 404227471,
+        "postalcode_id": 504755947,
+        "region_id": 1880773121
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -43,9 +57,9 @@
       }
     ],
     "wof:id": 504755947,
-    "wof:lastmodified": 1709408597,
+    "wof:lastmodified": 1736333859,
     "wof:name": "AB44 1UE",
-    "wof:parent_id": 1864205435,
+    "wof:parent_id": 1360699031,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -54,9 +68,9 @@
   },
   "bbox": [
     -2.504563,
-    57.668257,
+    57.668266,
     -2.504563,
-    57.668257
+    57.668266
   ],
-  "geometry": {"coordinates":[-2.504563,57.668257],"type":"Point"}
+  "geometry": {"coordinates":[-2.504563,57.668266],"type":"Point"}
 }

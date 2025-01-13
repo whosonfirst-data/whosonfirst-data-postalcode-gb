@@ -2,36 +2,52 @@
   "id": 1780380821,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2020-12-01",
-    "date:cessation_upper": "2020-12-01",
-    "date:inception_lower": "2020-10-01",
-    "date:inception_upper": "2020-10-01",
-    "edtf:cessation": "2020-12-01",
-    "edtf:inception": "2020-10-01",
+    "date:inception_lower": "2024-04-01",
+    "date:inception_upper": "2024-04-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-04-01",
     "geom:area": 0,
-    "geom:bbox": "-1.537297,53.434271,-1.537297,53.434271",
-    "geom:latitude": 53.434271,
-    "geom:longitude": -1.537297,
+    "geom:bbox": "-1.544691,53.442425,-1.544691,53.442425",
+    "geom:latitude": 53.442425,
+    "geom:longitude": -1.544691,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
-    "os:district_code": "E08000019",
-    "os:positional_quality_indicator": "5",
+    "os:district_code": "E08000016",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000003",
     "src:geom": "os",
     "wof:belongsto": [
       102191581,
       85633159,
       136253055,
-      1864210209
+      1864210209,
+      1880761997,
+      404227469,
+      1880772963,
+      1360699091,
+      404444249,
+      1126060309
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1662029499,
-    "wof:geomhash": "7ad9bc6b153d57d19ae9ac8edf03a0cb",
+    "wof:geomhash": "609361dafca9468f1ead27f2a3db0c74",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360699091,
+        "empire_id": 136253055,
+        "localadmin_id": 404444249,
+        "locality_id": 1126060309,
+        "macrocounty_id": 1880761997,
+        "macroregion_id": 404227469,
+        "postalcode_id": 1780380821,
+        "region_id": 1880772963
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +57,9 @@
       }
     ],
     "wof:id": 1780380821,
-    "wof:lastmodified": 1709395840,
+    "wof:lastmodified": 1736334198,
     "wof:name": "S35 0ET",
-    "wof:parent_id": 1864210209,
+    "wof:parent_id": 1126060309,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +67,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.537297,
-    53.434271,
-    -1.537297,
-    53.434271
+    -1.544691,
+    53.442425,
+    -1.544691,
+    53.442425
   ],
-  "geometry": {"coordinates":[-1.537297,53.434271],"type":"Point"}
+  "geometry": {"coordinates":[-1.544691,53.442425],"type":"Point"}
 }

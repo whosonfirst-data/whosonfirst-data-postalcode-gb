@@ -7,8 +7,8 @@
     "edtf:cessation": "",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.936752,52.512603,-1.936752,52.512603",
-    "geom:latitude": 52.512603,
+    "geom:bbox": "-1.936752,52.512657,-1.936752,52.512657",
+    "geom:latitude": 52.512657,
     "geom:longitude": -1.936752,
     "gp:parent_id": "12723",
     "iso:country": "GB",
@@ -24,7 +24,12 @@
       85633159,
       102191581,
       136253055,
-      1864205503
+      1864205503,
+      1360699077,
+      101750467,
+      1880762069,
+      404227469,
+      1880773161
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,8 +37,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701654,
-    "wof:geomhash": "8e854266c197d6cc3a1c06d400a4443f",
+    "wof:geomhash": "9901ecf6962fef402a89a2f706620b0a",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360699077,
+        "empire_id": 136253055,
+        "locality_id": 101750467,
+        "macrocounty_id": 1880762069,
+        "macroregion_id": 404227469,
+        "postalcode_id": 437970219,
+        "region_id": 1880773161
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -43,9 +59,9 @@
       }
     ],
     "wof:id": 437970219,
-    "wof:lastmodified": 1709408616,
+    "wof:lastmodified": 1736334104,
     "wof:name": "B21 9PN",
-    "wof:parent_id": 1864205503,
+    "wof:parent_id": 101750467,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -54,9 +70,9 @@
   },
   "bbox": [
     -1.936752,
-    52.512603,
+    52.512657,
     -1.936752,
-    52.512603
+    52.512657
   ],
-  "geometry": {"coordinates":[-1.936752,52.512603],"type":"Point"}
+  "geometry": {"coordinates":[-1.936752,52.512657],"type":"Point"}
 }

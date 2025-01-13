@@ -7,9 +7,9 @@
     "edtf:cessation": "",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.098070,55.880630,-3.098070,55.880630",
-    "geom:latitude": 55.88063,
-    "geom:longitude": -3.09807,
+    "geom:bbox": "-3.098086,55.880648,-3.098086,55.880648",
+    "geom:latitude": 55.880648,
+    "geom:longitude": -3.098086,
     "gp:parent_id": "12696201",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -24,7 +24,11 @@
       85633159,
       102191581,
       136253055,
-      1864207049
+      1864207049,
+      1360698791,
+      1880762083,
+      404227471,
+      1880772919
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,8 +36,18 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701628,
-    "wof:geomhash": "8971d91b37d312244729f17080ae9853",
+    "wof:geomhash": "c73039808bdc7a658943115eb5689657",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698791,
+        "empire_id": 136253055,
+        "macrocounty_id": 1880762083,
+        "macroregion_id": 404227471,
+        "postalcode_id": 488628493,
+        "region_id": 1880772919
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -43,9 +57,9 @@
       }
     ],
     "wof:id": 488628493,
-    "wof:lastmodified": 1709395897,
+    "wof:lastmodified": 1736333302,
     "wof:name": "EH19 2EA",
-    "wof:parent_id": 1864207049,
+    "wof:parent_id": 1360698791,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -53,10 +67,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.09807,
-    55.88063,
-    -3.09807,
-    55.88063
+    -3.098086,
+    55.880648,
+    -3.098086,
+    55.880648
   ],
-  "geometry": {"coordinates":[-3.09807,55.88063],"type":"Point"}
+  "geometry": {"coordinates":[-3.098086,55.880648],"type":"Point"}
 }

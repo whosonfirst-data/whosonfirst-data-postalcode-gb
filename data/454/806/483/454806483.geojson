@@ -7,8 +7,8 @@
     "edtf:cessation": "",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.580370,51.913042,-2.580370,51.913042",
-    "geom:latitude": 51.913042,
+    "geom:bbox": "-2.580370,51.913024,-2.580370,51.913024",
+    "geom:latitude": 51.913024,
     "geom:longitude": -2.58037,
     "gp:parent_id": "33571",
     "iso:country": "GB",
@@ -24,7 +24,11 @@
       85633159,
       102191581,
       136253055,
-      1864207713
+      1864207713,
+      1360699053,
+      404432417,
+      1209450383,
+      1880762015
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,8 +36,18 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701722,
-    "wof:geomhash": "ae5e2c4a504a54373a396173ee023045",
+    "wof:geomhash": "ee609a2a4b1ed1d29da43fcb9bca2a46",
     "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": -1,
+        "county_id": 1360699053,
+        "localadmin_id": 404432417,
+        "locality_id": 1209450383,
+        "macrocounty_id": 1880762015,
+        "postalcode_id": 454806483,
+        "region_id": -1
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -43,9 +57,9 @@
       }
     ],
     "wof:id": 454806483,
-    "wof:lastmodified": 1709396120,
+    "wof:lastmodified": 1736333308,
     "wof:name": "HR9 5JQ",
-    "wof:parent_id": 1864207713,
+    "wof:parent_id": 1209450383,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -54,9 +68,9 @@
   },
   "bbox": [
     -2.58037,
-    51.913042,
+    51.913024,
     -2.58037,
-    51.913042
+    51.913024
   ],
-  "geometry": {"coordinates":[-2.58037,51.913042],"type":"Point"}
+  "geometry": {"coordinates":[-2.58037,51.913024],"type":"Point"}
 }

@@ -7,8 +7,8 @@
     "edtf:cessation": "",
     "edtf:inception": "1998-12-01",
     "geom:area": 0,
-    "geom:bbox": "0.271191,51.190603,0.271191,51.190603",
-    "geom:latitude": 51.190603,
+    "geom:bbox": "0.271191,51.190621,0.271191,51.190621",
+    "geom:latitude": 51.190621,
     "geom:longitude": 0.271191,
     "gp:parent_id": "37756",
     "iso:country": "GB",
@@ -24,7 +24,12 @@
       85633159,
       102191581,
       136253055,
-      1864211153
+      1864211153,
+      1880771509,
+      101854625,
+      1880762057,
+      404227469,
+      1880762705
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,8 +37,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701230,
-    "wof:geomhash": "0dd64ef82da5de69367d8601d7045ad4",
+    "wof:geomhash": "cf198ae23fe57a14c717d6e0e3a532b1",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1880771509,
+        "empire_id": 136253055,
+        "locality_id": 101854625,
+        "macrocounty_id": 1880762057,
+        "macroregion_id": 404227469,
+        "postalcode_id": 487883447,
+        "region_id": 1880762705
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -43,9 +59,9 @@
       }
     ],
     "wof:id": 487883447,
-    "wof:lastmodified": 1709396363,
+    "wof:lastmodified": 1736334338,
     "wof:name": "TN9 2BD",
-    "wof:parent_id": 1864211153,
+    "wof:parent_id": 101854625,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -54,9 +70,9 @@
   },
   "bbox": [
     0.271191,
-    51.190603,
+    51.190621,
     0.271191,
-    51.190603
+    51.190621
   ],
-  "geometry": {"coordinates":[0.271191,51.190603],"type":"Point"}
+  "geometry": {"coordinates":[0.271191,51.190621],"type":"Point"}
 }

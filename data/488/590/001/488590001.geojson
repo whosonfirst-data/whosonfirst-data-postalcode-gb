@@ -2,20 +2,18 @@
   "id": 488590001,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2017-07-01",
-    "date:cessation_upper": "2017-07-01",
-    "date:inception_lower": "1980-01-01",
-    "date:inception_upper": "1980-01-01",
-    "edtf:cessation": "2017-07-01",
-    "edtf:inception": "1980-01-01",
+    "date:inception_lower": "2024-07-01",
+    "date:inception_upper": "2024-07-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-07-01",
     "geom:area": 0,
-    "geom:bbox": "-3.041544,53.212126,-3.041544,53.212126",
-    "geom:latitude": 53.212126,
-    "geom:longitude": -3.041544,
+    "geom:bbox": "-3.041543,53.212141,-3.041543,53.212141",
+    "geom:latitude": 53.212141,
+    "geom:longitude": -3.041543,
     "gp:parent_id": "34742",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "W92000004",
     "os:county_code": "W99999999",
     "os:district_code": "W06000005",
@@ -26,7 +24,13 @@
       85633159,
       102191581,
       136253055,
-      1864206291
+      1864206291,
+      1360698799,
+      404452295,
+      1125915881,
+      1880762183,
+      404227475,
+      1880772909
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -34,8 +38,20 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701607,
-    "wof:geomhash": "25a9abb91db4fa01ab34ac08f04cd315",
+    "wof:geomhash": "4d3c1eb37c5c6fc5bbe4504a589f15b3",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698799,
+        "empire_id": 136253055,
+        "localadmin_id": 404452295,
+        "locality_id": 1125915881,
+        "macrocounty_id": 1880762183,
+        "macroregion_id": 404227475,
+        "postalcode_id": 488590001,
+        "region_id": 1880772909
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -45,9 +61,9 @@
       }
     ],
     "wof:id": 488590001,
-    "wof:lastmodified": 1709396029,
+    "wof:lastmodified": 1736333304,
     "wof:name": "CH5 1JD",
-    "wof:parent_id": 1864206291,
+    "wof:parent_id": 1125915881,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -55,10 +71,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.041544,
-    53.212126,
-    -3.041544,
-    53.212126
+    -3.041543,
+    53.212141,
+    -3.041543,
+    53.212141
   ],
-  "geometry": {"coordinates":[-3.041544,53.212126],"type":"Point"}
+  "geometry": {"coordinates":[-3.041543,53.212141],"type":"Point"}
 }

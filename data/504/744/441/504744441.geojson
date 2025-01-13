@@ -7,8 +7,8 @@
     "edtf:cessation": "",
     "edtf:inception": "2006-08-01",
     "geom:area": 0,
-    "geom:bbox": "-3.165564,51.486377,-3.165564,51.486377",
-    "geom:latitude": 51.486377,
+    "geom:bbox": "-3.165564,51.486386,-3.165564,51.486386",
+    "geom:latitude": 51.486386,
     "geom:longitude": -3.165564,
     "gp:parent_id": "12696132",
     "iso:country": "GB",
@@ -24,7 +24,12 @@
       85633159,
       102191581,
       136253055,
-      1864206165
+      1864206165,
+      1360699107,
+      101750397,
+      1880762115,
+      404227475,
+      1880773187
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,8 +37,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701543,
-    "wof:geomhash": "e8016dec1dd6fd3560b6684a3b0603db",
+    "wof:geomhash": "550871942a97ba8ce3c3b9a5abaa7424",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360699107,
+        "empire_id": 136253055,
+        "locality_id": 101750397,
+        "macrocounty_id": 1880762115,
+        "macroregion_id": 404227475,
+        "postalcode_id": 504744441,
+        "region_id": 1880773187
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -43,9 +59,9 @@
       }
     ],
     "wof:id": 504744441,
-    "wof:lastmodified": 1709395846,
+    "wof:lastmodified": 1736333723,
     "wof:name": "CF24 3EP",
-    "wof:parent_id": 1864206165,
+    "wof:parent_id": 101750397,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -54,9 +70,9 @@
   },
   "bbox": [
     -3.165564,
-    51.486377,
+    51.486386,
     -3.165564,
-    51.486377
+    51.486386
   ],
-  "geometry": {"coordinates":[-3.165564,51.486377],"type":"Point"}
+  "geometry": {"coordinates":[-3.165564,51.486386],"type":"Point"}
 }

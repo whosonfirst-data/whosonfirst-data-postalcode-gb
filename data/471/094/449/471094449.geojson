@@ -7,9 +7,9 @@
     "edtf:cessation": "",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.678247,55.475129,-1.678247,55.475129",
-    "geom:latitude": 55.475129,
-    "geom:longitude": -1.678247,
+    "geom:bbox": "-1.678025,55.475183,-1.678025,55.475183",
+    "geom:latitude": 55.475183,
+    "geom:longitude": -1.678025,
     "gp:parent_id": "33433",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -24,7 +24,13 @@
       85633159,
       102191581,
       136253055,
-      1864209115
+      1864209115,
+      1360698769,
+      404430947,
+      1125971913,
+      1880761987,
+      404227469,
+      1880772897
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,8 +38,20 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701281,
-    "wof:geomhash": "2a755b14438f624776ea9bb120fc9b1d",
+    "wof:geomhash": "82f488b8b37338d220b238984bdf1ed0",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698769,
+        "empire_id": 136253055,
+        "localadmin_id": 404430947,
+        "locality_id": 1125971913,
+        "macrocounty_id": 1880761987,
+        "macroregion_id": 404227469,
+        "postalcode_id": 471094449,
+        "region_id": 1880772897
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -43,9 +61,9 @@
       }
     ],
     "wof:id": 471094449,
-    "wof:lastmodified": 1709396250,
+    "wof:lastmodified": 1736333150,
     "wof:name": "NE66 3SE",
-    "wof:parent_id": 1864209115,
+    "wof:parent_id": 1125971913,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -53,10 +71,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.678247,
-    55.475129,
-    -1.678247,
-    55.475129
+    -1.678025,
+    55.475183,
+    -1.678025,
+    55.475183
   ],
-  "geometry": {"coordinates":[-1.678247,55.475129],"type":"Point"}
+  "geometry": {"coordinates":[-1.678025,55.475183],"type":"Point"}
 }

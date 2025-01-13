@@ -2,36 +2,52 @@
   "id": 1897510299,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-12-01",
-    "date:cessation_upper": "2023-12-01",
-    "date:inception_lower": "2023-08-01",
-    "date:inception_upper": "2023-08-01",
-    "edtf:cessation": "2023-12-01",
-    "edtf:inception": "2023-08-01",
+    "date:inception_lower": "2024-04-01",
+    "date:inception_upper": "2024-04-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-04-01",
     "geom:area": 0,
-    "geom:bbox": "-1.452694,53.300045,-1.452694,53.300045",
-    "geom:latitude": 53.300045,
-    "geom:longitude": -1.452694,
+    "geom:bbox": "-1.464291,53.302561,-1.464291,53.302561",
+    "geom:latitude": 53.302561,
+    "geom:longitude": -1.464291,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000007",
     "os:district_code": "E07000038",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
       102191581,
       85633159,
       136253055,
-      1864210189
+      1864210189,
+      1880771383,
+      404432025,
+      1125947719,
+      1880762133,
+      404227469,
+      1880762707
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1709410736,
-    "wof:geomhash": "502b9d3efac50afa0a067cd69c7d7b2f",
+    "wof:geomhash": "5d3be230ae197bed5d3dedb935c5a613",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1880771383,
+        "empire_id": 136253055,
+        "localadmin_id": 404432025,
+        "locality_id": 1125947719,
+        "macrocounty_id": 1880762133,
+        "macroregion_id": 404227469,
+        "postalcode_id": 1897510299,
+        "region_id": 1880762707
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +57,9 @@
       }
     ],
     "wof:id": 1897510299,
-    "wof:lastmodified": 1709410736,
+    "wof:lastmodified": 1736333096,
     "wof:name": "S18 2AB",
-    "wof:parent_id": 1864210189,
+    "wof:parent_id": 1125947719,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +67,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.452694,
-    53.300045,
-    -1.452694,
-    53.300045
+    -1.464291,
+    53.302561,
+    -1.464291,
+    53.302561
   ],
-  "geometry": {"coordinates":[-1.452694,53.300045],"type":"Point"}
+  "geometry": {"coordinates":[-1.464291,53.302561],"type":"Point"}
 }

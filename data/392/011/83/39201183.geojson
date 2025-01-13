@@ -2,36 +2,52 @@
   "id": 39201183,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1998-12-01",
-    "date:cessation_upper": "1998-12-01",
-    "date:inception_lower": "1980-01-01",
-    "date:inception_upper": "1980-01-01",
-    "edtf:cessation": "1998-12-01",
-    "edtf:inception": "1980-01-01",
+    "date:inception_lower": "2024-03-01",
+    "date:inception_upper": "2024-03-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-03-01",
     "geom:area": 0,
-    "geom:bbox": "-2.320485,51.227987,-2.320485,51.227987",
-    "geom:latitude": 51.227987,
-    "geom:longitude": -2.320485,
+    "geom:bbox": "-2.312005,51.224075,-2.312005,51.224075",
+    "geom:latitude": 51.224075,
+    "geom:longitude": -2.312005,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000066",
-    "os:positional_quality_indicator": "6",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       102191581,
       136253055,
-      1864205655
+      1864205655,
+      1360699059,
+      404446789,
+      101852533,
+      1880762071,
+      404227469,
+      1880773145
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583798847,
-    "wof:geomhash": "332f050a9ceda83cdfbf3954422824ff",
+    "wof:geomhash": "e7a00c046f8e40dc489edb8fe9184cef",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360699059,
+        "empire_id": 136253055,
+        "localadmin_id": 404446789,
+        "locality_id": 101852533,
+        "macrocounty_id": 1880762071,
+        "macroregion_id": 404227469,
+        "postalcode_id": 39201183,
+        "region_id": 1880773145
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +57,9 @@
       }
     ],
     "wof:id": 39201183,
-    "wof:lastmodified": 1709408932,
+    "wof:lastmodified": 1736333087,
     "wof:name": "BA11 1NQ",
-    "wof:parent_id": 1864205655,
+    "wof:parent_id": 101852533,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +67,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.320485,
-    51.227987,
-    -2.320485,
-    51.227987
+    -2.312005,
+    51.224075,
+    -2.312005,
+    51.224075
   ],
-  "geometry": {"coordinates":[-2.320485,51.227987],"type":"Point"}
+  "geometry": {"coordinates":[-2.312005,51.224075],"type":"Point"}
 }

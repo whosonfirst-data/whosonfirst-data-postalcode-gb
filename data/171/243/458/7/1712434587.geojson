@@ -2,36 +2,52 @@
   "id": 1712434587,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1999-12-01",
-    "date:cessation_upper": "1999-12-01",
-    "date:inception_lower": "1998-06-01",
-    "date:inception_upper": "1998-06-01",
-    "edtf:cessation": "1999-12-01",
-    "edtf:inception": "1998-06-01",
+    "date:inception_lower": "2024-07-01",
+    "date:inception_upper": "2024-07-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-07-01",
     "geom:area": 0,
-    "geom:bbox": "-2.548756,53.270723,-2.548756,53.270723",
-    "geom:latitude": 53.270723,
-    "geom:longitude": -2.548756,
+    "geom:bbox": "-2.534763,53.258605,-2.534763,53.258605",
+    "geom:latitude": 53.258605,
+    "geom:longitude": -2.534763,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000050",
-    "os:positional_quality_indicator": "8",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       102191581,
       136253055,
-      1864206565
+      1864206565,
+      1360698923,
+      1880762135,
+      404227469,
+      1880773021,
+      404450729,
+      101871967
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583787886,
-    "wof:geomhash": "c545c908e48f93d8d9e3e85722c921ca",
+    "wof:geomhash": "e57787d97756ce0e7417452d19058fec",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698923,
+        "empire_id": 136253055,
+        "localadmin_id": 404450729,
+        "locality_id": 101871967,
+        "macrocounty_id": 1880762135,
+        "macroregion_id": 404227469,
+        "postalcode_id": 1712434587,
+        "region_id": 1880773021
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +57,9 @@
       }
     ],
     "wof:id": 1712434587,
-    "wof:lastmodified": 1709396138,
+    "wof:lastmodified": 1736334286,
     "wof:name": "CW8 4FZ",
-    "wof:parent_id": 1864206565,
+    "wof:parent_id": 101871967,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +67,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.548756,
-    53.270723,
-    -2.548756,
-    53.270723
+    -2.534763,
+    53.258605,
+    -2.534763,
+    53.258605
   ],
-  "geometry": {"coordinates":[-2.548756,53.270723],"type":"Point"}
+  "geometry": {"coordinates":[-2.534763,53.258605],"type":"Point"}
 }

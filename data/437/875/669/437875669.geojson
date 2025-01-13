@@ -2,19 +2,17 @@
   "id": 437875669,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2005-11-01",
-    "date:cessation_upper": "2005-11-01",
-    "date:inception_lower": "1998-06-01",
-    "date:inception_upper": "1998-06-01",
-    "edtf:cessation": "2005-11-01",
-    "edtf:inception": "1998-06-01",
+    "date:inception_lower": "2024-02-01",
+    "date:inception_upper": "2024-02-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-02-01",
     "geom:area": 0,
-    "geom:bbox": "-0.154065,50.954052,-0.154065,50.954052",
-    "geom:latitude": 50.954052,
-    "geom:longitude": -0.154065,
+    "geom:bbox": "-0.129517,50.945248,-0.129517,50.945248",
+    "geom:latitude": 50.945248,
+    "geom:longitude": -0.129517,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000032",
     "os:district_code": "E07000228",
@@ -25,7 +23,13 @@
       85633159,
       102191581,
       136253055,
-      1864210097
+      1864210097,
+      1880771687,
+      404453717,
+      101854597,
+      1880762061,
+      404227469,
+      1880762709
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,8 +37,20 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701604,
-    "wof:geomhash": "f4d9af59faf3b228edf627ddf2aae444",
+    "wof:geomhash": "71b53f47591872958974d89a6f776c9e",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1880771687,
+        "empire_id": 136253055,
+        "localadmin_id": 404453717,
+        "locality_id": 101854597,
+        "macrocounty_id": 1880762061,
+        "macroregion_id": 404227469,
+        "postalcode_id": 437875669,
+        "region_id": 1880762709
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -44,9 +60,9 @@
       }
     ],
     "wof:id": 437875669,
-    "wof:lastmodified": 1709395886,
+    "wof:lastmodified": 1736334125,
     "wof:name": "RH15 0AJ",
-    "wof:parent_id": 1864210097,
+    "wof:parent_id": 101854597,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -54,10 +70,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.154065,
-    50.954052,
-    -0.154065,
-    50.954052
+    -0.129517,
+    50.945248,
+    -0.129517,
+    50.945248
   ],
-  "geometry": {"coordinates":[-0.154065,50.954052],"type":"Point"}
+  "geometry": {"coordinates":[-0.129517,50.945248],"type":"Point"}
 }

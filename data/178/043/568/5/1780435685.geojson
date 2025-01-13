@@ -2,36 +2,48 @@
   "id": 1780435685,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2022-10-01",
-    "date:cessation_upper": "2022-10-01",
-    "date:inception_lower": "2022-07-01",
-    "date:inception_upper": "2022-07-01",
-    "edtf:cessation": "2022-10-01",
-    "edtf:inception": "2022-07-01",
+    "date:inception_lower": "2024-07-01",
+    "date:inception_upper": "2024-07-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-07-01",
     "geom:area": 0,
-    "geom:bbox": "-3.594745,57.654045,-3.594745,57.654045",
-    "geom:latitude": 57.654045,
-    "geom:longitude": -3.594745,
+    "geom:bbox": "-3.594250,57.654985,-3.594250,57.654985",
+    "geom:latitude": 57.654985,
+    "geom:longitude": -3.59425,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "S92000003",
     "os:county_code": "S99999999",
     "os:district_code": "S12000020",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "S99999999",
     "src:geom": "os",
     "wof:belongsto": [
       102191581,
       85633159,
       136253055,
-      1864207963
+      1864207963,
+      1360698869,
+      1880762111,
+      404227471,
+      1880772981
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1662040961,
-    "wof:geomhash": "354fb503aab65b43812e312b7d07bb8d",
+    "wof:geomhash": "7fade5c2a3d91190c785d26faa46a853",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698869,
+        "empire_id": 136253055,
+        "macrocounty_id": 1880762111,
+        "macroregion_id": 404227471,
+        "postalcode_id": 1780435685,
+        "region_id": 1880772981
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +53,9 @@
       }
     ],
     "wof:id": 1780435685,
-    "wof:lastmodified": 1709395844,
+    "wof:lastmodified": 1736334197,
     "wof:name": "IV36 3SJ",
-    "wof:parent_id": 1864207963,
+    "wof:parent_id": 1360698869,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +63,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.594745,
-    57.654045,
-    -3.594745,
-    57.654045
+    -3.59425,
+    57.654985,
+    -3.59425,
+    57.654985
   ],
-  "geometry": {"coordinates":[-3.594745,57.654045],"type":"Point"}
+  "geometry": {"coordinates":[-3.59425,57.654985],"type":"Point"}
 }

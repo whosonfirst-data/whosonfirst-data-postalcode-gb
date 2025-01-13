@@ -2,36 +2,52 @@
   "id": 1712506955,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1994-05-01",
-    "date:cessation_upper": "1994-05-01",
-    "date:inception_lower": "1985-04-01",
-    "date:inception_upper": "1985-04-01",
-    "edtf:cessation": "1994-05-01",
-    "edtf:inception": "1985-04-01",
+    "date:inception_lower": "2024-03-01",
+    "date:inception_upper": "2024-03-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-03-01",
     "geom:area": 0,
-    "geom:bbox": "-1.309947,51.400899,-1.309947,51.400899",
-    "geom:latitude": 51.400899,
-    "geom:longitude": -1.309947,
+    "geom:bbox": "-1.323623,51.398344,-1.323623,51.398344",
+    "geom:latitude": 51.398344,
+    "geom:longitude": -1.323623,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000037",
-    "os:positional_quality_indicator": "8",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       102191581,
       136253055,
-      1864210021
+      1864210021,
+      1360698857,
+      404449013,
+      101852663,
+      1880762165,
+      404227469,
+      1880772969
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583791111,
-    "wof:geomhash": "cde55b8bc07344d18972f5498352e884",
+    "wof:geomhash": "88760ad7a2cf478cf842702a1508d72f",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698857,
+        "empire_id": 136253055,
+        "localadmin_id": 404449013,
+        "locality_id": 101852663,
+        "macrocounty_id": 1880762165,
+        "macroregion_id": 404227469,
+        "postalcode_id": 1712506955,
+        "region_id": 1880772969
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +57,9 @@
       }
     ],
     "wof:id": 1712506955,
-    "wof:lastmodified": 1709396134,
+    "wof:lastmodified": 1736334351,
     "wof:name": "RG14 5EJ",
-    "wof:parent_id": 1864210021,
+    "wof:parent_id": 101852663,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +67,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.309947,
-    51.400899,
-    -1.309947,
-    51.400899
+    -1.323623,
+    51.398344,
+    -1.323623,
+    51.398344
   ],
-  "geometry": {"coordinates":[-1.309947,51.400899],"type":"Point"}
+  "geometry": {"coordinates":[-1.323623,51.398344],"type":"Point"}
 }

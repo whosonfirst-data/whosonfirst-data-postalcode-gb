@@ -7,9 +7,9 @@
     "edtf:cessation": "",
     "edtf:inception": "1996-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.686978,54.961669,-1.686978,54.961669",
-    "geom:latitude": 54.961669,
-    "geom:longitude": -1.686978,
+    "geom:bbox": "-1.685545,54.961234,-1.685545,54.961234",
+    "geom:latitude": 54.961234,
+    "geom:longitude": -1.685545,
     "gp:parent_id": "36740",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -24,7 +24,13 @@
       85633159,
       102191581,
       136253055,
-      1864209017
+      1864209017,
+      1360698881,
+      1360817105,
+      101873371,
+      1880762063,
+      404227469,
+      1880773053
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,8 +38,20 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701146,
-    "wof:geomhash": "fdd49cd5148e7f0ab227d81db6deebc3",
+    "wof:geomhash": "a000524b234d46c96cd5c5abb1eecf79",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698881,
+        "empire_id": 136253055,
+        "localadmin_id": 1360817105,
+        "locality_id": 101873371,
+        "macrocounty_id": 1880762063,
+        "macroregion_id": 404227469,
+        "postalcode_id": 471037477,
+        "region_id": 1880773053
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -43,9 +61,9 @@
       }
     ],
     "wof:id": 471037477,
-    "wof:lastmodified": 1709396251,
+    "wof:lastmodified": 1736333308,
     "wof:name": "NE16 3BL",
-    "wof:parent_id": 1864209017,
+    "wof:parent_id": 101873371,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -53,10 +71,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.686978,
-    54.961669,
-    -1.686978,
-    54.961669
+    -1.685545,
+    54.961234,
+    -1.685545,
+    54.961234
   ],
-  "geometry": {"coordinates":[-1.686978,54.961669],"type":"Point"}
+  "geometry": {"coordinates":[-1.685545,54.961234],"type":"Point"}
 }

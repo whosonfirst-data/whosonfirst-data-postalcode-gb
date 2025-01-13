@@ -2,30 +2,36 @@
   "id": 437914537,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2005-11-01",
-    "date:cessation_upper": "2005-11-01",
-    "date:inception_lower": "1995-12-01",
-    "date:inception_upper": "1995-12-01",
-    "edtf:cessation": "2005-11-01",
-    "edtf:inception": "1995-12-01",
+    "date:cessation_lower": "2024-06-01",
+    "date:cessation_upper": "2024-06-01",
+    "date:inception_lower": "2024-03-01",
+    "date:inception_upper": "2024-03-01",
+    "edtf:cessation": "2024-06-01",
+    "edtf:inception": "2024-03-01",
     "geom:area": 0,
-    "geom:bbox": "-1.318970,54.632163,-1.318970,54.632163",
-    "geom:latitude": 54.632163,
-    "geom:longitude": -1.31897,
+    "geom:bbox": "-1.331174,54.626626,-1.331174,54.626626",
+    "geom:latitude": 54.626626,
+    "geom:longitude": -1.331174,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000004",
-    "os:positional_quality_indicator": "1",
+    "os:positional_quality_indicator": "5",
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       102191581,
       136253055,
-      1864211279
+      1864211279,
+      1360699087,
+      404431567,
+      1243583133,
+      1880762117,
+      404227469,
+      1880773141
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,8 +39,20 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701631,
-    "wof:geomhash": "c8ecd3e4c5ad8476d6ea7cdad4af5fac",
+    "wof:geomhash": "54bd23bceb0cc6beed41d12b0a899d26",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360699087,
+        "empire_id": 136253055,
+        "localadmin_id": 404431567,
+        "locality_id": 1243583133,
+        "macrocounty_id": 1880762117,
+        "macroregion_id": 404227469,
+        "postalcode_id": 437914537,
+        "region_id": 1880773141
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -44,9 +62,9 @@
       }
     ],
     "wof:id": 437914537,
-    "wof:lastmodified": 1709395860,
+    "wof:lastmodified": 1736334088,
     "wof:name": "TS22 5SS",
-    "wof:parent_id": 1864211279,
+    "wof:parent_id": 1243583133,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -54,10 +72,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.31897,
-    54.632163,
-    -1.31897,
-    54.632163
+    -1.331174,
+    54.626626,
+    -1.331174,
+    54.626626
   ],
-  "geometry": {"coordinates":[-1.31897,54.632163],"type":"Point"}
+  "geometry": {"coordinates":[-1.331174,54.626626],"type":"Point"}
 }

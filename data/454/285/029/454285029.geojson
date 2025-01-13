@@ -7,8 +7,8 @@
     "edtf:cessation": "",
     "edtf:inception": "1982-03-01",
     "geom:area": 0,
-    "geom:bbox": "-1.586170,52.480020,-1.586170,52.480020",
-    "geom:latitude": 52.48002,
+    "geom:bbox": "-1.586170,52.480002,-1.586170,52.480002",
+    "geom:latitude": 52.480002,
     "geom:longitude": -1.58617,
     "gp:parent_id": "20172",
     "iso:country": "GB",
@@ -24,7 +24,13 @@
       85633159,
       102191581,
       136253055,
-      1864206537
+      1864206537,
+      1880771669,
+      404434865,
+      1125940457,
+      1880762065,
+      404227469,
+      1880762725
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,8 +38,20 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701444,
-    "wof:geomhash": "a285a7cae91bc2141ce7902db0af6ee3",
+    "wof:geomhash": "d7090e67a9bb2a3712f31f9e4029e2ba",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1880771669,
+        "empire_id": 136253055,
+        "localadmin_id": 404434865,
+        "locality_id": 1125940457,
+        "macrocounty_id": 1880762065,
+        "macroregion_id": 404227469,
+        "postalcode_id": 454285029,
+        "region_id": 1880762725
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -43,9 +61,9 @@
       }
     ],
     "wof:id": 454285029,
-    "wof:lastmodified": 1709396078,
+    "wof:lastmodified": 1736333687,
     "wof:name": "CV7 8PB",
-    "wof:parent_id": 1864206537,
+    "wof:parent_id": 1125940457,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -54,9 +72,9 @@
   },
   "bbox": [
     -1.58617,
-    52.48002,
+    52.480002,
     -1.58617,
-    52.48002
+    52.480002
   ],
-  "geometry": {"coordinates":[-1.58617,52.48002],"type":"Point"}
+  "geometry": {"coordinates":[-1.58617,52.480002],"type":"Point"}
 }

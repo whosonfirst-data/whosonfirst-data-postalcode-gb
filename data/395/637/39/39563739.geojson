@@ -2,36 +2,52 @@
   "id": 39563739,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1997-12-01",
-    "date:cessation_upper": "1997-12-01",
-    "date:inception_lower": "1980-01-01",
-    "date:inception_upper": "1980-01-01",
-    "edtf:cessation": "1997-12-01",
-    "edtf:inception": "1980-01-01",
+    "date:inception_lower": "2024-07-01",
+    "date:inception_upper": "2024-07-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-07-01",
     "geom:area": 0,
-    "geom:bbox": "0.229452,51.912326,0.229452,51.912326",
-    "geom:latitude": 51.912326,
-    "geom:longitude": 0.229452,
+    "geom:bbox": "0.221038,51.912763,0.221038,51.912763",
+    "geom:latitude": 51.912763,
+    "geom:longitude": 0.221038,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000012",
     "os:district_code": "E07000077",
-    "os:positional_quality_indicator": "8",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       102191581,
       136253055,
-      1864206355
+      1864206355,
+      1880771429,
+      404430023,
+      1125937837,
+      1880762159,
+      404227469,
+      1880762723
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583802880,
-    "wof:geomhash": "b21aad85b2e814f3de4a632671d0a360",
+    "wof:geomhash": "9c15a44b8b32270f97d1bd596699bb61",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1880771429,
+        "empire_id": 136253055,
+        "localadmin_id": 404430023,
+        "locality_id": 1125937837,
+        "macrocounty_id": 1880762159,
+        "macroregion_id": 404227469,
+        "postalcode_id": 39563739,
+        "region_id": 1880762723
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +57,9 @@
       }
     ],
     "wof:id": 39563739,
-    "wof:lastmodified": 1709396052,
+    "wof:lastmodified": 1736334398,
     "wof:name": "CM22 6EJ",
-    "wof:parent_id": 1864206355,
+    "wof:parent_id": 1125937837,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +67,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.229452,
-    51.912326,
-    0.229452,
-    51.912326
+    0.221038,
+    51.912763,
+    0.221038,
+    51.912763
   ],
-  "geometry": {"coordinates":[0.229452,51.912326],"type":"Point"}
+  "geometry": {"coordinates":[0.221038,51.912763],"type":"Point"}
 }

@@ -2,9 +2,11 @@
   "id": 874426445,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-01",
+    "date:cessation_upper": "2024-05-01",
     "date:inception_lower": "2014-07-01",
     "date:inception_upper": "2014-07-01",
-    "edtf:cessation": "",
+    "edtf:cessation": "2024-05-01",
     "edtf:inception": "2014-07-01",
     "geom:area": 0,
     "geom:bbox": "-2.816687,51.287063,-2.816687,51.287063",
@@ -12,7 +14,7 @@
     "geom:longitude": -2.816687,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000066",
@@ -23,13 +25,27 @@
       85633159,
       102191581,
       136253055,
-      1864205999
+      1864205999,
+      1360699059,
+      404435883,
+      1126014401,
+      1880762071
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1468875277,
     "wof:geomhash": "30695d1fe5c7c042c8ccd51fd93ff735",
     "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": -1,
+        "county_id": 1360699059,
+        "localadmin_id": 404435883,
+        "locality_id": 1126014401,
+        "macrocounty_id": 1880762071,
+        "postalcode_id": 874426445,
+        "region_id": -1
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -39,9 +55,9 @@
       }
     ],
     "wof:id": 874426445,
-    "wof:lastmodified": 1709396216,
+    "wof:lastmodified": 1736334020,
     "wof:name": "BS26 2WJ",
-    "wof:parent_id": 1864205999,
+    "wof:parent_id": 1126014401,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],

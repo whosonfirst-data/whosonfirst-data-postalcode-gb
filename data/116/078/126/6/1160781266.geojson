@@ -2,36 +2,50 @@
   "id": 1160781266,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1991-12-01",
-    "date:cessation_upper": "1991-12-01",
-    "date:inception_lower": "1990-02-01",
-    "date:inception_upper": "1990-02-01",
-    "edtf:cessation": "1991-12-01",
-    "edtf:inception": "1990-02-01",
+    "date:inception_lower": "2024-07-01",
+    "date:inception_upper": "2024-07-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-07-01",
     "geom:area": 0,
-    "geom:bbox": "-0.879333,52.773194,-0.879333,52.773194",
-    "geom:latitude": 52.773194,
-    "geom:longitude": -0.879333,
+    "geom:bbox": "-0.896816,52.780301,-0.896816,52.780301",
+    "geom:latitude": 52.780301,
+    "geom:longitude": -0.896816,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000018",
     "os:district_code": "E07000133",
-    "os:positional_quality_indicator": "8",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       102191581,
       136253055,
-      1864208399
+      1864208399,
+      1880771561,
+      101853619,
+      1880762051,
+      404227469,
+      1880773085
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583789686,
-    "wof:geomhash": "1b8f4d90613eee49a5961a8ab3f10e0c",
+    "wof:geomhash": "4a6e882ddd6ca624dd099229184d970b",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1880771561,
+        "empire_id": 136253055,
+        "locality_id": 101853619,
+        "macrocounty_id": 1880762051,
+        "macroregion_id": 404227469,
+        "postalcode_id": 1160781266,
+        "region_id": 1880773085
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +55,9 @@
       }
     ],
     "wof:id": 1160781266,
-    "wof:lastmodified": 1709396085,
+    "wof:lastmodified": 1736333946,
     "wof:name": "LE13 0YE",
-    "wof:parent_id": 1864208399,
+    "wof:parent_id": 101853619,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +65,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.879333,
-    52.773194,
-    -0.879333,
-    52.773194
+    -0.896816,
+    52.780301,
+    -0.896816,
+    52.780301
   ],
-  "geometry": {"coordinates":[-0.879333,52.773194],"type":"Point"}
+  "geometry": {"coordinates":[-0.896816,52.780301],"type":"Point"}
 }

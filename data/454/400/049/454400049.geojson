@@ -7,9 +7,9 @@
     "edtf:cessation": "",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.787074,54.598770,-1.787074,54.598770",
-    "geom:latitude": 54.59877,
-    "geom:longitude": -1.787074,
+    "geom:bbox": "-1.787600,54.598896,-1.787600,54.598896",
+    "geom:latitude": 54.598896,
+    "geom:longitude": -1.7876,
     "gp:parent_id": "35813",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -24,7 +24,11 @@
       85633159,
       102191581,
       136253055,
-      1864206773
+      1864206773,
+      1360699055,
+      404435397,
+      1360757291,
+      1880762117
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,8 +36,18 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701542,
-    "wof:geomhash": "28f5e0469bd61e037bccc63551b76e82",
+    "wof:geomhash": "8434bfb98b445c23df776a42d2a92894",
     "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": -1,
+        "county_id": 1360699055,
+        "localadmin_id": 404435397,
+        "locality_id": 1360757291,
+        "macrocounty_id": 1880762117,
+        "postalcode_id": 454400049,
+        "region_id": -1
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -43,9 +57,9 @@
       }
     ],
     "wof:id": 454400049,
-    "wof:lastmodified": 1709408796,
+    "wof:lastmodified": 1736333651,
     "wof:name": "DL2 3AL",
-    "wof:parent_id": 1864206773,
+    "wof:parent_id": 1360757291,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -53,10 +67,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.787074,
-    54.59877,
-    -1.787074,
-    54.59877
+    -1.7876,
+    54.598896,
+    -1.7876,
+    54.598896
   ],
-  "geometry": {"coordinates":[-1.787074,54.59877],"type":"Point"}
+  "geometry": {"coordinates":[-1.7876,54.598896],"type":"Point"}
 }

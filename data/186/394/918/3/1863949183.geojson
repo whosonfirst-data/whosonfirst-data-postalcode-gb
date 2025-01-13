@@ -2,10 +2,10 @@
   "id": 1863949183,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-03-01",
-    "date:inception_upper": "2023-03-01",
+    "date:inception_lower": "2024-06-01",
+    "date:inception_upper": "2024-06-01",
     "edtf:cessation": "",
-    "edtf:inception": "2023-03-01",
+    "edtf:inception": "2024-06-01",
     "geom:area": 0,
     "geom:bbox": "-3.979682,55.866649,-3.979682,55.866649",
     "geom:latitude": 55.866649,
@@ -23,7 +23,11 @@
       102191581,
       85633159,
       136253055,
-      1864208941
+      1864208941,
+      1360698949,
+      1880762099,
+      404227471,
+      1880773061
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -33,15 +37,25 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
+        "county_id": 1360698949,
+        "empire_id": 136253055,
+        "macrocounty_id": 1880762099,
+        "macroregion_id": 404227471,
+        "postalcode_id": 1863949183,
+        "region_id": 1880773061
+      },
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
         "empire_id": 136253055,
         "postalcode_id": 1863949183,
         "postalregion_id": 1864208941
       }
     ],
     "wof:id": 1863949183,
-    "wof:lastmodified": 1709395867,
+    "wof:lastmodified": 1736334369,
     "wof:name": "ML6 1BZ",
-    "wof:parent_id": 1864208941,
+    "wof:parent_id": 1360698949,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],

@@ -7,8 +7,8 @@
     "edtf:cessation": "",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.843615,51.415661,-2.843615,51.415661",
-    "geom:latitude": 51.415661,
+    "geom:bbox": "-2.843615,51.415652,-2.843615,51.415652",
+    "geom:latitude": 51.415652,
     "geom:longitude": -2.843615,
     "gp:parent_id": "24781",
     "iso:country": "GB",
@@ -24,7 +24,11 @@
       85633159,
       102191581,
       136253055,
-      1864205987
+      1864205987,
+      1360699111,
+      404454655,
+      1125875469,
+      1880762071
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,8 +36,18 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701467,
-    "wof:geomhash": "ce7b8900c9ecec776a6acbbecbca1e1d",
+    "wof:geomhash": "6266ba134629ad4251ee8451faca650f",
     "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": -1,
+        "county_id": 1360699111,
+        "localadmin_id": 404454655,
+        "locality_id": 1125875469,
+        "macrocounty_id": 1880762071,
+        "postalcode_id": 438280363,
+        "region_id": -1
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -43,9 +57,9 @@
       }
     ],
     "wof:id": 438280363,
-    "wof:lastmodified": 1709396088,
+    "wof:lastmodified": 1736334384,
     "wof:name": "BS21 6TR",
-    "wof:parent_id": 1864205987,
+    "wof:parent_id": 1125875469,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -54,9 +68,9 @@
   },
   "bbox": [
     -2.843615,
-    51.415661,
+    51.415652,
     -2.843615,
-    51.415661
+    51.415652
   ],
-  "geometry": {"coordinates":[-2.843615,51.415661],"type":"Point"}
+  "geometry": {"coordinates":[-2.843615,51.415652],"type":"Point"}
 }

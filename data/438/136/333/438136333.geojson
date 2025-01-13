@@ -2,9 +2,11 @@
   "id": 438136333,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-04-01",
+    "date:cessation_upper": "2024-04-01",
     "date:inception_lower": "2004-11-01",
     "date:inception_upper": "2004-11-01",
-    "edtf:cessation": "",
+    "edtf:cessation": "2024-04-01",
     "edtf:inception": "2004-11-01",
     "geom:area": 0,
     "geom:bbox": "-1.722381,53.786250,-1.722381,53.786250",
@@ -13,7 +15,7 @@
     "gp:parent_id": "13527",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000032",
@@ -24,7 +26,12 @@
       85633159,
       102191581,
       136253055,
-      1864205765
+      1864205765,
+      1360698963,
+      101750581,
+      1880762059,
+      404227469,
+      1880773017
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -37,15 +44,26 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
+        "county_id": 1360698963,
+        "empire_id": 136253055,
+        "locality_id": 101750581,
+        "macrocounty_id": 1880762059,
+        "macroregion_id": 404227469,
+        "postalcode_id": 438136333,
+        "region_id": 1880773017
+      },
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
         "empire_id": 136253055,
         "postalcode_id": 438136333,
         "postalregion_id": 1864205765
       }
     ],
     "wof:id": 438136333,
-    "wof:lastmodified": 1709396107,
+    "wof:lastmodified": 1736334395,
     "wof:name": "BD4 8TG",
-    "wof:parent_id": 1864205765,
+    "wof:parent_id": 101750581,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],

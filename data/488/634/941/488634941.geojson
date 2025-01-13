@@ -7,9 +7,9 @@
     "edtf:cessation": "",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.983480,55.955440,-2.983480,55.955440",
-    "geom:latitude": 55.95544,
-    "geom:longitude": -2.98348,
+    "geom:bbox": "-2.983368,55.955459,-2.983368,55.955459",
+    "geom:latitude": 55.955459,
+    "geom:longitude": -2.983368,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -23,7 +23,11 @@
       85633159,
       102191581,
       136253055,
-      1864207083
+      1864207083,
+      1360699017,
+      1880762091,
+      404227471,
+      1880773107
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,8 +35,18 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701631,
-    "wof:geomhash": "3d8612768664e7fa94cef39e05f4807d",
+    "wof:geomhash": "a8a65a8b122263505acd2c23454b1121",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360699017,
+        "empire_id": 136253055,
+        "macrocounty_id": 1880762091,
+        "macroregion_id": 404227471,
+        "postalcode_id": 488634941,
+        "region_id": 1880773107
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -42,9 +56,9 @@
       }
     ],
     "wof:id": 488634941,
-    "wof:lastmodified": 1709396016,
+    "wof:lastmodified": 1736333283,
     "wof:name": "EH32 9LR",
-    "wof:parent_id": 1864207083,
+    "wof:parent_id": 1360699017,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -52,10 +66,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.98348,
-    55.95544,
-    -2.98348,
-    55.95544
+    -2.983368,
+    55.955459,
+    -2.983368,
+    55.955459
   ],
-  "geometry": {"coordinates":[-2.98348,55.95544],"type":"Point"}
+  "geometry": {"coordinates":[-2.983368,55.955459],"type":"Point"}
 }

@@ -7,8 +7,8 @@
     "edtf:cessation": "",
     "edtf:inception": "1999-06-01",
     "geom:area": 0,
-    "geom:bbox": "-3.049034,53.282697,-3.049034,53.282697",
-    "geom:latitude": 53.282697,
+    "geom:bbox": "-3.049034,53.282740,-3.049034,53.282740",
+    "geom:latitude": 53.28274,
     "geom:longitude": -3.049034,
     "gp:parent_id": "26576",
     "iso:country": "GB",
@@ -24,7 +24,13 @@
       85633159,
       102191581,
       136253055,
-      1864206305
+      1864206305,
+      1360698923,
+      404452779,
+      101871965,
+      1880762135,
+      404227469,
+      1880773021
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,8 +38,20 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701271,
-    "wof:geomhash": "c6ca4a3aee184083b5599095047183fe",
+    "wof:geomhash": "dd7fda4d7db1fc864245fc32b7a466c3",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698923,
+        "empire_id": 136253055,
+        "localadmin_id": 404452779,
+        "locality_id": 101871965,
+        "macrocounty_id": 1880762135,
+        "macroregion_id": 404227469,
+        "postalcode_id": 454125521,
+        "region_id": 1880773021
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -43,9 +61,9 @@
       }
     ],
     "wof:id": 454125521,
-    "wof:lastmodified": 1709395893,
+    "wof:lastmodified": 1736333246,
     "wof:name": "CH64 4EG",
-    "wof:parent_id": 1864206305,
+    "wof:parent_id": 101871965,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -54,9 +72,9 @@
   },
   "bbox": [
     -3.049034,
-    53.282697,
+    53.28274,
     -3.049034,
-    53.282697
+    53.28274
   ],
-  "geometry": {"coordinates":[-3.049034,53.282697],"type":"Point"}
+  "geometry": {"coordinates":[-3.049034,53.28274],"type":"Point"}
 }

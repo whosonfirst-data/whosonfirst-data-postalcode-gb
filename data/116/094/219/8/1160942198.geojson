@@ -2,36 +2,52 @@
   "id": 1160942198,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1991-12-01",
-    "date:cessation_upper": "1991-12-01",
-    "date:inception_lower": "1981-06-01",
-    "date:inception_upper": "1981-06-01",
-    "edtf:cessation": "1991-12-01",
-    "edtf:inception": "1981-06-01",
+    "date:inception_lower": "2024-07-01",
+    "date:inception_upper": "2024-07-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-07-01",
     "geom:area": 0,
-    "geom:bbox": "1.175113,51.078361,1.175113,51.078361",
-    "geom:latitude": 51.078361,
-    "geom:longitude": 1.175113,
+    "geom:bbox": "1.160061,51.081634,1.160061,51.081634",
+    "geom:latitude": 51.081634,
+    "geom:longitude": 1.160061,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000016",
     "os:district_code": "E07000112",
-    "os:positional_quality_indicator": "8",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       102191581,
       136253055,
-      1864206469
+      1864206469,
+      1880771505,
+      404443685,
+      101854641,
+      1880762057,
+      404227469,
+      1880762705
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583796817,
-    "wof:geomhash": "d2fb03ea5caccd48f724faff321b4d90",
+    "wof:geomhash": "2beb4fef31ddccd3ca5d41224c66cca8",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1880771505,
+        "empire_id": 136253055,
+        "localadmin_id": 404443685,
+        "locality_id": 101854641,
+        "macrocounty_id": 1880762057,
+        "macroregion_id": 404227469,
+        "postalcode_id": 1160942198,
+        "region_id": 1880762705
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +57,9 @@
       }
     ],
     "wof:id": 1160942198,
-    "wof:lastmodified": 1709396129,
+    "wof:lastmodified": 1736333875,
     "wof:name": "CT20 2UT",
-    "wof:parent_id": 1864206469,
+    "wof:parent_id": 101854641,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +67,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.175113,
-    51.078361,
-    1.175113,
-    51.078361
+    1.160061,
+    51.081634,
+    1.160061,
+    51.081634
   ],
-  "geometry": {"coordinates":[1.175113,51.078361],"type":"Point"}
+  "geometry": {"coordinates":[1.160061,51.081634],"type":"Point"}
 }

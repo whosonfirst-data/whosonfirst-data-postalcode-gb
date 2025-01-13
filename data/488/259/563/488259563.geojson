@@ -7,9 +7,9 @@
     "edtf:cessation": "",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.436093,54.171350,-1.436093,54.171350",
-    "geom:latitude": 54.17135,
-    "geom:longitude": -1.436093,
+    "geom:bbox": "-1.436060,54.171502,-1.436060,54.171502",
+    "geom:latitude": 54.171502,
+    "geom:longitude": -1.43606,
     "gp:parent_id": "32872",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -24,7 +24,11 @@
       85633159,
       102191581,
       136253055,
-      1864211775
+      1864211775,
+      1360698753,
+      404429641,
+      1360753159,
+      1880762011
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,8 +36,18 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701241,
-    "wof:geomhash": "61785fd7a75e6e017ec5b353736a6fa7",
+    "wof:geomhash": "9c0e1e2b8f16986bc006a446e6f67018",
     "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": -1,
+        "county_id": 1360698753,
+        "localadmin_id": 404429641,
+        "locality_id": 1360753159,
+        "macrocounty_id": 1880762011,
+        "postalcode_id": 488259563,
+        "region_id": -1
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -43,9 +57,9 @@
       }
     ],
     "wof:id": 488259563,
-    "wof:lastmodified": 1709396021,
+    "wof:lastmodified": 1736333628,
     "wof:name": "YO7 3QB",
-    "wof:parent_id": 1864211775,
+    "wof:parent_id": 1360753159,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -53,10 +67,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.436093,
-    54.17135,
-    -1.436093,
-    54.17135
+    -1.43606,
+    54.171502,
+    -1.43606,
+    54.171502
   ],
-  "geometry": {"coordinates":[-1.436093,54.17135],"type":"Point"}
+  "geometry": {"coordinates":[-1.43606,54.171502],"type":"Point"}
 }

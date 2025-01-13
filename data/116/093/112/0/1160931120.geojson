@@ -2,36 +2,50 @@
   "id": 1160931120,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2001-07-01",
-    "date:cessation_upper": "2001-07-01",
-    "date:inception_lower": "1998-06-01",
-    "date:inception_upper": "1998-06-01",
-    "edtf:cessation": "2001-07-01",
-    "edtf:inception": "1998-06-01",
+    "date:inception_lower": "2024-09-01",
+    "date:inception_upper": "2024-09-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-09-01",
     "geom:area": 0,
-    "geom:bbox": "-0.440478,51.774909,-0.440478,51.774909",
-    "geom:latitude": 51.774909,
-    "geom:longitude": -0.440478,
+    "geom:bbox": "-0.434368,51.769862,-0.434368,51.769862",
+    "geom:latitude": 51.769862,
+    "geom:longitude": -0.434368,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000015",
     "os:district_code": "E07000096",
-    "os:positional_quality_indicator": "6",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       102191581,
       136253055,
-      1864207667
+      1864207667,
+      1880771489,
+      101750421,
+      1880762153,
+      404227469,
+      1880762721
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583796314,
-    "wof:geomhash": "f210684df93ab0e1f699d0ca3352f29b",
+    "wof:geomhash": "cd5bc557ac93ec3d3bd7641821f177e8",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1880771489,
+        "empire_id": 136253055,
+        "locality_id": 101750421,
+        "macrocounty_id": 1880762153,
+        "macroregion_id": 404227469,
+        "postalcode_id": 1160931120,
+        "region_id": 1880762721
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +55,9 @@
       }
     ],
     "wof:id": 1160931120,
-    "wof:lastmodified": 1709396065,
+    "wof:lastmodified": 1736333939,
     "wof:name": "HP2 7GA",
-    "wof:parent_id": 1864207667,
+    "wof:parent_id": 101750421,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +65,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.440478,
-    51.774909,
-    -0.440478,
-    51.774909
+    -0.434368,
+    51.769862,
+    -0.434368,
+    51.769862
   ],
-  "geometry": {"coordinates":[-0.440478,51.774909],"type":"Point"}
+  "geometry": {"coordinates":[-0.434368,51.769862],"type":"Point"}
 }

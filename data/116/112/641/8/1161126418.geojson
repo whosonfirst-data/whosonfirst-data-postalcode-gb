@@ -16,14 +16,19 @@
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000005",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       102191581,
       136253055,
-      1864209409
+      1864209409,
+      1360699063,
+      101750565,
+      1880762163,
+      404227469,
+      1880773095
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -33,15 +38,26 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
+        "county_id": 1360699063,
+        "empire_id": 136253055,
+        "locality_id": 101750565,
+        "macrocounty_id": 1880762163,
+        "macroregion_id": 404227469,
+        "postalcode_id": 1161126418,
+        "region_id": 1880773095
+      },
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
         "empire_id": 136253055,
         "postalcode_id": 1161126418,
         "postalregion_id": 1864209409
       }
     ],
     "wof:id": 1161126418,
-    "wof:lastmodified": 1709408841,
+    "wof:lastmodified": 1736333893,
     "wof:name": "OL10 2AQ",
-    "wof:parent_id": 1864209409,
+    "wof:parent_id": 101750565,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],

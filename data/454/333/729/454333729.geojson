@@ -7,8 +7,8 @@
     "edtf:cessation": "",
     "edtf:inception": "2005-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.739681,52.795090,-1.739681,52.795090",
-    "geom:latitude": 52.79509,
+    "geom:bbox": "-1.739681,52.795108,-1.739681,52.795108",
+    "geom:latitude": 52.795108,
     "geom:longitude": -1.739681,
     "gp:parent_id": "32917",
     "iso:country": "GB",
@@ -24,7 +24,11 @@
       85633159,
       102191581,
       136253055,
-      1864206645
+      1864206645,
+      1880771629,
+      404441913,
+      1125782423,
+      1880761999
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,8 +36,18 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701496,
-    "wof:geomhash": "f95bbfc5b0e5a9584c9a1739b7ddd066",
+    "wof:geomhash": "aeea8aa32b06e459f94dcd1b164305be",
     "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": -1,
+        "county_id": 1880771629,
+        "localadmin_id": 404441913,
+        "locality_id": 1125782423,
+        "macrocounty_id": 1880761999,
+        "postalcode_id": 454333729,
+        "region_id": -1
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -43,9 +57,9 @@
       }
     ],
     "wof:id": 454333729,
-    "wof:lastmodified": 1709396034,
+    "wof:lastmodified": 1736333403,
     "wof:name": "DE13 9DF",
-    "wof:parent_id": 1864206645,
+    "wof:parent_id": 1125782423,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -54,9 +68,9 @@
   },
   "bbox": [
     -1.739681,
-    52.79509,
+    52.795108,
     -1.739681,
-    52.79509
+    52.795108
   ],
-  "geometry": {"coordinates":[-1.739681,52.79509],"type":"Point"}
+  "geometry": {"coordinates":[-1.739681,52.795108],"type":"Point"}
 }

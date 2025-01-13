@@ -7,9 +7,9 @@
     "edtf:cessation": "",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.382215,53.771792,-2.382215,53.771792",
-    "geom:latitude": 53.771792,
-    "geom:longitude": -2.382215,
+    "geom:bbox": "-2.382277,53.771927,-2.382277,53.771927",
+    "geom:latitude": 53.771927,
+    "geom:longitude": -2.382277,
     "gp:parent_id": "16240",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -24,7 +24,12 @@
       85633159,
       102191581,
       136253055,
-      1864205711
+      1864205711,
+      1880771551,
+      101750585,
+      1880762053,
+      404227469,
+      1880762711
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,8 +37,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701268,
-    "wof:geomhash": "748763f69c06080bdbfe31204abdc7d6",
+    "wof:geomhash": "63abb5a4d30117f5074fc2db67187f8d",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1880771551,
+        "empire_id": 136253055,
+        "locality_id": 101750585,
+        "macrocounty_id": 1880762053,
+        "macroregion_id": 404227469,
+        "postalcode_id": 438097929,
+        "region_id": 1880762711
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -43,9 +59,9 @@
       }
     ],
     "wof:id": 438097929,
-    "wof:lastmodified": 1709396095,
+    "wof:lastmodified": 1736334432,
     "wof:name": "BB5 5HD",
-    "wof:parent_id": 1864205711,
+    "wof:parent_id": 101750585,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -53,10 +69,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.382215,
-    53.771792,
-    -2.382215,
-    53.771792
+    -2.382277,
+    53.771927,
+    -2.382277,
+    53.771927
   ],
-  "geometry": {"coordinates":[-2.382215,53.771792],"type":"Point"}
+  "geometry": {"coordinates":[-2.382277,53.771927],"type":"Point"}
 }

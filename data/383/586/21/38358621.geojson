@@ -2,36 +2,52 @@
   "id": 38358621,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1996-12-01",
-    "date:cessation_upper": "1996-12-01",
-    "date:inception_lower": "1994-05-01",
-    "date:inception_upper": "1994-05-01",
-    "edtf:cessation": "1996-12-01",
-    "edtf:inception": "1994-05-01",
+    "date:cessation_lower": "2024-10-01",
+    "date:cessation_upper": "2024-10-01",
+    "date:inception_lower": "2024-06-01",
+    "date:inception_upper": "2024-06-01",
+    "edtf:cessation": "2024-10-01",
+    "edtf:inception": "2024-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.269578,53.464039,-2.269578,53.464039",
-    "geom:latitude": 53.464039,
-    "geom:longitude": -2.269578,
+    "geom:bbox": "-2.262773,53.457338,-2.262773,53.457338",
+    "geom:latitude": 53.457338,
+    "geom:longitude": -2.262773,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000009",
-    "os:positional_quality_indicator": "8",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       102191581,
       136253055,
-      1864208729
+      1864208729,
+      1360698935,
+      1360817437,
+      1880762163,
+      404227469,
+      1880773095
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583789473,
-    "wof:geomhash": "c959da5c0fbfc74ac823a74f6fea5c32",
+    "wof:geomhash": "2ceca0395a70fb69746d407b8602fade",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698935,
+        "empire_id": 136253055,
+        "localadmin_id": 1360817437,
+        "macrocounty_id": 1880762163,
+        "macroregion_id": 404227469,
+        "postalcode_id": 38358621,
+        "region_id": 1880773095
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +57,9 @@
       }
     ],
     "wof:id": 38358621,
-    "wof:lastmodified": 1709396196,
+    "wof:lastmodified": 1736333976,
     "wof:name": "M16 9JB",
-    "wof:parent_id": 1864208729,
+    "wof:parent_id": 1360817437,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +67,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.269578,
-    53.464039,
-    -2.269578,
-    53.464039
+    -2.262773,
+    53.457338,
+    -2.262773,
+    53.457338
   ],
-  "geometry": {"coordinates":[-2.269578,53.464039],"type":"Point"}
+  "geometry": {"coordinates":[-2.262773,53.457338],"type":"Point"}
 }

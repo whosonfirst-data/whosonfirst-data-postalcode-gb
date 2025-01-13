@@ -2,36 +2,52 @@
   "id": 1712479105,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1996-12-01",
-    "date:cessation_upper": "1996-12-01",
-    "date:inception_lower": "1995-01-01",
-    "date:inception_upper": "1995-01-01",
-    "edtf:cessation": "1996-12-01",
-    "edtf:inception": "1995-01-01",
+    "date:inception_lower": "2024-09-01",
+    "date:inception_upper": "2024-09-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-09-01",
     "geom:area": 0,
-    "geom:bbox": "-0.700622,50.782435,-0.700622,50.782435",
-    "geom:latitude": 50.782435,
-    "geom:longitude": -0.700622,
+    "geom:bbox": "-0.733008,50.783797,-0.733008,50.783797",
+    "geom:latitude": 50.783797,
+    "geom:longitude": -0.733008,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000032",
     "os:district_code": "E07000224",
-    "os:positional_quality_indicator": "8",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       102191581,
       136253055,
-      1864209941
+      1864209941,
+      1880771681,
+      1880762061,
+      404227469,
+      1880762709,
+      404449953,
+      1126059857
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583789863,
-    "wof:geomhash": "58b2132c70c8bda854856fc34f6b0bc2",
+    "wof:geomhash": "80d0b3b5028fc6444e30ff1fda7c103f",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1880771681,
+        "empire_id": 136253055,
+        "localadmin_id": 404449953,
+        "locality_id": 1126059857,
+        "macrocounty_id": 1880762061,
+        "macroregion_id": 404227469,
+        "postalcode_id": 1712479105,
+        "region_id": 1880762709
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +57,9 @@
       }
     ],
     "wof:id": 1712479105,
-    "wof:lastmodified": 1709396180,
+    "wof:lastmodified": 1736334256,
     "wof:name": "PO21 3UH",
-    "wof:parent_id": 1864209941,
+    "wof:parent_id": 1126059857,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +67,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.700622,
-    50.782435,
-    -0.700622,
-    50.782435
+    -0.733008,
+    50.783797,
+    -0.733008,
+    50.783797
   ],
-  "geometry": {"coordinates":[-0.700622,50.782435],"type":"Point"}
+  "geometry": {"coordinates":[-0.733008,50.783797],"type":"Point"}
 }

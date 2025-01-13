@@ -2,19 +2,17 @@
   "id": 1712561599,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-09-01",
-    "date:cessation_upper": "2023-09-01",
-    "date:inception_lower": "2023-04-01",
-    "date:inception_upper": "2023-04-01",
-    "edtf:cessation": "2023-09-01",
-    "edtf:inception": "2023-04-01",
+    "date:inception_lower": "2024-04-01",
+    "date:inception_upper": "2024-04-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-04-01",
     "geom:area": 0,
-    "geom:bbox": "-0.834374,52.284770,-0.834374,52.284770",
-    "geom:latitude": 52.28477,
-    "geom:longitude": -0.834374,
+    "geom:bbox": "-0.834777,52.285062,-0.834777,52.285062",
+    "geom:latitude": 52.285062,
+    "geom:longitude": -0.834777,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000062",
@@ -25,13 +23,31 @@
       85633159,
       102191581,
       136253055,
-      1864209251
+      1864209251,
+      1880773231,
+      404440793,
+      1125865937,
+      1880762029,
+      404227469,
+      1880773265
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583793557,
-    "wof:geomhash": "714398327364c3295b072828206c6bdb",
+    "wof:geomhash": "e21be51a6587ccaa71ddc557ea4ef97d",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1880773231,
+        "empire_id": 136253055,
+        "localadmin_id": 404440793,
+        "locality_id": 1125865937,
+        "macrocounty_id": 1880762029,
+        "macroregion_id": 404227469,
+        "postalcode_id": 1712561599,
+        "region_id": 1880773265
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +57,9 @@
       }
     ],
     "wof:id": 1712561599,
-    "wof:lastmodified": 1709408993,
+    "wof:lastmodified": 1736334298,
     "wof:name": "NN6 0SB",
-    "wof:parent_id": 1864209251,
+    "wof:parent_id": 1125865937,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +67,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.834374,
-    52.28477,
-    -0.834374,
-    52.28477
+    -0.834777,
+    52.285062,
+    -0.834777,
+    52.285062
   ],
-  "geometry": {"coordinates":[-0.834374,52.28477],"type":"Point"}
+  "geometry": {"coordinates":[-0.834777,52.285062],"type":"Point"}
 }

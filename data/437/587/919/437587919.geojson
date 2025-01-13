@@ -2,20 +2,18 @@
   "id": 437587919,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2006-04-01",
-    "date:cessation_upper": "2006-04-01",
-    "date:inception_lower": "2003-06-01",
-    "date:inception_upper": "2003-06-01",
-    "edtf:cessation": "2006-04-01",
-    "edtf:inception": "2003-06-01",
+    "date:inception_lower": "2024-09-01",
+    "date:inception_upper": "2024-09-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-09-01",
     "geom:area": 0,
-    "geom:bbox": "-0.573964,53.730129,-0.573964,53.730129",
-    "geom:latitude": 53.730129,
-    "geom:longitude": -0.573964,
+    "geom:bbox": "-0.562619,53.722463,-0.562619,53.722463",
+    "geom:latitude": 53.722463,
+    "geom:longitude": -0.562619,
     "gp:parent_id": "14212",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000011",
@@ -26,7 +24,13 @@
       85633159,
       102191581,
       136253055,
-      1864207749
+      1864207749,
+      1360699001,
+      404441257,
+      1360756853,
+      1880762147,
+      404227469,
+      1880773091
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -34,8 +38,20 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701396,
-    "wof:geomhash": "056bd69d96567724ada622c55cb49fb5",
+    "wof:geomhash": "186c8cb2775365ee04c1f990097628ba",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360699001,
+        "empire_id": 136253055,
+        "localadmin_id": 404441257,
+        "locality_id": 1360756853,
+        "macrocounty_id": 1880762147,
+        "macroregion_id": 404227469,
+        "postalcode_id": 437587919,
+        "region_id": 1880773091
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -45,9 +61,9 @@
       }
     ],
     "wof:id": 437587919,
-    "wof:lastmodified": 1709395855,
+    "wof:lastmodified": 1736334147,
     "wof:name": "HU15 1WN",
-    "wof:parent_id": 1864207749,
+    "wof:parent_id": 1360756853,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -55,10 +71,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.573964,
-    53.730129,
-    -0.573964,
-    53.730129
+    -0.562619,
+    53.722463,
+    -0.562619,
+    53.722463
   ],
-  "geometry": {"coordinates":[-0.573964,53.730129],"type":"Point"}
+  "geometry": {"coordinates":[-0.562619,53.722463],"type":"Point"}
 }

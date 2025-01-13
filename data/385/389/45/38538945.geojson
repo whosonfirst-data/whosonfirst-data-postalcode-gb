@@ -2,36 +2,52 @@
   "id": 38538945,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1997-12-01",
-    "date:cessation_upper": "1997-12-01",
-    "date:inception_lower": "1996-12-01",
-    "date:inception_upper": "1996-12-01",
-    "edtf:cessation": "1997-12-01",
-    "edtf:inception": "1996-12-01",
+    "date:inception_lower": "2024-08-01",
+    "date:inception_upper": "2024-08-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-08-01",
     "geom:area": 0,
-    "geom:bbox": "0.243004,50.866137,0.243004,50.866137",
-    "geom:latitude": 50.866137,
-    "geom:longitude": 0.243004,
+    "geom:bbox": "0.256413,50.852150,0.256413,50.852150",
+    "geom:latitude": 50.85215,
+    "geom:longitude": 0.256413,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000011",
     "os:district_code": "E07000065",
-    "os:positional_quality_indicator": "6",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       102191581,
       136253055,
-      1864205909
+      1864205909,
+      1880771413,
+      404437773,
+      101853479,
+      1880762145,
+      404227469,
+      1880762703
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583791490,
-    "wof:geomhash": "639bc3f34d7d5c1125d94c3afc947756",
+    "wof:geomhash": "33ff5b8d6338461defb157e85d364446",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1880771413,
+        "empire_id": 136253055,
+        "localadmin_id": 404437773,
+        "locality_id": 101853479,
+        "macrocounty_id": 1880762145,
+        "macroregion_id": 404227469,
+        "postalcode_id": 38538945,
+        "region_id": 1880762703
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +57,9 @@
       }
     ],
     "wof:id": 38538945,
-    "wof:lastmodified": 1709396196,
+    "wof:lastmodified": 1736334170,
     "wof:name": "BN27 3QU",
-    "wof:parent_id": 1864205909,
+    "wof:parent_id": 101853479,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +67,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.243004,
-    50.866137,
-    0.243004,
-    50.866137
+    0.256413,
+    50.85215,
+    0.256413,
+    50.85215
   ],
-  "geometry": {"coordinates":[0.243004,50.866137],"type":"Point"}
+  "geometry": {"coordinates":[0.256413,50.85215],"type":"Point"}
 }

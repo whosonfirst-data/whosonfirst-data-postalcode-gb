@@ -2,36 +2,52 @@
   "id": 1712525453,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1994-05-01",
-    "date:cessation_upper": "1994-05-01",
-    "date:inception_lower": "1993-01-01",
-    "date:inception_upper": "1993-01-01",
-    "edtf:cessation": "1994-05-01",
-    "edtf:inception": "1993-01-01",
+    "date:inception_lower": "2024-06-01",
+    "date:inception_upper": "2024-06-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.329147,52.592839,-2.329147,52.592839",
-    "geom:latitude": 52.592839,
-    "geom:longitude": -2.329147,
+    "geom:bbox": "-2.215073,52.591939,-2.215073,52.591939",
+    "geom:latitude": 52.591939,
+    "geom:longitude": -2.215073,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
-    "os:county_code": "E99999999",
-    "os:district_code": "E06000051",
-    "os:positional_quality_indicator": "8",
+    "os:county_code": "E10000028",
+    "os:district_code": "E07000196",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000005",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       102191581,
       136253055,
-      1864211701
+      1864211701,
+      404227469,
+      1880771619,
+      404450321,
+      1360754969,
+      1880761999,
+      1880762719
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583791932,
-    "wof:geomhash": "5103b18a21f1c3b6fe596a204fbedf5c",
+    "wof:geomhash": "3b94a9880675cc90d241ddc960b25e23",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1880771619,
+        "empire_id": 136253055,
+        "localadmin_id": 404450321,
+        "locality_id": 1360754969,
+        "macrocounty_id": 1880761999,
+        "macroregion_id": 404227469,
+        "postalcode_id": 1712525453,
+        "region_id": 1880762719
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +57,9 @@
       }
     ],
     "wof:id": 1712525453,
-    "wof:lastmodified": 1709396113,
+    "wof:lastmodified": 1736334239,
     "wof:name": "WV6 7JZ",
-    "wof:parent_id": 1864211701,
+    "wof:parent_id": 1360754969,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +67,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.329147,
-    52.592839,
-    -2.329147,
-    52.592839
+    -2.215073,
+    52.591939,
+    -2.215073,
+    52.591939
   ],
-  "geometry": {"coordinates":[-2.329147,52.592839],"type":"Point"}
+  "geometry": {"coordinates":[-2.215073,52.591939],"type":"Point"}
 }

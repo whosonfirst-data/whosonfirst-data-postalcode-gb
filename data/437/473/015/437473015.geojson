@@ -7,9 +7,9 @@
     "edtf:cessation": "",
     "edtf:inception": "2023-09-01",
     "geom:area": 0,
-    "geom:bbox": "-2.179272,52.971906,-2.179272,52.971906",
-    "geom:latitude": 52.971906,
-    "geom:longitude": -2.179272,
+    "geom:bbox": "-2.178348,52.971683,-2.178348,52.971683",
+    "geom:latitude": 52.971683,
+    "geom:longitude": -2.178348,
     "gp:parent_id": "36240",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -24,7 +24,12 @@
       85633159,
       102191581,
       136253055,
-      1864210813
+      1864210813,
+      1360698805,
+      1175612703,
+      1880761999,
+      404227469,
+      1880762719
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,8 +37,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701253,
-    "wof:geomhash": "3ba634d0b165934ef668a171d093f2cd",
+    "wof:geomhash": "953498aea4f5d5d0a14738ec67a7c13e",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698805,
+        "empire_id": 136253055,
+        "locality_id": 1175612703,
+        "macrocounty_id": 1880761999,
+        "macroregion_id": 404227469,
+        "postalcode_id": 437473015,
+        "region_id": 1880762719
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -43,9 +59,9 @@
       }
     ],
     "wof:id": 437473015,
-    "wof:lastmodified": 1709408662,
+    "wof:lastmodified": 1736334138,
     "wof:name": "ST4 8FY",
-    "wof:parent_id": 1864210813,
+    "wof:parent_id": 1175612703,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -53,10 +69,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.179272,
-    52.971906,
-    -2.179272,
-    52.971906
+    -2.178348,
+    52.971683,
+    -2.178348,
+    52.971683
   ],
-  "geometry": {"coordinates":[-2.179272,52.971906],"type":"Point"}
+  "geometry": {"coordinates":[-2.178348,52.971683],"type":"Point"}
 }

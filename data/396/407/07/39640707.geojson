@@ -2,36 +2,52 @@
   "id": 39640707,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1996-06-01",
-    "date:cessation_upper": "1996-06-01",
-    "date:inception_lower": "1992-08-01",
-    "date:inception_upper": "1992-08-01",
-    "edtf:cessation": "1996-06-01",
-    "edtf:inception": "1992-08-01",
+    "date:inception_lower": "2024-10-01",
+    "date:inception_upper": "2024-10-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-10-01",
     "geom:area": 0,
-    "geom:bbox": "-1.796690,55.320902,-1.796690,55.320902",
-    "geom:latitude": 55.320902,
-    "geom:longitude": -1.79669,
+    "geom:bbox": "-1.800149,55.306210,-1.800149,55.306210",
+    "geom:latitude": 55.30621,
+    "geom:longitude": -1.800149,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000057",
-    "os:positional_quality_indicator": "8",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       102191581,
       136253055,
-      1864209113
+      1864209113,
+      1360698769,
+      404452005,
+      1125844765,
+      1880761987,
+      404227469,
+      1880772897
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583803675,
-    "wof:geomhash": "f1925becc64466f675bc549539cb9110",
+    "wof:geomhash": "4e7de6c9dd0ff1a50991ebc17107264c",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698769,
+        "empire_id": 136253055,
+        "localadmin_id": 404452005,
+        "locality_id": 1125844765,
+        "macrocounty_id": 1880761987,
+        "macroregion_id": 404227469,
+        "postalcode_id": 39640707,
+        "region_id": 1880772897
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +57,9 @@
       }
     ],
     "wof:id": 39640707,
-    "wof:lastmodified": 1709396186,
+    "wof:lastmodified": 1736333160,
     "wof:name": "NE65 8ER",
-    "wof:parent_id": 1864209113,
+    "wof:parent_id": 1125844765,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +67,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.79669,
-    55.320902,
-    -1.79669,
-    55.320902
+    -1.800149,
+    55.30621,
+    -1.800149,
+    55.30621
   ],
-  "geometry": {"coordinates":[-1.79669,55.320902],"type":"Point"}
+  "geometry": {"coordinates":[-1.800149,55.30621],"type":"Point"}
 }

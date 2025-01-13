@@ -2,36 +2,52 @@
   "id": 1161099032,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2000-06-01",
-    "date:cessation_upper": "2000-06-01",
-    "date:inception_lower": "1995-12-01",
-    "date:inception_upper": "1995-12-01",
-    "edtf:cessation": "2000-06-01",
-    "edtf:inception": "1995-12-01",
+    "date:inception_lower": "2024-04-01",
+    "date:inception_upper": "2024-04-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-04-01",
     "geom:area": 0,
-    "geom:bbox": "-2.428292,53.417760,-2.428292,53.417760",
-    "geom:latitude": 53.41776,
-    "geom:longitude": -2.428292,
+    "geom:bbox": "-2.429697,53.422877,-2.429697,53.422877",
+    "geom:latitude": 53.422877,
+    "geom:longitude": -2.429697,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000009",
-    "os:positional_quality_indicator": "6",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       102191581,
       136253055,
-      1864208767
+      1864208767,
+      1360698935,
+      404438307,
+      1125893425,
+      1880762163,
+      404227469,
+      1880773095
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583803800,
-    "wof:geomhash": "81f48d4b3a9aa85c4b8c27c4fc2c9c58",
+    "wof:geomhash": "e617a9035e087311df87b42dc98b2a33",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698935,
+        "empire_id": 136253055,
+        "localadmin_id": 404438307,
+        "locality_id": 1125893425,
+        "macrocounty_id": 1880762163,
+        "macroregion_id": 404227469,
+        "postalcode_id": 1161099032,
+        "region_id": 1880773095
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +57,9 @@
       }
     ],
     "wof:id": 1161099032,
-    "wof:lastmodified": 1709396177,
+    "wof:lastmodified": 1736333926,
     "wof:name": "M31 4SX",
-    "wof:parent_id": 1864208767,
+    "wof:parent_id": 1125893425,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +67,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.428292,
-    53.41776,
-    -2.428292,
-    53.41776
+    -2.429697,
+    53.422877,
+    -2.429697,
+    53.422877
   ],
-  "geometry": {"coordinates":[-2.428292,53.41776],"type":"Point"}
+  "geometry": {"coordinates":[-2.429697,53.422877],"type":"Point"}
 }

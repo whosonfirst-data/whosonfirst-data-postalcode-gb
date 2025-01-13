@@ -2,36 +2,52 @@
   "id": 38254572,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-06-01",
-    "date:cessation_upper": "2023-06-01",
-    "date:inception_lower": "2023-01-01",
-    "date:inception_upper": "2023-01-01",
-    "edtf:cessation": "2023-06-01",
-    "edtf:inception": "2023-01-01",
+    "date:inception_lower": "2024-07-01",
+    "date:inception_upper": "2024-07-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-07-01",
     "geom:area": 0,
-    "geom:bbox": "-2.663093,53.392946,-2.663093,53.392946",
-    "geom:latitude": 53.392946,
-    "geom:longitude": -2.663093,
+    "geom:bbox": "-2.674815,53.405761,-2.674815,53.405761",
+    "geom:latitude": 53.405761,
+    "geom:longitude": -2.674815,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
-    "os:district_code": "E06000007",
-    "os:positional_quality_indicator": "5",
+    "os:district_code": "E08000013",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000002",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       102191581,
       136253055,
-      1864211475
+      1864211475,
+      1360698965,
+      404444851,
+      1880762135,
+      404227469,
+      1880773021,
+      1126047737
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583788310,
-    "wof:geomhash": "d62af460c9f68dfca0ba33eefff57a87",
+    "wof:geomhash": "7893384598bd1ea913f566293827c09a",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698965,
+        "empire_id": 136253055,
+        "localadmin_id": 404444851,
+        "locality_id": 1126047737,
+        "macrocounty_id": 1880762135,
+        "macroregion_id": 404227469,
+        "postalcode_id": 38254572,
+        "region_id": 1880773021
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +57,9 @@
       }
     ],
     "wof:id": 38254572,
-    "wof:lastmodified": 1709396183,
+    "wof:lastmodified": 1736334180,
     "wof:name": "WA5 3PW",
-    "wof:parent_id": 1864211475,
+    "wof:parent_id": 1126047737,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +67,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.663093,
-    53.392946,
-    -2.663093,
-    53.392946
+    -2.674815,
+    53.405761,
+    -2.674815,
+    53.405761
   ],
-  "geometry": {"coordinates":[-2.663093,53.392946],"type":"Point"}
+  "geometry": {"coordinates":[-2.674815,53.405761],"type":"Point"}
 }

@@ -7,9 +7,9 @@
     "edtf:cessation": "",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.899576,53.711710,-1.899576,53.711710",
-    "geom:latitude": 53.71171,
-    "geom:longitude": -1.899576,
+    "geom:bbox": "-1.899500,53.711782,-1.899500,53.711782",
+    "geom:latitude": 53.711782,
+    "geom:longitude": -1.8995,
     "gp:parent_id": "35429",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -24,7 +24,13 @@
       85633159,
       102191581,
       136253055,
-      1864207793
+      1864207793,
+      1360698833,
+      1360817303,
+      101750577,
+      1880762059,
+      404227469,
+      1880773017
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,8 +38,20 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701731,
-    "wof:geomhash": "bf6f7d4ef06da6240b9588ae3a673fe3",
+    "wof:geomhash": "965b6754e275e499f5a255946a4065cc",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698833,
+        "empire_id": 136253055,
+        "localadmin_id": 1360817303,
+        "locality_id": 101750577,
+        "macrocounty_id": 1880762059,
+        "macroregion_id": 404227469,
+        "postalcode_id": 454840909,
+        "region_id": 1880773017
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -43,9 +61,9 @@
       }
     ],
     "wof:id": 454840909,
-    "wof:lastmodified": 1709396010,
+    "wof:lastmodified": 1736333425,
     "wof:name": "HX6 2BE",
-    "wof:parent_id": 1864207793,
+    "wof:parent_id": 101750577,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -53,10 +71,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.899576,
-    53.71171,
-    -1.899576,
-    53.71171
+    -1.8995,
+    53.711782,
+    -1.8995,
+    53.711782
   ],
-  "geometry": {"coordinates":[-1.899576,53.71171],"type":"Point"}
+  "geometry": {"coordinates":[-1.8995,53.711782],"type":"Point"}
 }

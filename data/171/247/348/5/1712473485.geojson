@@ -2,36 +2,50 @@
   "id": 1712473485,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1984-12-01",
-    "date:cessation_upper": "1984-12-01",
-    "date:inception_lower": "1981-09-01",
-    "date:inception_upper": "1981-09-01",
-    "edtf:cessation": "1984-12-01",
-    "edtf:inception": "1981-09-01",
+    "date:inception_lower": "2024-07-01",
+    "date:inception_upper": "2024-07-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-07-01",
     "geom:area": 0,
-    "geom:bbox": "-2.454974,50.605328,-2.454974,50.605328",
-    "geom:latitude": 50.605328,
-    "geom:longitude": -2.454974,
+    "geom:bbox": "-2.452719,50.604894,-2.452719,50.604894",
+    "geom:latitude": 50.604894,
+    "geom:longitude": -2.452719,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000059",
-    "os:positional_quality_indicator": "8",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       102191581,
       136253055,
-      1864206875
+      1864206875,
+      1360698745,
+      101751585,
+      1880762151,
+      404227469,
+      1880772881
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583789617,
-    "wof:geomhash": "8e71b1c6a3a50f930f3a54eb0bf85e7a",
+    "wof:geomhash": "5c05ffc5e3fd541517a6349c18bb2de6",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698745,
+        "empire_id": 136253055,
+        "locality_id": 101751585,
+        "macrocounty_id": 1880762151,
+        "macroregion_id": 404227469,
+        "postalcode_id": 1712473485,
+        "region_id": 1880772881
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +55,9 @@
       }
     ],
     "wof:id": 1712473485,
-    "wof:lastmodified": 1709396178,
+    "wof:lastmodified": 1736334255,
     "wof:name": "DT4 8LU",
-    "wof:parent_id": 1864206875,
+    "wof:parent_id": 101751585,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +65,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.454974,
-    50.605328,
-    -2.454974,
-    50.605328
+    -2.452719,
+    50.604894,
+    -2.452719,
+    50.604894
   ],
-  "geometry": {"coordinates":[-2.454974,50.605328],"type":"Point"}
+  "geometry": {"coordinates":[-2.452719,50.604894],"type":"Point"}
 }

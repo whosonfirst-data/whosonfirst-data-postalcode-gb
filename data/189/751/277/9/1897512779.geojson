@@ -2,9 +2,11 @@
   "id": 1897512779,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-01",
+    "date:cessation_upper": "2024-05-01",
     "date:inception_lower": "2023-11-01",
     "date:inception_upper": "2023-11-01",
-    "edtf:cessation": "",
+    "edtf:cessation": "2024-05-01",
     "edtf:inception": "2023-11-01",
     "geom:area": 0,
     "geom:bbox": "-0.401341,53.840773,-0.401341,53.840773",
@@ -12,7 +14,7 @@
     "geom:longitude": -0.401341,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000011",
@@ -23,13 +25,27 @@
       102191581,
       85633159,
       136253055,
-      1864207753
+      1864207753,
+      1360699001,
+      404429801,
+      101874179,
+      1880762147
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1709410767,
     "wof:geomhash": "81a9bf30445e98d2f1995bd78e5cc21d",
     "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": -1,
+        "county_id": 1360699001,
+        "localadmin_id": 404429801,
+        "locality_id": 101874179,
+        "macrocounty_id": 1880762147,
+        "postalcode_id": 1897512779,
+        "region_id": -1
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -39,9 +55,9 @@
       }
     ],
     "wof:id": 1897512779,
-    "wof:lastmodified": 1709410767,
+    "wof:lastmodified": 1736333102,
     "wof:name": "HU17 6HG",
-    "wof:parent_id": 1864207753,
+    "wof:parent_id": 101874179,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],

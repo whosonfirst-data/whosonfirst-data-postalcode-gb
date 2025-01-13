@@ -2,19 +2,17 @@
   "id": 454229305,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2014-03-01",
-    "date:cessation_upper": "2014-03-01",
-    "date:inception_lower": "1997-12-01",
-    "date:inception_upper": "1997-12-01",
-    "edtf:cessation": "2014-03-01",
-    "edtf:inception": "1997-12-01",
+    "date:inception_lower": "2024-05-01",
+    "date:inception_upper": "2024-05-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-05-01",
     "geom:area": 0,
-    "geom:bbox": "1.166942,51.095026,1.166942,51.095026",
-    "geom:latitude": 51.095026,
-    "geom:longitude": 1.166942,
+    "geom:bbox": "1.180253,51.086214,1.180253,51.086214",
+    "geom:latitude": 51.086214,
+    "geom:longitude": 1.180253,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000016",
     "os:district_code": "E07000112",
@@ -25,7 +23,13 @@
       85633159,
       102191581,
       136253055,
-      1864206465
+      1864206465,
+      1880771505,
+      404443685,
+      101854641,
+      1880762057,
+      404227469,
+      1880762705
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,8 +37,20 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701395,
-    "wof:geomhash": "95772c84b8ee69804ef87146009aaa27",
+    "wof:geomhash": "7c37996c095c285becc6c966a857d3b3",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1880771505,
+        "empire_id": 136253055,
+        "localadmin_id": 404443685,
+        "locality_id": 101854641,
+        "macrocounty_id": 1880762057,
+        "macroregion_id": 404227469,
+        "postalcode_id": 454229305,
+        "region_id": 1880762705
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -44,9 +60,9 @@
       }
     ],
     "wof:id": 454229305,
-    "wof:lastmodified": 1709396107,
+    "wof:lastmodified": 1736333692,
     "wof:name": "CT19 5SZ",
-    "wof:parent_id": 1864206465,
+    "wof:parent_id": 101854641,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -54,10 +70,10 @@
     "wof:tags": []
   },
   "bbox": [
-    1.166942,
-    51.095026,
-    1.166942,
-    51.095026
+    1.180253,
+    51.086214,
+    1.180253,
+    51.086214
   ],
-  "geometry": {"coordinates":[1.166942,51.095026],"type":"Point"}
+  "geometry": {"coordinates":[1.180253,51.086214],"type":"Point"}
 }

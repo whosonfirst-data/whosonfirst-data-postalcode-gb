@@ -2,36 +2,52 @@
   "id": 1880446543,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-08-01",
-    "date:cessation_upper": "2023-08-01",
-    "date:inception_lower": "2023-05-01",
-    "date:inception_upper": "2023-05-01",
-    "edtf:cessation": "2023-08-01",
-    "edtf:inception": "2023-05-01",
+    "date:inception_lower": "2024-08-01",
+    "date:inception_upper": "2024-08-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-08-01",
     "geom:area": 0,
-    "geom:bbox": "-0.851155,50.837818,-0.851155,50.837818",
-    "geom:latitude": 50.837818,
-    "geom:longitude": -0.851155,
+    "geom:bbox": "-0.879550,50.854830,-0.879550,50.854830",
+    "geom:latitude": 50.85483,
+    "geom:longitude": -0.87955,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000032",
     "os:district_code": "E07000225",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
       102191581,
       85633159,
       136253055,
-      1864209931
+      1864209931,
+      1880771685,
+      1880762061,
+      404227469,
+      1880762709,
+      404442271,
+      1360757661
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1695222489,
-    "wof:geomhash": "559a5733ffd00a9ad4ac62059132cffc",
+    "wof:geomhash": "62eb45cafc8eb44eca9b4fb17cdc51c2",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1880771685,
+        "empire_id": 136253055,
+        "localadmin_id": 404442271,
+        "locality_id": 1360757661,
+        "macrocounty_id": 1880762061,
+        "macroregion_id": 404227469,
+        "postalcode_id": 1880446543,
+        "region_id": 1880762709
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +57,9 @@
       }
     ],
     "wof:id": 1880446543,
-    "wof:lastmodified": 1709408932,
+    "wof:lastmodified": 1736334366,
     "wof:name": "PO18 8GS",
-    "wof:parent_id": 1864209931,
+    "wof:parent_id": 1360757661,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +67,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.851155,
-    50.837818,
-    -0.851155,
-    50.837818
+    -0.87955,
+    50.85483,
+    -0.87955,
+    50.85483
   ],
-  "geometry": {"coordinates":[-0.851155,50.837818],"type":"Point"}
+  "geometry": {"coordinates":[-0.87955,50.85483],"type":"Point"}
 }

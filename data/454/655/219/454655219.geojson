@@ -7,8 +7,8 @@
     "edtf:cessation": "",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-2.054181,51.907970,-2.054181,51.907970",
-    "geom:latitude": 51.90797,
+    "geom:bbox": "-2.054181,51.907908,-2.054181,51.907908",
+    "geom:latitude": 51.907908,
     "geom:longitude": -2.054181,
     "gp:parent_id": "15790",
     "iso:country": "GB",
@@ -24,7 +24,12 @@
       85633159,
       102191581,
       136253055,
-      1864207481
+      1864207481,
+      1880771455,
+      101750435,
+      1880762161,
+      404227469,
+      1880762693
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,8 +37,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701687,
-    "wof:geomhash": "4ba1acfe7a0e429cea220be348f0ace1",
+    "wof:geomhash": "3e8805a27c22ae5505162a49e2adf818",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1880771455,
+        "empire_id": 136253055,
+        "locality_id": 101750435,
+        "macrocounty_id": 1880762161,
+        "macroregion_id": 404227469,
+        "postalcode_id": 454655219,
+        "region_id": 1880762693
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -43,9 +59,9 @@
       }
     ],
     "wof:id": 454655219,
-    "wof:lastmodified": 1709395994,
+    "wof:lastmodified": 1736333668,
     "wof:name": "GL52 5DX",
-    "wof:parent_id": 1864207481,
+    "wof:parent_id": 101750435,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -54,9 +70,9 @@
   },
   "bbox": [
     -2.054181,
-    51.90797,
+    51.907908,
     -2.054181,
-    51.90797
+    51.907908
   ],
-  "geometry": {"coordinates":[-2.054181,51.90797],"type":"Point"}
+  "geometry": {"coordinates":[-2.054181,51.907908],"type":"Point"}
 }

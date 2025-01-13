@@ -2,20 +2,18 @@
   "id": 437771639,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2005-08-01",
-    "date:cessation_upper": "2005-08-01",
-    "date:inception_lower": "2001-06-01",
-    "date:inception_upper": "2001-06-01",
-    "edtf:cessation": "2005-08-01",
-    "edtf:inception": "2001-06-01",
+    "date:inception_lower": "2024-06-01",
+    "date:inception_upper": "2024-06-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-06-01",
     "geom:area": 0,
-    "geom:bbox": "0.283866,51.453376,0.283866,51.453376",
-    "geom:latitude": 51.453376,
-    "geom:longitude": 0.283866,
+    "geom:bbox": "0.273127,51.437136,0.273127,51.437136",
+    "geom:latitude": 51.437136,
+    "geom:longitude": 0.273127,
     "gp:parent_id": "21813",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000016",
     "os:district_code": "E07000107",
@@ -26,7 +24,13 @@
       85633159,
       102191581,
       136253055,
-      1864206611
+      1864206611,
+      1880771525,
+      1880762057,
+      404227469,
+      1880762705,
+      404437981,
+      1344085829
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -34,8 +38,20 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701545,
-    "wof:geomhash": "27b28b0cc2f97c6d451d8acdbcf75b39",
+    "wof:geomhash": "413934ed1f590b7f864053c03bd50106",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1880771525,
+        "empire_id": 136253055,
+        "localadmin_id": 404437981,
+        "locality_id": 1344085829,
+        "macrocounty_id": 1880762057,
+        "macroregion_id": 404227469,
+        "postalcode_id": 437771639,
+        "region_id": 1880762705
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -45,9 +61,9 @@
       }
     ],
     "wof:id": 437771639,
-    "wof:lastmodified": 1709395849,
+    "wof:lastmodified": 1736334085,
     "wof:name": "DA9 9RL",
-    "wof:parent_id": 1864206611,
+    "wof:parent_id": 1344085829,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -55,10 +71,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.283866,
-    51.453376,
-    0.283866,
-    51.453376
+    0.273127,
+    51.437136,
+    0.273127,
+    51.437136
   ],
-  "geometry": {"coordinates":[0.283866,51.453376],"type":"Point"}
+  "geometry": {"coordinates":[0.273127,51.437136],"type":"Point"}
 }

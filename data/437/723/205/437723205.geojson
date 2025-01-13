@@ -2,9 +2,11 @@
   "id": 437723205,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-10-01",
+    "date:cessation_upper": "2024-10-01",
     "date:inception_lower": "2023-05-01",
     "date:inception_upper": "2023-05-01",
-    "edtf:cessation": "",
+    "edtf:cessation": "2024-10-01",
     "edtf:inception": "2023-05-01",
     "geom:area": 0,
     "geom:bbox": "-0.286179,52.613376,-0.286179,52.613376",
@@ -13,7 +15,7 @@
     "gp:parent_id": "31931",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000031",
@@ -24,7 +26,12 @@
       85633159,
       102191581,
       136253055,
-      1864209653
+      1864209653,
+      1360698773,
+      101750461,
+      1880762143,
+      404227469,
+      1880762687
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -37,15 +44,26 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
+        "county_id": 1360698773,
+        "empire_id": 136253055,
+        "locality_id": 101750461,
+        "macrocounty_id": 1880762143,
+        "macroregion_id": 404227469,
+        "postalcode_id": 437723205,
+        "region_id": 1880762687
+      },
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
         "empire_id": 136253055,
         "postalcode_id": 437723205,
         "postalregion_id": 1864209653
       }
     ],
     "wof:id": 437723205,
-    "wof:lastmodified": 1709396005,
+    "wof:lastmodified": 1736334144,
     "wof:name": "PE1 9AZ",
-    "wof:parent_id": 1864209653,
+    "wof:parent_id": 101750461,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],

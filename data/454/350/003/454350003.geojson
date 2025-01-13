@@ -2,9 +2,11 @@
   "id": 454350003,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-06-01",
+    "date:cessation_upper": "2024-06-01",
     "date:inception_lower": "1980-01-01",
     "date:inception_upper": "1980-01-01",
-    "edtf:cessation": "",
+    "edtf:cessation": "2024-06-01",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
     "geom:bbox": "-1.404831,53.051215,-1.404831,53.051215",
@@ -12,7 +14,7 @@
     "geom:longitude": -1.404831,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000007",
     "os:district_code": "E07000032",
@@ -23,7 +25,13 @@
       85633159,
       102191581,
       136253055,
-      1864206667
+      1864206667,
+      1880771385,
+      404438739,
+      1243291125,
+      1880762133,
+      404227469,
+      1880762707
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -36,15 +44,27 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
+        "county_id": 1880771385,
+        "empire_id": 136253055,
+        "localadmin_id": 404438739,
+        "locality_id": 1243291125,
+        "macrocounty_id": 1880762133,
+        "macroregion_id": 404227469,
+        "postalcode_id": 454350003,
+        "region_id": 1880762707
+      },
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
         "empire_id": 136253055,
         "postalcode_id": 454350003,
         "postalregion_id": 1864206667
       }
     ],
     "wof:id": 454350003,
-    "wof:lastmodified": 1709395883,
+    "wof:lastmodified": 1736333429,
     "wof:name": "DE5 3BY",
-    "wof:parent_id": 1864206667,
+    "wof:parent_id": 1243291125,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],

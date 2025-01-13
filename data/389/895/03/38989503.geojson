@@ -2,36 +2,50 @@
   "id": 38989503,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1996-12-01",
-    "date:cessation_upper": "1996-12-01",
-    "date:inception_lower": "1995-12-01",
-    "date:inception_upper": "1995-12-01",
-    "edtf:cessation": "1996-12-01",
-    "edtf:inception": "1995-12-01",
+    "date:inception_lower": "2024-10-01",
+    "date:inception_upper": "2024-10-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-10-01",
     "geom:area": 0,
-    "geom:bbox": "-1.167963,52.950867,-1.167963,52.950867",
-    "geom:latitude": 52.950867,
-    "geom:longitude": -1.167963,
+    "geom:bbox": "-1.155850,52.947547,-1.155850,52.947547",
+    "geom:latitude": 52.947547,
+    "geom:longitude": -1.15585,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000018",
-    "os:positional_quality_indicator": "8",
+    "os:positional_quality_indicator": "5",
     "os:region_code": "E12000004",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       102191581,
       136253055,
-      1864209205
+      1864209205,
+      1360698801,
+      1175612705,
+      1880762077,
+      404227469,
+      1880762689
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583796526,
-    "wof:geomhash": "4529c023bcc459b73363a03b5222056c",
+    "wof:geomhash": "3ee2ad0d1dac968c7584b3eb6986a304",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698801,
+        "empire_id": 136253055,
+        "locality_id": 1175612705,
+        "macrocounty_id": 1880762077,
+        "macroregion_id": 404227469,
+        "postalcode_id": 38989503,
+        "region_id": 1880762689
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +55,9 @@
       }
     ],
     "wof:id": 38989503,
-    "wof:lastmodified": 1709395873,
+    "wof:lastmodified": 1736334391,
     "wof:name": "NG7 1FQ",
-    "wof:parent_id": 1864209205,
+    "wof:parent_id": 1175612705,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +65,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.167963,
-    52.950867,
-    -1.167963,
-    52.950867
+    -1.15585,
+    52.947547,
+    -1.15585,
+    52.947547
   ],
-  "geometry": {"coordinates":[-1.167963,52.950867],"type":"Point"}
+  "geometry": {"coordinates":[-1.15585,52.947547],"type":"Point"}
 }

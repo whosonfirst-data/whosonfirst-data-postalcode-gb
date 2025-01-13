@@ -7,8 +7,8 @@
     "edtf:cessation": "",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.761421,53.802347,-1.761421,53.802347",
-    "geom:latitude": 53.802347,
+    "geom:bbox": "-1.761421,53.802329,-1.761421,53.802329",
+    "geom:latitude": 53.802329,
     "geom:longitude": -1.761421,
     "gp:parent_id": "13527",
     "iso:country": "GB",
@@ -24,7 +24,12 @@
       85633159,
       102191581,
       136253055,
-      1864205773
+      1864205773,
+      1360698963,
+      101750581,
+      1880762059,
+      404227469,
+      1880773017
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,8 +37,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701333,
-    "wof:geomhash": "d8ea601caccf173197ebea330f8d7b5b",
+    "wof:geomhash": "cd19cbe42010e5574b6c9a55ea5a628f",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698963,
+        "empire_id": 136253055,
+        "locality_id": 101750581,
+        "macrocounty_id": 1880762059,
+        "macroregion_id": 404227469,
+        "postalcode_id": 438141605,
+        "region_id": 1880773017
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -43,9 +59,9 @@
       }
     ],
     "wof:id": 438141605,
-    "wof:lastmodified": 1709396096,
+    "wof:lastmodified": 1736334442,
     "wof:name": "BD8 7JA",
-    "wof:parent_id": 1864205773,
+    "wof:parent_id": 101750581,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -54,9 +70,9 @@
   },
   "bbox": [
     -1.761421,
-    53.802347,
+    53.802329,
     -1.761421,
-    53.802347
+    53.802329
   ],
-  "geometry": {"coordinates":[-1.761421,53.802347],"type":"Point"}
+  "geometry": {"coordinates":[-1.761421,53.802329],"type":"Point"}
 }

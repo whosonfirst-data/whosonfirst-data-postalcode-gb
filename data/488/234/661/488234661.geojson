@@ -7,9 +7,9 @@
     "edtf:cessation": "",
     "edtf:inception": "1982-03-01",
     "geom:area": 0,
-    "geom:bbox": "-0.780469,54.132786,-0.780469,54.132786",
-    "geom:latitude": 54.132786,
-    "geom:longitude": -0.780469,
+    "geom:bbox": "-0.780449,54.132444,-0.780449,54.132444",
+    "geom:latitude": 54.132444,
+    "geom:longitude": -0.780449,
     "gp:parent_id": "30666",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -24,7 +24,13 @@
       85633159,
       102191581,
       136253055,
-      1864211731
+      1864211731,
+      1360698753,
+      404444567,
+      101873303,
+      1880762011,
+      404227469,
+      1880772891
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,8 +38,20 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701179,
-    "wof:geomhash": "bf9661fd51f8be96eb228ed48e7e2650",
+    "wof:geomhash": "053be9677f27aee9f4740584664e6f70",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698753,
+        "empire_id": 136253055,
+        "localadmin_id": 404444567,
+        "locality_id": 101873303,
+        "macrocounty_id": 1880762011,
+        "macroregion_id": 404227469,
+        "postalcode_id": 488234661,
+        "region_id": 1880772891
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -43,9 +61,9 @@
       }
     ],
     "wof:id": 488234661,
-    "wof:lastmodified": 1709396001,
+    "wof:lastmodified": 1736333599,
     "wof:name": "YO17 9HL",
-    "wof:parent_id": 1864211731,
+    "wof:parent_id": 101873303,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -53,10 +71,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.780469,
-    54.132786,
-    -0.780469,
-    54.132786
+    -0.780449,
+    54.132444,
+    -0.780449,
+    54.132444
   ],
-  "geometry": {"coordinates":[-0.780469,54.132786],"type":"Point"}
+  "geometry": {"coordinates":[-0.780449,54.132444],"type":"Point"}
 }

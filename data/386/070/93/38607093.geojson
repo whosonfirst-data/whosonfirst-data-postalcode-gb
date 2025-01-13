@@ -2,36 +2,54 @@
   "id": 38607093,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1999-06-01",
-    "date:cessation_upper": "1999-06-01",
-    "date:inception_lower": "1998-06-01",
-    "date:inception_upper": "1998-06-01",
-    "edtf:cessation": "1999-06-01",
-    "edtf:inception": "1998-06-01",
+    "date:cessation_lower": "2024-10-01",
+    "date:cessation_upper": "2024-10-01",
+    "date:inception_lower": "2024-09-01",
+    "date:inception_upper": "2024-09-01",
+    "edtf:cessation": "2024-10-01",
+    "edtf:inception": "2024-09-01",
     "geom:area": 0,
-    "geom:bbox": "0.152865,52.195611,0.152865,52.195611",
-    "geom:latitude": 52.195611,
-    "geom:longitude": 0.152865,
+    "geom:bbox": "0.183722,52.197053,0.183722,52.197053",
+    "geom:latitude": 52.197053,
+    "geom:longitude": 0.183722,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E10000003",
-    "os:district_code": "E07000008",
-    "os:positional_quality_indicator": "6",
+    "os:district_code": "E07000012",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       102191581,
       136253055,
-      1864206119
+      1864206119,
+      1880762143,
+      404227469,
+      1880762687,
+      1880771367,
+      404436545,
+      1126008781
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583792201,
-    "wof:geomhash": "39c01d5b35f654f7e22f93883dc56e31",
+    "wof:geomhash": "b5e906e14f0b1924e8604b92e22de4de",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1880771367,
+        "empire_id": 136253055,
+        "localadmin_id": 404436545,
+        "locality_id": 1126008781,
+        "macrocounty_id": 1880762143,
+        "macroregion_id": 404227469,
+        "postalcode_id": 38607093,
+        "region_id": 1880762687
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +59,9 @@
       }
     ],
     "wof:id": 38607093,
-    "wof:lastmodified": 1709395846,
+    "wof:lastmodified": 1736334034,
     "wof:name": "CB1 3FW",
-    "wof:parent_id": 1864206119,
+    "wof:parent_id": 1126008781,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +69,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.152865,
-    52.195611,
-    0.152865,
-    52.195611
+    0.183722,
+    52.197053,
+    0.183722,
+    52.197053
   ],
-  "geometry": {"coordinates":[0.152865,52.195611],"type":"Point"}
+  "geometry": {"coordinates":[0.183722,52.197053],"type":"Point"}
 }

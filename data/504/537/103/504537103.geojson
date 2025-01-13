@@ -7,9 +7,9 @@
     "edtf:cessation": "",
     "edtf:inception": "1999-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.673841,51.642100,-2.673841,51.642100",
-    "geom:latitude": 51.6421,
-    "geom:longitude": -2.673841,
+    "geom:bbox": "-2.673658,51.642040,-2.673658,51.642040",
+    "geom:latitude": 51.64204,
+    "geom:longitude": -2.673658,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -23,7 +23,13 @@
       85633159,
       102191581,
       136253055,
-      1864209271
+      1864209271,
+      1360699109,
+      404429451,
+      101852889,
+      1880762173,
+      404227475,
+      1880773189
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,8 +37,20 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701411,
-    "wof:geomhash": "745429fa3883f36293e6b57ea1ba105d",
+    "wof:geomhash": "4c7938b66cc71d0ab9d6e0954361e77e",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360699109,
+        "empire_id": 136253055,
+        "localadmin_id": 404429451,
+        "locality_id": 101852889,
+        "macrocounty_id": 1880762173,
+        "macroregion_id": 404227475,
+        "postalcode_id": 504537103,
+        "region_id": 1880773189
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -42,9 +60,9 @@
       }
     ],
     "wof:id": 504537103,
-    "wof:lastmodified": 1709395843,
+    "wof:lastmodified": 1736333745,
     "wof:name": "NP16 5HT",
-    "wof:parent_id": 1864209271,
+    "wof:parent_id": 101852889,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -52,10 +70,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -2.673841,
-    51.6421,
-    -2.673841,
-    51.6421
+    -2.673658,
+    51.64204,
+    -2.673658,
+    51.64204
   ],
-  "geometry": {"coordinates":[-2.673841,51.6421],"type":"Point"}
+  "geometry": {"coordinates":[-2.673658,51.64204],"type":"Point"}
 }

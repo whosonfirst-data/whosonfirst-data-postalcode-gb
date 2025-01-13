@@ -2,20 +2,18 @@
   "id": 470968719,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-09-01",
-    "date:cessation_upper": "2023-09-01",
-    "date:inception_lower": "2003-10-01",
-    "date:inception_upper": "2003-10-01",
-    "edtf:cessation": "2023-09-01",
-    "edtf:inception": "2003-10-01",
+    "date:inception_lower": "2024-02-01",
+    "date:inception_upper": "2024-02-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-02-01",
     "geom:area": 0,
-    "geom:bbox": "-0.983636,51.988366,-0.983636,51.988366",
-    "geom:latitude": 51.988366,
-    "geom:longitude": -0.983636,
+    "geom:bbox": "-0.983884,52.003637,-0.983884,52.003637",
+    "geom:latitude": 52.003637,
+    "geom:longitude": -0.983884,
     "gp:parent_id": "12695878",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000060",
@@ -26,7 +24,13 @@
       85633159,
       102191581,
       136253055,
-      1864208883
+      1864208883,
+      1360698997,
+      404452955,
+      101875469,
+      1880762141,
+      404227469,
+      1880773087
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -34,8 +38,20 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701346,
-    "wof:geomhash": "44ed46a0700f498d631eef31e0f0f19a",
+    "wof:geomhash": "9369f74deeb1f251ee94f965033c9c25",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698997,
+        "empire_id": 136253055,
+        "localadmin_id": 404452955,
+        "locality_id": 101875469,
+        "macrocounty_id": 1880762141,
+        "macroregion_id": 404227469,
+        "postalcode_id": 470968719,
+        "region_id": 1880773087
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -45,9 +61,9 @@
       }
     ],
     "wof:id": 470968719,
-    "wof:lastmodified": 1709408592,
+    "wof:lastmodified": 1736334001,
     "wof:name": "MK18 1PA",
-    "wof:parent_id": 1864208883,
+    "wof:parent_id": 101875469,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -55,10 +71,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.983636,
-    51.988366,
-    -0.983636,
-    51.988366
+    -0.983884,
+    52.003637,
+    -0.983884,
+    52.003637
   ],
-  "geometry": {"coordinates":[-0.983636,51.988366],"type":"Point"}
+  "geometry": {"coordinates":[-0.983884,52.003637],"type":"Point"}
 }

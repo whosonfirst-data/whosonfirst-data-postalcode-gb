@@ -7,8 +7,8 @@
     "edtf:cessation": "",
     "edtf:inception": "2000-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.103863,52.650137,-2.103863,52.650137",
-    "geom:latitude": 52.650137,
+    "geom:bbox": "-2.103863,52.650065,-2.103863,52.650065",
+    "geom:latitude": 52.650065,
     "geom:longitude": -2.103863,
     "gp:parent_id": "13954",
     "iso:country": "GB",
@@ -24,7 +24,11 @@
       85633159,
       102191581,
       136253055,
-      1864211675
+      1864211675,
+      1880771619,
+      404438505,
+      1360754339,
+      1880761999
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,8 +36,18 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701108,
-    "wof:geomhash": "62555bd7643f36a3a8fbddd8d208d73c",
+    "wof:geomhash": "33435c746f664fcfbeda6373664aaafe",
     "wof:hierarchy": [
+      {
+        "continent_id": -1,
+        "country_id": -1,
+        "county_id": 1880771619,
+        "localadmin_id": 404438505,
+        "locality_id": 1360754339,
+        "macrocounty_id": 1880761999,
+        "postalcode_id": 488205355,
+        "region_id": -1
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -43,9 +57,9 @@
       }
     ],
     "wof:id": 488205355,
-    "wof:lastmodified": 1709395930,
+    "wof:lastmodified": 1736333300,
     "wof:name": "WV10 7NQ",
-    "wof:parent_id": 1864211675,
+    "wof:parent_id": 1360754339,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -54,9 +68,9 @@
   },
   "bbox": [
     -2.103863,
-    52.650137,
+    52.650065,
     -2.103863,
-    52.650137
+    52.650065
   ],
-  "geometry": {"coordinates":[-2.103863,52.650137],"type":"Point"}
+  "geometry": {"coordinates":[-2.103863,52.650065],"type":"Point"}
 }

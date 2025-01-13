@@ -2,36 +2,50 @@
   "id": 1880447493,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2023-06-01",
-    "date:cessation_upper": "2023-06-01",
-    "date:inception_lower": "2023-05-01",
-    "date:inception_upper": "2023-05-01",
-    "edtf:cessation": "2023-06-01",
-    "edtf:inception": "2023-05-01",
+    "date:inception_lower": "2024-09-01",
+    "date:inception_upper": "2024-09-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-09-01",
     "geom:area": 0,
-    "geom:bbox": "-0.245355,52.541201,-0.245355,52.541201",
-    "geom:latitude": 52.541201,
-    "geom:longitude": -0.245355,
+    "geom:bbox": "-0.246707,52.539108,-0.246707,52.539108",
+    "geom:latitude": 52.539108,
+    "geom:longitude": -0.246707,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E06000031",
-    "os:positional_quality_indicator": "1",
+    "os:positional_quality_indicator": "5",
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
       102191581,
       85633159,
       136253055,
-      1864209727
+      1864209727,
+      1360698773,
+      101750461,
+      1880762143,
+      404227469,
+      1880762687
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1695222531,
-    "wof:geomhash": "27eca97828f3152f2f4135074c378f00",
+    "wof:geomhash": "26e5ea2a9e93b213787c9f3087c45212",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698773,
+        "empire_id": 136253055,
+        "locality_id": 101750461,
+        "macrocounty_id": 1880762143,
+        "macroregion_id": 404227469,
+        "postalcode_id": 1880447493,
+        "region_id": 1880762687
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +55,9 @@
       }
     ],
     "wof:id": 1880447493,
-    "wof:lastmodified": 1709396188,
+    "wof:lastmodified": 1736334363,
     "wof:name": "PE7 8XU",
-    "wof:parent_id": 1864209727,
+    "wof:parent_id": 101750461,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +65,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.245355,
-    52.541201,
-    -0.245355,
-    52.541201
+    -0.246707,
+    52.539108,
+    -0.246707,
+    52.539108
   ],
-  "geometry": {"coordinates":[-0.245355,52.541201],"type":"Point"}
+  "geometry": {"coordinates":[-0.246707,52.539108],"type":"Point"}
 }

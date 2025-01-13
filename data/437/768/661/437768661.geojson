@@ -2,19 +2,17 @@
   "id": 437768661,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2005-07-01",
-    "date:cessation_upper": "2005-07-01",
-    "date:inception_lower": "2004-03-01",
-    "date:inception_upper": "2004-03-01",
-    "edtf:cessation": "2005-07-01",
-    "edtf:inception": "2004-03-01",
+    "date:inception_lower": "2024-05-01",
+    "date:inception_upper": "2024-05-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-05-01",
     "geom:area": 0,
-    "geom:bbox": "-1.717166,52.198870,-1.717166,52.198870",
-    "geom:latitude": 52.19887,
-    "geom:longitude": -1.717166,
+    "geom:bbox": "-1.731405,52.187031,-1.731405,52.187031",
+    "geom:latitude": 52.187031,
+    "geom:longitude": -1.731405,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000031",
     "os:district_code": "E07000221",
@@ -25,7 +23,13 @@
       85633159,
       102191581,
       136253055,
-      1864206525
+      1864206525,
+      1880771675,
+      404442383,
+      101853071,
+      1880762065,
+      404227469,
+      1880762725
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,8 +37,20 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701543,
-    "wof:geomhash": "47b65ec9e21767588c3c052f681a12ec",
+    "wof:geomhash": "63c3c92c2a155d2a89b428cd08384e6a",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1880771675,
+        "empire_id": 136253055,
+        "localadmin_id": 404442383,
+        "locality_id": 101853071,
+        "macrocounty_id": 1880762065,
+        "macroregion_id": 404227469,
+        "postalcode_id": 437768661,
+        "region_id": 1880762725
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -44,9 +60,9 @@
       }
     ],
     "wof:id": 437768661,
-    "wof:lastmodified": 1709395893,
+    "wof:lastmodified": 1736334120,
     "wof:name": "CV37 9YE",
-    "wof:parent_id": 1864206525,
+    "wof:parent_id": 101853071,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -54,10 +70,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.717166,
-    52.19887,
-    -1.717166,
-    52.19887
+    -1.731405,
+    52.187031,
+    -1.731405,
+    52.187031
   ],
-  "geometry": {"coordinates":[-1.717166,52.19887],"type":"Point"}
+  "geometry": {"coordinates":[-1.731405,52.187031],"type":"Point"}
 }

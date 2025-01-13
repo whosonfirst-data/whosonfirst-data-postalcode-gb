@@ -7,9 +7,9 @@
     "edtf:cessation": "",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-3.084300,51.775180,-3.084300,51.775180",
-    "geom:latitude": 51.77518,
-    "geom:longitude": -3.0843,
+    "geom:bbox": "-3.084459,51.775169,-3.084459,51.775169",
+    "geom:latitude": 51.775169,
+    "geom:longitude": -3.084459,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -23,7 +23,13 @@
       85633159,
       102191581,
       136253055,
-      1864209291
+      1864209291,
+      1360698919,
+      404443947,
+      101852773,
+      1880762173,
+      404227475,
+      1880773189
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,8 +37,20 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701417,
-    "wof:geomhash": "c04ae5ad0a7bb3437bed5ba8d194cecb",
+    "wof:geomhash": "60f4a0245c0bde25708c3c0ebcfb2d4f",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698919,
+        "empire_id": 136253055,
+        "localadmin_id": 404443947,
+        "locality_id": 101852773,
+        "macrocounty_id": 1880762173,
+        "macroregion_id": 404227475,
+        "postalcode_id": 504549231,
+        "region_id": 1880773189
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -42,9 +60,9 @@
       }
     ],
     "wof:id": 504549231,
-    "wof:lastmodified": 1709395855,
+    "wof:lastmodified": 1736333753,
     "wof:name": "NP4 9QD",
-    "wof:parent_id": 1864209291,
+    "wof:parent_id": 101852773,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -52,10 +70,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.0843,
-    51.77518,
-    -3.0843,
-    51.77518
+    -3.084459,
+    51.775169,
+    -3.084459,
+    51.775169
   ],
-  "geometry": {"coordinates":[-3.0843,51.77518],"type":"Point"}
+  "geometry": {"coordinates":[-3.084459,51.775169],"type":"Point"}
 }

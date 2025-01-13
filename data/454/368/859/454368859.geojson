@@ -2,9 +2,11 @@
   "id": 454368859,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-09-01",
+    "date:cessation_upper": "2024-09-01",
     "date:inception_lower": "1990-07-01",
     "date:inception_upper": "1990-07-01",
-    "edtf:cessation": "",
+    "edtf:cessation": "2024-09-01",
     "edtf:inception": "1990-07-01",
     "geom:area": 0,
     "geom:bbox": "-1.577633,54.891166,-1.577633,54.891166",
@@ -13,7 +15,7 @@
     "gp:parent_id": "12736",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 1,
+    "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000037",
@@ -24,7 +26,10 @@
       85633159,
       102191581,
       136253055,
-      1864206731
+      1864206731,
+      1360698881,
+      1126015613,
+      1880762063
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -35,6 +40,15 @@
     "wof:geomhash": "cdeaf45eba13fd843df5e6c5675be886",
     "wof:hierarchy": [
       {
+        "continent_id": -1,
+        "country_id": -1,
+        "county_id": 1360698881,
+        "locality_id": 1126015613,
+        "macrocounty_id": 1880762063,
+        "postalcode_id": 454368859,
+        "region_id": -1
+      },
+      {
         "continent_id": 102191581,
         "country_id": 85633159,
         "empire_id": 136253055,
@@ -43,9 +57,9 @@
       }
     ],
     "wof:id": 454368859,
-    "wof:lastmodified": 1709396046,
+    "wof:lastmodified": 1736333511,
     "wof:name": "DH3 2TD",
-    "wof:parent_id": 1864206731,
+    "wof:parent_id": 1126015613,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],

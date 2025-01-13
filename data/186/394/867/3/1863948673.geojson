@@ -2,10 +2,10 @@
   "id": 1863948673,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2023-01-01",
-    "date:inception_upper": "2023-01-01",
+    "date:inception_lower": "2024-10-01",
+    "date:inception_upper": "2024-10-01",
     "edtf:cessation": "",
-    "edtf:inception": "2023-01-01",
+    "edtf:inception": "2024-10-01",
     "geom:area": 0,
     "geom:bbox": "-1.408169,53.050208,-1.408169,53.050208",
     "geom:latitude": 53.050208,
@@ -23,7 +23,13 @@
       102191581,
       85633159,
       136253055,
-      1864206667
+      1864206667,
+      1880771385,
+      404438739,
+      1243291125,
+      1880762133,
+      404227469,
+      1880762707
     ],
     "wof:breaches": [],
     "wof:country": "GB",
@@ -33,15 +39,27 @@
       {
         "continent_id": 102191581,
         "country_id": 85633159,
+        "county_id": 1880771385,
+        "empire_id": 136253055,
+        "localadmin_id": 404438739,
+        "locality_id": 1243291125,
+        "macrocounty_id": 1880762133,
+        "macroregion_id": 404227469,
+        "postalcode_id": 1863948673,
+        "region_id": 1880762707
+      },
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
         "empire_id": 136253055,
         "postalcode_id": 1863948673,
         "postalregion_id": 1864206667
       }
     ],
     "wof:id": 1863948673,
-    "wof:lastmodified": 1709395867,
+    "wof:lastmodified": 1736334369,
     "wof:name": "DE5 4DP",
-    "wof:parent_id": 1864206667,
+    "wof:parent_id": 1243291125,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],

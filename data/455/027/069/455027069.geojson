@@ -7,8 +7,8 @@
     "edtf:cessation": "",
     "edtf:inception": "1980-01-01",
     "geom:area": 0,
-    "geom:bbox": "-1.135890,52.623977,-1.135890,52.623977",
-    "geom:latitude": 52.623977,
+    "geom:bbox": "-1.135890,52.623995,-1.135890,52.623995",
+    "geom:latitude": 52.623995,
     "geom:longitude": -1.13589,
     "gp:parent_id": "26062",
     "iso:country": "GB",
@@ -24,7 +24,12 @@
       85633159,
       102191581,
       136253055,
-      1864208415
+      1864208415,
+      1360698995,
+      101750485,
+      1880762051,
+      404227469,
+      1880773085
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,8 +37,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701085,
-    "wof:geomhash": "551427f2c083f5d2c6c25cfb1acd5d47",
+    "wof:geomhash": "c7c25be340bcc095d208c106fef3f3b7",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698995,
+        "empire_id": 136253055,
+        "locality_id": 101750485,
+        "macrocounty_id": 1880762051,
+        "macroregion_id": 404227469,
+        "postalcode_id": 455027069,
+        "region_id": 1880773085
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -43,9 +59,9 @@
       }
     ],
     "wof:id": 455027069,
-    "wof:lastmodified": 1709396330,
+    "wof:lastmodified": 1736333114,
     "wof:name": "LE2 7JE",
-    "wof:parent_id": 1864208415,
+    "wof:parent_id": 101750485,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -54,9 +70,9 @@
   },
   "bbox": [
     -1.13589,
-    52.623977,
+    52.623995,
     -1.13589,
-    52.623977
+    52.623995
   ],
-  "geometry": {"coordinates":[-1.13589,52.623977],"type":"Point"}
+  "geometry": {"coordinates":[-1.13589,52.623995],"type":"Point"}
 }

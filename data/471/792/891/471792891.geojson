@@ -7,8 +7,8 @@
     "edtf:cessation": "",
     "edtf:inception": "1981-06-01",
     "geom:area": 0,
-    "geom:bbox": "-2.132785,53.378724,-2.132785,53.378724",
-    "geom:latitude": 53.378724,
+    "geom:bbox": "-2.132785,53.378733,-2.132785,53.378733",
+    "geom:latitude": 53.378733,
     "geom:longitude": -2.132785,
     "gp:parent_id": "22794",
     "iso:country": "GB",
@@ -24,7 +24,12 @@
       85633159,
       102191581,
       136253055,
-      1864210551
+      1864210551,
+      1360698879,
+      101750527,
+      1880762163,
+      404227469,
+      1880773095
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,8 +37,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701737,
-    "wof:geomhash": "6c527adb2d735ffa2be7d76467e26c17",
+    "wof:geomhash": "e8af3df85e4f83a71548a8df4826ad9d",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698879,
+        "empire_id": 136253055,
+        "locality_id": 101750527,
+        "macrocounty_id": 1880762163,
+        "macroregion_id": 404227469,
+        "postalcode_id": 471792891,
+        "region_id": 1880773095
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -43,9 +59,9 @@
       }
     ],
     "wof:id": 471792891,
-    "wof:lastmodified": 1709396224,
+    "wof:lastmodified": 1736333254,
     "wof:name": "SK7 5DL",
-    "wof:parent_id": 1864210551,
+    "wof:parent_id": 101750527,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -54,9 +70,9 @@
   },
   "bbox": [
     -2.132785,
-    53.378724,
+    53.378733,
     -2.132785,
-    53.378724
+    53.378733
   ],
-  "geometry": {"coordinates":[-2.132785,53.378724],"type":"Point"}
+  "geometry": {"coordinates":[-2.132785,53.378733],"type":"Point"}
 }

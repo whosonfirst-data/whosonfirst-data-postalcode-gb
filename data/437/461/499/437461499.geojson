@@ -2,20 +2,18 @@
   "id": 437461499,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2007-11-01",
-    "date:cessation_upper": "2007-11-01",
-    "date:inception_lower": "2000-06-01",
-    "date:inception_upper": "2000-06-01",
-    "edtf:cessation": "2007-11-01",
-    "edtf:inception": "2000-06-01",
+    "date:inception_lower": "2024-07-01",
+    "date:inception_upper": "2024-07-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-07-01",
     "geom:area": 0,
-    "geom:bbox": "-0.220884,52.323708,-0.220884,52.323708",
-    "geom:latitude": 52.323708,
-    "geom:longitude": -0.220884,
+    "geom:bbox": "-0.234789,52.376073,-0.234789,52.376073",
+    "geom:latitude": 52.376073,
+    "geom:longitude": -0.234789,
     "gp:parent_id": "13636",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000003",
     "os:district_code": "E07000011",
@@ -26,7 +24,13 @@
       85633159,
       102191581,
       136253055,
-      1864209693
+      1864209693,
+      1880771371,
+      1880762143,
+      404227469,
+      1880762687,
+      404429459,
+      1360759775
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -34,8 +38,20 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701226,
-    "wof:geomhash": "d95423b7c3314d93ba574bef50b846b2",
+    "wof:geomhash": "498c905885542e3f88e051e8c542fe3d",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1880771371,
+        "empire_id": 136253055,
+        "localadmin_id": 404429459,
+        "locality_id": 1360759775,
+        "macrocounty_id": 1880762143,
+        "macroregion_id": 404227469,
+        "postalcode_id": 437461499,
+        "region_id": 1880762687
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -45,9 +61,9 @@
       }
     ],
     "wof:id": 437461499,
-    "wof:lastmodified": 1709395952,
+    "wof:lastmodified": 1736334145,
     "wof:name": "PE28 4WB",
-    "wof:parent_id": 1864209693,
+    "wof:parent_id": 1360759775,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -55,10 +71,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.220884,
-    52.323708,
-    -0.220884,
-    52.323708
+    -0.234789,
+    52.376073,
+    -0.234789,
+    52.376073
   ],
-  "geometry": {"coordinates":[-0.220884,52.323708],"type":"Point"}
+  "geometry": {"coordinates":[-0.234789,52.376073],"type":"Point"}
 }

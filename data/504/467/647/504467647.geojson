@@ -7,9 +7,9 @@
     "edtf:cessation": "",
     "edtf:inception": "1992-10-01",
     "geom:area": 0,
-    "geom:bbox": "-3.418473,56.073046,-3.418473,56.073046",
-    "geom:latitude": 56.073046,
-    "geom:longitude": -3.418473,
+    "geom:bbox": "-3.418143,56.073688,-3.418143,56.073688",
+    "geom:latitude": 56.073688,
+    "geom:longitude": -3.418143,
     "gp:parent_id": "12696197",
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
@@ -24,7 +24,12 @@
       85633159,
       102191581,
       136253055,
-      1864208179
+      1864208179,
+      1360699123,
+      101750637,
+      1880762125,
+      404227471,
+      1880773203
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -32,8 +37,19 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701352,
-    "wof:geomhash": "8859e9af29cd0b89b7167b185eb1d5fc",
+    "wof:geomhash": "3d637b6ad87ba0f25d77c15141b5eb13",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360699123,
+        "empire_id": 136253055,
+        "locality_id": 101750637,
+        "macrocounty_id": 1880762125,
+        "macroregion_id": 404227471,
+        "postalcode_id": 504467647,
+        "region_id": 1880773203
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -43,9 +59,9 @@
       }
     ],
     "wof:id": 504467647,
-    "wof:lastmodified": 1709395849,
+    "wof:lastmodified": 1736333756,
     "wof:name": "KY11 4JX",
-    "wof:parent_id": 1864208179,
+    "wof:parent_id": 101750637,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -53,10 +69,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.418473,
-    56.073046,
-    -3.418473,
-    56.073046
+    -3.418143,
+    56.073688,
+    -3.418143,
+    56.073688
   ],
-  "geometry": {"coordinates":[-3.418473,56.073046],"type":"Point"}
+  "geometry": {"coordinates":[-3.418143,56.073688],"type":"Point"}
 }

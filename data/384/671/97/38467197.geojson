@@ -2,36 +2,52 @@
   "id": 38467197,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1990-12-01",
-    "date:cessation_upper": "1990-12-01",
-    "date:inception_lower": "1980-01-01",
-    "date:inception_upper": "1980-01-01",
-    "edtf:cessation": "1990-12-01",
-    "edtf:inception": "1980-01-01",
+    "date:cessation_lower": "2024-10-01",
+    "date:cessation_upper": "2024-10-01",
+    "date:inception_lower": "2024-09-01",
+    "date:inception_upper": "2024-09-01",
+    "edtf:cessation": "2024-10-01",
+    "edtf:inception": "2024-09-01",
     "geom:area": 0,
-    "geom:bbox": "-1.624773,55.002392,-1.624773,55.002392",
-    "geom:latitude": 55.002392,
-    "geom:longitude": -1.624773,
+    "geom:bbox": "-1.640475,55.006840,-1.640475,55.006840",
+    "geom:latitude": 55.00684,
+    "geom:longitude": -1.640475,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 0,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000021",
-    "os:positional_quality_indicator": "8",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000001",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       102191581,
       136253055,
-      1864209049
+      1864209049,
+      1360698961,
+      101750617,
+      1880762063,
+      404227469,
+      1880773053
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583790726,
-    "wof:geomhash": "148402a8c1981bfda7701e8b66a0ea03",
+    "wof:geomhash": "642d8f6968b75abe4057b03832825be9",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698961,
+        "empire_id": 136253055,
+        "locality_id": 101750617,
+        "macrocounty_id": 1880762063,
+        "macroregion_id": 404227469,
+        "postalcode_id": 38467197,
+        "region_id": 1880773053
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +57,9 @@
       }
     ],
     "wof:id": 38467197,
-    "wof:lastmodified": 1709395798,
+    "wof:lastmodified": 1736334173,
     "wof:name": "NE3 4DW",
-    "wof:parent_id": 1864209049,
+    "wof:parent_id": 101750617,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +67,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.624773,
-    55.002392,
-    -1.624773,
-    55.002392
+    -1.640475,
+    55.00684,
+    -1.640475,
+    55.00684
   ],
-  "geometry": {"coordinates":[-1.624773,55.002392],"type":"Point"}
+  "geometry": {"coordinates":[-1.640475,55.00684],"type":"Point"}
 }

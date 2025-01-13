@@ -2,36 +2,52 @@
   "id": 1160987192,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1999-06-01",
-    "date:cessation_upper": "1999-06-01",
-    "date:inception_lower": "1997-06-01",
-    "date:inception_upper": "1997-06-01",
-    "edtf:cessation": "1999-06-01",
-    "edtf:inception": "1997-06-01",
+    "date:inception_lower": "2024-03-01",
+    "date:inception_upper": "2024-03-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-03-01",
     "geom:area": 0,
-    "geom:bbox": "0.450268,52.075873,0.450268,52.075873",
-    "geom:latitude": 52.075873,
-    "geom:longitude": 0.450268,
+    "geom:bbox": "0.451006,52.075222,0.451006,52.075222",
+    "geom:latitude": 52.075222,
+    "geom:longitude": 0.451006,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000029",
     "os:district_code": "E07000245",
-    "os:positional_quality_indicator": "6",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000006",
     "src:geom": "os",
     "wof:belongsto": [
       85633159,
       102191581,
       136253055,
-      1864206151
+      1864206151,
+      1880771639,
+      404447511,
+      101854875,
+      1880762001,
+      404227469,
+      1880762685
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583798861,
-    "wof:geomhash": "a95f5803795e66349f5b06c8011c52b9",
+    "wof:geomhash": "7aa28bc2b71955bcbc0a91e304d77162",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1880771639,
+        "empire_id": 136253055,
+        "localadmin_id": 404447511,
+        "locality_id": 101854875,
+        "macrocounty_id": 1880762001,
+        "macroregion_id": 404227469,
+        "postalcode_id": 1160987192,
+        "region_id": 1880762685
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -41,9 +57,9 @@
       }
     ],
     "wof:id": 1160987192,
-    "wof:lastmodified": 1709396152,
+    "wof:lastmodified": 1736333950,
     "wof:name": "CB9 7GU",
-    "wof:parent_id": 1864206151,
+    "wof:parent_id": 101854875,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -51,10 +67,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.450268,
-    52.075873,
-    0.450268,
-    52.075873
+    0.451006,
+    52.075222,
+    0.451006,
+    52.075222
   ],
-  "geometry": {"coordinates":[0.450268,52.075873],"type":"Point"}
+  "geometry": {"coordinates":[0.451006,52.075222],"type":"Point"}
 }

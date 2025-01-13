@@ -2,19 +2,17 @@
   "id": 437821827,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2002-12-01",
-    "date:cessation_upper": "2002-12-01",
-    "date:inception_lower": "1998-06-01",
-    "date:inception_upper": "1998-06-01",
-    "edtf:cessation": "2002-12-01",
-    "edtf:inception": "1998-06-01",
+    "date:inception_lower": "2024-04-01",
+    "date:inception_upper": "2024-04-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-04-01",
     "geom:area": 0,
-    "geom:bbox": "-0.905523,52.483686,-0.905523,52.483686",
-    "geom:latitude": 52.483686,
-    "geom:longitude": -0.905523,
+    "geom:bbox": "-0.945259,52.492820,-0.945259,52.492820",
+    "geom:latitude": 52.49282,
+    "geom:longitude": -0.945259,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000018",
     "os:district_code": "E07000131",
@@ -25,7 +23,13 @@
       85633159,
       102191581,
       136253055,
-      1864208407
+      1864208407,
+      1880771563,
+      1880762051,
+      404227469,
+      1880773085,
+      404448411,
+      1125880565
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,8 +37,20 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701573,
-    "wof:geomhash": "55da98ea1b9002fcfee1320cfe6406c7",
+    "wof:geomhash": "d8d3f9d91a28867a0be7a28bb2d3b434",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1880771563,
+        "empire_id": 136253055,
+        "localadmin_id": 404448411,
+        "locality_id": 1125880565,
+        "macrocounty_id": 1880762051,
+        "macroregion_id": 404227469,
+        "postalcode_id": 437821827,
+        "region_id": 1880773085
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -44,9 +60,9 @@
       }
     ],
     "wof:id": 437821827,
-    "wof:lastmodified": 1709395886,
+    "wof:lastmodified": 1736334091,
     "wof:name": "LE16 7WL",
-    "wof:parent_id": 1864208407,
+    "wof:parent_id": 1125880565,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -54,10 +70,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -0.905523,
-    52.483686,
-    -0.905523,
-    52.483686
+    -0.945259,
+    52.49282,
+    -0.945259,
+    52.49282
   ],
-  "geometry": {"coordinates":[-0.905523,52.483686],"type":"Point"}
+  "geometry": {"coordinates":[-0.945259,52.49282],"type":"Point"}
 }

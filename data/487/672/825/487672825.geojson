@@ -7,9 +7,9 @@
     "edtf:cessation": "",
     "edtf:inception": "2006-07-01",
     "geom:area": 0,
-    "geom:bbox": "0.456975,51.568059,0.456975,51.568059",
-    "geom:latitude": 51.568059,
-    "geom:longitude": 0.456975,
+    "geom:bbox": "0.456710,51.568235,0.456710,51.568235",
+    "geom:latitude": 51.568235,
+    "geom:longitude": 0.45671,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
     "mz:is_current": 1,
@@ -23,7 +23,13 @@
       85633159,
       102191581,
       136253055,
-      1864210755
+      1864210755,
+      1880771441,
+      1360817079,
+      101750407,
+      1880762159,
+      404227469,
+      1880762723
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -31,8 +37,20 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701115,
-    "wof:geomhash": "dbed4321ce8646309be1378bde2579d9",
+    "wof:geomhash": "1dccb18017138b780f330b85af9a441b",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1880771441,
+        "empire_id": 136253055,
+        "localadmin_id": 1360817079,
+        "locality_id": 101750407,
+        "macrocounty_id": 1880762159,
+        "macroregion_id": 404227469,
+        "postalcode_id": 487672825,
+        "region_id": 1880762723
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -42,9 +60,9 @@
       }
     ],
     "wof:id": 487672825,
-    "wof:lastmodified": 1709396362,
+    "wof:lastmodified": 1736334245,
     "wof:name": "SS16 5XY",
-    "wof:parent_id": 1864210755,
+    "wof:parent_id": 101750407,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -52,10 +70,10 @@
     "wof:tags": []
   },
   "bbox": [
-    0.456975,
-    51.568059,
-    0.456975,
-    51.568059
+    0.45671,
+    51.568235,
+    0.45671,
+    51.568235
   ],
-  "geometry": {"coordinates":[0.456975,51.568059],"type":"Point"}
+  "geometry": {"coordinates":[0.45671,51.568235],"type":"Point"}
 }

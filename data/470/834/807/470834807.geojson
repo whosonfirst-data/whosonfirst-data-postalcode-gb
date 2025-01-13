@@ -2,19 +2,17 @@
   "id": 470834807,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2021-06-01",
-    "date:cessation_upper": "2021-06-01",
-    "date:inception_lower": "1980-01-01",
-    "date:inception_upper": "1980-01-01",
-    "edtf:cessation": "2021-06-01",
-    "edtf:inception": "1980-01-01",
+    "date:inception_lower": "2024-09-01",
+    "date:inception_upper": "2024-09-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-09-01",
     "geom:area": 0,
-    "geom:bbox": "-1.823791,53.925475,-1.823791,53.925475",
-    "geom:latitude": 53.925475,
-    "geom:longitude": -1.823791,
+    "geom:bbox": "-1.811899,53.929400,-1.811899,53.929400",
+    "geom:latitude": 53.9294,
+    "geom:longitude": -1.811899,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E99999999",
     "os:district_code": "E08000032",
@@ -25,7 +23,13 @@
       85633159,
       102191581,
       136253055,
-      1864208675
+      1864208675,
+      1360698963,
+      404450867,
+      101872247,
+      1880762059,
+      404227469,
+      1880773017
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -33,8 +37,20 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701086,
-    "wof:geomhash": "514a437d2a4ddaf9584fb461afd4c847",
+    "wof:geomhash": "b3b15bb1577063b0308e6ae9cfe71391",
     "wof:hierarchy": [
+      {
+        "continent_id": 102191581,
+        "country_id": 85633159,
+        "county_id": 1360698963,
+        "empire_id": 136253055,
+        "localadmin_id": 404450867,
+        "locality_id": 101872247,
+        "macrocounty_id": 1880762059,
+        "macroregion_id": 404227469,
+        "postalcode_id": 470834807,
+        "region_id": 1880773017
+      },
       {
         "continent_id": 102191581,
         "country_id": 85633159,
@@ -44,9 +60,9 @@
       }
     ],
     "wof:id": 470834807,
-    "wof:lastmodified": 1709395852,
+    "wof:lastmodified": 1736334037,
     "wof:name": "LS29 8AE",
-    "wof:parent_id": 1864208675,
+    "wof:parent_id": 101872247,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -54,10 +70,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.823791,
-    53.925475,
-    -1.823791,
-    53.925475
+    -1.811899,
+    53.9294,
+    -1.811899,
+    53.9294
   ],
-  "geometry": {"coordinates":[-1.823791,53.925475],"type":"Point"}
+  "geometry": {"coordinates":[-1.811899,53.9294],"type":"Point"}
 }
