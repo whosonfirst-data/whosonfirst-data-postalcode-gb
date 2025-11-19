@@ -2,23 +2,21 @@
   "id": 38721303,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "1995-12-01",
-    "date:cessation_upper": "1995-12-01",
-    "date:inception_lower": "1980-01-01",
-    "date:inception_upper": "1980-01-01",
-    "edtf:cessation": "1995-12-01",
-    "edtf:inception": "1980-01-01",
+    "date:inception_lower": "2025-04-01",
+    "date:inception_upper": "2025-04-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2025-04-01",
     "geom:area": 0,
-    "geom:bbox": "-3.523697,50.704170,-3.523697,50.704170",
-    "geom:latitude": 50.70417,
-    "geom:longitude": -3.523697,
+    "geom:bbox": "-3.526734,50.693444,-3.526734,50.693444",
+    "geom:latitude": 50.693444,
+    "geom:longitude": -3.526734,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000008",
-    "os:district_code": "E07000041",
-    "os:positional_quality_indicator": "8",
+    "os:district_code": "E07000045",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000009",
     "src:geom": "os",
     "wof:belongsto": [
@@ -26,23 +24,25 @@
       102191581,
       136253055,
       1864207203,
-      1880771405,
-      101750383,
       1880762149,
       404227469,
-      1880762683
+      1880762683,
+      1880771399,
+      404439367,
+      1126013169
     ],
     "wof:breaches": [],
     "wof:country": "GB",
     "wof:created": 1583793595,
-    "wof:geomhash": "dc9863c6deea8bfb41c869d4e5d9da30",
+    "wof:geomhash": "6a70409b725867eb2eb14dbeaa517424",
     "wof:hierarchy": [
       {
         "continent_id": 102191581,
         "country_id": 85633159,
-        "county_id": 1880771405,
+        "county_id": 1880771399,
         "empire_id": 136253055,
-        "locality_id": 101750383,
+        "localadmin_id": 404439367,
+        "locality_id": 1126013169,
         "macrocounty_id": 1880762149,
         "macroregion_id": 404227469,
         "postalcode_id": 38721303,
@@ -57,9 +57,9 @@
       }
     ],
     "wof:id": 38721303,
-    "wof:lastmodified": 1736288442,
+    "wof:lastmodified": 1763548631,
     "wof:name": "EX2 8QB",
-    "wof:parent_id": 101750383,
+    "wof:parent_id": 1126013169,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -67,10 +67,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -3.523697,
-    50.70417,
-    -3.523697,
-    50.70417
+    -3.526734,
+    50.693444,
+    -3.526734,
+    50.693444
   ],
-  "geometry": {"coordinates":[-3.523697,50.70417],"type":"Point"}
+  "geometry": {"coordinates":[-3.526734,50.693444],"type":"Point"}
 }

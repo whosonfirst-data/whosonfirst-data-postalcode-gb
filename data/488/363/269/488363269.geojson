@@ -2,23 +2,21 @@
   "id": 488363269,
   "type": "Feature",
   "properties": {
-    "date:cessation_lower": "2024-02-01",
-    "date:cessation_upper": "2024-02-01",
-    "date:inception_lower": "2023-11-01",
-    "date:inception_upper": "2023-11-01",
-    "edtf:cessation": "2024-02-01",
-    "edtf:inception": "2023-11-01",
+    "date:inception_lower": "2024-12-01",
+    "date:inception_upper": "2024-12-01",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-12-01",
     "geom:area": 0,
-    "geom:bbox": "-1.471767,50.998217,-1.471767,50.998217",
-    "geom:latitude": 50.998217,
-    "geom:longitude": -1.471767,
+    "geom:bbox": "-1.482725,50.993140,-1.482725,50.993140",
+    "geom:latitude": 50.99314,
+    "geom:longitude": -1.482725,
     "iso:country": "GB",
     "mz:hierarchy_label": 1,
-    "mz:is_current": 0,
+    "mz:is_current": 1,
     "os:country_code": "E92000001",
     "os:county_code": "E10000014",
     "os:district_code": "E07000093",
-    "os:positional_quality_indicator": "5",
+    "os:positional_quality_indicator": "1",
     "os:region_code": "E12000008",
     "src:geom": "os",
     "wof:belongsto": [
@@ -27,11 +25,11 @@
       136253055,
       1864210691,
       1880771469,
-      404441573,
-      1360757111,
       1880762155,
       404227469,
-      1880762717
+      1880762717,
+      404448963,
+      101852477
     ],
     "wof:breaches": [],
     "wof:concordances": {
@@ -39,15 +37,15 @@
     },
     "wof:country": "GB",
     "wof:created": 1583701373,
-    "wof:geomhash": "8064f9064a9964efdaf54bb044c7db22",
+    "wof:geomhash": "820d28d79203f78e117051e010d26393",
     "wof:hierarchy": [
       {
         "continent_id": 102191581,
         "country_id": 85633159,
         "county_id": 1880771469,
         "empire_id": 136253055,
-        "localadmin_id": 404441573,
-        "locality_id": 1360757111,
+        "localadmin_id": 404448963,
+        "locality_id": 101852477,
         "macrocounty_id": 1880762155,
         "macroregion_id": 404227469,
         "postalcode_id": 488363269,
@@ -62,9 +60,9 @@
       }
     ],
     "wof:id": 488363269,
-    "wof:lastmodified": 1736333250,
+    "wof:lastmodified": 1763548434,
     "wof:name": "SO51 7UT",
-    "wof:parent_id": 1360757111,
+    "wof:parent_id": 101852477,
     "wof:placetype": "postalcode",
     "wof:repo": "whosonfirst-data-postalcode-gb",
     "wof:superseded_by": [],
@@ -72,10 +70,10 @@
     "wof:tags": []
   },
   "bbox": [
-    -1.471767,
-    50.998217,
-    -1.471767,
-    50.998217
+    -1.482725,
+    50.99314,
+    -1.482725,
+    50.99314
   ],
-  "geometry": {"coordinates":[-1.471767,50.998217],"type":"Point"}
+  "geometry": {"coordinates":[-1.482725,50.99314],"type":"Point"}
 }
